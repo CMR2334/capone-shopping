@@ -1,0 +1,7 @@
+node_modules/
+client_secret.json
+token.json
+ingestor/raw/
+.DS_Store
+*.log
+.env

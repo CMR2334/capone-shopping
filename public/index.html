@@ -1,0 +1,373 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="theme-color" content="#003a6c" media="(prefers-color-scheme: light)" />
+<meta name="theme-color" content="#0a0f1a" media="(prefers-color-scheme: dark)" />
+<title>Offers</title>
+<style>
+  :root {
+    --paper: #f7f4ec;
+    --paper-soft: #f1ede2;
+    --card: #ffffff;
+    --ink: #0f1d33;
+    --ink-soft: #2c3a51;
+    --muted: #74757b;
+    --rule: rgba(15, 29, 51, 0.10);
+    --rule-soft: rgba(15, 29, 51, 0.06);
+    --navy: #003a6c;
+    --navy-soft: #1a4d80;
+    --alert: #c8262f;
+    --alert-soft: rgba(200, 38, 47, 0.10);
+    --safe-top: env(safe-area-inset-top);
+    --safe-bottom: env(safe-area-inset-bottom);
+    --serif: 'New York', 'Iowan Old Style', 'Charter', 'Source Serif Pro', Georgia, ui-serif, serif;
+    --sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #0a0f1a;
+      --paper-soft: #0e1422;
+      --card: #131b2c;
+      --ink: #ebe7df;
+      --ink-soft: #b9bcc5;
+      --muted: #80828a;
+      --rule: rgba(255, 255, 255, 0.08);
+      --rule-soft: rgba(255, 255, 255, 0.04);
+      --navy: #6ba4d8;
+      --navy-soft: #4d86c0;
+      --alert: #f08a8f;
+      --alert-soft: rgba(240, 138, 143, 0.12);
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: var(--sans);
+    background: var(--paper);
+    color: var(--ink);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-feature-settings: 'ss01', 'cv11';
+    padding-bottom: calc(48px + var(--safe-bottom));
+    line-height: 1.45;
+  }
+  header {
+    position: sticky; top: 0; z-index: 10;
+    background: color-mix(in srgb, var(--paper) 88%, transparent);
+    backdrop-filter: saturate(140%) blur(14px);
+    -webkit-backdrop-filter: saturate(140%) blur(14px);
+    border-bottom: 1px solid var(--rule);
+    padding: calc(18px + var(--safe-top)) 22px 16px;
+  }
+  .header-row {
+    display: flex; align-items: flex-end; justify-content: space-between;
+    gap: 16px; max-width: 1080px; margin: 0 auto;
+  }
+  h1 {
+    font-family: var(--serif);
+    font-size: 28px; font-weight: 500; margin: 0;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    line-height: 1.1;
+  }
+  .subtitle {
+    font-size: 12px; color: var(--muted); margin-top: 6px;
+    font-feature-settings: 'tnum';
+    letter-spacing: 0.01em;
+  }
+  .sort-wrap {
+    position: relative;
+    display: inline-flex; align-items: center;
+  }
+  .sort-label {
+    color: var(--muted); font-size: 12px; margin-right: 4px;
+    letter-spacing: 0.01em;
+  }
+  .sort {
+    appearance: none; -webkit-appearance: none;
+    background: transparent; color: var(--ink);
+    border: none; padding: 4px 18px 4px 0;
+    font-family: var(--sans);
+    font-size: 13px; font-weight: 500;
+    letter-spacing: -0.005em;
+    cursor: pointer;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='6' viewBox='0 0 9 6'><path fill='%2374757b' d='M4.5 6L0 0h9z'/></svg>");
+    background-repeat: no-repeat;
+    background-position: right center;
+  }
+  .sort:focus { outline: none; color: var(--navy); }
+  main {
+    max-width: 1080px; margin: 0 auto; padding: 24px 22px 0;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 14px;
+  }
+  @media (max-width: 640px) {
+    main { padding: 18px 16px 0; }
+    .grid { grid-template-columns: 1fr; gap: 10px; }
+    header { padding-left: 16px; padding-right: 16px; }
+  }
+  .card {
+    background: var(--card);
+    border-radius: 10px;
+    border: 1px solid var(--rule-soft);
+    padding: 16px 16px 14px;
+    display: flex; gap: 14px;
+    align-items: center;
+    text-decoration: none; color: var(--ink);
+    transition: border-color 0.15s ease, transform 0.12s ease;
+    position: relative;
+  }
+  .card:active { transform: scale(0.992); }
+  @media (hover: hover) {
+    .card:hover {
+      border-color: var(--rule);
+    }
+    .card:hover .merchant { color: var(--navy); }
+  }
+  .logo {
+    width: 52px; height: 52px;
+    border-radius: 8px;
+    background: #fff;
+    display: flex; align-items: center; justify-content: center;
+    overflow: hidden;
+    flex-shrink: 0;
+    border: 1px solid var(--rule-soft);
+  }
+  .logo img { max-width: 84%; max-height: 84%; object-fit: contain; }
+  .logo-fallback {
+    font-family: var(--serif);
+    font-size: 22px; font-weight: 500;
+    color: var(--ink-soft);
+  }
+  .info { flex: 1; min-width: 0; }
+  .percent {
+    font-family: var(--sans);
+    font-size: 26px; font-weight: 600;
+    color: var(--navy);
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    font-feature-settings: 'tnum', 'ss01';
+  }
+  .percent .pct-unit {
+    font-size: 16px; font-weight: 500;
+    color: var(--navy-soft);
+    margin-left: 1px;
+    letter-spacing: 0;
+  }
+  .percent .back-word {
+    font-family: var(--sans);
+    font-size: 12px; font-weight: 500;
+    color: var(--muted);
+    margin-left: 6px;
+    letter-spacing: 0.02em;
+    text-transform: lowercase;
+    vertical-align: 0.18em;
+  }
+  .merchant {
+    font-size: 15px; font-weight: 500;
+    margin-top: 3px;
+    letter-spacing: -0.005em;
+    color: var(--ink);
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    transition: color 0.15s ease;
+  }
+  .meta {
+    margin-top: 6px;
+    font-size: 11.5px; color: var(--muted);
+    display: flex; gap: 10px; align-items: center;
+    flex-wrap: wrap;
+    letter-spacing: 0.01em;
+    font-feature-settings: 'tnum';
+  }
+  .meta .was {
+    text-decoration: line-through;
+    opacity: 0.75;
+  }
+  .meta .sep {
+    width: 2px; height: 2px; border-radius: 50%;
+    background: var(--muted); opacity: 0.5;
+    display: inline-block;
+  }
+  .badge {
+    display: inline-block;
+    color: var(--alert);
+    background: var(--alert-soft);
+    font-size: 9.5px; font-weight: 600;
+    padding: 2px 6px; border-radius: 3px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+  .expiry-soon { color: var(--alert); font-weight: 500; }
+  .empty {
+    text-align: center; padding: 96px 20px 60px;
+    color: var(--muted);
+  }
+  .empty h2 {
+    font-family: var(--serif);
+    font-weight: 500; font-size: 22px;
+    color: var(--ink); margin: 0 0 8px;
+    letter-spacing: -0.01em;
+  }
+  .empty p { font-size: 14px; margin: 0; }
+  footer {
+    max-width: 1080px; margin: 40px auto 0; padding: 0 22px;
+    font-size: 11px; color: var(--muted);
+    text-align: center;
+    font-feature-settings: 'tnum';
+    letter-spacing: 0.02em;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-row">
+    <div>
+      <h1>Capital One Offers</h1>
+      <div class="subtitle" id="subtitle">Loading…</div>
+    </div>
+    <div class="sort-wrap">
+      <span class="sort-label">Sort by</span>
+      <select class="sort" id="sortSelect" aria-label="Sort offers">
+        <option value="percent">Highest %</option>
+        <option value="expiring">Expiring soonest</option>
+        <option value="newest">Newest</option>
+      </select>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" hidden>
+    <h2>No active offers yet</h2>
+    <p>Once your inbox has Capital One Shopping emails, they'll show here.</p>
+  </div>
+</main>
+
+<footer id="footer"></footer>
+
+<script>
+(() => {
+  const grid = document.getElementById('grid');
+  const empty = document.getElementById('empty');
+  const subtitle = document.getElementById('subtitle');
+  const footer = document.getElementById('footer');
+  const sortSelect = document.getElementById('sortSelect');
+
+  let data = null;
+
+  function fmtExpiry(iso) {
+    if (!iso) return '';
+    const exp = new Date(iso);
+    const now = new Date();
+    const diffMs = exp - now;
+    const diffDays = Math.floor(diffMs / 86400000);
+    if (diffMs < 0) return 'expired';
+    if (diffMs < 3600000) return `expires in ${Math.max(1, Math.floor(diffMs/60000))} min`;
+    if (diffDays === 0) return 'expires today';
+    if (diffDays === 1) return 'expires tomorrow';
+    if (diffDays < 7) return `${diffDays} days left`;
+    return `expires ${exp.toLocaleDateString(undefined, { month: 'short', day: 'numeric' })}`;
+  }
+
+  function isSoon(iso) {
+    if (!iso) return false;
+    return (new Date(iso) - new Date()) < 36 * 3600 * 1000;
+  }
+
+  function sortOffers(offers, mode) {
+    const sorted = [...offers];
+    if (mode === 'percent') sorted.sort((a, b) => b.percentBack - a.percentBack);
+    if (mode === 'expiring') sorted.sort((a, b) => new Date(a.expiresAt || 0) - new Date(b.expiresAt || 0));
+    if (mode === 'newest') sorted.sort((a, b) => new Date(b.emailDate || 0) - new Date(a.emailDate || 0));
+    return sorted;
+  }
+
+  function render() {
+    if (!data) return;
+    const offers = sortOffers(data.offers, sortSelect.value);
+
+    if (offers.length === 0) {
+      grid.hidden = true;
+      empty.hidden = false;
+      return;
+    }
+    grid.hidden = false;
+    empty.hidden = true;
+
+    grid.innerHTML = offers.map(o => {
+      const soon = isSoon(o.expiresAt);
+      const expClass = soon ? 'expiry-soon' : '';
+      const wasHtml = o.wasPercent ? `<span class="was">was ${o.wasPercent}%</span>` : '';
+      const topBadge = o.source === 'todays-top' ? `<span class="badge">Today's top</span>` : '';
+      const logoHtml = o.logoUrl
+        ? `<img src="${o.logoUrl}" alt="${escapeAttr(o.merchant)}" loading="lazy" onerror="this.parentNode.innerHTML='<span class=\\'logo-fallback\\'>${escapeAttr(o.merchant.charAt(0).toUpperCase())}</span>'"/>`
+        : `<span class="logo-fallback">${escapeAttr(o.merchant.charAt(0).toUpperCase())}</span>`;
+      const metaParts = [
+        topBadge,
+        wasHtml,
+        `<span class="${expClass}">${fmtExpiry(o.expiresAt)}</span>`
+      ].filter(Boolean);
+      const metaHtml = metaParts.join('<span class="sep"></span>');
+      return `
+        <a class="card" href="${o.activationUrl || '#'}" target="_blank" rel="noopener noreferrer">
+          <div class="logo">${logoHtml}</div>
+          <div class="info">
+            <div class="percent">${o.percentBack}<span class="pct-unit">%</span><span class="back-word">back</span></div>
+            <div class="merchant">${escapeHtml(o.merchant)}</div>
+            <div class="meta">${metaHtml}</div>
+          </div>
+        </a>
+      `;
+    }).join('');
+  }
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  }
+  function escapeAttr(s) {
+    return String(s).replace(/["&<>]/g, c => ({'"':'&quot;','&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+  }
+
+  async function load() {
+    try {
+      const res = await fetch(`offers.json?t=${Date.now()}`, { cache: 'no-store' });
+      data = await res.json();
+      const updated = data.lastUpdated ? new Date(data.lastUpdated) : null;
+      subtitle.textContent = `${data.offers.length} active · updated ${updated ? timeAgo(updated) : 'just now'}`;
+      footer.textContent = `Last sync: ${updated ? updated.toLocaleString() : '—'}`;
+      render();
+    } catch (err) {
+      subtitle.textContent = 'Could not load offers';
+      console.error(err);
+    }
+  }
+
+  function timeAgo(d) {
+    const s = Math.floor((Date.now() - d.getTime()) / 1000);
+    if (s < 60) return 'just now';
+    if (s < 3600) return `${Math.floor(s/60)}m ago`;
+    if (s < 86400) return `${Math.floor(s/3600)}h ago`;
+    return `${Math.floor(s/86400)}d ago`;
+  }
+
+  sortSelect.addEventListener('change', render);
+
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible') load();
+  });
+
+  load();
+  setInterval(load, 5 * 60 * 1000);
+})();
+</script>
+</body>
+</html>

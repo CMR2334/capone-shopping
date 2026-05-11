@@ -1,0 +1,50 @@
+name: Ingest Capital One Shopping offers
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'ingestor/**'
+      - '.github/workflows/ingest.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Run ingestor
+        env:
+          GMAIL_CLIENT_ID: ${{ secrets.GMAIL_CLIENT_ID }}
+          GMAIL_CLIENT_SECRET: ${{ secrets.GMAIL_CLIENT_SECRET }}
+          GMAIL_REFRESH_TOKEN: ${{ secrets.GMAIL_REFRESH_TOKEN }}
+        run: node ingestor/ingest.js
+
+      - name: Commit updated offers.json
+        run: |
+          if [[ -n $(git status --porcelain public/offers.json) ]]; then
+            git config user.name "capone-offers-bot"
+            git config user.email "bot@users.noreply.github.com"
+            git add public/offers.json
+            git commit -m "ingest: refresh offers $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          else
+            echo "No changes to offers.json"
+          fi

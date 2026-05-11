@@ -1,0 +1,14 @@
+{
+  "name": "capone-offers",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Capital One Shopping offer tracker",
+  "scripts": {
+    "auth": "node ingestor/auth.js",
+    "ingest": "node ingestor/ingest.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "googleapis": "^144.0.0"
+  }
+}
