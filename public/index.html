@@ -336,6 +336,24 @@
 
   const KEY_FAV = 'capone:favorites';
   const KEY_HIDE = 'capone:hidden';
+  const KEY_TOKEN = 'capone:sync-token';
+  const SYNC_URL = 'https://capone-offers-sync.cmr2334.workers.dev';
+
+  (function bootstrapSyncToken() {
+    const params = new URLSearchParams(window.location.search);
+    const t = params.get('sync');
+    if (t) {
+      localStorage.setItem(KEY_TOKEN, t);
+      params.delete('sync');
+      const search = params.toString();
+      const clean = window.location.pathname + (search ? '?' + search : '') + window.location.hash;
+      window.history.replaceState({}, '', clean);
+    }
+  })();
+
+  function getSyncToken() {
+    return localStorage.getItem(KEY_TOKEN);
+  }
 
   function getFavorites() {
     try { return new Set(JSON.parse(localStorage.getItem(KEY_FAV) || '[]')); }
@@ -343,6 +361,7 @@
   }
   function setFavorites(s) {
     localStorage.setItem(KEY_FAV, JSON.stringify([...s]));
+    pushToSync();
   }
   function getHidden() {
     try { return JSON.parse(localStorage.getItem(KEY_HIDE) || '{}'); }
@@ -350,6 +369,55 @@
   }
   function setHidden(h) {
     localStorage.setItem(KEY_HIDE, JSON.stringify(h));
+    pushToSync();
+  }
+
+  async function pullFromSync() {
+    const token = getSyncToken();
+    if (!token) return null;
+    try {
+      const res = await fetch(`${SYNC_URL}/state`, {
+        headers: { 'Authorization': 'Bearer ' + token },
+        cache: 'no-store',
+      });
+      if (!res.ok) return null;
+      return await res.json();
+    } catch (err) {
+      console.warn('sync pull failed:', err);
+      return null;
+    }
+  }
+
+  function pushToSync() {
+    const token = getSyncToken();
+    if (!token) return;
+    const favorites = [...getFavorites()];
+    const hidden = getHidden();
+    fetch(`${SYNC_URL}/state`, {
+      method: 'PUT',
+      headers: { 'Authorization': 'Bearer ' + token, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ favorites, hidden }),
+    }).catch(err => console.warn('sync push failed:', err));
+  }
+
+  async function syncOnLoad() {
+    const token = getSyncToken();
+    if (!token) return;
+    const remote = await pullFromSync();
+    if (!remote) return;
+    const remoteHasData =
+      (Array.isArray(remote.favorites) && remote.favorites.length > 0) ||
+      (remote.hidden && typeof remote.hidden === 'object' && Object.keys(remote.hidden).length > 0);
+    if (remoteHasData) {
+      localStorage.setItem(KEY_FAV, JSON.stringify(remote.favorites || []));
+      localStorage.setItem(KEY_HIDE, JSON.stringify(remote.hidden || {}));
+    } else {
+      const localFavs = [...getFavorites()];
+      const localHidden = getHidden();
+      if (localFavs.length > 0 || Object.keys(localHidden).length > 0) {
+        pushToSync();
+      }
+    }
   }
 
   function fmtExpiry(iso) {
@@ -472,12 +540,14 @@
     try {
       const res = await fetch(`offers.json?t=${Date.now()}`, { cache: 'no-store' });
       data = await res.json();
+      await syncOnLoad();
       const updated = data.lastUpdated ? new Date(data.lastUpdated) : null;
       const favs = getFavorites();
       const hidden = getHidden();
       const visibleAll = filterOffers(data.offers, 'all', favs, hidden).length;
-      subtitle.textContent = `${visibleAll} active · updated ${updated ? timeAgo(updated) : 'just now'}`;
-      footer.textContent = `Last sync: ${updated ? updated.toLocaleString() : '—'}`;
+      const syncSuffix = getSyncToken() ? ' · synced' : '';
+      subtitle.textContent = `${visibleAll} active · updated ${updated ? timeAgo(updated) : 'just now'}${syncSuffix}`;
+      footer.textContent = `Last update: ${updated ? updated.toLocaleString() : '—'}`;
       render();
     } catch (err) {
       subtitle.textContent = 'Could not load offers';
