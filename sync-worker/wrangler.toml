@@ -5,4 +5,4 @@ compatibility_date = "2026-05-11"
 # KV namespace — id will be filled after running `wrangler kv namespace create OFFERS_KV`
 [[kv_namespaces]]
 binding = "OFFERS_KV"
-id = "REPLACE_AFTER_CREATING_NAMESPACE"
+id = "84ae9a9ba9c944b0848d4c976152ded5"
