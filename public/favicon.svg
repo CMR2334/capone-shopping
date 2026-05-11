@@ -5,15 +5,16 @@
   <image href="logo.png" x="30" y="45" width="452" height="175"
          preserveAspectRatio="xMidYMid meet"/>
 
-  <!-- Envelope body -->
+  <!-- Envelope body (frame behind cart) -->
   <rect x="107" y="238" width="297" height="220" rx="18" fill="#ece4cc"/>
   <!-- Envelope flap -->
   <path d="M 115 248 L 256 330 L 397 248"
         fill="none" stroke="#8a7a4a" stroke-width="5"
         stroke-linejoin="round" stroke-linecap="round" opacity="0.35"/>
 
-  <!-- Shopping cart at 50% scale, centered at (256,365) -->
-  <g transform="translate(256,365) scale(0.5) translate(-258.5,-337)"
+  <!-- Shopping cart — scaled up to 1.6× and centered on envelope (256,348)
+       leaves ~20px envelope border on left/right and ~28px top/bottom -->
+  <g transform="translate(256,348) scale(1.6) translate(-258.5,-337)"
      fill="none" stroke="#5980a3" stroke-width="12"
      stroke-linecap="round" stroke-linejoin="round">
     <path d="M 178 286 L 207 286"/>
