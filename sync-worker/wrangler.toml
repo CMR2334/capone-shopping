@@ -1,0 +1,8 @@
+name = "capone-offers-sync"
+main = "src/index.js"
+compatibility_date = "2026-05-11"
+
+# KV namespace — id will be filled after running `wrangler kv namespace create OFFERS_KV`
+[[kv_namespaces]]
+binding = "OFFERS_KV"
+id = "REPLACE_AFTER_CREATING_NAMESPACE"
