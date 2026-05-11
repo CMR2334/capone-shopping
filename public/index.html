@@ -5,13 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-<meta name="theme-color" content="#003a6c" media="(prefers-color-scheme: light)" />
-<meta name="theme-color" content="#0a0f1a" media="(prefers-color-scheme: dark)" />
-<title>Offers</title>
+<meta name="theme-color" content="#003a6c" />
+<title>Capital One Shopping</title>
+<link rel="manifest" href="manifest.json" />
 <style>
   :root {
     --paper: #f7f4ec;
-    --paper-soft: #f1ede2;
     --card: #ffffff;
     --ink: #0f1d33;
     --ink-soft: #2c3a51;
@@ -24,24 +23,9 @@
     --alert-soft: rgba(200, 38, 47, 0.10);
     --safe-top: env(safe-area-inset-top);
     --safe-bottom: env(safe-area-inset-bottom);
-    --serif: 'New York', 'Iowan Old Style', 'Charter', 'Source Serif Pro', Georgia, ui-serif, serif;
+    --serif: 'New York', 'Iowan Old Style', 'Charter', Georgia, ui-serif, serif;
     --sans: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', 'Helvetica Neue', Arial, sans-serif;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --paper: #0a0f1a;
-      --paper-soft: #0e1422;
-      --card: #131b2c;
-      --ink: #ebe7df;
-      --ink-soft: #b9bcc5;
-      --muted: #80828a;
-      --rule: rgba(255, 255, 255, 0.08);
-      --rule-soft: rgba(255, 255, 255, 0.04);
-      --navy: #6ba4d8;
-      --navy-soft: #4d86c0;
-      --alert: #f08a8f;
-      --alert-soft: rgba(240, 138, 143, 0.12);
-    }
+    color-scheme: light;
   }
   * { box-sizing: border-box; }
   html, body { margin: 0; padding: 0; }
@@ -51,10 +35,10 @@
     color: var(--ink);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    font-feature-settings: 'ss01', 'cv11';
     padding-bottom: calc(48px + var(--safe-bottom));
     line-height: 1.45;
   }
+
   header {
     position: sticky; top: 0; z-index: 10;
     background: color-mix(in srgb, var(--paper) 88%, transparent);
@@ -64,71 +48,102 @@
     padding: calc(18px + var(--safe-top)) 22px 16px;
   }
   .header-row {
-    display: flex; align-items: flex-end; justify-content: space-between;
-    gap: 16px; max-width: 1080px; margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 14px 24px;
+    max-width: 1080px; margin: 0 auto;
+  }
+  .brand {
+    display: flex; flex-direction: column;
+    gap: 6px;
+    min-width: 0;
+  }
+  .logo-img {
+    height: 34px; width: auto;
+    display: block;
   }
   h1 {
     font-family: var(--serif);
-    font-size: 28px; font-weight: 500; margin: 0;
+    font-size: 26px;
+    font-weight: 500;
+    margin: 0;
+    color: var(--navy);
     letter-spacing: -0.01em;
-    color: var(--ink);
-    line-height: 1.1;
+    line-height: 1.05;
   }
   .subtitle {
-    font-size: 12px; color: var(--muted); margin-top: 6px;
+    font-size: 12px;
+    color: var(--muted);
     font-feature-settings: 'tnum';
     letter-spacing: 0.01em;
   }
-  .sort-wrap {
-    position: relative;
-    display: inline-flex; align-items: center;
+  .controls {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-shrink: 0;
   }
-  .sort-label {
-    color: var(--muted); font-size: 12px; margin-right: 4px;
+  .control { display: flex; align-items: center; }
+  .control-label {
+    color: var(--muted);
+    font-size: 12px;
+    margin-right: 6px;
     letter-spacing: 0.01em;
+    white-space: nowrap;
   }
-  .sort {
+  .dropdown {
     appearance: none; -webkit-appearance: none;
-    background: transparent; color: var(--ink);
-    border: none; padding: 4px 18px 4px 0;
+    background: transparent;
+    color: var(--navy);
+    border: none;
+    padding: 4px 16px 4px 4px;
     font-family: var(--sans);
-    font-size: 13px; font-weight: 500;
-    letter-spacing: -0.005em;
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+    text-align-last: center;
     cursor: pointer;
-    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='6' viewBox='0 0 9 6'><path fill='%2374757b' d='M4.5 6L0 0h9z'/></svg>");
+    letter-spacing: -0.005em;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='6' viewBox='0 0 9 6'><path fill='%23003a6c' d='M4.5 6L0 0h9z'/></svg>");
     background-repeat: no-repeat;
     background-position: right center;
   }
-  .sort:focus { outline: none; color: var(--navy); }
-  main {
-    max-width: 1080px; margin: 0 auto; padding: 24px 22px 0;
-  }
+  .dropdown:focus { outline: none; }
+  .dropdown option { color: var(--ink); }
+
+  main { max-width: 1080px; margin: 0 auto; padding: 24px 22px 0; }
   .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
     gap: 14px;
   }
   @media (max-width: 640px) {
+    header { padding-left: 16px; padding-right: 16px; }
     main { padding: 18px 16px 0; }
     .grid { grid-template-columns: 1fr; gap: 10px; }
-    header { padding-left: 16px; padding-right: 16px; }
+    .controls { gap: 12px; }
   }
+
   .card {
+    position: relative;
     background: var(--card);
     border-radius: 10px;
     border: 1px solid var(--rule-soft);
-    padding: 16px 16px 14px;
+    padding: 16px;
+    padding-right: 56px;
     display: flex; gap: 14px;
     align-items: center;
-    text-decoration: none; color: var(--ink);
+    color: var(--ink);
     transition: border-color 0.15s ease, transform 0.12s ease;
-    position: relative;
+    cursor: pointer;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
   }
   .card:active { transform: scale(0.992); }
   @media (hover: hover) {
-    .card:hover {
-      border-color: var(--rule);
-    }
+    .card:hover { border-color: var(--rule); }
     .card:hover .merchant { color: var(--navy); }
   }
   .logo {
@@ -146,49 +161,48 @@
     font-size: 22px; font-weight: 500;
     color: var(--ink-soft);
   }
-  .info { flex: 1; min-width: 0; }
+  .info {
+    flex: 1; min-width: 0;
+    text-align: center;
+  }
   .percent {
     font-family: var(--sans);
     font-size: 26px; font-weight: 600;
     color: var(--navy);
     line-height: 1.05;
     letter-spacing: -0.02em;
-    font-feature-settings: 'tnum', 'ss01';
+    font-feature-settings: 'tnum';
   }
   .percent .pct-unit {
     font-size: 16px; font-weight: 500;
     color: var(--navy-soft);
     margin-left: 1px;
-    letter-spacing: 0;
   }
   .percent .back-word {
-    font-family: var(--sans);
     font-size: 12px; font-weight: 500;
     color: var(--muted);
     margin-left: 6px;
     letter-spacing: 0.02em;
-    text-transform: lowercase;
     vertical-align: 0.18em;
   }
   .merchant {
     font-size: 15px; font-weight: 500;
-    margin-top: 3px;
-    letter-spacing: -0.005em;
+    margin-top: 4px;
     color: var(--ink);
+    letter-spacing: -0.005em;
     white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
     transition: color 0.15s ease;
   }
   .meta {
     margin-top: 6px;
     font-size: 11.5px; color: var(--muted);
-    display: flex; gap: 10px; align-items: center;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
     flex-wrap: wrap;
     letter-spacing: 0.01em;
     font-feature-settings: 'tnum';
-  }
-  .meta .was {
-    text-decoration: line-through;
-    opacity: 0.75;
   }
   .meta .sep {
     width: 2px; height: 2px; border-radius: 50%;
@@ -196,7 +210,6 @@
     display: inline-block;
   }
   .badge {
-    display: inline-block;
     color: var(--alert);
     background: var(--alert-soft);
     font-size: 9.5px; font-weight: 600;
@@ -205,20 +218,57 @@
     letter-spacing: 0.08em;
   }
   .expiry-soon { color: var(--alert); font-weight: 500; }
+
+  .actions {
+    position: absolute;
+    top: 8px; right: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    opacity: 0.45;
+    transition: opacity 0.15s ease;
+  }
+  .card:hover .actions { opacity: 1; }
+  .action-btn {
+    appearance: none;
+    background: transparent;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    color: var(--muted);
+    display: flex;
+    align-items: center; justify-content: center;
+    border-radius: 6px;
+    transition: color 0.12s ease, background 0.12s ease;
+  }
+  .action-btn:hover { background: rgba(15, 29, 51, 0.06); color: var(--ink); }
+  .action-btn:active { background: rgba(15, 29, 51, 0.10); }
+  .action-btn svg { width: 16px; height: 16px; display: block; }
+  .action-btn.is-favorited { color: var(--navy); opacity: 1; }
+  .action-btn.is-favorited:hover { background: rgba(0, 58, 108, 0.08); }
+  .card .actions:has(.is-favorited) { opacity: 1; }
+
   .empty {
-    text-align: center; padding: 96px 20px 60px;
+    text-align: center;
+    padding: 96px 20px 60px;
     color: var(--muted);
   }
   .empty h2 {
     font-family: var(--serif);
-    font-weight: 500; font-size: 22px;
-    color: var(--ink); margin: 0 0 8px;
+    font-weight: 500;
+    font-size: 22px;
+    color: var(--ink);
+    margin: 0 0 8px;
     letter-spacing: -0.01em;
   }
   .empty p { font-size: 14px; margin: 0; }
+
   footer {
-    max-width: 1080px; margin: 40px auto 0; padding: 0 22px;
-    font-size: 11px; color: var(--muted);
+    max-width: 1080px;
+    margin: 40px auto 0;
+    padding: 0 22px;
+    font-size: 11px;
+    color: var(--muted);
     text-align: center;
     font-feature-settings: 'tnum';
     letter-spacing: 0.02em;
@@ -229,17 +279,29 @@
 
 <header>
   <div class="header-row">
-    <div>
-      <h1>Capital One Offers</h1>
+    <div class="brand">
+      <img src="logo.png" alt="Capital One Shopping" class="logo-img" id="brandLogo"
+           onerror="this.style.display='none'; document.getElementById('brandText').hidden=false;" />
+      <h1 id="brandText" hidden>Capital One Shopping</h1>
       <div class="subtitle" id="subtitle">Loading…</div>
     </div>
-    <div class="sort-wrap">
-      <span class="sort-label">Sort by</span>
-      <select class="sort" id="sortSelect" aria-label="Sort offers">
-        <option value="percent">Highest %</option>
-        <option value="expiring">Expiring soonest</option>
-        <option value="newest">Newest</option>
-      </select>
+    <div class="controls">
+      <div class="control">
+        <span class="control-label">View</span>
+        <select class="dropdown" id="viewSelect" aria-label="View">
+          <option value="all">All</option>
+          <option value="favorites">Favorites</option>
+          <option value="hidden">Hidden</option>
+        </select>
+      </div>
+      <div class="control">
+        <span class="control-label">Sort by</span>
+        <select class="dropdown" id="sortSelect" aria-label="Sort">
+          <option value="percent">Highest %</option>
+          <option value="expiring">Expiring soonest</option>
+          <option value="newest">Newest</option>
+        </select>
+      </div>
     </div>
   </div>
 </header>
@@ -247,8 +309,8 @@
 <main>
   <div class="grid" id="grid"></div>
   <div class="empty" id="empty" hidden>
-    <h2>No active offers yet</h2>
-    <p>Once your inbox has Capital One Shopping emails, they'll show here.</p>
+    <h2 id="emptyTitle">No active offers yet</h2>
+    <p id="emptyMsg">Once your inbox has Capital One Shopping emails, they'll show here.</p>
   </div>
 </main>
 
@@ -258,11 +320,37 @@
 (() => {
   const grid = document.getElementById('grid');
   const empty = document.getElementById('empty');
+  const emptyTitle = document.getElementById('emptyTitle');
+  const emptyMsg = document.getElementById('emptyMsg');
   const subtitle = document.getElementById('subtitle');
   const footer = document.getElementById('footer');
   const sortSelect = document.getElementById('sortSelect');
+  const viewSelect = document.getElementById('viewSelect');
+
+  const ICON_STAR = '<svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linejoin="round"><path d="M12 2.8l2.83 5.74 6.33.92-4.58 4.47 1.08 6.3L12 17.27l-5.66 2.97 1.08-6.3L2.84 9.46l6.33-.92L12 2.8z"/></svg>';
+  const ICON_STAR_FILLED = '<svg viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"><path d="M12 2.8l2.83 5.74 6.33.92-4.58 4.47 1.08 6.3L12 17.27l-5.66 2.97 1.08-6.3L2.84 9.46l6.33-.92L12 2.8z"/></svg>';
+  const ICON_HIDE = '<svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round"><line x1="6" y1="6" x2="18" y2="18"/><line x1="18" y1="6" x2="6" y2="18"/></svg>';
+  const ICON_UNHIDE = '<svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 12C5 7.5 8.5 5.5 12 5.5s7 2 9.5 6.5c-2.5 4.5-6 6.5-9.5 6.5s-7-2-9.5-6.5z"/><circle cx="12" cy="12" r="2.6"/></svg>';
 
   let data = null;
+
+  const KEY_FAV = 'capone:favorites';
+  const KEY_HIDE = 'capone:hidden';
+
+  function getFavorites() {
+    try { return new Set(JSON.parse(localStorage.getItem(KEY_FAV) || '[]')); }
+    catch { return new Set(); }
+  }
+  function setFavorites(s) {
+    localStorage.setItem(KEY_FAV, JSON.stringify([...s]));
+  }
+  function getHidden() {
+    try { return JSON.parse(localStorage.getItem(KEY_HIDE) || '{}'); }
+    catch { return {}; }
+  }
+  function setHidden(h) {
+    localStorage.setItem(KEY_HIDE, JSON.stringify(h));
+  }
 
   function fmtExpiry(iso) {
     if (!iso) return '';
@@ -271,7 +359,7 @@
     const diffMs = exp - now;
     const diffDays = Math.floor(diffMs / 86400000);
     if (diffMs < 0) return 'expired';
-    if (diffMs < 3600000) return `expires in ${Math.max(1, Math.floor(diffMs/60000))} min`;
+    if (diffMs < 3600000) return `expires in ${Math.max(1, Math.floor(diffMs / 60000))} min`;
     if (diffDays === 0) return 'expires today';
     if (diffDays === 1) return 'expires tomorrow';
     if (diffDays < 7) return `${diffDays} days left`;
@@ -284,57 +372,102 @@
   }
 
   function sortOffers(offers, mode) {
-    const sorted = [...offers];
-    if (mode === 'percent') sorted.sort((a, b) => b.percentBack - a.percentBack);
-    if (mode === 'expiring') sorted.sort((a, b) => new Date(a.expiresAt || 0) - new Date(b.expiresAt || 0));
-    if (mode === 'newest') sorted.sort((a, b) => new Date(b.emailDate || 0) - new Date(a.emailDate || 0));
-    return sorted;
+    const s = [...offers];
+    if (mode === 'percent') s.sort((a, b) => b.percentBack - a.percentBack);
+    if (mode === 'expiring') s.sort((a, b) => new Date(a.expiresAt || 0) - new Date(b.expiresAt || 0));
+    if (mode === 'newest') s.sort((a, b) => new Date(b.emailDate || 0) - new Date(a.emailDate || 0));
+    return s;
+  }
+
+  function filterOffers(offers, view, favs, hidden) {
+    if (view === 'favorites') {
+      return offers.filter(o => favs.has(o.merchant));
+    }
+    if (view === 'hidden') {
+      return offers.filter(o => {
+        const t = hidden[o.merchant];
+        return t != null && o.percentBack <= t;
+      });
+    }
+    return offers.filter(o => {
+      const t = hidden[o.merchant];
+      if (t == null) return true;
+      return o.percentBack > t;
+    });
   }
 
   function render() {
     if (!data) return;
-    const offers = sortOffers(data.offers, sortSelect.value);
+    const favs = getFavorites();
+    const hidden = getHidden();
+    const view = viewSelect.value;
+    const filtered = filterOffers(data.offers, view, favs, hidden);
+    const sorted = sortOffers(filtered, sortSelect.value);
 
-    if (offers.length === 0) {
+    if (sorted.length === 0) {
       grid.hidden = true;
       empty.hidden = false;
+      if (view === 'favorites') {
+        emptyTitle.textContent = 'No favorites yet';
+        emptyMsg.textContent = 'Tap the star on any offer to save it here.';
+      } else if (view === 'hidden') {
+        emptyTitle.textContent = 'Nothing hidden';
+        emptyMsg.textContent = 'Hidden offers stay hidden until the merchant returns at a higher rate.';
+      } else {
+        emptyTitle.textContent = 'No active offers yet';
+        emptyMsg.textContent = "Once your inbox has Capital One Shopping emails, they'll show here.";
+      }
       return;
     }
     grid.hidden = false;
     empty.hidden = true;
 
-    grid.innerHTML = offers.map(o => {
+    grid.innerHTML = sorted.map(o => {
       const soon = isSoon(o.expiresAt);
       const expClass = soon ? 'expiry-soon' : '';
-      const wasHtml = o.wasPercent ? `<span class="was">was ${o.wasPercent}%</span>` : '';
       const topBadge = o.source === 'todays-top' ? `<span class="badge">Today's top</span>` : '';
+      const isFav = favs.has(o.merchant);
+      const isHiddenView = view === 'hidden';
+
       const logoHtml = o.logoUrl
-        ? `<img src="${o.logoUrl}" alt="${escapeAttr(o.merchant)}" loading="lazy" onerror="this.parentNode.innerHTML='<span class=\\'logo-fallback\\'>${escapeAttr(o.merchant.charAt(0).toUpperCase())}</span>'"/>`
+        ? `<img src="${escapeAttr(o.logoUrl)}" alt="${escapeAttr(o.merchant)}" loading="lazy" onerror="this.parentNode.innerHTML='<span class=\\'logo-fallback\\'>${escapeAttr(o.merchant.charAt(0).toUpperCase())}</span>'"/>`
         : `<span class="logo-fallback">${escapeAttr(o.merchant.charAt(0).toUpperCase())}</span>`;
+
       const metaParts = [
         topBadge,
-        wasHtml,
         `<span class="${expClass}">${fmtExpiry(o.expiresAt)}</span>`
       ].filter(Boolean);
       const metaHtml = metaParts.join('<span class="sep"></span>');
+
+      let actionsHtml;
+      if (isHiddenView) {
+        actionsHtml = `<button class="action-btn" data-action="unhide" aria-label="Unhide ${escapeAttr(o.merchant)}" title="Unhide">${ICON_UNHIDE}</button>`;
+      } else {
+        actionsHtml = `
+          <button class="action-btn ${isFav ? 'is-favorited' : ''}" data-action="favorite" aria-label="${isFav ? 'Unfavorite' : 'Favorite'} ${escapeAttr(o.merchant)}" title="${isFav ? 'Unfavorite' : 'Favorite'}">${isFav ? ICON_STAR_FILLED : ICON_STAR}</button>
+          <button class="action-btn" data-action="hide" aria-label="Hide ${escapeAttr(o.merchant)}" title="Hide unless higher %">${ICON_HIDE}</button>
+        `;
+      }
+
       return `
-        <a class="card" href="${o.activationUrl || '#'}" target="_blank" rel="noopener noreferrer">
+        <div class="card" data-href="${escapeAttr(o.activationUrl || '')}" data-merchant="${escapeAttr(o.merchant)}" data-percent="${o.percentBack}" role="link" tabindex="0">
           <div class="logo">${logoHtml}</div>
           <div class="info">
             <div class="percent">${o.percentBack}<span class="pct-unit">%</span><span class="back-word">back</span></div>
             <div class="merchant">${escapeHtml(o.merchant)}</div>
             <div class="meta">${metaHtml}</div>
           </div>
-        </a>
+          <div class="actions">${actionsHtml}</div>
+        </div>
       `;
     }).join('');
   }
 
   function escapeHtml(s) {
-    return String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+    return String(s).replace(/[&<>"]/g, c => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[c]));
   }
   function escapeAttr(s) {
-    return String(s).replace(/["&<>]/g, c => ({'"':'&quot;','&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+    return String(s).replace(/["&<>]/g, c => ({ '"':'&quot;','&':'&amp;','<':'&lt;','>':'&gt;' }[c]));
   }
 
   async function load() {
@@ -342,7 +475,10 @@
       const res = await fetch(`offers.json?t=${Date.now()}`, { cache: 'no-store' });
       data = await res.json();
       const updated = data.lastUpdated ? new Date(data.lastUpdated) : null;
-      subtitle.textContent = `${data.offers.length} active · updated ${updated ? timeAgo(updated) : 'just now'}`;
+      const favs = getFavorites();
+      const hidden = getHidden();
+      const visibleAll = filterOffers(data.offers, 'all', favs, hidden).length;
+      subtitle.textContent = `${visibleAll} active · updated ${updated ? timeAgo(updated) : 'just now'}`;
       footer.textContent = `Last sync: ${updated ? updated.toLocaleString() : '—'}`;
       render();
     } catch (err) {
@@ -359,7 +495,49 @@
     return `${Math.floor(s/86400)}d ago`;
   }
 
+  function openOffer(card) {
+    const href = card.dataset.href;
+    if (href && href !== '') window.open(href, '_blank', 'noopener,noreferrer');
+  }
+
+  grid.addEventListener('click', (e) => {
+    const actionBtn = e.target.closest('[data-action]');
+    if (actionBtn) {
+      e.stopPropagation();
+      e.preventDefault();
+      const action = actionBtn.dataset.action;
+      const card = actionBtn.closest('.card');
+      const merchant = card.dataset.merchant;
+      if (action === 'favorite') {
+        const favs = getFavorites();
+        if (favs.has(merchant)) favs.delete(merchant);
+        else favs.add(merchant);
+        setFavorites(favs);
+      } else if (action === 'hide') {
+        const hidden = getHidden();
+        hidden[merchant] = parseFloat(card.dataset.percent);
+        setHidden(hidden);
+      } else if (action === 'unhide') {
+        const hidden = getHidden();
+        delete hidden[merchant];
+        setHidden(hidden);
+      }
+      render();
+      return;
+    }
+    const card = e.target.closest('.card');
+    if (card) openOffer(card);
+  });
+
+  grid.addEventListener('keydown', (e) => {
+    if ((e.key === 'Enter' || e.key === ' ') && e.target.classList.contains('card')) {
+      e.preventDefault();
+      openOffer(e.target);
+    }
+  });
+
   sortSelect.addEventListener('change', render);
+  viewSelect.addEventListener('change', render);
 
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'visible') load();
