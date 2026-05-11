@@ -1,20 +1,8 @@
 {
-  "lastUpdated": "2026-05-11T05:50:59.533Z",
+  "lastUpdated": "2026-05-11T07:52:45.761Z",
   "sourceCount": 6,
   "parseFailures": 0,
   "offers": [
-    {
-      "merchant": "Lands' End",
-      "percentBack": 60,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-05-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SERjaldyaU5hbjY2WnVRNVI0OHA2MkdOSXFvMC9uRkhSU2RYWGVwd2lmc0t1ZjBzOHpQdGEwMVZmSktCanYzWW5WUjdvWnRyajZ0NlJLSUMxVVA4c0F4OXVTamZ3VEhtY3NNWU5nPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=landsend.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "19e133085b3e9d41",
-      "emailDate": "2026-05-10T18:40:06.000Z"
-    },
     {
       "merchant": "Wicked Good Cupcakes",
       "percentBack": 40,
