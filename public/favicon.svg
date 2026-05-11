@@ -1,22 +1,21 @@
 <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
   <rect width="512" height="512" rx="96" fill="#ffffff"/>
 
-  <path d="M 106 100 C 202 60, 320 60, 412 106 L 384 128 C 308 96, 204 96, 130 126 Z" fill="#c8262f"/>
+  <!-- Capital One logo image (authentic wordmark from logo.png) -->
+  <image href="logo.png" x="30" y="45" width="452" height="175"
+         preserveAspectRatio="xMidYMid meet"/>
 
-  <text x="256" y="190"
-        font-family="'Optima', 'Hoefler Text', 'Iowan Old Style', Georgia, -apple-system, serif"
-        font-size="62"
-        font-weight="700"
-        font-style="italic"
-        fill="#003a6c"
-        text-anchor="middle">CapitalOne</text>
-
-  <rect x="107" y="240" width="297" height="168" rx="18" fill="#ece4cc"/>
-  <path d="M 115 250 L 256 333 L 397 250"
+  <!-- Envelope body -->
+  <rect x="107" y="238" width="297" height="220" rx="18" fill="#ece4cc"/>
+  <!-- Envelope flap -->
+  <path d="M 115 248 L 256 330 L 397 248"
         fill="none" stroke="#8a7a4a" stroke-width="5"
         stroke-linejoin="round" stroke-linecap="round" opacity="0.35"/>
 
-  <g fill="none" stroke="#5980a3" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Shopping cart at 50% scale, centered at (256,365) -->
+  <g transform="translate(256,365) scale(0.5) translate(-258.5,-337)"
+     fill="none" stroke="#5980a3" stroke-width="12"
+     stroke-linecap="round" stroke-linejoin="round">
     <path d="M 178 286 L 207 286"/>
     <path d="M 207 286 L 230 358 L 318 358 L 339 296 L 215 296"/>
     <line x1="222" y1="318" x2="333" y2="318"/>
