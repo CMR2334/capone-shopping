@@ -39,6 +39,7 @@
     -moz-osx-font-smoothing: grayscale;
     padding-bottom: calc(48px + var(--safe-bottom));
     line-height: 1.45;
+    overflow-x: hidden;
   }
 
   header {
@@ -63,8 +64,10 @@
     min-width: 0;
   }
   .logo-img {
-    height: 34px; width: auto;
+    height: 40px; width: auto;
     display: block;
+    aspect-ratio: 320 / 64;
+    object-fit: contain;
   }
   h1 {
     font-family: var(--serif);
@@ -80,6 +83,26 @@
     color: var(--muted);
     font-feature-settings: 'tnum';
     letter-spacing: 0.01em;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .sync-dot {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--alert);
+    flex-shrink: 0;
+    transition: background 0.2s ease, box-shadow 0.2s ease;
+  }
+  .sync-dot.is-synced {
+    background: #34c759;
+    box-shadow: 0 0 6px rgba(52, 199, 89, 0.45);
+  }
+  .sync-dot.is-off {
+    background: #c8c8cd;
+    box-shadow: none;
   }
   .controls {
     display: flex;
@@ -126,6 +149,17 @@
     main { padding: 18px 16px 0; }
     .grid { grid-template-columns: 1fr; gap: 10px; }
     .controls { gap: 12px; }
+    .logo-img { height: 32px; }
+    .card { padding: 12px 110px 12px 12px; min-height: 92px; }
+    .action-btn { padding: 9px; }
+    .action-btn svg { width: 22px; height: 22px; }
+    .actions { gap: 4px; top: 10px; right: 10px; opacity: 0.85; }
+    .expiry-block {
+      top: auto;
+      bottom: 14px;
+      right: 16px;
+      transform: none;
+    }
   }
 
   .card {
@@ -283,7 +317,10 @@
       <img src="logo.png" alt="Capital One Shopping" class="logo-img" id="brandLogo"
            onerror="this.style.display='none'; document.getElementById('brandText').hidden=false;" />
       <h1 id="brandText" hidden>Capital One Shopping</h1>
-      <div class="subtitle" id="subtitle">Loading…</div>
+      <div class="subtitle">
+        <span id="subtitleText">Loading…</span>
+        <span class="sync-dot is-off" id="syncDot" title="Sync not set up"></span>
+      </div>
     </div>
     <div class="controls">
       <div class="control">
@@ -322,8 +359,25 @@
   const empty = document.getElementById('empty');
   const emptyTitle = document.getElementById('emptyTitle');
   const emptyMsg = document.getElementById('emptyMsg');
-  const subtitle = document.getElementById('subtitle');
+  const subtitleText = document.getElementById('subtitleText');
+  const syncDot = document.getElementById('syncDot');
   const footer = document.getElementById('footer');
+
+  let lastSyncOk = false;
+
+  function setSyncDot() {
+    const token = getSyncToken();
+    if (!token) {
+      syncDot.className = 'sync-dot is-off';
+      syncDot.title = 'Sync not set up';
+    } else if (lastSyncOk) {
+      syncDot.className = 'sync-dot is-synced';
+      syncDot.title = 'Synced across devices';
+    } else {
+      syncDot.className = 'sync-dot';
+      syncDot.title = 'Sync error — check connection';
+    }
+  }
   const sortSelect = document.getElementById('sortSelect');
   const viewSelect = document.getElementById('viewSelect');
 
@@ -380,9 +434,13 @@
         headers: { 'Authorization': 'Bearer ' + token },
         cache: 'no-store',
       });
-      if (!res.ok) return null;
+      if (!res.ok) { lastSyncOk = false; setSyncDot(); return null; }
+      lastSyncOk = true;
+      setSyncDot();
       return await res.json();
     } catch (err) {
+      lastSyncOk = false;
+      setSyncDot();
       console.warn('sync pull failed:', err);
       return null;
     }
@@ -397,7 +455,14 @@
       method: 'PUT',
       headers: { 'Authorization': 'Bearer ' + token, 'Content-Type': 'application/json' },
       body: JSON.stringify({ favorites, hidden }),
-    }).catch(err => console.warn('sync push failed:', err));
+    }).then(res => {
+      lastSyncOk = res.ok;
+      setSyncDot();
+    }).catch(err => {
+      lastSyncOk = false;
+      setSyncDot();
+      console.warn('sync push failed:', err);
+    });
   }
 
   async function syncOnLoad() {
@@ -545,12 +610,12 @@
       const favs = getFavorites();
       const hidden = getHidden();
       const visibleAll = filterOffers(data.offers, 'all', favs, hidden).length;
-      const syncSuffix = getSyncToken() ? ' · synced' : '';
-      subtitle.textContent = `${visibleAll} active · updated ${updated ? timeAgo(updated) : 'just now'}${syncSuffix}`;
+      subtitleText.textContent = `${visibleAll} active · updated ${updated ? timeAgo(updated) : 'just now'}`;
       footer.textContent = `Last update: ${updated ? updated.toLocaleString() : '—'}`;
+      setSyncDot();
       render();
     } catch (err) {
-      subtitle.textContent = 'Could not load offers';
+      subtitleText.textContent = 'Could not load offers';
       console.error(err);
     }
   }
