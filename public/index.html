@@ -7,6 +7,8 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 <meta name="theme-color" content="#003a6c" />
 <title>Capital One Shopping</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg" />
+<link rel="apple-touch-icon" href="favicon.svg" />
 <link rel="manifest" href="manifest.json" />
 <style>
   :root {
@@ -131,8 +133,7 @@
     background: var(--card);
     border-radius: 10px;
     border: 1px solid var(--rule-soft);
-    padding: 16px;
-    padding-right: 56px;
+    padding: 16px 96px 16px 16px;
     display: flex; gap: 14px;
     align-items: center;
     color: var(--ink);
@@ -163,7 +164,7 @@
   }
   .info {
     flex: 1; min-width: 0;
-    text-align: center;
+    text-align: left;
   }
   .percent {
     font-family: var(--sans);
@@ -193,29 +194,27 @@
     white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
     transition: color 0.15s ease;
   }
-  .meta {
-    margin-top: 6px;
-    font-size: 11.5px; color: var(--muted);
-    display: flex;
-    gap: 8px;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    letter-spacing: 0.01em;
+  .expiry-block {
+    position: absolute;
+    right: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: right;
+    font-size: 12px;
+    color: var(--muted);
     font-feature-settings: 'tnum';
-  }
-  .meta .sep {
-    width: 2px; height: 2px; border-radius: 50%;
-    background: var(--muted); opacity: 0.5;
-    display: inline-block;
+    letter-spacing: 0.01em;
+    pointer-events: none;
   }
   .badge {
     color: var(--alert);
     background: var(--alert-soft);
     font-size: 9.5px; font-weight: 600;
-    padding: 2px 6px; border-radius: 3px;
+    padding: 3px 7px; border-radius: 4px;
     text-transform: uppercase;
     letter-spacing: 0.08em;
+    white-space: nowrap;
+    display: inline-block;
   }
   .expiry-soon { color: var(--alert); font-weight: 500; }
 
@@ -223,10 +222,11 @@
     position: absolute;
     top: 8px; right: 8px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     gap: 2px;
-    opacity: 0.45;
+    opacity: 0.5;
     transition: opacity 0.15s ease;
+    z-index: 2;
   }
   .card:hover .actions { opacity: 1; }
   .action-btn {
@@ -433,11 +433,9 @@
         ? `<img src="${escapeAttr(o.logoUrl)}" alt="${escapeAttr(o.merchant)}" loading="lazy" onerror="this.parentNode.innerHTML='<span class=\\'logo-fallback\\'>${escapeAttr(o.merchant.charAt(0).toUpperCase())}</span>'"/>`
         : `<span class="logo-fallback">${escapeAttr(o.merchant.charAt(0).toUpperCase())}</span>`;
 
-      const metaParts = [
-        topBadge,
-        `<span class="${expClass}">${fmtExpiry(o.expiresAt)}</span>`
-      ].filter(Boolean);
-      const metaHtml = metaParts.join('<span class="sep"></span>');
+      const expiryContent = o.source === 'todays-top'
+        ? `<span class="badge">Today's top</span>`
+        : `<span class="${expClass}">${fmtExpiry(o.expiresAt)}</span>`;
 
       let actionsHtml;
       if (isHiddenView) {
@@ -455,8 +453,8 @@
           <div class="info">
             <div class="percent">${o.percentBack}<span class="pct-unit">%</span><span class="back-word">back</span></div>
             <div class="merchant">${escapeHtml(o.merchant)}</div>
-            <div class="meta">${metaHtml}</div>
           </div>
+          <div class="expiry-block">${expiryContent}</div>
           <div class="actions">${actionsHtml}</div>
         </div>
       `;
