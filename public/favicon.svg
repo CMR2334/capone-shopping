@@ -1,13 +1,12 @@
 <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
   <rect width="512" height="512" rx="96" fill="#003a6c"/>
-  <path d="M 78 112 Q 256 56 434 122" fill="none" stroke="#c8262f" stroke-width="28" stroke-linecap="round"/>
-  <g fill="none" stroke="#f7f4ec" stroke-width="22" stroke-linejoin="round" stroke-linecap="round">
-    <rect x="96" y="186" width="320" height="220" rx="22"/>
-    <polyline points="96 186 256 322 416 186"/>
-  </g>
-  <g fill="none" stroke="#f7f4ec" stroke-width="18" stroke-linejoin="round" stroke-linecap="round">
-    <path d="M 178 350 L 198 350 L 218 410 L 312 410 L 332 372 L 222 372"/>
-    <circle cx="226" cy="430" r="10"/>
-    <circle cx="304" cy="430" r="10"/>
-  </g>
+  <rect x="64" y="148" width="384" height="240" rx="20" fill="#f7f4ec"/>
+  <path d="M 64 168 L 256 296 L 448 168" fill="none" stroke="#0f1d33" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" opacity="0.18"/>
+  <text x="256" y="304"
+        font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="220"
+        font-weight="800"
+        fill="#c8262f"
+        text-anchor="middle"
+        dominant-baseline="central">$</text>
 </svg>
