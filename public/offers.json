@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-05-12T15:16:59.145Z",
-  "sourceCount": 91,
+  "lastUpdated": "2026-05-12T17:29:44.585Z",
+  "sourceCount": 92,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "ThriftBooks",
+      "percentBack": 40,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-05-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Y09FL3oxSFZPbDQybFR4bDR2dDJaeDlKWjg4dzlaMVlCMXBrV3pkbTEzcXBYTnJmVURYcUxNdHRORU4xL3ZkRjJoRFhnZDIzbHVkMXU1TkJIK3FxbnJWbmlic1dlZE5SWHhjNjZ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thriftbooks.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19e1cc88b2da4da0",
+      "emailDate": "2026-05-12T15:22:44.000Z"
+    },
+    {
+      "merchant": "HSN",
+      "percentBack": 40,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-05-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6czBSNHFjLzkzOEdxM3FpT3NrZ3lnZ1plS0loZWpSZnR0MGtKYktmT3pqaUwyVGNyU1h4emhJdHVwZG5xSlFCMlJDTDBwOGJjU3FYMzNmZFYrWk9yTUk5dlJsbjZHVDQ3QUtZWDB3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hsn.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e1cc88b2da4da0",
+      "emailDate": "2026-05-12T15:22:44.000Z"
+    },
     {
       "merchant": "Wicked Good Cupcakes",
       "percentBack": 40,
@@ -578,6 +602,18 @@
       "source": "single-use",
       "emailMessageId": "19e16648ce3f738a",
       "emailDate": "2026-05-11T09:35:48.000Z"
+    },
+    {
+      "merchant": "Belk",
+      "percentBack": 8,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-05-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cjRoOHhxNHJNc2d6bzEyd2VxZ3JMaHNURzRqc09ldEZhRzJUZzVGdnV0UzRzdklWSGhOU1lQblJ2cXJ3bDR0R1NrNThOaFVjYkQrQytTVEhFYXBTS2lza2I5K3ZHR21NNXpmK093PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=belk.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e1cc88b2da4da0",
+      "emailDate": "2026-05-12T15:22:44.000Z"
     },
     {
       "merchant": "LOFT",
