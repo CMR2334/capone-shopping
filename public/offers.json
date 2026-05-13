@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-13T17:30:55.853Z",
-  "sourceCount": 93,
+  "lastUpdated": "2026-05-13T19:23:24.320Z",
+  "sourceCount": 94,
   "parseFailures": 0,
   "offers": [
     {
@@ -9,11 +9,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-05-14T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dVRUQ0Y3RWgyZllnOC9rMFFoSlhWUzN1NzNLZ2lKeFV2Z0Z1YTBQNGNXSjRNNU5ySXBEdjIyeEdxclVRbWt3aXg4dUxpL09Mb2tna1JUTWJyT1NHRzVmTGZBdkZkTmFkblRmcjJRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MEdMa3puQ05tTXNNdU9iSWUrQU9zL0hnWm8vTVFDMW85UTNiT1Vsb0xDekQ1Rm56SHlKTDNOaVpMR1FPVVgyR2xOdFNOK1BFeGE2YVdVVHM1ZDNCOFM3eXRtYlBCWWtCYitydi9BPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=omahasteaks.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19e221ec23066645",
-      "emailDate": "2026-05-13T16:15:01.000Z"
+      "emailMessageId": "19e228383278676b",
+      "emailDate": "2026-05-13T18:05:03.000Z"
     },
     {
       "merchant": "HSN",
@@ -26,6 +26,66 @@
       "source": "single-use",
       "emailMessageId": "19e1cc88b2da4da0",
       "emailDate": "2026-05-12T15:22:44.000Z"
+    },
+    {
+      "merchant": "Columbia",
+      "percentBack": 30,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-05-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eitNWkhBOWt3eG5XcVJxeExaeUwwMUhwN1UzeHd2UUJGR0FBWWZ0a25oQ3IrU3FGZ21rbThPWUhOYjBrRzQrMENPUWFiTkZocytmRnk2WWw2bHdpTDVMY2hsYktzanJ4eGZoMzVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=columbia.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e228383278676b",
+      "emailDate": "2026-05-13T18:05:03.000Z"
+    },
+    {
+      "merchant": "Michael Stars",
+      "percentBack": 30,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-05-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OVc3emdBM0ovMGRtNUVrOWd0NjlrZ3J0N0Y0N1IraytsakcvcFA0dEhUMnFWV3RESHhkTXhsRnBPV3c3V09CeXR0RlZFNGtvK0QxNTdUT3VtSmRteDhISU9YMHJ4MTZ5L0psaUh3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=michaelstars.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e228383278676b",
+      "emailDate": "2026-05-13T18:05:03.000Z"
+    },
+    {
+      "merchant": "Lucky Brand",
+      "percentBack": 30,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-05-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZzJiQjRueFRmSGNDZnlNaE5GT0VnQXZwZXRSYUVIc1UydGg4ZXpKWDg5TjF3WTlqTUJ0NlBSdGtYeUhhc09SYXRSc2d5UEd6cWZGZWltOGRadGlKK25QaUNPTFpESGFlclNncjN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=luckybrand.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e228383278676b",
+      "emailDate": "2026-05-13T18:05:03.000Z"
+    },
+    {
+      "merchant": "Lands' End",
+      "percentBack": 30,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-05-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Qi9ZUnJRcC9UYWl4QjhWd3ZoNW1wU2NBSUFkc2lVeXFuV01KZk54MmNUS2FCY3M0WVpNZWZ0a1QzNnhCU3ZjZERBNHFDenVubFF1a2lvTXJJZTJtMWJsdERQN09xeFFlMTJTRTNRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=landsend.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e228383278676b",
+      "emailDate": "2026-05-13T18:05:03.000Z"
+    },
+    {
+      "merchant": "tarte cosmetics",
+      "percentBack": 30,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-05-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OE1xWmlmUEdWdmZXV1Bab0hadFBONWxBL2VkYi9IQmJwQjM0Njh6YXBSK010Z1owMXp0bFY2NnFiS2pUN3lnbTRpZHpCWVRPVmM3cFdRa2phaVArT2c0Nm1pWVNtRTRBRkpTVGJRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tartecosmetics.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e228383278676b",
+      "emailDate": "2026-05-13T18:05:03.000Z"
     },
     {
       "merchant": "TUMI",
@@ -136,6 +196,30 @@
       "emailDate": "2026-05-11T13:03:08.000Z"
     },
     {
+      "merchant": "Journeys",
+      "percentBack": 24,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-05-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NVd1alZVOHY3aWVtUFJ1Mzg2VU1NUHhYbVBJUUIxdytaWUdqdms5VlFTSjdYajJMSnZTZVJtYmsxcVZGSEMvNEk2dE1IeHBMNnF0dFFQTFhOUnRiMlZGVDdzTXJaaDVNZEI5ZFB3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=journeys.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e228383278676b",
+      "emailDate": "2026-05-13T18:05:03.000Z"
+    },
+    {
+      "merchant": "New Era",
+      "percentBack": 24,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-05-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a2JRWGJ2NGM2NlNxK1k1dURld2U4amZHbWhQci9tNGtYZGYzY095NDlvVitBRmVJMDErUGQ1RW5TRXl3YmRCbnlCWXRubFp5L2JtcW9Fdk45Wk54SHgzVUJxR2ZBZU9QTU9ZVTBRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=neweracap.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e228383278676b",
+      "emailDate": "2026-05-13T18:05:03.000Z"
+    },
+    {
       "merchant": "Dr. Marty",
       "percentBack": 24,
       "wasPercent": 2,
@@ -146,6 +230,18 @@
       "source": "single-use",
       "emailMessageId": "19e118510fd6d2d9",
       "emailDate": "2026-05-10T10:53:12.000Z"
+    },
+    {
+      "merchant": "Bergdorf Goodman",
+      "percentBack": 20,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-05-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RVd1ZmNzbWEwa0Y2ZzI3MXV5clZXZXFPQ0xvWnZJNWwvRnplNU9tR3NoZGorK080ZTF4eGFBaDJUZ2xMVEtocDF2Q2VZQWw5YXhXdFpTYStFWFZZSjVTYW1hYVgzZklzbnRsSWVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bergdorfgoodman.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e228383278676b",
+      "emailDate": "2026-05-13T18:05:03.000Z"
     },
     {
       "merchant": "Hanes",
@@ -206,6 +302,30 @@
       "source": "single-use",
       "emailMessageId": "19e2161e9319cbbc",
       "emailDate": "2026-05-13T12:48:45.000Z"
+    },
+    {
+      "merchant": "Saks Fifth Avenue",
+      "percentBack": 16,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-05-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Vy9NWkN5SnVubk11Zm9IcTRlVEkrU2NCem1TckZybUlWWndURC9KdFRlZXFuZk9oM3lJaHlNNGs1WFRwSlgwSlBWeVB3YmxIZGZzUDV2bklFM3ZuMDZuTkIrMklvSEUySmM3WmhRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=saksfifthavenue.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e228383278676b",
+      "emailDate": "2026-05-13T18:05:03.000Z"
+    },
+    {
+      "merchant": "Soma",
+      "percentBack": 16,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-05-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VXJjcncvaUZXZWN4NTJHanF1ejVybWVCOXZ1ZytMSHQ3YWJMSkszOER3RU5qc1JNZ0NOd05GemZqcG92alZlalpjNFhOcWhMcUF0ZVNOTzhkYjlyUmhxQUVGRFhvQ1BFT2ZEQ0tRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=soma.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e228383278676b",
+      "emailDate": "2026-05-13T18:05:03.000Z"
     },
     {
       "merchant": "IHG",
@@ -338,30 +458,6 @@
       "source": "single-use",
       "emailMessageId": "19e17225d06ac7e0",
       "emailDate": "2026-05-11T13:03:08.000Z"
-    },
-    {
-      "merchant": "Columbia",
-      "percentBack": 10,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-05-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d3RRYnZKTHNHZ3hQNUtrbjZjOUJGRXRiYWVQZ3ZMeUFpNU83T2l0dVU3MHRuYk5BdGROVmZUanVkMGR2N2tHZGtEQ2piVHNudVErZUhzTWV5M0lnMTRTK05PRXUrN3hONkZERS9RPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=columbia.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19e221ec23066645",
-      "emailDate": "2026-05-13T16:15:01.000Z"
-    },
-    {
-      "merchant": "Lands' End",
-      "percentBack": 10,
-      "wasPercent": 3,
-      "lastViewed": "May 10",
-      "expiresAt": "2026-05-15T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VGlSd0JvZ1J2T3RSMmwybXhlNThjOURYUWhpdnZ2Z3FSN0x6QzlIZnI3RzJjelF5TXpoZ3ZReGQrUnlpODE3ZFhtZ05aeWxMcDR0b05jSG9UV2Vpc0cxYXBJdDFIbnVUM1pVM21RPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=landsend.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "19e182809b65293b",
-      "emailDate": "2026-05-11T17:48:56.000Z"
     },
     {
       "merchant": "New Balance",
