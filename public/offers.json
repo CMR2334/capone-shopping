@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-15T12:23:34.079Z",
-  "sourceCount": 93,
+  "lastUpdated": "2026-05-15T14:43:02.617Z",
+  "sourceCount": 94,
   "parseFailures": 0,
   "offers": [
     {
@@ -184,16 +184,28 @@
       "emailDate": "2026-05-13T18:05:03.000Z"
     },
     {
+      "merchant": "lululemon",
+      "percentBack": 15,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-05-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Ykp6TmhZSUloM2FpTFRwTk5nNEJJYVM1Z2M1MC9iZytmeU94VDJzRWxzS3FTcTVmOHJ5cHpMVlhqN3hzbW10YjMyMlR6UTQ0cHZRcHRmZS9XNXE4ei9yUFYxVUE2TllPT09YMkVBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lululemon.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e2ba81237eeac0",
+      "emailDate": "2026-05-15T12:41:35.000Z"
+    },
+    {
       "merchant": "Viator, a Tripadvisor company",
       "percentBack": 14,
       "wasPercent": 3,
       "lastViewed": null,
-      "expiresAt": "2026-05-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q2JCanI2d1F5SFV5cDVJdkcxS3NkMkpsM3pCSnpPUUVMeVI4bWZ4aHlpVHlXRVRsYzNVeEZFSUxMRnk2cXkvb3RUVjVnV0Y4N0lsSitRbXlVVUxjZzR2SDluc1hCL0V2UWErUHVRPT0/runV3dl",
+      "expiresAt": "2026-05-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dC84NlBwaC8ybWc3b3ROWTgyNllVRkUrSDFQaktBQ1V2SkpMWHNoOWdqOFEwREdsVlYvL1FxQitoVlBzQUFtdGxMQkY0RXY1L1hyUVVpeTNhZDMvQXZpWFUxZytLSGhXNEpZZTJnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19e221ec23066645",
-      "emailDate": "2026-05-13T16:15:01.000Z"
+      "emailMessageId": "19e2ba81237eeac0",
+      "emailDate": "2026-05-15T12:41:35.000Z"
     },
     {
       "merchant": "eBay",
