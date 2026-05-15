@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T23:35:07.048Z",
+  "lastUpdated": "2026-05-15T01:28:36.633Z",
   "sourceCount": 93,
   "parseFailures": 0,
   "offers": [
@@ -160,6 +160,18 @@
       "emailDate": "2026-05-13T18:05:03.000Z"
     },
     {
+      "merchant": "IHG",
+      "percentBack": 20,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-05-18T07:00:00.000Z",
+      "activationUrl": null,
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "19e291f343a41d0a",
+      "emailDate": "2026-05-15T00:52:51.000Z"
+    },
+    {
       "merchant": "Bergdorf Goodman",
       "percentBack": 20,
       "wasPercent": 2,
@@ -230,18 +242,6 @@
       "source": "single-use",
       "emailMessageId": "19e228383278676b",
       "emailDate": "2026-05-13T18:05:03.000Z"
-    },
-    {
-      "merchant": "IHG",
-      "percentBack": 16,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-05-15T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WUxrZXliSEx1eG1JTEJ6Q2VQNWFITHl3U05kZWVQK1ZZUm5KVzE3S21VVFA2allWMWxoRCtsa1ZOSzBsUDZjRGE0dHNtVFoxLzNPWEZEQW5ySjdLcSt1YXB6SENwY0h1Ly9VWlRRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ihg.com&width=180&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e16648ce3f738a",
-      "emailDate": "2026-05-11T09:35:48.000Z"
     },
     {
       "merchant": "Hyper",
