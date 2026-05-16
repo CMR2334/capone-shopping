@@ -35,7 +35,7 @@ jobs:
       - name: Commit updated offers.json
         run: |
           if [[ -n $(git status --porcelain public/offers.json) ]]; then
-            git config user.name "capone-offers-bot"
+            git config user.name "capone-shopping-bot"
             git config user.email "bot@users.noreply.github.com"
             git add public/offers.json
             git commit -m "ingest: refresh offers $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"

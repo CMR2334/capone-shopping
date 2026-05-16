@@ -1,6 +1,6 @@
 # sync-worker
 
-Cloudflare Worker that persists favorites + hidden state across devices for capone-offers.
+Cloudflare Worker that persists favorites + hidden state across devices for capone-shopping.
 
 ## Endpoints
 

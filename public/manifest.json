@@ -1,6 +1,6 @@
 {
-  "name": "Capital One Shopping Offers",
-  "short_name": "Offers",
+  "name": "Capital One Shopping",
+  "short_name": "Shopping",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f7f4ec",

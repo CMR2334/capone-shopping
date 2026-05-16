@@ -62,7 +62,7 @@ const server = http.createServer(async (req, res) => {
     if (!tokens.refresh_token) {
       res.writeHead(400, { 'Content-Type': 'text/html' });
       res.end('<h1>No refresh token returned. Revoke access at https://myaccount.google.com/permissions and rerun.</h1>');
-      console.error('\nNo refresh_token in response. Visit https://myaccount.google.com/permissions, revoke "capone-offers", and rerun.\n');
+      console.error('\nNo refresh_token in response. Visit https://myaccount.google.com/permissions, revoke "capone-shopping", and rerun.\n');
       server.close();
       process.exit(1);
     }
