@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-16T21:11:08.619Z",
-  "sourceCount": 95,
+  "lastUpdated": "2026-05-16T21:54:15.406Z",
+  "sourceCount": 96,
   "parseFailures": 0,
   "offers": [
     {
@@ -10,11 +10,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dTh3M0ZxaFhCMXJJYjI1dlltQkZRZXpmMkNpbGRHUXBUUTR5bEg0K29ISWZtZU1XUWFiVDR2eExqTVoyV3FtUGtSUVR0UDZoUkZkVTFLeUs0UWNPbkdPWm9QVXV0aEpmV0xWemFBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NlhlN1BXaHlEaURhbDBnUUN3TXJCelJKbkpuWmVJdnhOcytrZlluN2xjNlpWVHAzWHkyckdxT3dFREp3RDdXN296TnNSd0FGWUtpdW9uUmVnSThuQjI2aEl6NElNalcwejduZFZnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dermstore.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19e30f93e41880a2",
-      "emailDate": "2026-05-16T13:28:20.000Z"
+      "emailMessageId": "19e32a203f90f114",
+      "emailDate": "2026-05-16T21:12:18.000Z"
     },
     {
       "merchant": "Peak Design",
@@ -38,19 +38,6 @@
       "expiresAt": "2026-05-17T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eitNWkhBOWt3eG5XcVJxeExaeUwwMUhwN1UzeHd2UUJGR0FBWWZ0a25oQ3IrU3FGZ21rbThPWUhOYjBrRzQrMENPUWFiTkZocytmRnk2WWw2bHdpTDVMY2hsYktzanJ4eGZoMzVnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=columbia.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e228383278676b",
-      "emailDate": "2026-05-13T18:05:03.000Z"
-    },
-    {
-      "merchant": "Michael Stars",
-      "percentBack": 30,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-05-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OVc3emdBM0ovMGRtNUVrOWd0NjlrZ3J0N0Y0N1IraytsakcvcFA0dEhUMnFWV3RESHhkTXhsRnBPV3c3V09CeXR0RlZFNGtvK0QxNTdUT3VtSmRteDhISU9YMHJ4MTZ5L0psaUh3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=michaelstars.com&width=180&fallback=true&type=cropped&opaque=true",
       "source": "single-use",
       "emailMessageId": "19e228383278676b",
       "emailDate": "2026-05-13T18:05:03.000Z"
@@ -121,6 +108,19 @@
       "emailDate": "2026-05-13T18:05:03.000Z"
     },
     {
+      "merchant": "Michael Stars",
+      "percentBack": 20,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": "May 15",
+      "expiresAt": "2026-05-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SXhaYW1qejZFbzBpNURyTHhuM3FOaFdRS1NuR3I2Z1RSdlV2QTVRUThBYitlcXhIbWo0UkZpVktLZWVmZDc1SDdyb2tST2c3VlJCbm4zdi9wOURNbSt2QXVjYTNYZDVNdW52NTJRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=michaelstars.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19e32a203f90f114",
+      "emailDate": "2026-05-16T21:12:18.000Z"
+    },
+    {
       "merchant": "Tripadvisor",
       "percentBack": 20,
       "capAmount": null,
@@ -173,6 +173,19 @@
       "emailDate": "2026-05-13T12:48:45.000Z"
     },
     {
+      "merchant": "lululemon",
+      "percentBack": 16,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-05-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bTJRcXZlaXJjcmxrd1JDakp1ZE9FandrR2NpSDNNZWJCVEVUd1RLSE5iUWVkaU5FVE5UVG1oVVA5T0VkS2tKZ2ZOYWpBYVdCT0VLV1g4V1VNQU9Jb2t2NkZ3T0ROWHZpUkFydXNBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lululemon.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e32a203f90f114",
+      "emailDate": "2026-05-16T21:12:18.000Z"
+    },
+    {
       "merchant": "Saks Fifth Avenue",
       "percentBack": 16,
       "capAmount": null,
@@ -197,19 +210,6 @@
       "source": "single-use",
       "emailMessageId": "19e228383278676b",
       "emailDate": "2026-05-13T18:05:03.000Z"
-    },
-    {
-      "merchant": "lululemon",
-      "percentBack": 15,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-05-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Ykp6TmhZSUloM2FpTFRwTk5nNEJJYVM1Z2M1MC9iZytmeU94VDJzRWxzS3FTcTVmOHJ5cHpMVlhqN3hzbW10YjMyMlR6UTQ0cHZRcHRmZS9XNXE4ei9yUFYxVUE2TllPT09YMkVBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lululemon.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19e2ba81237eeac0",
-      "emailDate": "2026-05-15T12:41:35.000Z"
     },
     {
       "merchant": "Viator, a Tripadvisor company",
@@ -267,14 +267,14 @@
       "merchant": "GetYourGuide",
       "percentBack": 9,
       "capAmount": null,
-      "wasPercent": 4,
+      "wasPercent": 3,
       "lastViewed": null,
-      "expiresAt": "2026-05-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QW1uSGZCY3hEcEZEbVY2bkpGZmt2TmhnUlJBVDFiRFRTaWQ2MVBpTUtZRXNqM0ZEL2JiSzQyUG84ajVsbXJJWndsa1Y5SkQ5blN5dC9kNTJzM0RXdUZOQnkvUUZGV2g0ZW1pNEFBPT0/runV3dl",
+      "expiresAt": "2026-05-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QXRwV3BKemNvUG1HdE5qWTcyR25JSUoxQXZTQnloeEIzV0NxQW9ieUp1bTU1dHJHRStNa1pocWpnL3cxd3JpV2NrNHhKeEQ4Wm0vYkJaTVcvMWd2R2NGVTFod0tMNllTejByL0J3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=getyourguide.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19e2161e9319cbbc",
-      "emailDate": "2026-05-13T12:48:45.000Z"
+      "emailMessageId": "19e32a203f90f114",
+      "emailDate": "2026-05-16T21:12:18.000Z"
     },
     {
       "merchant": "Omio",
@@ -282,12 +282,12 @@
       "capAmount": null,
       "wasPercent": 1,
       "lastViewed": null,
-      "expiresAt": "2026-05-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZkEwK05OcTM3azlZbDV0UHRKaXUwN1FZMDAzTklKc1R5M2ppdzVWZ1poNjBPb1lQZTBLLy84YlFyeHk3LzNwZHBYT2xmT3drRld6dEUxQ3R1aGw3bFFpVmFLVzdHQWh1akloSHZnPT0/runV3dl",
+      "expiresAt": "2026-05-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aVhjRGdzQTRPcGpNUEQ3YXI2SFFsNXhXbmQvaXV3VTd3OWh0R2tQZCs1NWd1Z0lTYkdEL24rdnhQcE1BUGNvTi9ySHVIa1lLTDg4MHA5UUxRS3JwbHFDTGVIR0dxdldzZ21uQnhnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=omio.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19e2161e9319cbbc",
-      "emailDate": "2026-05-13T12:48:45.000Z"
+      "emailMessageId": "19e32a203f90f114",
+      "emailDate": "2026-05-16T21:12:18.000Z"
     },
     {
       "merchant": "Brooks Running",
@@ -296,11 +296,11 @@
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-05-20T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SUg3amxPdnhVMGRqYWp1STloYk5FTkNqd1A3SGxYemttUTRXTUxZTVBUWXh4ZGJhb3FKWGxFeHhyRythMnA1TTYwckNMbWlSbkE3Yis0TS9aYytuc3poQ0sxUlkvQVdEUVJDeUlnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=brooksrunning.com&fallback=true&opaque=true&type=cropped&width=500",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WnpIeEVJaTJYZ1gxLzlJTjVVMVRmMFZrNW1yd3phMzMzT0tUQ1JtbWxrNS9zNW9JdHorWklLaGhvY1hjSWh4MHF2aEgrVm5yTGJkb1NkbTlnRHp0OXBPaDZnN2d5eGpsYXdETWZnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=brooksrunning.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19e30f93e41880a2",
-      "emailDate": "2026-05-16T13:28:20.000Z"
+      "emailMessageId": "19e32a203f90f114",
+      "emailDate": "2026-05-16T21:12:18.000Z"
     },
     {
       "merchant": "Agoda",
