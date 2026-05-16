@@ -1,20 +1,8 @@
 {
-  "lastUpdated": "2026-05-16T04:43:57.654Z",
+  "lastUpdated": "2026-05-16T07:03:33.304Z",
   "sourceCount": 96,
   "parseFailures": 0,
   "offers": [
-    {
-      "merchant": "HSN",
-      "percentBack": 40,
-      "wasPercent": 4,
-      "lastViewed": null,
-      "expiresAt": "2026-05-16T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6czBSNHFjLzkzOEdxM3FpT3NrZ3lnZ1plS0loZWpSZnR0MGtKYktmT3pqaUwyVGNyU1h4emhJdHVwZG5xSlFCMlJDTDBwOGJjU3FYMzNmZFYrWk9yTUk5dlJsbjZHVDQ3QUtZWDB3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hsn.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19e1cc88b2da4da0",
-      "emailDate": "2026-05-12T15:22:44.000Z"
-    },
     {
       "merchant": "Columbia",
       "percentBack": 30,
@@ -74,18 +62,6 @@
       "source": "single-use",
       "emailMessageId": "19e228383278676b",
       "emailDate": "2026-05-13T18:05:03.000Z"
-    },
-    {
-      "merchant": "TUMI",
-      "percentBack": 30,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-05-16T07:00:00.000Z",
-      "activationUrl": null,
-      "logoUrl": null,
-      "source": "single-use",
-      "emailMessageId": "19e1d6c75abfcb55",
-      "emailDate": "2026-05-12T18:21:47.000Z"
     },
     {
       "merchant": "Tripadvisor",
@@ -254,18 +230,6 @@
       "source": "single-use",
       "emailMessageId": "19e2161e9319cbbc",
       "emailDate": "2026-05-13T12:48:45.000Z"
-    },
-    {
-      "merchant": "Belk",
-      "percentBack": 8,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-05-16T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cjRoOHhxNHJNc2d6bzEyd2VxZ3JMaHNURzRqc09ldEZhRzJUZzVGdnV0UzRzdklWSGhOU1lQblJ2cXJ3bDR0R1NrNThOaFVjYkQrQytTVEhFYXBTS2lza2I5K3ZHR21NNXpmK093PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=belk.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19e1cc88b2da4da0",
-      "emailDate": "2026-05-12T15:22:44.000Z"
     },
     {
       "merchant": "Omio",
