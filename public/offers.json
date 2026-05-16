@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-05-16T12:11:43.180Z",
-  "sourceCount": 95,
+  "lastUpdated": "2026-05-16T13:57:36.134Z",
+  "sourceCount": 96,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Dermstore",
+      "percentBack": 30,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-05-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dTh3M0ZxaFhCMXJJYjI1dlltQkZRZXpmMkNpbGRHUXBUUTR5bEg0K29ISWZtZU1XUWFiVDR2eExqTVoyV3FtUGtSUVR0UDZoUkZkVTFLeUs0UWNPbkdPWm9QVXV0aEpmV0xWemFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dermstore.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19e30f93e41880a2",
+      "emailDate": "2026-05-16T13:28:20.000Z"
+    },
     {
       "merchant": "Columbia",
       "percentBack": 30,
@@ -64,18 +76,6 @@
       "emailDate": "2026-05-13T18:05:03.000Z"
     },
     {
-      "merchant": "Tripadvisor",
-      "percentBack": 25,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-05-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6R2ZVbjRRbWhuSk1pRmlkcmdOQmwxZnBjM29hcHZrS0Rab1g5YXY5aVl5VjkwZU01b0hFTGZQMkpVMUN2dUR3R1F4WkNDeU9xdFR0YU1XeFNGY1Z1THV5cVJHcWh4V0tWOUtVbC9RPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19e221ec23066645",
-      "emailDate": "2026-05-13T16:15:01.000Z"
-    },
-    {
       "merchant": "Journeys",
       "percentBack": 24,
       "wasPercent": 2,
@@ -98,6 +98,18 @@
       "source": "single-use",
       "emailMessageId": "19e228383278676b",
       "emailDate": "2026-05-13T18:05:03.000Z"
+    },
+    {
+      "merchant": "Tripadvisor",
+      "percentBack": 20,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-05-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cWxvbWwway9XMWE3QXgxYU9qTmZ4d3Fhd2pQMHdmcGNvL3MzS09Gb3Z6RlZ5aTJRN2FOdjFqLzRIREpuSjBxL0pVeXNDRFdLV0FiSVgrRnN6Nk9PRHhTeDBjaTNtVUx6N3E1OHdRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e30f93e41880a2",
+      "emailDate": "2026-05-16T13:28:20.000Z"
     },
     {
       "merchant": "IHG",
@@ -176,12 +188,12 @@
       "percentBack": 14,
       "wasPercent": 3,
       "lastViewed": null,
-      "expiresAt": "2026-05-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dC84NlBwaC8ybWc3b3ROWTgyNllVRkUrSDFQaktBQ1V2SkpMWHNoOWdqOFEwREdsVlYvL1FxQitoVlBzQUFtdGxMQkY0RXY1L1hyUVVpeTNhZDMvQXZpWFUxZytLSGhXNEpZZTJnPT0/runV3dl",
+      "expiresAt": "2026-05-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OUhHaHU3ZW9GNnJHQ2oxVC8vcit3bTJVaUw2ZjRwM2RscllCc2g3bGRHSyttL2pvWTZ5ZStkRDJLNWoxcmpCcHlXQlluWDNseDltREY2RFBBNFI0Y2taUUl4dkpnb3ptTTFBYkpRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19e2ba81237eeac0",
-      "emailDate": "2026-05-15T12:41:35.000Z"
+      "emailMessageId": "19e30f93e41880a2",
+      "emailDate": "2026-05-16T13:28:20.000Z"
     },
     {
       "merchant": "Woot",
@@ -242,6 +254,18 @@
       "source": "single-use",
       "emailMessageId": "19e2161e9319cbbc",
       "emailDate": "2026-05-13T12:48:45.000Z"
+    },
+    {
+      "merchant": "Brooks Running",
+      "percentBack": 7,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-05-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SUg3amxPdnhVMGRqYWp1STloYk5FTkNqd1A3SGxYemttUTRXTUxZTVBUWXh4ZGJhb3FKWGxFeHhyRythMnA1TTYwckNMbWlSbkE3Yis0TS9aYytuc3poQ0sxUlkvQVdEUVJDeUlnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=brooksrunning.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19e30f93e41880a2",
+      "emailDate": "2026-05-16T13:28:20.000Z"
     },
     {
       "merchant": "Agoda",
