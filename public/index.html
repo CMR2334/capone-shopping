@@ -252,22 +252,13 @@
     white-space: nowrap;
     display: inline-block;
   }
-  .badge-exclusive {
-    color: #6d28d9;
-    background: rgba(109, 40, 217, 0.10);
-    font-size: 9.5px; font-weight: 600;
-    padding: 3px 7px; border-radius: 4px;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    white-space: nowrap;
-    display: inline-block;
-  }
-  .cap-label {
-    font-size: 11px;
+  .cap-inline {
+    font-size: 11px; font-weight: 400;
     color: var(--muted);
-    margin-top: 2px;
-    letter-spacing: 0.01em;
+    margin-left: 5px;
+    vertical-align: 0.18em;
     font-feature-settings: 'tnum';
+    white-space: nowrap;
   }
   .expiry-soon { color: var(--alert); font-weight: 500; }
 
@@ -607,9 +598,8 @@
         <div class="card" data-href="${escapeAttr(o.activationUrl || '')}" data-merchant="${escapeAttr(o.merchant)}" data-percent="${o.percentBack}" role="link" tabindex="0">
           <div class="logo">${logoHtml}</div>
           <div class="info">
-            <div class="percent">${o.percentBack}<span class="pct-unit">%</span><span class="back-word">back</span></div>
+            <div class="percent">${o.percentBack}<span class="pct-unit">%</span><span class="back-word">back</span>${o.capAmount ? `<span class="cap-inline">· up to $${o.capAmount}</span>` : ''}</div>
             <div class="merchant">${escapeHtml(o.merchant)}</div>
-            ${o.capAmount ? `<div class="cap-label">up to $${o.capAmount}</div>` : ''}
           </div>
           <div class="expiry-block">${expiryContent}</div>
           <div class="actions">${actionsHtml}</div>
