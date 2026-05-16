@@ -23,7 +23,7 @@ function parseCaponeEmail(html, meta = {}) {
   $('*').each((_, el) => {
     const $el = $(el);
     const text = $el.text().replace(/\s+/g, ' ').trim();
-    if (!text || text.length > 100) return;
+    if (!text || text.length > 160) return;
 
     const match = matchOfferText(text);
     if (!match) return;
@@ -31,14 +31,14 @@ function parseCaponeEmail(html, meta = {}) {
     let descendantMatches = false;
     $el.find('*').each((__, child) => {
       const childText = $(child).text().replace(/\s+/g, ' ').trim();
-      if (childText && childText.length <= 100 && matchOfferText(childText)) {
+      if (childText && childText.length <= 160 && matchOfferText(childText)) {
         descendantMatches = true;
         return false;
       }
     });
     if (descendantMatches) return;
 
-    const { merchant, percentBack, isEarn } = match;
+    const { merchant, percentBack, isEarn, capAmount } = match;
     const merchantKey = merchant.toLowerCase().trim();
     if (seen.has(merchantKey)) return;
     seen.add(merchantKey);
@@ -57,12 +57,13 @@ function parseCaponeEmail(html, meta = {}) {
     offers.push({
       merchant,
       percentBack,
+      capAmount: capAmount || null,
       wasPercent: wasMatch ? parseFloat(wasMatch[1]) : null,
       lastViewed: lastViewedMatch ? lastViewedMatch[1] : null,
       expiresAt: expiry ? expiry.toISOString() : null,
       activationUrl,
       logoUrl,
-      source: isTodaysTop ? 'todays-top' : 'single-use',
+      source: isTodaysTop ? 'todays-top' : (capAmount ? 'personalized' : 'single-use'),
       emailMessageId: meta.messageId || null,
       emailDate: meta.date || null,
     });
@@ -72,12 +73,13 @@ function parseCaponeEmail(html, meta = {}) {
 }
 
 function matchOfferText(text) {
-  const m = text.match(/^(Earn\s+)?(\d+(?:\.\d+)?)%\s*back\s+at\s+(.+?)$/i);
+  const m = text.match(/^(Earn\s+)?(\d+(?:\.\d+)?)%\s*back(?:,\s*up\s+to\s+\$(\d+(?:\.\d+)?))?\s+at\s+(.+?)(?:\s*[-—]\s*single.use.*)?$/i);
   if (!m) return null;
   return {
     isEarn: !!m[1],
     percentBack: parseFloat(m[2]),
-    merchant: m[3].trim(),
+    capAmount: m[3] ? parseFloat(m[3]) : null,
+    merchant: m[4].trim(),
   };
 }
 
