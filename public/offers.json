@@ -1,11 +1,12 @@
 {
-  "lastUpdated": "2026-05-16T16:37:08.115Z",
+  "lastUpdated": "2026-05-16T16:45:48.832Z",
   "sourceCount": 95,
   "parseFailures": 0,
   "offers": [
     {
       "merchant": "Dermstore",
       "percentBack": 30,
+      "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
@@ -16,8 +17,22 @@
       "emailDate": "2026-05-16T13:28:20.000Z"
     },
     {
+      "merchant": "Peak Design",
+      "percentBack": 30,
+      "capAmount": 45,
+      "wasPercent": 3,
+      "lastViewed": "May 10",
+      "expiresAt": "2026-05-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MkhoZlkrbHRuR2F3azI0YnkvUVVYTWZMUXhKcUpHb2R6VFRnTHpvbW14QS9BaWVZMkEvRkRuak9lYjJKUHVPSXNZc1RkZms3VjdwNCt1SDgxeFhmcUx5bjBtMkE5ODFRREhQOU53PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=peakdesign.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "personalized",
+      "emailMessageId": "19e2ba81237eeac0",
+      "emailDate": "2026-05-15T12:41:35.000Z"
+    },
+    {
       "merchant": "Columbia",
       "percentBack": 30,
+      "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
@@ -30,6 +45,7 @@
     {
       "merchant": "Michael Stars",
       "percentBack": 30,
+      "capAmount": null,
       "wasPercent": 3,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
@@ -42,6 +58,7 @@
     {
       "merchant": "Lucky Brand",
       "percentBack": 30,
+      "capAmount": null,
       "wasPercent": 3,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
@@ -54,6 +71,7 @@
     {
       "merchant": "Lands' End",
       "percentBack": 30,
+      "capAmount": null,
       "wasPercent": 3,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
@@ -66,6 +84,7 @@
     {
       "merchant": "tarte cosmetics",
       "percentBack": 30,
+      "capAmount": null,
       "wasPercent": 3,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
@@ -78,6 +97,7 @@
     {
       "merchant": "Journeys",
       "percentBack": 24,
+      "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
@@ -90,6 +110,7 @@
     {
       "merchant": "New Era",
       "percentBack": 24,
+      "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
@@ -102,6 +123,7 @@
     {
       "merchant": "Tripadvisor",
       "percentBack": 20,
+      "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-05-20T07:00:00.000Z",
@@ -114,6 +136,7 @@
     {
       "merchant": "IHG",
       "percentBack": 20,
+      "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-05-18T07:00:00.000Z",
@@ -126,6 +149,7 @@
     {
       "merchant": "Bergdorf Goodman",
       "percentBack": 20,
+      "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
@@ -138,6 +162,7 @@
     {
       "merchant": "Academy Sports + Outdoors",
       "percentBack": 18,
+      "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
@@ -150,6 +175,7 @@
     {
       "merchant": "Saks Fifth Avenue",
       "percentBack": 16,
+      "capAmount": null,
       "wasPercent": 1,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
@@ -162,6 +188,7 @@
     {
       "merchant": "Soma",
       "percentBack": 16,
+      "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
@@ -174,6 +201,7 @@
     {
       "merchant": "lululemon",
       "percentBack": 15,
+      "capAmount": null,
       "wasPercent": 1,
       "lastViewed": null,
       "expiresAt": "2026-05-19T07:00:00.000Z",
@@ -186,6 +214,7 @@
     {
       "merchant": "Viator, a Tripadvisor company",
       "percentBack": 14,
+      "capAmount": null,
       "wasPercent": 3,
       "lastViewed": null,
       "expiresAt": "2026-05-20T07:00:00.000Z",
@@ -198,6 +227,7 @@
     {
       "merchant": "Woot",
       "percentBack": 11,
+      "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-05-19T07:00:00.000Z",
@@ -210,6 +240,7 @@
     {
       "merchant": "SCHEELS",
       "percentBack": 10,
+      "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-05-19T07:00:00.000Z",
@@ -222,6 +253,7 @@
     {
       "merchant": "eBay",
       "percentBack": 9.5,
+      "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-05-18T07:00:00.000Z",
@@ -234,6 +266,7 @@
     {
       "merchant": "GetYourGuide",
       "percentBack": 9,
+      "capAmount": null,
       "wasPercent": 4,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
@@ -246,6 +279,7 @@
     {
       "merchant": "Omio",
       "percentBack": 7.5,
+      "capAmount": null,
       "wasPercent": 1,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
@@ -258,6 +292,7 @@
     {
       "merchant": "Brooks Running",
       "percentBack": 7,
+      "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-05-20T07:00:00.000Z",
@@ -270,6 +305,7 @@
     {
       "merchant": "Agoda",
       "percentBack": 7,
+      "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
@@ -282,6 +318,7 @@
     {
       "merchant": "Vrbo",
       "percentBack": 4,
+      "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-05-17T07:00:00.000Z",
