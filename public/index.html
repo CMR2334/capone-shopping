@@ -252,6 +252,23 @@
     white-space: nowrap;
     display: inline-block;
   }
+  .badge-exclusive {
+    color: #6d28d9;
+    background: rgba(109, 40, 217, 0.10);
+    font-size: 9.5px; font-weight: 600;
+    padding: 3px 7px; border-radius: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    white-space: nowrap;
+    display: inline-block;
+  }
+  .cap-label {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 2px;
+    letter-spacing: 0.01em;
+    font-feature-settings: 'tnum';
+  }
   .expiry-soon { color: var(--alert); font-weight: 500; }
 
   .actions {
@@ -560,7 +577,6 @@
     grid.innerHTML = sorted.map(o => {
       const soon = isSoon(o.expiresAt);
       const expClass = soon ? 'expiry-soon' : '';
-      const topBadge = o.source === 'todays-top' ? `<span class="badge">Today's top</span>` : '';
       const isFav = favs.has(o.merchant);
       const isHiddenView = view === 'hidden';
 
@@ -568,9 +584,12 @@
         ? `<img src="${escapeAttr(o.logoUrl)}" alt="${escapeAttr(o.merchant)}" loading="lazy" onerror="this.parentNode.innerHTML='<span class=\\'logo-fallback\\'>${escapeAttr(o.merchant.charAt(0).toUpperCase())}</span>'"/>`
         : `<span class="logo-fallback">${escapeAttr(o.merchant.charAt(0).toUpperCase())}</span>`;
 
+      const exclusiveBadge = o.source === 'personalized'
+        ? `<span class="badge-exclusive">Exclusive</span>`
+        : '';
       const expiryContent = o.source === 'todays-top'
         ? `<span class="badge">Today's top</span>`
-        : `<span class="${expClass}">${fmtExpiry(o.expiresAt)}</span>`;
+        : `${exclusiveBadge}<span class="${expClass}">${fmtExpiry(o.expiresAt)}</span>`;
 
       let actionsHtml;
       if (isHiddenView) {
@@ -588,6 +607,7 @@
           <div class="info">
             <div class="percent">${o.percentBack}<span class="pct-unit">%</span><span class="back-word">back</span></div>
             <div class="merchant">${escapeHtml(o.merchant)}</div>
+            ${o.capAmount ? `<div class="cap-label">up to $${o.capAmount}</div>` : ''}
           </div>
           <div class="expiry-block">${expiryContent}</div>
           <div class="actions">${actionsHtml}</div>
