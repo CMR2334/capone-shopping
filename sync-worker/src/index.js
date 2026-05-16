@@ -22,20 +22,20 @@ function jsonResponse(body, status, extraHeaders) {
   });
 }
 
-async function readState(env) {
-  const stored = await env.OFFERS_KV.get('state', 'json');
+async function readState(env, token) {
+  const stored = await env.OFFERS_KV.get(`state:${token}`, 'json');
   return stored || { favorites: [], hidden: {}, updatedAt: null };
 }
 
-async function writeState(env, partial) {
-  const current = await readState(env);
+async function writeState(env, token, partial) {
+  const current = await readState(env, token);
   const next = {
     favorites: Array.isArray(partial.favorites) ? partial.favorites : current.favorites,
     hidden:
       partial.hidden && typeof partial.hidden === 'object' ? partial.hidden : current.hidden,
     updatedAt: new Date().toISOString(),
   };
-  await env.OFFERS_KV.put('state', JSON.stringify(next));
+  await env.OFFERS_KV.put(`state:${token}`, JSON.stringify(next));
   return next;
 }
 
@@ -58,13 +58,13 @@ export default {
 
     if (url.pathname === '/state') {
       const auth = request.headers.get('Authorization') || '';
-      const token = auth.replace(/^Bearer\s+/i, '');
-      if (!env.SYNC_TOKEN || token !== env.SYNC_TOKEN) {
+      const token = auth.replace(/^Bearer\s+/i, '').trim();
+      if (!token) {
         return jsonResponse({ error: 'unauthorized' }, 401, cors);
       }
 
       if (request.method === 'GET') {
-        return jsonResponse(await readState(env), 200, cors);
+        return jsonResponse(await readState(env, token), 200, cors);
       }
       if (request.method === 'PUT') {
         let body;
@@ -73,7 +73,7 @@ export default {
         } catch {
           return jsonResponse({ error: 'invalid json' }, 400, cors);
         }
-        return jsonResponse(await writeState(env, body), 200, cors);
+        return jsonResponse(await writeState(env, token, body), 200, cors);
       }
       return jsonResponse({ error: 'method not allowed' }, 405, cors);
     }
@@ -81,7 +81,7 @@ export default {
     if (url.pathname === '/action') {
       const params = url.searchParams;
       const token = params.get('token');
-      if (!env.SYNC_TOKEN || token !== env.SYNC_TOKEN) {
+      if (!token) {
         return htmlResponse('Unauthorized', 'Invalid or missing token.', '#c8262f');
       }
 
@@ -91,14 +91,14 @@ export default {
         return htmlResponse('Missing parameters', 'Action URL is malformed.', '#c8262f');
       }
 
-      const state = await readState(env);
+      const state = await readState(env, token);
 
       if (type === 'favorite') {
         const set = new Set(state.favorites);
         const wasIn = set.has(merchant);
         if (wasIn) set.delete(merchant);
         else set.add(merchant);
-        await writeState(env, { ...state, favorites: [...set] });
+        await writeState(env, token, { ...state, favorites: [...set] });
         return htmlResponse(
           wasIn ? `${merchant} unfavorited` : `${merchant} favorited`,
           'Synced across your devices. You can close this tab.'
@@ -108,7 +108,7 @@ export default {
       if (type === 'hide') {
         const percent = parseFloat(params.get('percent') || '0');
         state.hidden[merchant] = percent;
-        await writeState(env, state);
+        await writeState(env, token, state);
         return htmlResponse(
           `${merchant} hidden`,
           `Will reappear if it returns above ${percent}% back.`
@@ -117,7 +117,7 @@ export default {
 
       if (type === 'unhide') {
         delete state.hidden[merchant];
-        await writeState(env, state);
+        await writeState(env, token, state);
         return htmlResponse(`${merchant} unhidden`, 'Will show again on next sync.');
       }
 

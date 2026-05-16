@@ -421,6 +421,8 @@
       const search = params.toString();
       const clean = window.location.pathname + (search ? '?' + search : '') + window.location.hash;
       window.history.replaceState({}, '', clean);
+    } else if (!localStorage.getItem(KEY_TOKEN)) {
+      localStorage.setItem(KEY_TOKEN, crypto.randomUUID());
     }
   })();
 
