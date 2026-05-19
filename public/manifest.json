@@ -1,16 +1,22 @@
 {
-  "name": "Capital One Shopping",
-  "short_name": "Shopping",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#f7f4ec",
-  "theme_color": "#003a6c",
-  "icons": [
-    {
-      "src": "favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ]
+    "name": "Capital One Shopping",
+    "short_name": "Shopping",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#f7f4ec",
+    "theme_color": "#003a6c",
+    "icons": [
+          {
+                  "src": "icon.png",
+                  "sizes": "512x512",
+                  "type": "image/png",
+                  "purpose": "any maskable"
+          },
+          {
+                  "src": "favicon.svg",
+                  "sizes": "any",
+                  "type": "image/svg+xml",
+                  "purpose": "any"
+          }
+    ]
 }
