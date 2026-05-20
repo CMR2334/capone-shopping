@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T05:51:12.211Z",
+  "lastUpdated": "2026-05-20T08:55:59.365Z",
   "sourceCount": 89,
   "parseFailures": 0,
   "offers": [
@@ -134,19 +134,6 @@
       "emailDate": "2026-05-17T12:49:33.000Z"
     },
     {
-      "merchant": "Michael Stars",
-      "percentBack": 20,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": "May 15",
-      "expiresAt": "2026-05-20T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SXhaYW1qejZFbzBpNURyTHhuM3FOaFdRS1NuR3I2Z1RSdlV2QTVRUThBYitlcXhIbWo0UkZpVktLZWVmZDc1SDdyb2tST2c3VlJCbm4zdi9wOURNbSt2QXVjYTNYZDVNdW52NTJRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=michaelstars.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "19e32a203f90f114",
-      "emailDate": "2026-05-16T21:12:18.000Z"
-    },
-    {
       "merchant": "IHG",
       "percentBack": 16,
       "capAmount": null,
@@ -264,19 +251,6 @@
       "emailDate": "2026-05-17T12:49:33.000Z"
     },
     {
-      "merchant": "GetYourGuide",
-      "percentBack": 9,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-05-20T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QXRwV3BKemNvUG1HdE5qWTcyR25JSUoxQXZTQnloeEIzV0NxQW9ieUp1bTU1dHJHRStNa1pocWpnL3cxd3JpV2NrNHhKeEQ4Wm0vYkJaTVcvMWd2R2NGVTFod0tMNllTejByL0J3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=getyourguide.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19e32a203f90f114",
-      "emailDate": "2026-05-16T21:12:18.000Z"
-    },
-    {
       "merchant": "Caesars Rewards",
       "percentBack": 8,
       "capAmount": null,
@@ -288,19 +262,6 @@
       "source": "single-use",
       "emailMessageId": "19e3b6bb4103d36c",
       "emailDate": "2026-05-18T14:09:34.000Z"
-    },
-    {
-      "merchant": "Omio",
-      "percentBack": 7.5,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-05-20T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aVhjRGdzQTRPcGpNUEQ3YXI2SFFsNXhXbmQvaXV3VTd3OWh0R2tQZCs1NWd1Z0lTYkdEL24rdnhQcE1BUGNvTi9ySHVIa1lLTDg4MHA5UUxRS3JwbHFDTGVIR0dxdldzZ21uQnhnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=omio.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19e32a203f90f114",
-      "emailDate": "2026-05-16T21:12:18.000Z"
     },
     {
       "merchant": "iHerb",
