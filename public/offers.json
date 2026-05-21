@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T04:51:32.669Z",
+  "lastUpdated": "2026-05-21T08:28:06.872Z",
   "sourceCount": 89,
   "parseFailures": 0,
   "offers": [
@@ -30,32 +30,6 @@
       "emailDate": "2026-05-18T14:09:34.000Z"
     },
     {
-      "merchant": "Reebok",
-      "percentBack": 30,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-05-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dXdvWElTUFRmM1FEQkxNbVRaeFFScXpYcXlIaHQ5QkxHLzh4TEltL2JDQUVkVzU5a1lqd1B3Q3hBdmZiZ2lGRUlsVGRIUjdLbnNHZ0JlSjNCTnBiUXFHWVNuWHhuSnVGVmhwdC9RPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=reebok.com&width=180&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e35fc18b251a67",
-      "emailDate": "2026-05-17T12:49:33.000Z"
-    },
-    {
-      "merchant": "Fanatics",
-      "percentBack": 30,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-05-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6c1hramF6MUlRcjV4akM0SC9mWXdOMWdoQWVvV0pDUW5ZVStldlp4T2o0UmVTWnYzOFRyV2MvMERZUkhVVE0yY25xcU9zazFVc1l1akpmUUxIVW15MlcvZERNTm9KVG5vUUhvSTFRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fanatics.com&width=180&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e35fc18b251a67",
-      "emailDate": "2026-05-17T12:49:33.000Z"
-    },
-    {
       "merchant": "Tripadvisor",
       "percentBack": 28,
       "capAmount": null,
@@ -82,19 +56,6 @@
       "emailDate": "2026-05-18T14:09:34.000Z"
     },
     {
-      "merchant": "MLB Shop",
-      "percentBack": 26,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-05-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q1VETFdVTDMxa0lVNUZvUlJNWlBpU3JsREZpU3dMazJZekpXMTVmY0tjY2FocmJCZDBIZzdha1JVYWRzbjZyekErL296bExrYVBRNmc5REVXZGE2NzZndTJyNy9CSENDanFTc1hRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=mlbshop.com&width=180&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e35fc18b251a67",
-      "emailDate": "2026-05-17T12:49:33.000Z"
-    },
-    {
       "merchant": "Best Western Hotels & Resorts",
       "percentBack": 24,
       "capAmount": null,
@@ -108,58 +69,6 @@
       "emailDate": "2026-05-18T14:09:34.000Z"
     },
     {
-      "merchant": "New Balance",
-      "percentBack": 24,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-05-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NndSMEdUUXU4ZGhRTVNnVHVzcXQxUnV3TVB4QmI3c3VjZE9BeUZzTzBnY0lKeEpSSGd4VUd6Qit5UTZCcGhSRU5Qa2FnZEIybFhaaG9DT1JJMmEybWJpM2huLzhBaGpsQ0NNQXhRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=newbalance.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e35fc18b251a67",
-      "emailDate": "2026-05-17T12:49:33.000Z"
-    },
-    {
-      "merchant": "lululemon",
-      "percentBack": 20,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-05-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MGUyNFcxSC9KSmpZUElMNjRqUzBNQzlhSW1Ca2dxRktYSW5HNWhrTWd3b3BTK1ZzNENhQ0hON1Uya29ZMjJoVW0xTUdzTWVOc2ZNdEVGVFFTa085ZWZ1QUI4TkhobzZ4bmVKcVBBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lululemon.com&width=180&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e35fc18b251a67",
-      "emailDate": "2026-05-17T12:49:33.000Z"
-    },
-    {
-      "merchant": "Joe's New Balance Outlet",
-      "percentBack": 20,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-05-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6KzZNY0Fxb0ZKRU13OC9leHR6VE9JdFFPU0dDY2ZLZUpGNHkxbi9PUTdVQUhuM2lUR2dpTFRTcnZpc3pxVE9qSWlxVjA3TGhqQkI1cXkwTHoxVXZrekhacGRXRE9GSnVUZkxtQmFRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=joesnewbalanceoutlet.com&width=180&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e35fc18b251a67",
-      "emailDate": "2026-05-17T12:49:33.000Z"
-    },
-    {
-      "merchant": "Castlery",
-      "percentBack": 17.5,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-05-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UmZ5QmVjQkNvWVZpZjFKUGhxQ1pnZEZzL05RV1NIUHI3aktveGlucm5uQlBxdHFQRjVQQ0tadE1GSFQwSFlnYklPRnh5S0ZoUy9zMHRPRjBsYUNJTVVITG15a3dQRDk3bkhlckdBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=castlery.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "19e48705a280f5d7",
-      "emailDate": "2026-05-21T02:49:42.000Z"
-    },
-    {
       "merchant": "IHG",
       "percentBack": 16,
       "capAmount": null,
@@ -171,32 +80,6 @@
       "source": "single-use",
       "emailMessageId": "19e3b6bb4103d36c",
       "emailDate": "2026-05-18T14:09:34.000Z"
-    },
-    {
-      "merchant": "Brooks Running",
-      "percentBack": 16,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-05-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6KzR5ZnNWeUJNaWd3RHY5RUhKWnJIRDVuL1hWUUVXWi9WanAvc3MrY1QwM1lEOXdadWR6Q1dpOEx3K0N5eElWcVovWC9tcUhtRDZpL3Zrb2s5WnFaNm12U2sxdDZwS25ZS2VNSnR3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=brooksrunning.com&width=180&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e35fc18b251a67",
-      "emailDate": "2026-05-17T12:49:33.000Z"
-    },
-    {
-      "merchant": "TaylorMade Golf",
-      "percentBack": 16,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-05-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TkJjQWRWTGxvMXN6cGdFbWk3UW5QTENpYWc1dEJjUkZCODIyZEE3Wm1Ec1AxM21lcHZSdlZDQWVPYnNITGIrU1g3aHpnS2dsUUVnTU1Kb29vdzJ5MmxnRzNnOHZ1R2tmdWVBRUp3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=taylormadegolf.com&width=180&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e35fc18b251a67",
-      "emailDate": "2026-05-17T12:49:33.000Z"
     },
     {
       "merchant": "Viator, a Tripadvisor company",
@@ -223,19 +106,6 @@
       "source": "single-use",
       "emailMessageId": "19e3b6bb4103d36c",
       "emailDate": "2026-05-18T14:09:34.000Z"
-    },
-    {
-      "merchant": "DICK'S Sporting Goods",
-      "percentBack": 14,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-05-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Zkx0a2JYWk1ubTVsRklUckVYNE9ockxnUGFNdFFlc0g0NklPRlVOclh6OFcxSFozRi80N3kxYnlOUGRCYkFoRnhZVzRxd3h2dWU2eWxzTkFLREx2cnpxZ0ZsVC8yVkNNRW9qMnZ3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dickssportinggoods.com&width=180&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e35fc18b251a67",
-      "emailDate": "2026-05-17T12:49:33.000Z"
     },
     {
       "merchant": "Big Bus Tours",
@@ -288,32 +158,6 @@
       "source": "single-use",
       "emailMessageId": "19e48705a280f5d7",
       "emailDate": "2026-05-21T02:49:42.000Z"
-    },
-    {
-      "merchant": "Nike",
-      "percentBack": 10,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-05-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TSs5TGp6cW5aQVc4RlN1MFA1bHdwVzZzaU1yVjlvNCswTHRKMzd2SDhMOVB3aGMzck5zNnhMTFpvRjJoYWxyYlBEZ2dFbHFUNzRVcnNGSDVWV3RQZXMrV3pKR2paeXlXSXZ2cndBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nike.com&width=180&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e35fc18b251a67",
-      "emailDate": "2026-05-17T12:49:33.000Z"
-    },
-    {
-      "merchant": "Golf Galaxy",
-      "percentBack": 10,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-05-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Z2tYZ2o4dytEMDROM3c5QnFMc2d4NldwN2dkaDRRZjAwZGtIaXo2QW1ONnBnSUsxb3g5NVN2V0pyditWdmxwS1lvMVdJMzl1dWFrdDNLd09DSTJHWjZESDA5ZVRldEx3UXZIcnF3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=golfgalaxy.com&width=180&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e35fc18b251a67",
-      "emailDate": "2026-05-17T12:49:33.000Z"
     },
     {
       "merchant": "Caesars Rewards",
