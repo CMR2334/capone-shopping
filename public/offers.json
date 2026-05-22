@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-22T14:00:01.437Z",
-  "sourceCount": 87,
+  "lastUpdated": "2026-05-22T16:29:04.918Z",
+  "sourceCount": 88,
   "parseFailures": 0,
   "offers": [
     {
@@ -15,6 +15,19 @@
       "source": "single-use",
       "emailMessageId": "19e4f1dd2ec9ca83",
       "emailDate": "2026-05-22T09:56:54.000Z"
+    },
+    {
+      "merchant": "Under Armour",
+      "percentBack": 48,
+      "capAmount": null,
+      "wasPercent": 4.5,
+      "lastViewed": null,
+      "expiresAt": "2026-05-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UTZwRzBwZi9yTFVOaUNlVkdJY0ZyTUc2eGRBSHpqMU5XanlMVjBiYVFuc2E3RysrOEMxNVduNEpieWRNODI1Y21vM2Y0Z2kxRFRkd0ZBVjBHdGlPWktZd1RzbDE5SXREdUg3TldnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=underarmour.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e506a40f4d10c5",
+      "emailDate": "2026-05-22T16:00:00.000Z"
     },
     {
       "merchant": "LATHER",
@@ -69,6 +82,32 @@
       "emailDate": "2026-05-21T02:49:42.000Z"
     },
     {
+      "merchant": "Zales",
+      "percentBack": 30,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-05-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MTNkRTdjSWYxVU84R2hFWmc0SmZkQVU5cmNUZ0J3ZnFyUmIxZndrQVdGMUgyOUJKU2h1STRnZW0ySkwwaVVvRGVpMFFZVHprMVV6allXRE5kK2hITlZoNEVjWHlwYnBpK1BObWFRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=zales.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e506a40f4d10c5",
+      "emailDate": "2026-05-22T16:00:00.000Z"
+    },
+    {
+      "merchant": "Crocs",
+      "percentBack": 30,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-05-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6R3RBdVQ3eG1kMlpmdndUL201UG5FeTBPZWJqeFRDaUZSd1d3amY4TGN0VjZXSm5qL2ttajNqeVdTNEtXcGEwTEtCZkEwNzZPeUs2MlpmYUYvSC9SMGRaMmxUaE9mdGYrY3pPRDlnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=crocs.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e506a40f4d10c5",
+      "emailDate": "2026-05-22T16:00:00.000Z"
+    },
+    {
       "merchant": "SIXT Rent A Car",
       "percentBack": 30,
       "capAmount": null,
@@ -108,6 +147,45 @@
       "emailDate": "2026-05-21T13:00:22.000Z"
     },
     {
+      "merchant": "HEYDUDE",
+      "percentBack": 26,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-05-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aEt1Q3JrOHIxekdQTmVFVTVOdFUyY0t4akpZK2VsMGljbmJMMFN2MHRYWXk4b1J4L2RianRjam5tcmlwanByd2JhWFFOS05oRTJnaXpwMFluWTVvYkFZZnZva0VCZW1NeXFLak13PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=heydude.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e506a40f4d10c5",
+      "emailDate": "2026-05-22T16:00:00.000Z"
+    },
+    {
+      "merchant": "Journeys",
+      "percentBack": 24,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-05-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a2IwTnpyTDU5cnY5NTVrMklSTGNmZlVlSjVpcGlqMVZlVmpRTjAxYW1zU1FYSHFxUmdJRGc4YWlTZ1dwd281dVEzQ29pZ2tvQjM2UUtPNS95OUllM2d0K3pNMnduQ0FlblNwdnN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=journeys.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e506a40f4d10c5",
+      "emailDate": "2026-05-22T16:00:00.000Z"
+    },
+    {
+      "merchant": "Kay Jewelers",
+      "percentBack": 24,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-05-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6L2dDTlJzSDhuOE05ODNCQ2svMnZvYkRPRXpRcWxqcUNuZGVtdTQzRUtCZFJpSHZCYk5FWlk5UC9LWkJMKzUvRk9hZ2Y1c3ZmbjAwNG8yaW9sNzdENUQ5d0lmZUcvTHhDWVkxbGp3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=kay.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e506a40f4d10c5",
+      "emailDate": "2026-05-22T16:00:00.000Z"
+    },
+    {
       "merchant": "Angara",
       "percentBack": 24,
       "capAmount": null,
@@ -129,19 +207,6 @@
       "expiresAt": "2026-05-25T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OC9qZjdTZ3FGaHhVbDZvOFlLYlZNS2thWDVwSXNnc0R6cjgraDQ5MHBxb0VEMzM1Vm5QenNOYmQzalV1a3FFQXEyT2Uxd1QwNXloS3RLVG9aT3RNY1NoTTNvZkhSOXpxMjFpOGlBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=newbalance.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e4a9f707b8b0ea",
-      "emailDate": "2026-05-21T13:00:22.000Z"
-    },
-    {
-      "merchant": "Journeys",
-      "percentBack": 24,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-05-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QUNicTlxMjdVVitQa2toY1V6VGlVUFQ4cTVDeUZPOTJtcnE3ZWZlbnN4YnByQjB1T3BBUStEbTdQVjlpZWFMY3k3czlnZ3RldVVWNkc5WDltMnhFaTBOTHhQK0tmSzdCQTVuMmNBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=journeys.com&width=180&fallback=true&type=cropped&opaque=true",
       "source": "single-use",
       "emailMessageId": "19e4a9f707b8b0ea",
       "emailDate": "2026-05-21T13:00:22.000Z"
@@ -184,6 +249,19 @@
       "source": "single-use",
       "emailMessageId": "19e4a9f707b8b0ea",
       "emailDate": "2026-05-21T13:00:22.000Z"
+    },
+    {
+      "merchant": "Hibbett",
+      "percentBack": 18,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-05-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6clk5cUFaZTNaWVRva0lvbUJpWmR0cForQkREM3ZqUWsrRk1WcE40TURVRzNjbFJlN3BNMkxzQ0krMnVWZlFibmVQN0trV1I0TWt2dnZ0djhGZjBNZUtUSFdaQkEvRVp4bFdJNkJBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hibbett.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e506a40f4d10c5",
+      "emailDate": "2026-05-22T16:00:00.000Z"
     },
     {
       "merchant": "Chaco",
@@ -342,6 +420,19 @@
       "emailDate": "2026-05-21T02:49:42.000Z"
     },
     {
+      "merchant": "Academy Sports + Outdoors",
+      "percentBack": 12,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": "May 11",
+      "expiresAt": "2026-05-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YmM4K2FyWUZXT1EzSXJUQVI4VUhEcHJObldFVWNuY3l5aHFvS1hkTnpZVVphVS9kK3htak5qTWFhYmVqdktDZnNHT1Rac1ByeU5ObFE5dXpISzh4UzJlVEFIR3hwbzBxU3hycjJnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=academy.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e506a40f4d10c5",
+      "emailDate": "2026-05-22T16:00:00.000Z"
+    },
+    {
       "merchant": "Little Spoon",
       "percentBack": 12,
       "capAmount": null,
@@ -379,6 +470,19 @@
       "source": "single-use",
       "emailMessageId": "19e4bb284839fdc0",
       "emailDate": "2026-05-21T18:00:50.000Z"
+    },
+    {
+      "merchant": "Ace Hardware",
+      "percentBack": 11,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-05-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bzFPQ2Jva2x5dVN6VlNza1l3dnBpbXRhbXZFa0JQcU5RK2xHdzRid0ZlWjRWSFpuay9CVVg5SkVsMHNPRXRFdnlXUlpRRXRTNWRJTmNZWFJ2UDcyOGFZR1RpMHd3WTFJbmovMlJ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=acehardware.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e506a40f4d10c5",
+      "emailDate": "2026-05-22T16:00:00.000Z"
     },
     {
       "merchant": "JCPenney",
@@ -420,6 +524,19 @@
       "emailDate": "2026-05-21T02:49:42.000Z"
     },
     {
+      "merchant": "Nike",
+      "percentBack": 10,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-05-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q3R2R0pyOElBWlhyN0tUNE5iK01tRUlLd2R5MWh2ZHJZWEM4Ylg5S0Q4V0s5UmU3N0hlN01LZys5amRhTkZ3dWVxUitrWjFNYzdhdTNTSjd5MmU3ekZWZTVTcnNvM1cvVThDekVRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nike.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19e506a40f4d10c5",
+      "emailDate": "2026-05-22T16:00:00.000Z"
+    },
+    {
       "merchant": "Gap Factory",
       "percentBack": 10,
       "capAmount": null,
@@ -457,19 +574,6 @@
       "source": "single-use",
       "emailMessageId": "19e4b31e1d0524a3",
       "emailDate": "2026-05-21T15:40:20.000Z"
-    },
-    {
-      "merchant": "Nike",
-      "percentBack": 10,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-05-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bW50ajlZNlpwWiticm9HWXFyenZ0Vmk0YThHcVEvNUFPajEyT2pYVlkvdkZ1V0Mrek9qdDcrZm5BQUZTR0ozb2p4MHlZRDZFb2UwMGhLeUFhdnUvdTRMS21BVlBlSEhYa2Y0RGpRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nike.com&width=180&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e4a9f707b8b0ea",
-      "emailDate": "2026-05-21T13:00:22.000Z"
     },
     {
       "merchant": "GetYourGuide",
