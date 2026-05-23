@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-23T01:28:02.110Z",
-  "sourceCount": 87,
+  "lastUpdated": "2026-05-23T05:02:19.180Z",
+  "sourceCount": 88,
   "parseFailures": 0,
   "offers": [
     {
@@ -212,6 +212,19 @@
       "emailDate": "2026-05-21T13:00:22.000Z"
     },
     {
+      "merchant": "GNC",
+      "percentBack": 20,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-05-26T07:00:00.000Z",
+      "activationUrl": null,
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "19e5280b64ad5399",
+      "emailDate": "2026-05-23T01:43:47.000Z"
+    },
+    {
       "merchant": "IHG",
       "percentBack": 20,
       "capAmount": null,
@@ -223,19 +236,6 @@
       "source": "single-use",
       "emailMessageId": "19e4fcd3f6302d13",
       "emailDate": "2026-05-22T13:08:31.000Z"
-    },
-    {
-      "merchant": "GNC",
-      "percentBack": 20,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-05-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NEdpaFZSdmFGaDFvRWE0L1lnMk1BTnJaZUZvd1BicGVpRHN4TTlGTE81STRTUzVuem1PYlZLVkcxM0JJeVUwZDZoSzVMM0RZb1Bsa3ZrRUd3L21veEZNdzhzMW1mNE9jWGI2Mk1BPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gnc.com&width=180&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e4f1dd2ec9ca83",
-      "emailDate": "2026-05-22T09:56:54.000Z"
     },
     {
       "merchant": "Xero Shoes",
