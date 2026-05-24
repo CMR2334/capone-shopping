@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T04:38:17.826Z",
+  "lastUpdated": "2026-05-24T07:40:18.138Z",
   "sourceCount": 86,
   "parseFailures": 0,
   "offers": [
@@ -67,19 +67,6 @@
       "source": "single-use",
       "emailMessageId": "19e4a9f707b8b0ea",
       "emailDate": "2026-05-21T13:00:22.000Z"
-    },
-    {
-      "merchant": "FRAME",
-      "percentBack": 36,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-05-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Zllrb2lmQ3ZjbjFNS29pd1NHYVJhVjR2OVQ5YkU3UUVDY1FhSmdraDVaMndkRWs1Q0g4YnV0SDA0b2RvTE1pQ1QxdTM5LzhtbzljTWs2em9QQ29DZk53a1pjOGI0eisvVTZFSC9BPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoframe-store.com,sLyyGaLldIGUIfalL1DmAas1Kh-hkZdJ6l562GheaRHE/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/ed08e931ebf552979642181b.jpeg",
-      "source": "single-use",
-      "emailMessageId": "19e48705a280f5d7",
-      "emailDate": "2026-05-21T02:49:42.000Z"
     },
     {
       "merchant": "Zales",
@@ -407,19 +394,6 @@
       "emailDate": "2026-05-21T18:00:50.000Z"
     },
     {
-      "merchant": "Big Bus Tours",
-      "percentBack": 13,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-05-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WVZvTGhWQUh0K3A4d2pYYWUvMnNQT3MrYlBxcHR1QmtwN1dJam01MU0wQzdqYktjTGcycUs0M2p5bG4xdEtWd1U3bjJJZUtFYlpyelVaUHFQYzQ4M2o0L05HZTdpS3cxbyt6ZXBRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19e48705a280f5d7",
-      "emailDate": "2026-05-21T02:49:42.000Z"
-    },
-    {
       "merchant": "Academy Sports + Outdoors",
       "percentBack": 12,
       "capAmount": null,
@@ -496,32 +470,6 @@
       "source": "single-use",
       "emailMessageId": "19e4bb284839fdc0",
       "emailDate": "2026-05-21T18:00:50.000Z"
-    },
-    {
-      "merchant": "Fairmont Hotels & Resorts",
-      "percentBack": 11,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-05-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WnI2eUI0MzJRalBUNm5scStDTXZZVC84dkRXODNsRmxIZThwaXhJYnYwYU1aUm5uQWRoNHlsalBVVUZDd0pDbXhyZlBpK0pScmVKSVEvSzgrSVk4ZjMyd1NCd2NYRjk2UnBZY1lnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fairmont.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19e48705a280f5d7",
-      "emailDate": "2026-05-21T02:49:42.000Z"
-    },
-    {
-      "merchant": "Hilton",
-      "percentBack": 11,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-05-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U2N4eDAwQmdzbm9hMTVIZDloS3ZOcVZmVUMvOVB1RWpiOUx6YXlIR255bHNVUEgvMGNxVkxRQzI1bFJFREJlZXdzNUJrQ3UwZVh1WVVCaUJYZGVUQkZDMlRMWFhNWHdmS0NOejN3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hilton.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19e48705a280f5d7",
-      "emailDate": "2026-05-21T02:49:42.000Z"
     },
     {
       "merchant": "Nike",
