@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-27T01:32:22.332Z",
-  "sourceCount": 82,
+  "lastUpdated": "2026-05-27T06:02:11.677Z",
+  "sourceCount": 83,
   "parseFailures": 0,
   "offers": [
     {
@@ -449,14 +449,14 @@
       "merchant": "GetYourGuide",
       "percentBack": 9,
       "capAmount": null,
-      "wasPercent": 4,
+      "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-05-30T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Z1VJV1YvMGh5ODZEZVNJb0o5WTdLK3lhQUNYaExVU3BrUmU0MXBqUE9CMFdmYlkzaGUvbHY3SEczTVFnanNwajJ5YTMzaTNPVHdkNktPSnJXRjZMTDFKTmtuV2xLdmxONzlTMHlRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=getyourguide.com&width=180&fallback=true&type=cropped&opaque=true",
+      "activationUrl": null,
+      "logoUrl": null,
       "source": "single-use",
-      "emailMessageId": "19e64f3653c42b4e",
-      "emailDate": "2026-05-26T15:42:12.000Z"
+      "emailMessageId": "19e6711b23fe0060",
+      "emailDate": "2026-05-27T01:34:33.000Z"
     },
     {
       "merchant": "The Laundress",
