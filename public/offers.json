@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-28T14:24:04.034Z",
-  "sourceCount": 78,
+  "lastUpdated": "2026-05-28T17:48:18.361Z",
+  "sourceCount": 77,
   "parseFailures": 0,
   "offers": [
     {
@@ -15,6 +15,19 @@
       "source": "single-use",
       "emailMessageId": "19e6980b1ba98b6e",
       "emailDate": "2026-05-27T12:55:01.000Z"
+    },
+    {
+      "merchant": "Zales",
+      "percentBack": 30,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-05-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YkFVcFhRV0hPdG42MDh2TGRCVndkTXB0VS90dGJUZW1HTFFBcVpCdFY2WlBXQk9YL1dBMjJ2L2Z4RnZmeGpyN0x5bU4rQ0hMamRPRDhzQ0RlbEFBaEN6RDhHUWI0ZVNSOStwR0dBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=zales.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19e6f39fc417923c",
+      "emailDate": "2026-05-28T15:35:31.000Z"
     },
     {
       "merchant": "SIXT Rent A Car",
@@ -95,19 +108,6 @@
       "emailDate": "2026-05-25T09:59:23.000Z"
     },
     {
-      "merchant": "Tripadvisor",
-      "percentBack": 28,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": "May 2",
-      "expiresAt": "2026-05-30T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MG43VTZjR0hKem91eW5ZRVRJcFpCMGpkcEc0L1ljdm5aWlBrWE80aWRQVWFOVC9QNWd3empJRVBBTnZlVy95TWxGMG82VnJOSko0MmpGL1JHaXBGMGk3WU11NjRTc3FMSDd5UGV3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e64f3653c42b4e",
-      "emailDate": "2026-05-26T15:42:12.000Z"
-    },
-    {
       "merchant": "Bali Bras",
       "percentBack": 28,
       "capAmount": null,
@@ -119,6 +119,19 @@
       "source": "single-use",
       "emailMessageId": "19e64f3653c42b4e",
       "emailDate": "2026-05-26T15:42:12.000Z"
+    },
+    {
+      "merchant": "Tripadvisor",
+      "percentBack": 26,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Y3RIK05kMlVOaHhYTUhEMnpvck9tR01jRm1NWUV2M2s3a3NvTWJVTldvaXNUVzRIcTRVRGxlZWNDR2kzSG1YOWhwdzZtVDRXYUpsTjV0akJmYUs1ak9qaXV3QTVhNGJrZy9YY3FnPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logotripadvisor.com,soJigPt19Y5D-SiPT8a9FvRyVwJGN5WJfj2IaLaC6TDE/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/c5daac299f3ba723dc1544df.jpeg",
+      "source": "single-use",
+      "emailMessageId": "19e6f39fc417923c",
+      "emailDate": "2026-05-28T15:35:31.000Z"
     },
     {
       "merchant": "Big Bus Tours",
@@ -576,6 +589,19 @@
       "emailDate": "2026-05-25T09:59:23.000Z"
     },
     {
+      "merchant": "vegas.com",
+      "percentBack": 6,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QU4xRjZrSksrUS9hSkVXdDIvVm5FNHlHNE5sL2FKOTV2OTNUMDIxOCtmWUFnREdaaWJNd0YyUXJxQTVxYnVMNU9MRU1kYkNGaWVsVGc1NnZkZ2c5ZS9uL0JzNlByak5NYWloZ3B3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vegas.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e6f39fc417923c",
+      "emailDate": "2026-05-28T15:35:31.000Z"
+    },
+    {
       "merchant": "Cadence",
       "percentBack": 6,
       "capAmount": null,
@@ -626,6 +652,32 @@
       "source": "single-use",
       "emailMessageId": "19e5e932c7dd3660",
       "emailDate": "2026-05-25T09:59:23.000Z"
+    },
+    {
+      "merchant": "Fairmont Hotels & Resorts",
+      "percentBack": 4,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-06-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6REpjcDRoNC90Qks0bVl6THhROForRVhVWjdkcHMzNENjbWM1WlR6ZXUvOHRLL2tWWU1td0cvNmQvTSttN29xNVhZckJNZFEzdHY2YVVSOHB5bXM4VWUrbzdZcTY3Yk82Z1phQytnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fairmont.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e6f39fc417923c",
+      "emailDate": "2026-05-28T15:35:31.000Z"
+    },
+    {
+      "merchant": "Princess Cruises",
+      "percentBack": 4,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZXE5OHRacllXTFhxemNUcDRFV1lKcHNLa1NGZlJFTGdSM1ZXTW4rYXFkQXlTNVhOL2J1WU12WmhqUC81a1Mvdk1peUF1WC92MVFsZXYwbDhvMUUwZTBlWllCbTEyeTZTbXR4empRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=princess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e6f39fc417923c",
+      "emailDate": "2026-05-28T15:35:31.000Z"
     },
     {
       "merchant": "Dr. Killigan's",
