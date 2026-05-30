@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-30T10:57:59.432Z",
-  "sourceCount": 75,
+  "lastUpdated": "2026-05-30T12:04:41.585Z",
+  "sourceCount": 76,
   "parseFailures": 0,
   "offers": [
     {
@@ -17,6 +17,58 @@
       "emailDate": "2026-05-27T12:55:01.000Z"
     },
     {
+      "merchant": "QVC",
+      "percentBack": 30,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6M1ZoWXRxMmxoRGVXbm9MZG9HMnErK0t1cVp0YUZIaXpCdE1sR0I1YjBmcVl0dUs2SXlUY05yNFVEc2FYQ1lmUElLVGxudzJkNVFXeVJUOE9UZXB3Y0IxYmZHSmRWRDBQL0RHNFFRPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/qvc-05-30-brand-creative-hlo.gif",
+      "source": "single-use",
+      "emailMessageId": "19e78a07b8f68486",
+      "emailDate": "2026-05-30T11:24:03.000Z"
+    },
+    {
+      "merchant": "100% PURE",
+      "percentBack": 30,
+      "capAmount": null,
+      "wasPercent": 6,
+      "lastViewed": null,
+      "expiresAt": "2026-06-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cTJEOVlGRVZrUDI4NEJHdGdVdXFtZ1BPeGd0R3hkL1BRUjQ1MWp4Y3dvRy9jczNYc2hLT21hQi85WVA0UFUyNFI0VDBsc3NkbmdvbFNabDlxaDh2UDNCU3NuNm44UkRVWEUxTTVRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=100percentpure.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e78a07b8f68486",
+      "emailDate": "2026-05-30T11:24:03.000Z"
+    },
+    {
+      "merchant": "Davids",
+      "percentBack": 30,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-06-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T2k1Y3hoZnEraFM3TnBBY21EMldrbk1OTEJYbmRIakUwaWJWdmFMeWdzeWx3SXREL25PbnhKRFlDQ2JGTFNJS1E4OVdmZm5KTmpsVDFCWFZPeGYxcUlrUm9yWktHOWR1UGJ0Nk9RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=davids-usa.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e78a07b8f68486",
+      "emailDate": "2026-05-30T11:24:03.000Z"
+    },
+    {
+      "merchant": "Under Armour",
+      "percentBack": 26,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cWRiYjZlNHAxYWR2ZFEvUDROc2dxQXlNS2tWSHR6ZlFOZkUweUlmWjZRRzRpcjN5ejJhbVZwRjR3REJPMWRqS1FWRVV0Tkl1M1pOcWdTdi9QOEVJMTJDRzM4RisrNThPVDk2Y25BPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logounderarmour.com,sOfwyYsWlCJBZ1U9xpgUIiZ6D6XeaPH1Jhj40Ey6zzNs/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1779222004635.jpeg",
+      "source": "single-use",
+      "emailMessageId": "19e78a07b8f68486",
+      "emailDate": "2026-05-30T11:24:03.000Z"
+    },
+    {
       "merchant": "Tripadvisor",
       "percentBack": 26,
       "capAmount": null,
@@ -28,6 +80,32 @@
       "source": "single-use",
       "emailMessageId": "19e6f39fc417923c",
       "emailDate": "2026-05-28T15:35:31.000Z"
+    },
+    {
+      "merchant": "LATHER",
+      "percentBack": 25,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": "May 25",
+      "expiresAt": "2026-06-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RVFLa2VyMGVTRzVOeDlpd09qeG1td2hGVkJPZmhzdWwvSzBmTWRBKzlEZWlVbUQyVzh3L3c4emFpZU5JSmpMdlVtL1VDTCtnSUJFL2xhS2hVTENDMHR6dTNGaXBYcFZxSXRPVTJBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lather.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19e78a07b8f68486",
+      "emailDate": "2026-05-30T11:24:03.000Z"
+    },
+    {
+      "merchant": "Tata Harper",
+      "percentBack": 25,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-06-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NDZUNzg4c1hQblplOHdCaVp2UjRGNnlrMVc0S2VBTnJVSmcrL1JFVUxJOFVtb2dQTkQzbmhlcTVRS3Q4ZXJkelRZbDUzdVNrK2gyMkpVZkx6V2taV1YyUzMxeTA1bjB0dDlKRFp3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tataharperskincare.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e78a07b8f68486",
+      "emailDate": "2026-05-30T11:24:03.000Z"
     },
     {
       "merchant": "Targus",
@@ -67,6 +145,32 @@
       "source": "single-use",
       "emailMessageId": "19e6980b1ba98b6e",
       "emailDate": "2026-05-27T12:55:01.000Z"
+    },
+    {
+      "merchant": "True Botanicals",
+      "percentBack": 15,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-06-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TnhINEgrTUhqTm80VDNha1FjZFVwMThvY2hBM055MUMwVVlEYVBsRXZxQzhIdGFqdUJkSWZVWXhJZDV5cWV2cFlYNmthaTFoVEZrcFkzd0ZxN0QrMWdjdVhyQURFWDExTmF4cy9nPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=truebotanicals.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e78a07b8f68486",
+      "emailDate": "2026-05-30T11:24:03.000Z"
+    },
+    {
+      "merchant": "Madison Reed",
+      "percentBack": 12,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6N25heC8zcDRuN1IxNHd5TkZBMTlTN3BWNjErdWxIbExNSUFkR2hkM0Y5YThjd29aQ0YwYU02UjFJNHpjRkNOTFBXMC9qckNOSlFGQ0VJWFROUWJqOWZoYm02SXBQTUV1YVhPUXV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=madison-reed.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e78a07b8f68486",
+      "emailDate": "2026-05-30T11:24:03.000Z"
     },
     {
       "merchant": "Sony",
