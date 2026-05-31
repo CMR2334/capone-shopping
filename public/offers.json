@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T09:23:14.275Z",
+  "lastUpdated": "2026-05-31T11:13:58.436Z",
   "sourceCount": 75,
   "parseFailures": 0,
   "offers": [
@@ -119,6 +119,19 @@
       "source": "single-use",
       "emailMessageId": "19e78a07b8f68486",
       "emailDate": "2026-05-30T11:24:03.000Z"
+    },
+    {
+      "merchant": "SCHEELS",
+      "percentBack": 6.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-04T07:00:00.000Z",
+      "activationUrl": null,
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "19e7d7a1989e4c49",
+      "emailDate": "2026-05-31T10:00:13.000Z"
     },
     {
       "merchant": "vegas.com",
