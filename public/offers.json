@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T02:02:00.713Z",
+  "lastUpdated": "2026-06-01T07:22:13.671Z",
   "sourceCount": 74,
   "parseFailures": 0,
   "offers": [
@@ -54,19 +54,6 @@
       "source": "single-use",
       "emailMessageId": "19e78a07b8f68486",
       "emailDate": "2026-05-30T11:24:03.000Z"
-    },
-    {
-      "merchant": "Tripadvisor",
-      "percentBack": 26,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-06-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Y3RIK05kMlVOaHhYTUhEMnpvck9tR01jRm1NWUV2M2s3a3NvTWJVTldvaXNUVzRIcTRVRGxlZWNDR2kzSG1YOWhwdzZtVDRXYUpsTjV0akJmYUs1ak9qaXV3QTVhNGJrZy9YY3FnPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/570x236,logotripadvisor.com,soJigPt19Y5D-SiPT8a9FvRyVwJGN5WJfj2IaLaC6TDE/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/c5daac299f3ba723dc1544df.jpeg",
-      "source": "single-use",
-      "emailMessageId": "19e6f39fc417923c",
-      "emailDate": "2026-05-28T15:35:31.000Z"
     },
     {
       "merchant": "LATHER",
@@ -134,19 +121,6 @@
       "emailDate": "2026-05-31T10:00:13.000Z"
     },
     {
-      "merchant": "vegas.com",
-      "percentBack": 6,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-06-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QU4xRjZrSksrUS9hSkVXdDIvVm5FNHlHNE5sL2FKOTV2OTNUMDIxOCtmWUFnREdaaWJNd0YyUXJxQTVxYnVMNU9MRU1kYkNGaWVsVGc1NnZkZ2c5ZS9uL0JzNlByak5NYWloZ3B3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vegas.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19e6f39fc417923c",
-      "emailDate": "2026-05-28T15:35:31.000Z"
-    },
-    {
       "merchant": "Chewy",
       "percentBack": 4,
       "capAmount": null,
@@ -158,32 +132,6 @@
       "source": "single-use",
       "emailMessageId": "19e7b767f9f74c50",
       "emailDate": "2026-05-31T00:37:03.000Z"
-    },
-    {
-      "merchant": "Fairmont Hotels & Resorts",
-      "percentBack": 4,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-06-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6REpjcDRoNC90Qks0bVl6THhROForRVhVWjdkcHMzNENjbWM1WlR6ZXUvOHRLL2tWWU1td0cvNmQvTSttN29xNVhZckJNZFEzdHY2YVVSOHB5bXM4VWUrbzdZcTY3Yk82Z1phQytnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fairmont.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19e6f39fc417923c",
-      "emailDate": "2026-05-28T15:35:31.000Z"
-    },
-    {
-      "merchant": "Princess Cruises",
-      "percentBack": 4,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-06-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZXE5OHRacllXTFhxemNUcDRFV1lKcHNLa1NGZlJFTGdSM1ZXTW4rYXFkQXlTNVhOL2J1WU12WmhqUC81a1Mvdk1peUF1WC92MVFsZXYwbDhvMUUwZTBlWllCbTEyeTZTbXR4empRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=princess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19e6f39fc417923c",
-      "emailDate": "2026-05-28T15:35:31.000Z"
     }
   ],
   "upcomingReveals": []
