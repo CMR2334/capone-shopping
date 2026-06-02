@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T11:02:21.890Z",
+  "lastUpdated": "2026-06-02T15:09:30.690Z",
   "sourceCount": 76,
   "parseFailures": 0,
   "offers": [
@@ -41,6 +41,45 @@
       "source": "single-use",
       "emailMessageId": "19e87c2bd0f8bf3c",
       "emailDate": "2026-06-02T09:55:46.000Z"
+    },
+    {
+      "merchant": "Famous Footwear",
+      "percentBack": 30,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZjVKaW1TdWh0b0Y4TzFabHhoSUZpaG5IeG0rOC9DajFBMU1rUGlqVlFDbXF5NzVHN1BYdktHeG4xcmRWSUtJSHpZWXVIKzZxRFlxbk5hMXVXc3ZnUHF1WTUvNjd2VmZFQVA4NDFnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1780326212521.gif",
+      "source": "single-use",
+      "emailMessageId": "19e885d9adf8f265",
+      "emailDate": "2026-06-02T12:44:56.000Z"
+    },
+    {
+      "merchant": "LIVFRESH",
+      "percentBack": 30,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-06-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VXlvNFFDdTJXV2NKZHNaZWVXbFYwY2JDdHhZcEFxSHZtZ0FOdmVSQ3FsTmRiem5NTjRxNFptZ0s5cVZSb0hFcGVyNmlrZWxhYUtadmZnSGJzcm03eXIra1Z0blZSKy9zOG5PcVZnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=getlivfresh.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e885d9adf8f265",
+      "emailDate": "2026-06-02T12:44:56.000Z"
+    },
+    {
+      "merchant": "bistroMD",
+      "percentBack": 30,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-06-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OU45cThmdWR4VUhuQXRrY2tKakUxWTdGZnV0ZFA4ay84UnhaOTh4OTU3bUdwZHpjeFdCbE9ubjZyaFFjSkdqWDIrSlMvWnoxV0p2Z21iUFdiSzFKSmRPaUM3UW42WlJOR3JvUXd3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bistromd.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e885d9adf8f265",
+      "emailDate": "2026-06-02T12:44:56.000Z"
     },
     {
       "merchant": "Tripadvisor",
@@ -199,19 +238,6 @@
       "emailDate": "2026-06-02T09:55:46.000Z"
     },
     {
-      "merchant": "Famous Footwear",
-      "percentBack": 25,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-06-06T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cWdLbVN0TlRlR0E4N0Q1RWdQRUdzREVtS3R1MktCamtQdUhqdXJKclBTMnZLSjJ3V2VUaVRKd1JpUkJFZTlXMVVWTy9MOVl3RmVHbmpyd201Vm1kYXZWTE00OVFucE0zeHVFaVJ3PT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1780326212521.gif",
-      "source": "single-use",
-      "emailMessageId": "19e87c2bd0f8bf3c",
-      "emailDate": "2026-06-02T09:55:46.000Z"
-    },
-    {
       "merchant": "LATHER",
       "percentBack": 25,
       "capAmount": null,
@@ -340,6 +366,19 @@
       "source": "single-use",
       "emailMessageId": "19e844c406b5edbe",
       "emailDate": "2026-06-01T17:47:29.000Z"
+    },
+    {
+      "merchant": "1-800-GOT-JUNK?",
+      "percentBack": 15,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-06-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6K1JGUlE0ZHBRVEE4RzExeUpkY3dBbjNoZlFadWducmZDYmZ2eFZvMUY3VE5GQmhIVUdwZ2xJa01TSHFpWnFORFV4OGh6cEk3TDZTcjNHNXh6MWw3QmEwS2hLMDJ2VWkyOG1zOHlBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=1800gotjunk.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e885d9adf8f265",
+      "emailDate": "2026-06-02T12:44:56.000Z"
     },
     {
       "merchant": "Lands' End",
@@ -483,6 +522,19 @@
       "source": "single-use",
       "emailMessageId": "19e7d7a1989e4c49",
       "emailDate": "2026-05-31T10:00:13.000Z"
+    },
+    {
+      "merchant": "JustFoodForDogs",
+      "percentBack": 6,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aVEwbG91ZU94Uk90VVZzNGQxZW5NV0xCVVI5NWZ3WERqcVdOVUVSdE1VaG94K2FZdURTN3VMazAxMytMYXRuNklrSVQveHJzNXdxTTBJVjF2RlVQWHF3dG4vQ0QyN3VtTloxOHFRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=justfoodfordogs.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e885d9adf8f265",
+      "emailDate": "2026-06-02T12:44:56.000Z"
     },
     {
       "merchant": "Cadence",
