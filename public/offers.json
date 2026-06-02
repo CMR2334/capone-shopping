@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T21:43:38.660Z",
+  "lastUpdated": "2026-06-02T23:21:42.126Z",
   "sourceCount": 74,
   "parseFailures": 0,
   "offers": [
@@ -36,11 +36,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-06-06T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bHAyNDNRd1p2SUU0ckh5cXJaUDAvb2R2OG9FaUZjK0Y1Ykl1SkFGVGxKSmFGQTdHK1EySmVZd3drYVgxNEVSYkhkUW5ZMm4wb1BZTVdISjRsaFlrdnIwRlJ4OXNiUjFnRHBrMlN3PT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoframe-store.com,sLyyGaLldIGUIfalL1DmAas1Kh-hkZdJ6l562GheaRHE/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/ed08e931ebf552979642181b.jpeg",
+      "activationUrl": null,
+      "logoUrl": null,
       "source": "single-use",
-      "emailMessageId": "19e87c2bd0f8bf3c",
-      "emailDate": "2026-06-02T09:55:46.000Z"
+      "emailMessageId": "19e8a4de530292d4",
+      "emailDate": "2026-06-02T21:47:00.000Z"
     },
     {
       "merchant": "Famous Footwear",
