@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T06:23:20.832Z",
+  "lastUpdated": "2026-06-02T11:02:21.890Z",
   "sourceCount": 76,
   "parseFailures": 0,
   "offers": [
@@ -35,12 +35,25 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-06-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cXYraGk3SVRySFZHekcxakVHTThMVWNsVnRPdkRacUo0S3ROUWRNMThwcXpIcGQ0UXNUbzZialJFWXRVUjUvb0EreGYvbU1ncm1IUVVFeUxiZ2I5blkxdWZ2cDk5WTNxanhaMTVnPT0/runV3dl",
+      "expiresAt": "2026-06-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bHAyNDNRd1p2SUU0ckh5cXJaUDAvb2R2OG9FaUZjK0Y1Ykl1SkFGVGxKSmFGQTdHK1EySmVZd3drYVgxNEVSYkhkUW5ZMm4wb1BZTVdISjRsaFlrdnIwRlJ4OXNiUjFnRHBrMlN3PT0/runV3dl",
       "logoUrl": "https://i.capitaloneshopping.com/570x236,logoframe-store.com,sLyyGaLldIGUIfalL1DmAas1Kh-hkZdJ6l562GheaRHE/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/ed08e931ebf552979642181b.jpeg",
       "source": "single-use",
-      "emailMessageId": "19e8288fda7c1fd2",
-      "emailDate": "2026-06-01T09:34:35.000Z"
+      "emailMessageId": "19e87c2bd0f8bf3c",
+      "emailDate": "2026-06-02T09:55:46.000Z"
+    },
+    {
+      "merchant": "Tripadvisor",
+      "percentBack": 30,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-06-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a0dtOVpvWitaYk5CQjNEdGhpNGdYVVprQXkxSDNhcFdVY2pHczM0SDNWU09CcmFvUEM4MWFnTlR3Q0trc09KLzAzWUtxSENCM05sYk0wd1grellqMWJqQ1RVNWhMS2d2eUxrKzJRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e87c2bd0f8bf3c",
+      "emailDate": "2026-06-02T09:55:46.000Z"
     },
     {
       "merchant": "NOBULL",
@@ -80,19 +93,6 @@
       "source": "single-use",
       "emailMessageId": "19e83da9b5973757",
       "emailDate": "2026-06-01T15:43:21.000Z"
-    },
-    {
-      "merchant": "Tripadvisor",
-      "percentBack": 30,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": "May 2",
-      "expiresAt": "2026-06-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bHRqVDEvZW1sbTFaSEZKNUU2V09pR1pwTXE0b2R5UEQ0ZXBDMFRJbElGb1BUWGN1bWQrcHRaZFJCRVZoTlVNd2JSR2tqckJZb1I5ZTdrTFFqQ0xLWUliNnNTcDNhVy83aWkyN253PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e83425b96b3258",
-      "emailDate": "2026-06-01T12:57:04.000Z"
     },
     {
       "merchant": "Hertz",
@@ -184,6 +184,32 @@
       "source": "single-use",
       "emailMessageId": "19e78a07b8f68486",
       "emailDate": "2026-05-30T11:24:03.000Z"
+    },
+    {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 25,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6L0lKZjhtQjZ6cXlVc0oxQjZlQXlrVEduaU1ZZEVtaXMvR0Q3SjNmU1R5UnZ1dmRnM0VFWmQ0NnRGWG1GVlhsMWN3T2pLcytDd0NsTW9ET2JIb0xOeUJDcXJTZjNBbUlnSmJYY0p3PT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/viator.com/94e74cba-a171-42c3-acba-d432f21c41c6.gif",
+      "source": "single-use",
+      "emailMessageId": "19e87c2bd0f8bf3c",
+      "emailDate": "2026-06-02T09:55:46.000Z"
+    },
+    {
+      "merchant": "Famous Footwear",
+      "percentBack": 25,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cWdLbVN0TlRlR0E4N0Q1RWdQRUdzREVtS3R1MktCamtQdUhqdXJKclBTMnZLSjJ3V2VUaVRKd1JpUkJFZTlXMVVWTy9MOVl3RmVHbmpyd201Vm1kYXZWTE00OVFucE0zeHVFaVJ3PT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1780326212521.gif",
+      "source": "single-use",
+      "emailMessageId": "19e87c2bd0f8bf3c",
+      "emailDate": "2026-06-02T09:55:46.000Z"
     },
     {
       "merchant": "LATHER",
@@ -316,19 +342,6 @@
       "emailDate": "2026-06-01T17:47:29.000Z"
     },
     {
-      "merchant": "Viator, a Tripadvisor company",
-      "percentBack": 15,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-06-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dzBhN2NSd0plV2ZFSWgvblJWbHVLNVBtQzlJSEs4bktZK1hQQy9uN21EdXYwT1FCWXZXUnFqVWwrVEY4TjhDcUpHekljQXFpTitXVk9UMU9YdzNaSGp3NWhmNzVjWEMycDZMenlnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&width=180&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19e83425b96b3258",
-      "emailDate": "2026-06-01T12:57:04.000Z"
-    },
-    {
       "merchant": "Lands' End",
       "percentBack": 15,
       "capAmount": null,
@@ -379,6 +392,19 @@
       "source": "single-use",
       "emailMessageId": "19e844c406b5edbe",
       "emailDate": "2026-06-01T17:47:29.000Z"
+    },
+    {
+      "merchant": "Hilton",
+      "percentBack": 12,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U1phVzNtbmpJOGpKaG5zWWNXY0lVYm9QTVFmdm1kcE01cDdsbHN1bnR4QzFjSzJMMlBvMkM1UWllWXNvc3RmTncwYXAzMDJjaG5wZGpRcTlzUURDSmE5WENUdHQ1UDFBSlFWNXhnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hilton.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e87c2bd0f8bf3c",
+      "emailDate": "2026-06-02T09:55:46.000Z"
     },
     {
       "merchant": "The North Face",
@@ -485,6 +511,19 @@
       "emailDate": "2026-06-01T09:34:35.000Z"
     },
     {
+      "merchant": "Omio",
+      "percentBack": 5.5,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VkhYZ2M5N0Zob1QybTRlVTFMemp5RUx0aEM0R0tKZVRLczgrOWU0SFlUVjIzR1FGbTdnWkdlN1NPdmwzRkZsc25ORXg0dkVqVFBERFc0dnJOc0hRc2FidTUySlkwYlM1TENGaDhnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=omio.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e87c2bd0f8bf3c",
+      "emailDate": "2026-06-02T09:55:46.000Z"
+    },
+    {
       "merchant": "Sony",
       "percentBack": 4,
       "capAmount": null,
@@ -522,6 +561,19 @@
       "source": "single-use",
       "emailMessageId": "19e7b767f9f74c50",
       "emailDate": "2026-05-31T00:37:03.000Z"
+    },
+    {
+      "merchant": "Princess Cruises",
+      "percentBack": 3,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eVBhbXQxd0tHZDMyelNnemRxOTRDRVh1VU9RUmV6SjZPa1VucExNSTlKalhkK0E2L1BBYXdBb201ZCtZSnNCMDdRWU5qeVFQNUluUjRtdmJqTlJFOE9tM1pXTkdoUSthVzRGWC93PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=princess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e87c2bd0f8bf3c",
+      "emailDate": "2026-06-02T09:55:46.000Z"
     },
     {
       "merchant": "TravelPro Canada",
