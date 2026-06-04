@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T05:19:14.871Z",
+  "lastUpdated": "2026-06-04T09:09:04.312Z",
   "sourceCount": 74,
   "parseFailures": 0,
   "offers": [
@@ -405,19 +405,6 @@
       "source": "single-use",
       "emailMessageId": "19e83425b96b3258",
       "emailDate": "2026-06-01T12:57:04.000Z"
-    },
-    {
-      "merchant": "SCHEELS",
-      "percentBack": 6.5,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-06-04T07:00:00.000Z",
-      "activationUrl": null,
-      "logoUrl": null,
-      "source": "single-use",
-      "emailMessageId": "19e7d7a1989e4c49",
-      "emailDate": "2026-05-31T10:00:13.000Z"
     },
     {
       "merchant": "JustFoodForDogs",
