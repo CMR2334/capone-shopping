@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T08:39:23.535Z",
+  "lastUpdated": "2026-06-05T11:48:06.391Z",
   "sourceCount": 71,
   "parseFailures": 0,
   "offers": [
@@ -15,6 +15,19 @@
       "source": "single-use",
       "emailMessageId": "19e8a4de530292d4",
       "emailDate": "2026-06-02T21:47:00.000Z"
+    },
+    {
+      "merchant": "Targus",
+      "percentBack": 30,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VlFPWkdZZGczOC80SHZJQjV6RDlNc0dCZjFmbHJLMTFEU3ZaSW9qcXhESkcrSStyVWREa2JSbHZuVVQ3SXpvMFJ5cU9XLzIyVGtoZ3JCVVFVeUVMall6anlURGV5NWdnOFhZVGhBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=targus.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e97273c437f543",
+      "emailDate": "2026-06-05T09:39:51.000Z"
     },
     {
       "merchant": "Champion USA",
@@ -121,6 +134,19 @@
       "emailDate": "2026-06-02T09:55:46.000Z"
     },
     {
+      "merchant": "Fanatics",
+      "percentBack": 20,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d1A0SHMwQnFrd0Jxc0RTeWZaMDhhT1FIZkhmbXdZUHY1NmFVaFJuUlAwMXFuV0VMNHJ4SUx5ZEZNZ2FManMyaEUrYkNEc1IyRjcrTUhtcTZheTIrZTNieEIxS3JYSFBKcmFPMHpBPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1780587756265.gif",
+      "source": "single-use",
+      "emailMessageId": "19e97273c437f543",
+      "emailDate": "2026-06-05T09:39:51.000Z"
+    },
+    {
       "merchant": "1-800-GOT-JUNK?",
       "percentBack": 15,
       "capAmount": null,
@@ -132,6 +158,19 @@
       "source": "single-use",
       "emailMessageId": "19e885d9adf8f265",
       "emailDate": "2026-06-02T12:44:56.000Z"
+    },
+    {
+      "merchant": "Bellroy",
+      "percentBack": 14,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q0NiMzRGeVM2dk90SElTRG9Jc2pxNXZrbFdtOGlwMThNNld3UzJaMGdhcTg0S2JaTkV4M0hQMTFKTjBYSCtrMng2bUhGY0VwdUtKUnR3MStDUEJTZ1R4Rmh0bW1CTGM1VzRNQXF3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bellroy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e97273c437f543",
+      "emailDate": "2026-06-05T09:39:51.000Z"
     },
     {
       "merchant": "SCHEELS",
@@ -147,6 +186,19 @@
       "emailDate": "2026-06-04T10:18:12.000Z"
     },
     {
+      "merchant": "Cadence",
+      "percentBack": 12,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d2o1b3BMVjcxNnFFTTUvYXFKalZVSXcycmg0cnYxelY5OGJHMUtzZUtETHM3ZjE3M2hXYklRaXU3bys5aG9Gc3pWdTN1Vyszak45d3RCbjI0SmRidlpXeUZNcXljVmdqQTNRN2lBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=keepyourcadence.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e97273c437f543",
+      "emailDate": "2026-06-05T09:39:51.000Z"
+    },
+    {
       "merchant": "Hilton",
       "percentBack": 12,
       "capAmount": null,
@@ -160,6 +212,19 @@
       "emailDate": "2026-06-02T09:55:46.000Z"
     },
     {
+      "merchant": "Hyper",
+      "percentBack": 10,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aHpCUkc4S3MwV3JZUUU4eXdZd3FNaFFBZ0ZrUG9SMm5yMjc0MTBDV2h0eEFrejZkSDBOWjh0QjVIZGtzbTA0M3FZYWtIajdpcUMycC9CK21wN3dzKzlFdllPR0hOTmp0c2ZySjZBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hypershop.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e97273c437f543",
+      "emailDate": "2026-06-05T09:39:51.000Z"
+    },
+    {
       "merchant": "Budget Truck Rental",
       "percentBack": 10,
       "capAmount": null,
@@ -171,6 +236,19 @@
       "source": "single-use",
       "emailMessageId": "19e924cd6942bccb",
       "emailDate": "2026-06-04T11:02:49.000Z"
+    },
+    {
+      "merchant": "Think Tank Photo",
+      "percentBack": 9,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZmNVNFhxR2tUcm9oeXdqc0VDN1paRWZSa2xjRVY5UnJnSjh0ajlQVFY2K1R6UUlLcHIvMHdRVThZNFFaVElRakFjYUFzb2xnOXM2M3hQR1ExLzg2dzFZU2FPdmNMUThrb1RlZG9RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thinktankphoto.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e97273c437f543",
+      "emailDate": "2026-06-05T09:39:51.000Z"
     },
     {
       "merchant": "Fox Rent-a-Car",
@@ -288,6 +366,19 @@
       "source": "single-use",
       "emailMessageId": "19e87c2bd0f8bf3c",
       "emailDate": "2026-06-02T09:55:46.000Z"
+    },
+    {
+      "merchant": "TravelPro Canada",
+      "percentBack": 2,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YS8xWktmcmJ4OGxYZFNFQlVGYUZiRTl6WGx6TTBUN0MrU2w2SHdSNkFSSUgzajcra0J6UG14blBxS05sSE5pN3V6S1I1N3hpdklDMHR3SndDbEkwc3ptc1JTNDYwZGthRGcxeHB3PT0/runV3",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=travelpro.ca&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e97273c437f543",
+      "emailDate": "2026-06-05T09:39:51.000Z"
     },
     {
       "merchant": "Holiday Inn",
