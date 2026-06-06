@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-06-06T08:10:43.676Z",
-  "sourceCount": 72,
+  "lastUpdated": "2026-06-06T10:20:13.200Z",
+  "sourceCount": 73,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Tuft & Needle",
+      "percentBack": 30,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aDZiZjBjMy9ubUZwTXhucm1LdnVoWEUzWHZqT3djakJHMW5KdFMybFpQMWo3d1NDNWxFYi9iSDgveW1RcWdqYlZTZFREbGFtaVpiZDZabWhlV1VwK0RUY280U2tMVmFYMlk2L0lRPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1780499953566.gif",
+      "source": "single-use",
+      "emailMessageId": "19e9c48a221b5562",
+      "emailDate": "2026-06-06T09:34:26.000Z"
+    },
     {
       "merchant": "Liquid I.V.",
       "percentBack": 30,
@@ -108,6 +121,19 @@
       "emailDate": "2026-06-04T11:02:49.000Z"
     },
     {
+      "merchant": "Tripadvisor",
+      "percentBack": 20,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-06-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WUxmTzN3WlRZUHVSaVlISzVCYUw5NFEwVitJWE1ZTjJYQVh6bmNFQXI4WC9QNUdmamdZU0dDY2JrS21OZlk4ZkJmRjFaWHdNOVVvTC9RWFRFVCtVQmg1YlRlaVc1MlJSWEZSQjBBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e9c48a221b5562",
+      "emailDate": "2026-06-06T09:34:26.000Z"
+    },
+    {
       "merchant": "NOBULL",
       "percentBack": 20,
       "capAmount": null,
@@ -119,6 +145,19 @@
       "source": "single-use",
       "emailMessageId": "19e985cd29ebd478",
       "emailDate": "2026-06-05T15:18:00.000Z"
+    },
+    {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 15,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZGVpWnZKT1hXa0FhZTA4Sk1wYUlJVXl6alpkY0hsYW4vamc5a2VEclJFTExreE51NS93b2lySTVsQzBiMUdjREFUODV4aVhxZHdtZnFOZjc4VUk5R2tKcDZzSm5KWWRhSnlSSnpBPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/viator.com/94e74cba-a171-42c3-acba-d432f21c41c6.gif",
+      "source": "single-use",
+      "emailMessageId": "19e9c48a221b5562",
+      "emailDate": "2026-06-06T09:34:26.000Z"
     },
     {
       "merchant": "Brooks Running",
@@ -342,6 +381,19 @@
       "emailDate": "2026-06-04T10:18:12.000Z"
     },
     {
+      "merchant": "vegas.com",
+      "percentBack": 6,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6L3RDMUJKSFlKVm15TEtjb25vZkdzNVAzZEJLRWtydmtja3hCYVNxemdwUWtheGp4TUVlWnZwQlVNelZPWWRHWlExdWlGMUdDbHFIcWhpWjVSc0FuS21MVlZVdXdkc21hckRXY3lBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vegas.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e9c48a221b5562",
+      "emailDate": "2026-06-06T09:34:26.000Z"
+    },
+    {
       "merchant": "Lowe's",
       "percentBack": 6,
       "capAmount": null,
@@ -366,6 +418,32 @@
       "source": "single-use",
       "emailMessageId": "19e9223ff31a9f13",
       "emailDate": "2026-06-04T10:18:12.000Z"
+    },
+    {
+      "merchant": "Fairmont Hotels & Resorts",
+      "percentBack": 4,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-06-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Y3N3U2dWa3lOd1cyVjBKV3c1YTgxM3hXMFordUliZktpdSs4VVV6ZTEyR0g3Tk1qVWF6U0dUQ2tweUhwem04UUJ3djJEV2dQUzFlTzZZdjZ1WDd4TGhZNkNJaFBaWEVvK2wvNDlBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fairmont.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e9c48a221b5562",
+      "emailDate": "2026-06-06T09:34:26.000Z"
+    },
+    {
+      "merchant": "Iberostar Hotels & Resorts",
+      "percentBack": 4,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-06-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VU9xTElSVWNUQlBDNlBvNnk3OWRrdmZrU2tsSTl6T0NtSGJjNXNaeHpXR2hVcDdUNkxNVDZlM0xjTGJuamk5THFuUDd0OGJkYjdYei83UlZ4WHd4WW52VUhqN3BjTlUzcjBENW5RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=iberostar.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19e9c48a221b5562",
+      "emailDate": "2026-06-06T09:34:26.000Z"
     },
     {
       "merchant": "Soma",
