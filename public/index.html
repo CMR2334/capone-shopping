@@ -410,26 +410,22 @@
   // ?sync=OTHER still overrides if you ever want a separate namespace.
   const SHARED_SYNC_TOKEN = 'c1s-shared-9f3a7c2e8b1d4056a9e7f240c8b6135e';
 
-  // 8-4-4-4-12 hex = a legacy per-device UUID from the old build. Migrate those
-  // to the shared token so previously-diverged devices reconverge on next load.
-  function isLegacyRandomToken(v) {
-    return /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(v || '');
-  }
-
   (function bootstrapSyncToken() {
     const params = new URLSearchParams(window.location.search);
     const t = params.get('sync');
     if (t) {
+      // Explicit override for this session (rarely needed — e.g. a separate namespace).
       localStorage.setItem(KEY_TOKEN, t);
       params.delete('sync');
       const search = params.toString();
       const clean = window.location.pathname + (search ? '?' + search : '') + window.location.hash;
       window.history.replaceState({}, '', clean);
-    } else {
-      const existing = localStorage.getItem(KEY_TOKEN);
-      if (!existing || isLegacyRandomToken(existing)) {
-        localStorage.setItem(KEY_TOKEN, SHARED_SYNC_TOKEN);
-      }
+    } else if (localStorage.getItem(KEY_TOKEN) !== SHARED_SYNC_TOKEN) {
+      // Always converge on the one shared bucket unless ?sync= is explicitly present.
+      // Overwrites ANY older token — a random UUID from the old build OR the original
+      // hex token from May — so every device lands on the same bucket. Local favorites
+      // in localStorage are preserved and pushed up to the shared bucket on load.
+      localStorage.setItem(KEY_TOKEN, SHARED_SYNC_TOKEN);
     }
   })();
 
