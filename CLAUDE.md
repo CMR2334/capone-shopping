@@ -9,7 +9,10 @@ No need to request confirmation for these locations in any session.
 See ../USER_PROFILE.md for full working preferences.
 
 ## Read first
-Check [CHANGELOG.md](CHANGELOG.md) at the start of every session for recent significant changes.
+**Read [HANDOFF.md](HANDOFF.md) first** — it is the cross-session, cross-device front
+door: current state, the environment capability matrix (what works on mobile/Dispatch
+vs the owner's Mac), infra/secrets locations, roadmap, and open issues. Then check
+[CHANGELOG.md](CHANGELOG.md) for recent commit-level changes.
 
 ## Auto-push protocol (apply in every session)
 Always commit and push after making frontend changes. GitHub Pages rebuilds within 30–90s.

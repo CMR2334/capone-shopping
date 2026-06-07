@@ -5,6 +5,10 @@ This document is for any AI assistant working in this directory. It is AI-agnost
 See [../USER_PROFILE.md](../USER_PROFILE.md) for the workspace owner's working style and communication preferences.
 See [../PREFERENCES.md](../PREFERENCES.md) for code and documentation standards.
 
+**Read [HANDOFF.md](HANDOFF.md) first** — current state, the environment capability
+matrix (what works on mobile/Dispatch vs the owner's Mac), infra/secrets locations,
+roadmap, and open issues.
+
 ---
 
 ## What This Project Is

@@ -11,6 +11,19 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-06-07 — Docs: add HANDOFF.md (cross-device / Dispatch handoff front door)
+**Files:** `HANDOFF.md` (new), `CLAUDE.md`, `AGENTS.md`
+**What changed:** Added a top-level HANDOFF.md as the start-here doc for any new
+session on any device — current state, an environment capability matrix (mobile/
+Dispatch vs the owner's Mac), infra/secrets map (locations only, no values),
+auto-push protocol, roadmap, and known issues (incl. the cross-device sync
+`crypto.randomUUID` divergence). Wired "read HANDOFF.md first" into CLAUDE.md and
+AGENTS.md so any new thread is routed to it. Enables spinning up a fully capable
+Claude Code thread from Dispatch/mobile.
+**Revert:** `git rm HANDOFF.md` and revert the CLAUDE.md / AGENTS.md pointer edits.
+
+---
+
 ## 2026-05-16 — Rename project: capone-offers → capone-shopping
 **Commit:** `9ead61e`
 **Files:** Multiple (repo rename, path updates)
