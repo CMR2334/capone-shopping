@@ -11,6 +11,21 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-06-07 — Fix: true cross-device sync (shared token, drop per-device random UUID)
+**Files:** `public/index.html`
+**What changed:** `bootstrapSyncToken()` no longer mints a per-device
+`crypto.randomUUID()` when opened without `?sync=`. Every device now defaults to a
+shared token (`SHARED_SYNC_TOKEN`), and since the worker keys state by token
+(`state:<token>`), all devices share one KV bucket = real cross-device sync with no
+setup. Legacy 8-4-4-4-12 UUID tokens auto-migrate to the shared token on next load,
+so existing devices reconverge after one refresh. `?sync=OTHER` still overrides.
+Fixes the silent divergence where un-bootstrapped devices showed a green "synced"
+dot while writing to private buckets. No worker change needed (worker already
+accepts any non-empty token).
+**Revert:** `git checkout HASH~1 -- public/index.html` (restores the random-UUID fallback).
+
+---
+
 ## 2026-06-07 — Docs: add HANDOFF.md (cross-device / Dispatch handoff front door)
 **Files:** `HANDOFF.md` (new), `CLAUDE.md`, `AGENTS.md`
 **What changed:** Added a top-level HANDOFF.md as the start-here doc for any new

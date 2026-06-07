@@ -402,6 +402,20 @@
   const KEY_TOKEN = 'capone:sync-token';
   const SYNC_URL = 'https://capone-offers-sync.cmr2334.workers.dev';
 
+  // Shared sync identity. The worker keys state by token (bucket = state:<token>),
+  // so every device using THIS token reads/writes ONE shared bucket — true
+  // cross-device sync with zero per-device setup. This replaces the old
+  // crypto.randomUUID() fallback, which silently gave each device its own
+  // private bucket (green "synced" dot but no actual sharing).
+  // ?sync=OTHER still overrides if you ever want a separate namespace.
+  const SHARED_SYNC_TOKEN = 'c1s-shared-9f3a7c2e8b1d4056a9e7f240c8b6135e';
+
+  // 8-4-4-4-12 hex = a legacy per-device UUID from the old build. Migrate those
+  // to the shared token so previously-diverged devices reconverge on next load.
+  function isLegacyRandomToken(v) {
+    return /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(v || '');
+  }
+
   (function bootstrapSyncToken() {
     const params = new URLSearchParams(window.location.search);
     const t = params.get('sync');
@@ -411,8 +425,11 @@
       const search = params.toString();
       const clean = window.location.pathname + (search ? '?' + search : '') + window.location.hash;
       window.history.replaceState({}, '', clean);
-    } else if (!localStorage.getItem(KEY_TOKEN)) {
-      localStorage.setItem(KEY_TOKEN, crypto.randomUUID());
+    } else {
+      const existing = localStorage.getItem(KEY_TOKEN);
+      if (!existing || isLegacyRandomToken(existing)) {
+        localStorage.setItem(KEY_TOKEN, SHARED_SYNC_TOKEN);
+      }
     }
   })();
 

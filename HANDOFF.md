@@ -32,6 +32,9 @@ UI with favorite / hide / sort / filter and (intended) cross-device sync.
 
 - **Live:** https://CMR2334.github.io/capone-shopping/
 - **Repo:** https://github.com/CMR2334/capone-shopping  (public)
+- **Also known as:** "C1S Email Tracker" — Collin's display label for this project in
+  Claude Code. Same project; the repo and local directory stay `capone-shopping`. The
+  label is cosmetic and does not affect files or sync.
 - **Source inbox:** `cmreko91@gmail.com` — sender filter `hello@capitaloneshopping.com`
 - **Status:** Live and healthy. GitHub Actions cron (ingest + Pages deploy) runs
   every 15 min and has been green through today. The frontend (`public/index.html`,
@@ -146,16 +149,18 @@ git push origin main
 
 ## Known issues / open questions
 
-- **⚠️ Cross-device sync can silently diverge.** `bootstrapSyncToken()` in
-  `index.html` uses `?sync=TOKEN` if present, else **mints a per-device
-  `crypto.randomUUID()`**. A device first opened without `?sync=` gets a *private*
-  KV bucket and shows a **green** "synced" dot while NOT sharing state with other
-  devices. Cross-device only works if every device is opened once with the **same**
-  `?sync=SHARED_TOKEN` URL (the param always overwrites, so it self-heals on next
-  visit with the param). This regressed the original "favorites carry across
-  devices" goal. **Decision pending from Collin:** either (a) drop the random-UUID
-  fallback and require the shared token, (b) hardcode one shared token, or (c) add a
-  real account/identity. Until then, bootstrap each device with the shared `?sync=`.
+- **✅ Cross-device sync — FIXED 2026-06-07.** Previously `bootstrapSyncToken()` minted
+  a per-device `crypto.randomUUID()` when the app was opened without `?sync=`, giving
+  each device a *private* KV bucket (green dot, but no real sharing). Now every device
+  defaults to a shared token (`SHARED_SYNC_TOKEN` in `index.html`), so all devices
+  read/write one bucket = true cross-device sync with zero setup. Legacy random-UUID
+  tokens auto-migrate to the shared token on next load, so existing devices reconverge
+  after one refresh. `?sync=OTHER` still overrides for a custom/private namespace.
+  Caveats: (1) the token sits in client JS — a static site can't keep it secret — so
+  the bucket is protected by obscurity only; fine for non-sensitive favorites/hidden
+  data, not for anything private. (2) On first convergence it's last-writer-wins: the
+  first device to load after the change seeds the shared bucket and others adopt it,
+  so glance at favorites once and re-add anything missing.
 - **README sync section is stale.** README still describes sync as opt-in (gray dot
   "by design"); since the 2026-05-16 auto-UUID change, a token almost always exists,
   so that section no longer matches behavior. Fix alongside whatever sync decision is made.
