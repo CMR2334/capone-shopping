@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T23:46:09.321Z",
+  "lastUpdated": "2026-06-08T02:48:40.915Z",
   "sourceCount": 70,
   "parseFailures": 0,
   "offers": [
@@ -316,6 +316,19 @@
       "emailDate": "2026-06-04T11:02:49.000Z"
     },
     {
+      "merchant": "GetYourGuide",
+      "percentBack": 9,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-06-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YVJWUlY2T0RGTmEzQVRQc3V6ejdTem5vU2MvWjZZZWIxYi9kWDBjRTRHSk05VHZYL0VwaVFnWXF5M0hTd1ZjT1NUWkN4VHFQVzRlODV5UEZNNzMrRHBTNnV0Z1VKall6UlN0c3BBPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/e3404096415c23e50b519a7b.png",
+      "source": "single-use",
+      "emailMessageId": "19ea4b72115db347",
+      "emailDate": "2026-06-08T00:52:05.000Z"
+    },
+    {
       "merchant": "Think Tank Photo",
       "percentBack": 9,
       "capAmount": null,
@@ -386,12 +399,12 @@
       "capAmount": null,
       "wasPercent": 0.5,
       "lastViewed": null,
-      "expiresAt": "2026-06-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6L3RDMUJKSFlKVm15TEtjb25vZkdzNVAzZEJLRWtydmtja3hCYVNxemdwUWtheGp4TUVlWnZwQlVNelZPWWRHWlExdWlGMUdDbHFIcWhpWjVSc0FuS21MVlZVdXdkc21hckRXY3lBPT0/runV3dl",
+      "expiresAt": "2026-06-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TFhlRWxpNW4xeUZnOGFwOHMrU3doZDk3ZmtHZWZva0hFenpvZzduelZhbHhHQjgvSmRhYklodE5sK1lzY2JzQXp6WS9TMTh3OEtUOXZ2Z0RldzNEUG9Sc3lVTHNNbmg1cG1uL2hnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vegas.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19e9c48a221b5562",
-      "emailDate": "2026-06-06T09:34:26.000Z"
+      "emailMessageId": "19ea4b72115db347",
+      "emailDate": "2026-06-08T00:52:05.000Z"
     },
     {
       "merchant": "Lowe's",
@@ -420,6 +433,32 @@
       "emailDate": "2026-06-04T10:18:12.000Z"
     },
     {
+      "merchant": "Iberostar Hotels & Resorts",
+      "percentBack": 4,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-06-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6S2pKTWtJcFMxT0JmREZSdi9PMXhkMEJXcTZrbm5lQktRdTZ5dmRlWkVLUGxvZ0Q2MC9YYVpwTUdlV1R5TXRCaDVSVWRrWEZzYmFUMzRBcUVuUnVDNWs5S1U0THBTaUo0Nm1sRm9BPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=iberostar.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ea4b72115db347",
+      "emailDate": "2026-06-08T00:52:05.000Z"
+    },
+    {
+      "merchant": "CitizenM",
+      "percentBack": 4,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-06-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QlluZ1FqQ2JpMXAwSUViRlpHTm5DdExkVDZaWVIvY0M1VDFMZVRPdnpmK0tjaHV3NWdVNkRHOGlRc044OVV5WlFSQ1BBa2hONmdIcDJtd0NFeFdqNnQ0eHlCMVpMOWJOclgybGVBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=citizenm.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ea4b72115db347",
+      "emailDate": "2026-06-08T00:52:05.000Z"
+    },
+    {
       "merchant": "Fairmont Hotels & Resorts",
       "percentBack": 4,
       "capAmount": null,
@@ -428,19 +467,6 @@
       "expiresAt": "2026-06-10T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Y3N3U2dWa3lOd1cyVjBKV3c1YTgxM3hXMFordUliZktpdSs4VVV6ZTEyR0g3Tk1qVWF6U0dUQ2tweUhwem04UUJ3djJEV2dQUzFlTzZZdjZ1WDd4TGhZNkNJaFBaWEVvK2wvNDlBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fairmont.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19e9c48a221b5562",
-      "emailDate": "2026-06-06T09:34:26.000Z"
-    },
-    {
-      "merchant": "Iberostar Hotels & Resorts",
-      "percentBack": 4,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-06-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VU9xTElSVWNUQlBDNlBvNnk3OWRrdmZrU2tsSTl6T0NtSGJjNXNaeHpXR2hVcDdUNkxNVDZlM0xjTGJuamk5THFuUDd0OGJkYjdYei83UlZ4WHd4WW52VUhqN3BjTlUzcjBENW5RPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=iberostar.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
       "emailMessageId": "19e9c48a221b5562",
       "emailDate": "2026-06-06T09:34:26.000Z"
