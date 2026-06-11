@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-11T11:18:54.873Z",
-  "sourceCount": 63,
+  "lastUpdated": "2026-06-11T15:02:06.902Z",
+  "sourceCount": 64,
   "parseFailures": 0,
   "offers": [
     {
@@ -18,16 +18,29 @@
     },
     {
       "merchant": "Omaha Steaks",
-      "percentBack": 35,
+      "percentBack": 40,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-06-15T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VllJU2pLand1Z1JaYmFtSmNiZlp3RHRCcHo2cmE1bStOR0w2NGthV3pMQ3IrL2ZqTXNWZkdZaXFOM0lWUFNkdW1URXYyN1JuYXV1b20yR05TRHZvN2FRN2NKejlSb2xFU2kwU1lnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TmZOaStReFQ0Q1lRL3J4aXM3TjI5a08zTnNnQTZRUkhhL2JUaVc2Rlh6VWluV1A4VlYwTGN6MkVlbmpvK3VMRGtaMHNxUFRaRnRwUTdKei9XeEpWcE1DdUJtSlM0Sm1rc3EzZVZnPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/omaha-steaks-bc-2026-06-10.gif",
       "source": "single-use",
-      "emailMessageId": "19eb5fca3c201049",
-      "emailDate": "2026-06-11T09:21:32.000Z"
+      "emailMessageId": "19eb68d9d5e00ea5",
+      "emailDate": "2026-06-11T11:59:54.000Z"
+    },
+    {
+      "merchant": "bistroMD",
+      "percentBack": 30,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-06-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ODFhQ2R5YVU4N2Z2bDBkYlk3amVKNkZENTdZems5eCtUMm9JU1JKcXVMZml6WEdxNEpzYUR6OGl2d0dWZmJnZ0VmdWR6emtuZXJpTkgzNlkrSzI2YVY4Zm15ZFVHRkgycE9sd1pBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bistromd.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19eb68d9d5e00ea5",
+      "emailDate": "2026-06-11T11:59:54.000Z"
     },
     {
       "merchant": "HEYDUDE",
@@ -251,6 +264,19 @@
       "emailDate": "2026-06-10T15:24:18.000Z"
     },
     {
+      "merchant": "Cheryl's & Co",
+      "percentBack": 8,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eUpENHloelB4YVNXdldCVnpwUW5YN1QzVjB1ZmwvOGdaN04xcjJkSkpjSHJOaXRQbjd6SnEyRkcxUnBMQUlwZnZMYkZvUkNqc1Budkc1RldjUEZmaUl5a3hOcnVDRE1VQkJPOTlBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cheryls.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19eb68d9d5e00ea5",
+      "emailDate": "2026-06-11T11:59:54.000Z"
+    },
+    {
       "merchant": "Hilton",
       "percentBack": 8,
       "capAmount": null,
@@ -288,6 +314,19 @@
       "source": "single-use",
       "emailMessageId": "19eac59ba8e19244",
       "emailDate": "2026-06-09T12:27:01.000Z"
+    },
+    {
+      "merchant": "Vital Choice",
+      "percentBack": 7,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RDNQTFJxQXUzQWE5aUxFN2NVVDl4ODc1bW5OWkZuQTN5WTJPQSsxbFFYUDdSYVpialFTWE82UGpJRlNqZ3dEMEtmdzhYRnNJV01EUXhYaEJPOHdkUFNyb2lRS2NGN0txRUk1S1ZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vitalchoice.com&width=180&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19eb68d9d5e00ea5",
+      "emailDate": "2026-06-11T11:59:54.000Z"
     },
     {
       "merchant": "DC Shoes",
