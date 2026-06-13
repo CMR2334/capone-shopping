@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-12T23:47:03.971Z",
-  "sourceCount": 61,
+  "lastUpdated": "2026-06-13T02:38:01.937Z",
+  "sourceCount": 62,
   "parseFailures": 0,
   "offers": [
     {
@@ -329,6 +329,19 @@
       "emailDate": "2026-06-10T15:24:18.000Z"
     },
     {
+      "merchant": "eBay",
+      "percentBack": 8,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T08zcUk1TmNlYnJJY0toK0NTY000R2RRMXdZakhLeWlpNDJPSkYzYmNtZGoyWDNrTDE0Zjk4MTAzZHJKNlJ5QlJXQmxmWk50MUNGSll4Zm5WajFuVTNqYVVZazAyZUd5dGlVcE5BPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/ebaylive-bc-2026-06-10.gif",
+      "source": "single-use",
+      "emailMessageId": "19ebe90f5afd4559",
+      "emailDate": "2026-06-13T01:20:30.000Z"
+    },
+    {
       "merchant": "Cheryl's & Co",
       "percentBack": 8,
       "capAmount": null,
@@ -381,6 +394,19 @@
       "emailDate": "2026-06-09T12:27:01.000Z"
     },
     {
+      "merchant": "DICK'S Sporting Goods",
+      "percentBack": 7,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VVBSbms5b2tiZkJsNVZhRnJZeWhQY2hrNGxPVStyWFpDa2JBL1Z1SnQ1WjBMVHN2WmZaLy9zYzhPRDJPSTVFL0s3bE1UN3lwNDkza09HV2dHV3NvbFJnMlR0VGEvMDR3UU4zdkR3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dickssportinggoods.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19ebe90f5afd4559",
+      "emailDate": "2026-06-13T01:20:30.000Z"
+    },
+    {
       "merchant": "Brooks Running",
       "percentBack": 7,
       "capAmount": null,
@@ -389,32 +415,6 @@
       "expiresAt": "2026-06-16T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6V1Y2UEIrQnhFSCtqUGV6YWtIeTZJWkx0c21PblVuRUlPRWpjbW90dEZmTzlpN0puUTRKc2VGSmswSllmOE9FWHNWd2lZRXk5OXRGOWV4UU51RnBUcCsweHdHY1V5Q0pVaVRPQ09BPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=brooksrunning.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19ebbc44a4984b77",
-      "emailDate": "2026-06-12T12:17:43.000Z"
-    },
-    {
-      "merchant": "eBay",
-      "percentBack": 7,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-06-16T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TjJRRElsaFI3NDdIU1JTM3R4bU1yRlVFb1RsRUdiZTlqdTRZamlXWlhEcU1MaVlqV3FiSGVRRlEvQVFJQmhzQ1QzQXNUb3pmYWlGUEJ5cG5UUmYvUWlPd0RSck9RRzBQQlE2QkFnPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/ebaylive-bc-2026-06-10.gif",
-      "source": "single-use",
-      "emailMessageId": "19ebbc44a4984b77",
-      "emailDate": "2026-06-12T12:17:43.000Z"
-    },
-    {
-      "merchant": "DICK'S Sporting Goods",
-      "percentBack": 7,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-06-16T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bWdDTjdjVDVieVpUamMrbTJtMGhMUWo2RWdJWEJSaHFrb3ZzMDdrUU1qeWJCZzNWY3BWT1NHNWgwcnlac2N2YmtvMFFvS2c3M1lZVWlxYVV3YmRZOEpJdUFxN0RiOHRwVUVjSXRnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dickssportinggoods.com&width=180&fallback=true&type=cropped&opaque=true",
       "source": "single-use",
       "emailMessageId": "19ebbc44a4984b77",
       "emailDate": "2026-06-12T12:17:43.000Z"
