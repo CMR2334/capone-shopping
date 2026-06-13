@@ -1,21 +1,8 @@
 {
-  "lastUpdated": "2026-06-13T06:41:44.648Z",
-  "sourceCount": 62,
+  "lastUpdated": "2026-06-13T09:45:49.622Z",
+  "sourceCount": 63,
   "parseFailures": 0,
   "offers": [
-    {
-      "merchant": "Cole Haan",
-      "percentBack": 50,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-06-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TWYvT2UrczJmV0xBNW9aWnhSQWphM1pZNkN1V05QM0R3MDdFa3dhc2E3SjlvdkV5VG12ZjV3RFdVaTUxZzQybVZNdkhmYW1RL1NJYjZKbi81ZmJDQTBzOVd3aElWUDcySjFDUXBnPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1780613886625.gif",
-      "source": "single-use",
-      "emailMessageId": "19eac59ba8e19244",
-      "emailDate": "2026-06-09T12:27:01.000Z"
-    },
     {
       "merchant": "Omaha Steaks",
       "percentBack": 40,
@@ -69,19 +56,6 @@
       "emailDate": "2026-06-11T11:59:54.000Z"
     },
     {
-      "merchant": "HEYDUDE",
-      "percentBack": 30,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-06-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U0lqSUg0WTlEVkszTVltNUF4dXg3eDdwY1c1ZjBuRitSWmdCVksrWnhiNFZCWDFDZjBCODRGc05vL0J0UjJoS1c2THFDMUptVDZMeGtadk4vZGtzdWRWV3NqdHh0TWkzVlNTdGN3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=heydude.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19eac59ba8e19244",
-      "emailDate": "2026-06-09T12:27:01.000Z"
-    },
-    {
       "merchant": "Merrell",
       "percentBack": 20,
       "capAmount": null,
@@ -106,19 +80,6 @@
       "source": "single-use",
       "emailMessageId": "19eb22267c09756c",
       "emailDate": "2026-06-10T15:24:18.000Z"
-    },
-    {
-      "merchant": "NOBULL",
-      "percentBack": 20,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-06-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6M3Z2UXE5TEJmem1aREJpL04xVklVbUJlcHJMODRLeFpJMFdWTkI1Vjk0aVVnQWNnTnpLbHhDU0tFaVpwdWpMVWxRU0JmN0NPbFZmcEt0SWpDZ1hkNWhEN0d6cTRPOGV3ZFhISTVnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nobullproject.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19eac59ba8e19244",
-      "emailDate": "2026-06-09T12:27:01.000Z"
     },
     {
       "merchant": "Nolo",
@@ -381,19 +342,6 @@
       "emailDate": "2026-06-10T09:40:55.000Z"
     },
     {
-      "merchant": "TOMS",
-      "percentBack": 8,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-06-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ekE3MUd0WGh5Q0d4SFYzRlAxSEhTa3NrRFRSVmRyQ2ptY1lBeWh2Q1JtYUpJRGdpVXJhc2xxTGtweFU4Unc5cFZXVUY5d3UzeUtmaWtydFlUTXNhZTZCbG9YR1FadVBaRWNjcW93PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=toms.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19eac59ba8e19244",
-      "emailDate": "2026-06-09T12:27:01.000Z"
-    },
-    {
       "merchant": "DICK'S Sporting Goods",
       "percentBack": 7,
       "capAmount": null,
@@ -576,32 +524,6 @@
       "emailDate": "2026-06-10T09:40:55.000Z"
     },
     {
-      "merchant": "Reef",
-      "percentBack": 6,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": "June 7",
-      "expiresAt": "2026-06-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MEZ2REUvWG5LUFdsTmwzZ3ZFTmJHelRjRmhhRzFoYWt4eUo0N3l2UXRCNTU5d3FUNjFXc2tqajFQSG4vYjZBNlRRL2pwd0VQdzhNVkRiRkwrNnJxdnhvTndNZWVWYnMwRkIvanRBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=reef.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "19eac59ba8e19244",
-      "emailDate": "2026-06-09T12:27:01.000Z"
-    },
-    {
-      "merchant": "Rothy's",
-      "percentBack": 6,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-06-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QW5XbVVvamd3SWFPL0pNVm1qcTRXN2ZEZXQ3bkp4elhSaHBKbnlFQzUydzU0eC9oSjNqMHdDQlRyZVhGTkJQKzhDaEN2M05OTlRzb0oxbjc4S1ZsamJPdkV3SlVUdHNJOTFUajR3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=rothys.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19eac59ba8e19244",
-      "emailDate": "2026-06-09T12:27:01.000Z"
-    },
-    {
       "merchant": "Golf Galaxy",
       "percentBack": 4,
       "capAmount": null,
@@ -639,32 +561,6 @@
       "source": "single-use",
       "emailMessageId": "19eb0e802c3e8d67",
       "emailDate": "2026-06-10T09:40:55.000Z"
-    },
-    {
-      "merchant": "VIVAIA",
-      "percentBack": 4,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-06-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6elgwNElpT3dVV21pVTlmTFUySThCWFhSKzJwK3pTcUk1a2UwOFIyOUFFL0RONzdQanM1MzRjdCtZZWdIRS9NQ1AzZUFHZ2NwRk5CckRrVmNMQUJNZFFpc25sSWdIbGNtV2lpSGl3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vivaia.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19eac59ba8e19244",
-      "emailDate": "2026-06-09T12:27:01.000Z"
-    },
-    {
-      "merchant": "Dr. Scholl's Shoes",
-      "percentBack": 3,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-06-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aDNaemRhS0cyS2dudFcxREZaR3FHc1laTzY1b0xFVFFOM3FuRUU4WDN2NGp6Y1I2a0lzVlhxZFdhUlJSVnFYazE5RXpIT1c0Q3llaTI5MUFPczFJNGRxcHB4RC9oMkN0RTRhYmNRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=drschollsshoes.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19eac59ba8e19244",
-      "emailDate": "2026-06-09T12:27:01.000Z"
     },
     {
       "merchant": "The Sportsman's Guide",
