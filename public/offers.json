@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T14:37:14.615Z",
+  "lastUpdated": "2026-06-14T16:11:00.739Z",
   "sourceCount": 61,
   "parseFailures": 0,
   "offers": [
@@ -69,6 +69,19 @@
       "emailDate": "2026-06-11T09:21:32.000Z"
     },
     {
+      "merchant": "Targus",
+      "percentBack": 15,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cmVVOGJ4R2dwR2I2UGh5bXR4a0UzZkprYjdyVE14di9DSVdUdmNCZGF4em5YVDFHWmE5Wjd2Mit3b0s2dGZlNmhxcUNwT3Y5RmdkL1VlY0NyOWlvRWtBSmpsSjhYV25iWWhWUkFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=targus.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ec696dad6a19bc",
+      "emailDate": "2026-06-14T14:43:55.000Z"
+    },
+    {
       "merchant": "Nolo",
       "percentBack": 15,
       "capAmount": null,
@@ -93,6 +106,19 @@
       "source": "single-use",
       "emailMessageId": "19eb5fca3c201049",
       "emailDate": "2026-06-11T09:21:32.000Z"
+    },
+    {
+      "merchant": "Ulanzi",
+      "percentBack": 14,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SzZvZW1xZEU5bFJDbExEMEt3VDk3aUE0ajM0Y2ovSTlsQTFSOGxBY0szV1VtTzg4aFY5Q3ZJVFIvckgrdmlxRTlwby95ekY2c0hXOTFrMjlwS1ZvN0lRRjBuQmR5RGtyelVjcE93PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ulanzi.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ec696dad6a19bc",
+      "emailDate": "2026-06-14T14:43:55.000Z"
     },
     {
       "merchant": "JD Sports",
@@ -145,6 +171,19 @@
       "source": "single-use",
       "emailMessageId": "19eb5fca3c201049",
       "emailDate": "2026-06-11T09:21:32.000Z"
+    },
+    {
+      "merchant": "Hyper",
+      "percentBack": 10,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VUhUMmtRV1V4THQyWXhkZHNHVXo2MTdBdHdmZVBRUU5uRURrVXJPdllTWlRXZVRjZDFtcGRWN3ZoMFBYOTV1bkxzQlpVbzhEYUhjcG0yUzJzbG1ETmNxejNMdS9CVDlkS2hkWHpRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hypershop.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ec696dad6a19bc",
+      "emailDate": "2026-06-14T14:43:55.000Z"
     },
     {
       "merchant": "Viator, a Tripadvisor company",
@@ -368,6 +407,19 @@
       "emailDate": "2026-06-11T09:21:32.000Z"
     },
     {
+      "merchant": "Cadence",
+      "percentBack": 4,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aW5pTEtTcDJGVU9tUUFMc0pVTk94WDVNRlplaE1CSlhJQVpHUUcrV2ZRcHd4MHBPemJnSHJLYWhKOCtGMG55MVNyeGFFWElUS3JJNUdNMk5OZjdwNTEweWpCTFpwQ20yak9VWXB3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=keepyourcadence.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ec696dad6a19bc",
+      "emailDate": "2026-06-14T14:43:55.000Z"
+    },
+    {
       "merchant": "Golf Galaxy",
       "percentBack": 4,
       "capAmount": null,
@@ -379,6 +431,32 @@
       "source": "single-use",
       "emailMessageId": "19ebbc44a4984b77",
       "emailDate": "2026-06-12T12:17:43.000Z"
+    },
+    {
+      "merchant": "WANDRD Gear",
+      "percentBack": 2,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VjlYRHFYNTBDaTcvNWgyQjZzaGdibXpvc1JBalIrL1B1Q2o2T3dNT1dmOG1PMXN3SlBYd2tkZytEdkdaREVNQ1lHYkczTjIwdkFIVE9NelhPUlJIUnJsUVNMN0NyVkJJN1N1bTdRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wandrd.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ec696dad6a19bc",
+      "emailDate": "2026-06-14T14:43:55.000Z"
+    },
+    {
+      "merchant": "TravelPro Canada",
+      "percentBack": 2,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T0x1QmdSNzd5bTZZVU9kOTRSdzBjczlmaSsrbjBnYk5mS2taQ2NHK1NUZ3VIQ0FIUXo5enRpS2ovbkkvZlE3clhKazhONkFtQ3FLY0I3YXJ0a25YUm9pbVE1dHZzMjJJUk0xSFB3PT0/runV3",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=travelpro.ca&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ec696dad6a19bc",
+      "emailDate": "2026-06-14T14:43:55.000Z"
     },
     {
       "merchant": "Enterprise Rent a Car",
