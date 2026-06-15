@@ -50,15 +50,18 @@ async function main() {
   if (SAVE_RAW) fs.mkdirSync(RAW_DIR, { recursive: true });
 
   for (const msg of messages) {
-    const msgRes = await gmail.users.messages.get({ userId: 'me', id: msg.id, format: 'full' });
-    const internalDate = parseInt(msgRes.data.internalDate, 10);
-    const subject = headerValue(msgRes.data.payload.headers, 'Subject');
-    const html = extractHtml(msgRes.data.payload);
-
-    if (!html) { parseFailures++; continue; }
-    if (SAVE_RAW) fs.writeFileSync(path.join(RAW_DIR, `${msg.id}.html`), html);
-
+    // One bad message (API hiccup, unexpected payload, parser throw) must not abort
+    // the whole run — catch per-message, count it, and keep going.
+    let html = null;
     try {
+      const msgRes = await gmail.users.messages.get({ userId: 'me', id: msg.id, format: 'full' });
+      const internalDate = parseInt(msgRes.data.internalDate, 10);
+      const subject = headerValue(msgRes.data.payload.headers, 'Subject');
+      html = extractHtml(msgRes.data.payload);
+
+      if (!html) { console.warn(`  No HTML body for ${msg.id} — skipping`); parseFailures++; continue; }
+      if (SAVE_RAW) fs.writeFileSync(path.join(RAW_DIR, `${msg.id}.html`), html);
+
       const { offers } = parseCaponeEmail(html, {
         messageId: msg.id,
         date: new Date(internalDate).toISOString(),
@@ -67,8 +70,9 @@ async function main() {
       console.log(`  ${new Date(internalDate).toISOString().slice(0,10)} [${msg.id.slice(0,8)}] "${subject?.slice(0,50) || '?'}" → ${offers.length} offers`);
       allOffers.push(...offers);
     } catch (err) {
-      console.error(`  Parse failed for ${msg.id}: ${err.message}`);
-      if (!SAVE_RAW) {
+      console.error(`  Message ${msg.id} failed: ${err.message}`);
+      // Dump the raw HTML (only when we got this far) so a parse failure is reproducible locally.
+      if (html && !SAVE_RAW) {
         fs.mkdirSync(RAW_DIR, { recursive: true });
         fs.writeFileSync(path.join(RAW_DIR, `failed-${msg.id}.html`), html);
       }
@@ -78,6 +82,14 @@ async function main() {
 
   const now = new Date();
   const merged = mergeOffers(allOffers, now);
+
+  // Safety guard: if there were source emails but NONE produced an offer, something is
+  // broken (parser regression, auth/format change). Don't overwrite a good feed with an
+  // empty one — exit non-zero so CI flags it and the existing offers.json is kept.
+  if (messages.length > 0 && allOffers.length === 0) {
+    console.error(`\nAll ${messages.length} message(s) yielded 0 offers — refusing to overwrite ${OFFERS_PATH}. Leaving the existing feed in place.`);
+    process.exit(1);
+  }
 
   const output = {
     lastUpdated: now.toISOString(),
@@ -89,7 +101,8 @@ async function main() {
 
   fs.mkdirSync(path.dirname(OFFERS_PATH), { recursive: true });
   fs.writeFileSync(OFFERS_PATH, JSON.stringify(output, null, 2));
-  console.log(`\nWrote ${merged.length} active offers to ${OFFERS_PATH}`);
+  console.log(`\nWrote ${merged.length} active offers to ${OFFERS_PATH}`
+    + (parseFailures ? ` (${parseFailures} message(s) failed to parse)` : ''));
 }
 
 function extractHtml(payload) {

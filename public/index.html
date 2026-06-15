@@ -23,6 +23,8 @@
     --navy-soft: #1a4d80;
     --alert: #c8262f;
     --alert-soft: rgba(200, 38, 47, 0.10);
+    --warn: #9a6a00;
+    --warn-soft: rgba(154, 106, 0, 0.10);
     --safe-top: env(safe-area-inset-top);
     --safe-bottom: env(safe-area-inset-bottom);
     --serif: 'New York', 'Iowan Old Style', 'Charter', Georgia, ui-serif, serif;
@@ -316,6 +318,34 @@
     font-feature-settings: 'tnum';
     letter-spacing: 0.02em;
   }
+
+  .notice {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 10px 22px;
+    font-size: 13px;
+    letter-spacing: 0.01em;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .notice[hidden] { display: none; }
+  .notice .notice-dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: currentColor;
+    flex-shrink: 0;
+  }
+  .notice.is-stale {
+    background: var(--warn-soft);
+    color: var(--warn);
+    border-bottom: 1px solid color-mix(in srgb, var(--warn) 22%, transparent);
+  }
+  .notice.is-error {
+    background: var(--alert-soft);
+    color: var(--alert);
+    border-bottom: 1px solid color-mix(in srgb, var(--alert) 22%, transparent);
+  }
 </style>
 </head>
 <body>
@@ -352,6 +382,8 @@
   </div>
 </header>
 
+<div class="notice" id="notice" role="status" hidden><span class="notice-dot"></span><span id="noticeText"></span></div>
+
 <main>
   <div class="grid" id="grid"></div>
   <div class="empty" id="empty" hidden>
@@ -371,6 +403,8 @@
   const subtitleText = document.getElementById('subtitleText');
   const syncDot = document.getElementById('syncDot');
   const footer = document.getElementById('footer');
+  const notice = document.getElementById('notice');
+  const noticeText = document.getElementById('noticeText');
 
   let lastSyncOk = false;
 
@@ -396,6 +430,17 @@
   const ICON_UNHIDE = '<svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 12C5 7.5 8.5 5.5 12 5.5s7 2 9.5 6.5c-2.5 4.5-6 6.5-9.5 6.5s-7-2-9.5-6.5z"/><circle cx="12" cy="12" r="2.6"/></svg>';
 
   let data = null;
+
+  // Offers refresh on a ~15-min cron; 8h+ since the last successful refresh almost
+  // certainly means the pipeline is broken (dead refresh token, disabled workflow),
+  // not just a few skipped runs — surface it instead of silently showing stale data.
+  const STALE_HOURS = 8;
+  function setNotice(kind, msg) {
+    if (!kind) { notice.hidden = true; return; }
+    notice.className = 'notice is-' + kind;
+    noticeText.textContent = msg;
+    notice.hidden = false;
+  }
 
   const KEY_FAV = 'capone:favorites';
   const KEY_HIDE = 'capone:hidden';
@@ -635,11 +680,20 @@
       const hidden = getHidden();
       const visibleAll = filterOffers(data.offers, 'all', favs, hidden).length;
       subtitleText.textContent = `${visibleAll} active · updated ${updated ? timeAgo(updated) : 'just now'}`;
-      footer.textContent = `Last update: ${updated ? updated.toLocaleString() : '—'}`;
+      const ageHours = updated ? (Date.now() - updated.getTime()) / 3.6e6 : Infinity;
+      if (ageHours >= STALE_HOURS) {
+        setNotice('stale', `Offers may be out of date — last refreshed ${timeAgo(updated)}. The feed updates automatically every ~15 min.`);
+      } else {
+        setNotice(null);
+      }
+      const parseFailures = data.parseFailures || 0;
+      footer.textContent = `Last update: ${updated ? updated.toLocaleString() : '—'}`
+        + (parseFailures ? ` · ${parseFailures} parse issue${parseFailures > 1 ? 's' : ''}` : '');
       setSyncDot();
       render();
     } catch (err) {
       subtitleText.textContent = 'Could not load offers';
+      setNotice('error', 'Couldn’t load the latest offers — check your connection. Showing the last loaded data if available.');
       console.error(err);
     }
   }
