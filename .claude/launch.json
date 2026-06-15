@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "capone-shopping",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "-l", "4321", "public"],
+      "port": 4321
+    }
+  ]
+}

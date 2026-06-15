@@ -12,6 +12,7 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 ---
 
 ## 2026-06-07 — Fix: true cross-device sync (shared token, drop per-device random UUID)
+**Commit:** `33da2ac` (+ follow-up `206145d`)
 **Files:** `public/index.html`
 **What changed:** `bootstrapSyncToken()` no longer mints a per-device
 `crypto.randomUUID()` when opened without `?sync=`. Every device now defaults to a
@@ -22,11 +23,12 @@ so existing devices reconverge after one refresh. `?sync=OTHER` still overrides.
 Fixes the silent divergence where un-bootstrapped devices showed a green "synced"
 dot while writing to private buckets. No worker change needed (worker already
 accepts any non-empty token).
-**Revert:** `git checkout HASH~1 -- public/index.html` (restores the random-UUID fallback).
+**Revert:** `git checkout 33da2ac~1 -- public/index.html` (restores the random-UUID fallback).
 
 ---
 
 ## 2026-06-07 — Docs: add HANDOFF.md (cross-device / Dispatch handoff front door)
+**Commit:** `80e5511`
 **Files:** `HANDOFF.md` (new), `CLAUDE.md`, `AGENTS.md`
 **What changed:** Added a top-level HANDOFF.md as the start-here doc for any new
 session on any device — current state, an environment capability matrix (mobile/
@@ -35,7 +37,7 @@ auto-push protocol, roadmap, and known issues (incl. the cross-device sync
 `crypto.randomUUID` divergence). Wired "read HANDOFF.md first" into CLAUDE.md and
 AGENTS.md so any new thread is routed to it. Enables spinning up a fully capable
 Claude Code thread from Dispatch/mobile.
-**Revert:** `git rm HANDOFF.md` and revert the CLAUDE.md / AGENTS.md pointer edits.
+**Revert:** `git revert 80e5511` (removes HANDOFF.md and the CLAUDE.md / AGENTS.md pointer edits).
 
 ---
 

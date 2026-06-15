@@ -2,8 +2,8 @@
 
 This document is for any AI assistant working in this directory. It is AI-agnostic — the same instructions apply whether you are Claude, Codex, Gemini, Cursor, or any other assistant.
 
-See [../USER_PROFILE.md](../USER_PROFILE.md) for the workspace owner's working style and communication preferences.
-See [../PREFERENCES.md](../PREFERENCES.md) for code and documentation standards.
+See [../docs/USER_PROFILE.md](../docs/USER_PROFILE.md) for the workspace owner's working style and communication preferences.
+See [../docs/PREFERENCES.md](../docs/PREFERENCES.md) for code and documentation standards.
 
 **Read [HANDOFF.md](HANDOFF.md) first** — current state, the environment capability
 matrix (what works on mobile/Dispatch vs the owner's Mac), infra/secrets locations,

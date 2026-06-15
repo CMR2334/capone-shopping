@@ -6,7 +6,7 @@ Collin pre-approves all Bash, Read, Edit, Write, and computer-use actions for:
 - ~/Library/LaunchAgents/
 - /tmp/
 No need to request confirmation for these locations in any session.
-See ../USER_PROFILE.md for full working preferences.
+See ../docs/USER_PROFILE.md for full working preferences.
 
 ## Read first
 **Read [HANDOFF.md](HANDOFF.md) first** — it is the cross-session, cross-device front
@@ -17,14 +17,19 @@ vs the owner's Mac), infra/secrets locations, roadmap, and open issues. Then che
 ## Auto-push protocol (apply in every session)
 Always commit and push after making frontend changes. GitHub Pages rebuilds within 30–90s.
 
+The ingestor bot commits `public/offers.json` every ~15 min, so a plain push can be
+rejected as non-fast-forward. **Always rebase before pushing:**
+
 ```bash
 cd /Users/collinrekowski/Automation/capone-shopping && \
   git add public/index.html && \
-  git commit -m "auto update" && \
+  git commit -m "describe the change" && \
+  git pull --rebase && \
   git push origin main
 ```
 
 Do **not** manually commit `public/offers.json` — the GitHub Actions ingestor manages that file.
+See HANDOFF.md → "Auto-push protocol" for the canonical version (incl. the stash dance when you have uncommitted changes at pull time).
 
 Push at least every 30 minutes of active work. Push before the user steps away.
 
@@ -57,6 +62,6 @@ See [AGENTS.md](AGENTS.md) for full architecture notes (AI-agnostic version of t
 - Live URL: https://CMR2334.github.io/capone-shopping/
 
 ## Shared Documentation
-- User profile and preferences: /Users/collinrekowski/Automation/USER_PROFILE.md
-- Workflow preferences: /Users/collinrekowski/Automation/PREFERENCES.md
-- Automation workspace overview: /Users/collinrekowski/Automation/CONTEXT.md
+- User profile and preferences: /Users/collinrekowski/Automation/docs/USER_PROFILE.md
+- Workflow preferences: /Users/collinrekowski/Automation/docs/PREFERENCES.md
+- Automation workspace overview: /Users/collinrekowski/Automation/docs/CONTEXT.md

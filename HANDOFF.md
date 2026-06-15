@@ -161,9 +161,9 @@ git push origin main
   data, not for anything private. (2) On first convergence it's last-writer-wins: the
   first device to load after the change seeds the shared bucket and others adopt it,
   so glance at favorites once and re-add anything missing.
-- **README sync section is stale.** README still describes sync as opt-in (gray dot
-  "by design"); since the 2026-05-16 auto-UUID change, a token almost always exists,
-  so that section no longer matches behavior. Fix alongside whatever sync decision is made.
+- **✅ README sync section — FIXED 2026-06-14.** README previously described sync as
+  opt-in (gray dot "by design"). Updated to match current always-on shared-token
+  behavior: green/red in normal use, gray only briefly before bootstrap.
 - **Local Mac copy may be stale.** A `…/Automation/capone-offers/` folder existed
   locally with **no `.git`** and old files (pre-rename). The real local working copy
   should be a fresh clone of `capone-shopping`. Dispatch is unaffected (it clones fresh).

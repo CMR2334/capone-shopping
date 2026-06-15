@@ -72,11 +72,13 @@ Single self-contained file. No bundler, no dependencies, no build step.
 
 ### Sync indicator states
 
+Sync is **always on** (see bootstrap below), so in normal use the dot is green or red — gray is rare.
+
 | Color | Meaning |
 |---|---|
-| Gray | No `capone:sync-token` in localStorage — **by design, not a bug.** Sync is opt-in via `?sync=TOKEN`. |
-| Green (glowing) | Sync token present and last `PUT /state` or `GET /state` succeeded. |
+| Green (glowing) | Sync token present and last `PUT /state` or `GET /state` succeeded. Normal state. |
 | Red | Sync token present but last request failed (network error or 4xx/5xx). |
+| Gray | No `capone:sync-token` in localStorage. Rare — every device converges on a shared token on load, so gray only shows briefly before bootstrap or if `localStorage` is blocked. |
 
 ### localStorage keys
 
@@ -88,7 +90,9 @@ Single self-contained file. No bundler, no dependencies, no build step.
 
 ### Cross-device sync bootstrap
 
-Opening the app with `?sync=TOKEN` in the URL writes the token to localStorage and cleans the URL via `history.replaceState`. Share this URL to set up sync on a new device — no login UI needed.
+Sync is **always on**. On first load every device converges on a shared token (`SHARED_SYNC_TOKEN` in `index.html`); the worker keys state by token, so all devices read/write one KV bucket = true cross-device sync with zero setup. Legacy per-device tokens (older random-UUID or hex tokens) auto-migrate to the shared token on next load.
+
+Opening the app with `?sync=TOKEN` overrides the shared token for a custom/private namespace — it writes the token to localStorage and cleans the URL via `history.replaceState`.
 
 On load the app does a merge:
 - If the remote has data → overwrite local.

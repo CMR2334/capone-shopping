@@ -5,3 +5,5 @@ ingestor/raw/
 .DS_Store
 *.log
 .env
+.claude/worktrees/
+c1_icon_final.png

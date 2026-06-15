@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "Capital One Shopping offer tracker",
+  "license": "MIT",
   "scripts": {
     "auth": "node ingestor/auth.js",
     "ingest": "node ingestor/ingest.js"
