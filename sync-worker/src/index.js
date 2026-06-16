@@ -8,7 +8,7 @@ function corsHeaders(origin) {
   const allowOrigin = ALLOWED_ORIGINS.includes(origin) ? origin : ALLOWED_ORIGINS[0];
   return {
     'Access-Control-Allow-Origin': allowOrigin,
-    'Access-Control-Allow-Methods': 'GET, PUT, OPTIONS',
+    'Access-Control-Allow-Methods': 'GET, PUT, POST, OPTIONS',
     'Access-Control-Allow-Headers': 'Authorization, Content-Type',
     'Access-Control-Max-Age': '86400',
     'Vary': 'Origin',
@@ -43,6 +43,26 @@ function htmlResponse(title, message, color = '#003a6c') {
   return new Response(
     `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${title}</title><style>body{font-family:-apple-system,BlinkMacSystemFont,sans-serif;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;background:#f7f4ec;color:#0f1d33;text-align:center;padding:20px}div{max-width:420px}h1{font-size:24px;margin:0 0 8px;color:${color};letter-spacing:-0.01em}p{color:#74757b;margin:0;font-size:14px}</style></head><body><div><h1>${title}</h1><p>${message}</p></div></body></html>`,
     { headers: { 'Content-Type': 'text/html; charset=utf-8' } }
+  );
+}
+
+// Trigger the GitHub Actions ingest workflow (workflow_dispatch). Shared by the
+// on-demand /refresh route and the scheduled() cron handler. Requires the
+// GH_DISPATCH_TOKEN secret: a fine-grained PAT with Actions: read/write on the repo.
+function dispatchIngest(env) {
+  return fetch(
+    'https://api.github.com/repos/CMR2334/capone-shopping/actions/workflows/ingest.yml/dispatches',
+    {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${env.GH_DISPATCH_TOKEN}`,
+        'Accept': 'application/vnd.github+json',
+        'X-GitHub-Api-Version': '2022-11-28',
+        'User-Agent': 'capone-offers-sync',
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ ref: 'main' }),
+    }
   );
 }
 
@@ -124,10 +144,54 @@ export default {
       return htmlResponse('Unknown action', 'Action type not recognized.', '#c8262f');
     }
 
+    if (url.pathname === '/refresh') {
+      // Lets the web app trigger a fresh Gmail ingest on demand. Gated by the sync
+      // token + a short KV cooldown so this public endpoint can't spam CI. Without the
+      // GH_DISPATCH_TOKEN secret it reports not_configured (the app falls back to a
+      // plain re-pull of the published data).
+      if (request.method !== 'POST') {
+        return jsonResponse({ error: 'method not allowed' }, 405, cors);
+      }
+      const auth = request.headers.get('Authorization') || '';
+      const token = auth.replace(/^Bearer\s+/i, '').trim();
+      if (!token) {
+        return jsonResponse({ error: 'unauthorized' }, 401, cors);
+      }
+      if (!env.GH_DISPATCH_TOKEN) {
+        return jsonResponse({ status: 'not_configured' }, 501, cors);
+      }
+
+      const COOLDOWN_MS = 60000;
+      const now = Date.now();
+      const last = await env.OFFERS_KV.get('refresh:last');
+      if (last && now - Number(last) < COOLDOWN_MS) {
+        const retryInSeconds = Math.ceil((COOLDOWN_MS - (now - Number(last))) / 1000);
+        return jsonResponse({ status: 'cooldown', retryInSeconds }, 429, cors);
+      }
+      // Reserve the slot before dispatching so rapid double-clicks can't double-fire.
+      await env.OFFERS_KV.put('refresh:last', String(now), { expirationTtl: 300 });
+
+      const ghRes = await dispatchIngest(env);
+      if (ghRes.status === 204) {
+        return jsonResponse({ status: 'triggered' }, 202, cors);
+      }
+      const detail = (await ghRes.text()).slice(0, 200);
+      return jsonResponse({ status: 'github_error', code: ghRes.status, detail }, 502, cors);
+    }
+
     if (url.pathname === '/' || url.pathname === '/health') {
       return new Response('ok\n', { headers: { 'Content-Type': 'text/plain' } });
     }
 
     return new Response('Not found', { status: 404 });
+  },
+
+  // Cloudflare Cron Trigger (wrangler.toml [triggers]). Cloudflare's scheduler is
+  // reliable, unlike GitHub's heavily-throttled cron, so this is the primary driver
+  // for keeping offers.json fresh. Inert until GH_DISPATCH_TOKEN is set.
+  async scheduled(event, env, ctx) {
+    if (env.GH_DISPATCH_TOKEN) {
+      ctx.waitUntil(dispatchIngest(env));
+    }
   },
 };

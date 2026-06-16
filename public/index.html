@@ -108,6 +108,32 @@
     background: #c8c8cd;
     box-shadow: none;
   }
+  .refresh-btn {
+    -webkit-appearance: none;
+    appearance: none;
+    background: none;
+    border: 0;
+    margin: 0;
+    padding: 4px;
+    color: var(--muted);
+    cursor: pointer;
+    line-height: 0;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: color 0.15s ease, background 0.15s ease;
+  }
+  .refresh-btn:hover { color: var(--navy); background: var(--rule-soft); }
+  .refresh-btn:active { color: var(--navy); }
+  .refresh-btn svg { width: 15px; height: 15px; display: block; }
+  .refresh-btn.is-busy { color: var(--navy); pointer-events: none; }
+  .refresh-btn.is-busy svg { animation: spin 0.8s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  @media (max-width: 820px) {
+    .refresh-btn { padding: 6px; }
+    .refresh-btn svg { width: 18px; height: 18px; }
+  }
   .controls {
     display: flex;
     align-items: center;
@@ -359,6 +385,9 @@
       <div class="subtitle">
         <span id="subtitleText">Loading…</span>
         <span class="sync-dot is-off" id="syncDot" title="Sync not set up"></span>
+        <button id="refreshBtn" class="refresh-btn" type="button" title="Check for new offers" aria-label="Check for new offers">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v5h-5"/></svg>
+        </button>
       </div>
     </div>
     <div class="controls">
@@ -405,6 +434,7 @@
   const footer = document.getElementById('footer');
   const notice = document.getElementById('notice');
   const noticeText = document.getElementById('noticeText');
+  const refreshBtn = document.getElementById('refreshBtn');
 
   let lastSyncOk = false;
 
@@ -753,6 +783,36 @@
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'visible') load();
   });
+
+  // Manual refresh: instantly re-pull published offers, and (if the Worker is
+  // configured) trigger a fresh Gmail ingest, re-pulling a few times as it lands.
+  const REFRESH_REPULL_MS = [8000, 20000, 40000, 70000];
+  let refreshTimers = [];
+  async function manualRefresh() {
+    if (refreshBtn.classList.contains('is-busy')) return;
+    refreshBtn.classList.add('is-busy');
+    refreshTimers.forEach(clearTimeout);
+    refreshTimers = [];
+    await load(); // instant re-pull of the latest published data
+    let triggered = false;
+    try {
+      const res = await fetch(`${SYNC_URL}/refresh`, {
+        method: 'POST',
+        headers: { 'Authorization': 'Bearer ' + (getSyncToken() || '') },
+      });
+      triggered = res.status === 202;
+    } catch { /* offline or worker unreachable — the instant re-pull already ran */ }
+    if (triggered) {
+      // Fresh data lands in ~30–90s; re-pull a few times, then stop the spinner.
+      REFRESH_REPULL_MS.forEach(ms => refreshTimers.push(setTimeout(load, ms)));
+      refreshTimers.push(setTimeout(
+        () => refreshBtn.classList.remove('is-busy'),
+        REFRESH_REPULL_MS[REFRESH_REPULL_MS.length - 1] + 1500));
+    } else {
+      refreshBtn.classList.remove('is-busy');
+    }
+  }
+  refreshBtn.addEventListener('click', manualRefresh);
 
   load();
   setInterval(load, 5 * 60 * 1000);

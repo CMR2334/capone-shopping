@@ -6,3 +6,9 @@ compatibility_date = "2026-05-11"
 [[kv_namespaces]]
 binding = "OFFERS_KV"
 id = "84ae9a9ba9c944b0848d4c976152ded5"
+
+# Reliable ingest scheduler. Cloudflare Cron Triggers fire on time (unlike GitHub's
+# throttled schedule), so the Worker dispatches the GitHub ingest workflow every 15 min.
+# Active only once the GH_DISPATCH_TOKEN secret is set (`wrangler secret put GH_DISPATCH_TOKEN`).
+[triggers]
+crons = ["*/15 * * * *"]

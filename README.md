@@ -67,6 +67,7 @@ Single self-contained file. No bundler, no dependencies, no build step.
 | **Unhide** | Eye button in Hidden view |
 | **Sync indicator** | Colored dot in header — see below |
 | **Auto-refresh** | Fetches `offers.json` every 5 minutes and on tab focus |
+| **Refresh button** | Manual refresh in the header — instant re-pull; also triggers a fresh Gmail ingest when the worker is configured |
 | **Offline-ish** | Renders from last-fetched data while re-fetching in background |
 | **PWA** | Installable on iOS/Android; `apple-mobile-web-app-capable`; safe-area insets |
 
@@ -192,6 +193,7 @@ Cloudflare Worker. Stores per-token state in a KV namespace (`OFFERS_KV`).
 | `GET` | `/state` | Bearer token | Returns `{ favorites, hidden, updatedAt }` |
 | `PUT` | `/state` | Bearer token | Writes `{ favorites, hidden }` |
 | `GET` | `/action` | `?token=` query param | Favorite/hide/unhide action for email links; returns HTML confirmation |
+| `POST` | `/refresh` | Bearer token | Dispatches the GitHub ingest workflow (60s cooldown). Needs `GH_DISPATCH_TOKEN`; `501` without it |
 | `GET` | `/health` | None | Returns `ok` |
 
 `/action` query params: `type` (`favorite`, `hide`, `unhide`), `merchant`, `percent` (for hide).

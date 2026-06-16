@@ -128,6 +128,16 @@ git push origin main
 
 ## Roadmap / pending work
 
+- **On-demand refresh + reliable cron (built 2026-06-16; needs a one-time worker deploy).**
+  The app now has a header refresh button, and the Worker has a `POST /refresh` route plus a
+  Cloudflare Cron Trigger (`scheduled()`) — both dispatch the GitHub ingest workflow. This
+  exists because GitHub throttles the `*/15` cron hard (real runs were landing every ~1.5–5h,
+  not every 15 min; confirmed 2026-06-16). **To activate:** create a fine-grained GitHub PAT
+  (Actions: Read and write on the repo), `wrangler secret put GH_DISPATCH_TOKEN`, then
+  `wrangler deploy` in `sync-worker/`. Until deployed, the button does an instant re-pull only
+  and GitHub's throttled cron stays the (unreliable) driver. A manual `gh workflow run ingest.yml`
+  forces a refresh anytime in the meantime.
+
 - **Tier 2 interactive email digest** (agreed direction; not built). Daily ~8am
   email of current offers, each card with ★ favorite / × hide links. The worker's
   `GET /action?type=favorite|hide|unhide&merchant=&percent=&token=` endpoint
@@ -139,8 +149,10 @@ git push origin main
   fire an offer). Mechanism is sound; payoff is empirical. Mac-only by nature.
 - **CI worker deploys** (enabler for full mobile). Add `CLOUDFLARE_API_TOKEN` secret
   + a workflow that runs `wrangler deploy` on changes to `sync-worker/**`.
-- **Node 20 → 24 in Actions.** `actions/*` emit Node20 deprecation warnings
-  (non-blocking; hard cutoff mid-2026). Bump action versions when convenient.
+- **Node 20 → 24 in Actions.** `actions/*` emit Node20 deprecation warnings. As of
+  2026-06-16 GitHub forces Node24 by default for JS actions (runs are still green today).
+  Bump `actions/checkout`, `actions/setup-node`, `configure-pages`, `upload-pages-artifact`,
+  and `deploy-pages` to current majors when convenient.
 - **Gmail archive filter** (user task, not code): a filter to skip-inbox + label
   C1 emails. Safe — the ingestor searches all mail, so archived mail is still found.
   Do **not** trash them: Gmail search excludes Trash and auto-deletes after 30 days.
