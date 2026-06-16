@@ -14,42 +14,42 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 ---
 
 ## 2026-06-16 — Feature: on-demand refresh button + reliable Cloudflare cron
-**Commit:** `0faed77`
+**Commit:** `a17f635`
 **Files:** `public/index.html`, `sync-worker/src/index.js`, `sync-worker/wrangler.toml`, `README.md`, `sync-worker/README.md`, `HANDOFF.md`
 **What changed:** Added a minimal header refresh button (instant re-pull of `offers.json`, plus a Gmail-ingest trigger when the Worker is configured). New Worker `POST /refresh` dispatches the GitHub ingest workflow (sync-token gated, 60s KV cooldown); a Cloudflare Cron Trigger (`scheduled()`, `*/15`) fires the same dispatch reliably to replace GitHub's heavily-throttled schedule (real runs were landing every ~1.5–5h, not every 15 min). Inert until `GH_DISPATCH_TOKEN` is set + `wrangler deploy`.
-**Revert:** `git revert 0faed77`
+**Revert:** `git revert a17f635`
 
 ---
 
 ## 2026-06-16 — App: version stamp + bump to v0.2.0
-**Commit:** `4192dc4`
+**Commit:** `3c686f8`
 **Files:** `public/index.html`, `package.json`
 **What changed:** Footer now shows `APP_VERSION` (v0.2.0) so a browser-cached client is identifiable at a glance; `package.json` bumped 0.1.0 → 0.2.0.
-**Revert:** `git checkout 4192dc4~1 -- public/index.html package.json`
+**Revert:** `git checkout 3c686f8~1 -- public/index.html package.json`
 
 ---
 
 ## 2026-06-16 — CI: alert on ingest/deploy failure via GitHub issue
-**Commit:** `08de865`
+**Commit:** `ac42fa7`
 **Files:** `.github/workflows/ingest.yml`
 **What changed:** Added a `notify-failure` job that opens (or no-ops on an already-open) `ingest-failure` issue when the scheduled workflow fails, so a dead `GMAIL_REFRESH_TOKEN` or broken cron is visible instead of `offers.json` silently going stale.
-**Revert:** `git revert 08de865`
+**Revert:** `git revert ac42fa7`
 
 ---
 
 ## 2026-06-14 — Reliability: surface staleness + parse failures; harden ingestor
-**Commit:** `dd4dd54`
+**Commit:** `00ec219`
 **Files:** `public/index.html`, `ingestor/ingest.js`
 **What changed:** Staleness banner when `offers.json` is >8h old + an error banner on load failure; `parseFailures` surfaced in the footer. Ingestor now wraps per-message work (one bad message no longer aborts the whole run) and refuses to overwrite `offers.json` when source emails exist but yield 0 offers (exits non-zero so CI flags it).
-**Revert:** `git revert dd4dd54`
+**Revert:** `git revert 00ec219`
 
 ---
 
 ## 2026-06-14 — Docs + chore: fix doc drift, backfill hashes, repo hygiene
-**Commit:** `ad8fe56`
+**Commit:** `652a11f`
 **Files:** `AGENTS.md`, `CLAUDE.md`, `CHANGELOG.md`, `README.md`, `HANDOFF.md`, `.gitignore`, `LICENSE`, `package.json`, `.claude/launch.json`
 **What changed:** Fixed broken `../docs/` doc links, reconciled the auto-push protocol (rebase-first) with HANDOFF, backfilled real commit hashes for the 2026-06-07 entries, refreshed the stale README sync section, ignored `.claude/worktrees/`, removed the duplicate `c1_icon_final.png` + orphan `ingestor/token.json`, added an MIT `LICENSE`.
-**Revert:** see commit `ad8fe56` (per-file).
+**Revert:** see commit `652a11f` (per-file).
 
 ---
 
