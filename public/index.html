@@ -425,6 +425,7 @@
 
 <script>
 (() => {
+  const APP_VERSION = 'v0.2.0'; // bump with package.json on each meaningful release
   const grid = document.getElementById('grid');
   const empty = document.getElementById('empty');
   const emptyTitle = document.getElementById('emptyTitle');
@@ -717,7 +718,7 @@
         setNotice(null);
       }
       const parseFailures = data.parseFailures || 0;
-      footer.textContent = `Last update: ${updated ? updated.toLocaleString() : '—'}`
+      footer.textContent = `${APP_VERSION} · Last update: ${updated ? updated.toLocaleString() : '—'}`
         + (parseFailures ? ` · ${parseFailures} parse issue${parseFailures > 1 ? 's' : ''}` : '');
       setSyncDot();
       render();
