@@ -60,3 +60,37 @@ jobs:
           path: ./public
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  # If ingest or deploy fails, surface it as a GitHub issue so a dead refresh token
+  # or broken cron is visible instead of offers.json silently going stale.
+  notify-failure:
+    needs: [ingest, deploy]
+    if: failure()
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GH_REPO: ${{ github.repository }}
+      RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+    steps:
+      - name: Open a failure issue (deduped on an open one)
+        run: |
+          set -euo pipefail
+          gh label create ingest-failure --color B60205 --description "Ingest/deploy workflow failure" 2>/dev/null || true
+          existing=$(gh issue list --label ingest-failure --state open --json number --jq '.[0].number // empty')
+          if [ -n "$existing" ]; then
+            echo "Failure issue #$existing already open — not duplicating."
+            exit 0
+          fi
+          body=$(printf '%s\n' \
+            "The scheduled ingest/deploy workflow failed, so public/offers.json is not being refreshed." \
+            "" \
+            "Likely causes: an expired GMAIL_REFRESH_TOKEN (rotate it — see HANDOFF.md → Infrastructure & secrets map), a Gmail API/format change, or a parser regression. The live site shows a staleness banner once data is ~8h old." \
+            "" \
+            "Failed run: $RUN_URL" \
+            "Commit: $GITHUB_SHA" \
+            "" \
+            "Close this issue once the pipeline is healthy again; the next failure will open a fresh one.")
+          gh issue create --label ingest-failure --title "Ingest workflow failing" --body "$body"
