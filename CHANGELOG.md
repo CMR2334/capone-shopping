@@ -13,6 +13,14 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-06-16 — Fix: parse "Earn up to N% back" featured offers
+**Commit:** `3cb4f24`
+**Files:** `ingestor/parser.js`
+**What changed:** Personalized "Offer at <merchant> for you!" emails render their hero offer as "Earn up to N% back at <merchant>"; the "up to" before the percent broke the matcher, so those heroes were silently dropped while same-email digest items parsed fine. Allowed an optional "up to" before the percentage. Recovered 8 offers on the next ingest (19 → 27), including Blue Apron and Wine Insiders. Dollar-amount heroes ("up to $34 back at HelloFresh") remain unhandled — needs non-percent reward rendering in the UI.
+**Revert:** `git revert 3cb4f24`
+
+---
+
 ## 2026-06-16 — Feature: on-demand refresh button + reliable Cloudflare cron
 **Commit:** `a17f635`
 **Files:** `public/index.html`, `sync-worker/src/index.js`, `sync-worker/wrangler.toml`, `README.md`, `sync-worker/README.md`, `HANDOFF.md`
