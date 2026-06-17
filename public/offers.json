@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-17T01:18:57.143Z",
-  "sourceCount": 58,
+  "lastUpdated": "2026-06-17T01:59:27.697Z",
+  "sourceCount": 59,
   "parseFailures": 0,
   "offers": [
     {
@@ -56,6 +56,19 @@
       "emailDate": "2026-06-14T14:43:55.000Z"
     },
     {
+      "merchant": "iHerb",
+      "percentBack": 14,
+      "capAmount": null,
+      "wasPercent": 2.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ajA5c2lCKzNKa2RWUjZiL3NFbm5LUElNdnlGWldzTys4SW1xbC8zR3JDbG1lVEZDYjAyWjkwVFRxTWp0WkpNMDdtdjhLenFxYlh4UjhCeE9JUVFFRm13ZFRsbTBqWWh1bE1VcElRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=iherb.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ed32c55407fc2c",
+      "emailDate": "2026-06-17T01:22:38.000Z"
+    },
+    {
       "merchant": "Apple",
       "percentBack": 14,
       "capAmount": null,
@@ -67,6 +80,19 @@
       "source": "single-use",
       "emailMessageId": "19ecfc23f4dc2ec7",
       "emailDate": "2026-06-16T09:27:53.000Z"
+    },
+    {
+      "merchant": "Ancient Nutrition",
+      "percentBack": 14,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-06-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UXk4a21ucjNVU1EzK0krdlhocnNZRmhTTjV2QzhISmV1NTVKVUhjV0hCVGZHNTRyejNmSFdiYkYxL1lreDRHczkyOXhISHlnUCtvWnFLUXVvVjIxSnhoLzljRHVnNTNPRUZ2bFh3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ancientnutrition.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ed32c55407fc2c",
+      "emailDate": "2026-06-17T01:22:38.000Z"
     },
     {
       "merchant": "Ulanzi",
@@ -212,6 +238,58 @@
       "emailDate": "2026-06-16T00:35:25.000Z"
     },
     {
+      "merchant": "More Labs",
+      "percentBack": 7.5,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q1NUUTBtckx2Mnd4Rm9xeTBacGJmZjhKY0NGeW9UdEluQjlubGhrbEVDSEJKeUJ2dGZjMzNwRHJuaVpnMUlRcTUzc1NOWUYxb1BzL1hwNmZPV3BmUFdFN0xBeUJhTWFiTDNGRWVRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=morelabs.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ed32c55407fc2c",
+      "emailDate": "2026-06-17T01:22:38.000Z"
+    },
+    {
+      "merchant": "GNC",
+      "percentBack": 7,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ckZjL1hmQ0FmZStuaGdqVnA5R25NOHJBL3VmTVd5T2YrVTBNRGlCcGdpL0RtTkYyemxxMlpvVGRBdEN0bGtmUG4wQ3FXZHJRNHA4SjRXMGFRNGtQa04rVWo0UDRPeVJScTVBSDhnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gnc.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19ed32c55407fc2c",
+      "emailDate": "2026-06-17T01:22:38.000Z"
+    },
+    {
+      "merchant": "Jupiter",
+      "percentBack": 7,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-06-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6djNNa1I0SmtrektUaHQvY2VKdm92QWUyMm1xTHU1SEV0YUpqZHp3M1Uza3EvNkd6bzVNWlNmclM1eE1oYUtiWVE5K3pxUnlQY0VUQTI2SzdvaU9LS1BxdzJYN3NoTG1MNEtZeUZnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hellojupiter.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ed32c55407fc2c",
+      "emailDate": "2026-06-17T01:22:38.000Z"
+    },
+    {
+      "merchant": "PetSmart",
+      "percentBack": 6,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-06-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aVZWMkg4aGowR20zLyt5bnk1VXBSZ3UrbTI3L1NhdU5MWnVLVTJIajRUOUg2aWYySnV5Vm9vY2xFRXRYNURmSFdsMVdPZWs4NmVvd0V4VTRxMmlBQmkwUjNCUmFxd0E2M054NjRRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petsmart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ed32c55407fc2c",
+      "emailDate": "2026-06-17T01:22:38.000Z"
+    },
+    {
       "merchant": "Wine Access",
       "percentBack": 6,
       "capAmount": null,
@@ -301,6 +379,19 @@
       "source": "single-use",
       "emailMessageId": "19ec56b2b05bffa3",
       "emailDate": "2026-06-14T09:16:34.000Z"
+    },
+    {
+      "merchant": "My Lab Box",
+      "percentBack": 3.5,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6N1dUQi9BTklnVnVUcFVOU2dSZ1pMbysvTzJLMm9neFJtaU1TcEkweDNWRU1pNUtmWGtDT0lqcGY3dVVLc25sY0EwREtaMzVkZCtiZ2tmUnMwUnVlTk1wNUZLTEU0M1JqblF2c1FBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=mylabbox.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ed32c55407fc2c",
+      "emailDate": "2026-06-17T01:22:38.000Z"
     },
     {
       "merchant": "WANDRD Gear",
