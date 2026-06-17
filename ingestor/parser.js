@@ -73,7 +73,7 @@ function parseCaponeEmail(html, meta = {}) {
 }
 
 function matchOfferText(text) {
-  const m = text.match(/^(Earn\s+)?(\d+(?:\.\d+)?)%\s*back(?:,\s*up\s+to\s+\$(\d+(?:\.\d+)?))?\s+at\s+(.+?)(?:\s*[-—]\s*single.use.*)?$/i);
+  const m = text.match(/^(Earn\s+)?(?:up\s+to\s+)?(\d+(?:\.\d+)?)%\s*back(?:,\s*up\s+to\s+\$(\d+(?:\.\d+)?))?\s+at\s+(.+?)(?:\s*[-—]\s*single.use.*)?$/i);
   if (!m) return null;
   return {
     isEarn: !!m[1],
