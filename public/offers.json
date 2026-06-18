@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-06-18T07:29:09.728Z",
-  "sourceCount": 57,
+  "lastUpdated": "2026-06-18T11:35:55.360Z",
+  "sourceCount": 58,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "iHerb",
+      "percentBack": 45,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UVR0QkRTWGR3eERGa0VqUUtYQjEvMWZoZFZ2bVNJSk9XUnBNVTBNYjNJekcrMUkyWWlhNTBMcWRkS1ZjTXlLRU1sM0o5SzU1d2Y0QmxTOUVmTnRIVGZySUhnRjNmaC8wdi9SS3RBPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/iherb.com/60c34bf1-5ac3-4e1a-a2cf-5360e8bb584c.gif",
+      "source": "single-use",
+      "emailMessageId": "19eda0a6856f15ea",
+      "emailDate": "2026-06-18T09:22:55.000Z"
+    },
     {
       "merchant": "Steve Madden",
       "percentBack": 35,
@@ -15,6 +28,45 @@
       "source": "single-use",
       "emailMessageId": "19ecddac06282835",
       "emailDate": "2026-06-16T00:35:25.000Z"
+    },
+    {
+      "merchant": "City Cruises",
+      "percentBack": 30,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-06-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QmZwNm1FN1JOZUIzMmQvNmVHRHF2endLUjJYaTF0YmNDSUpzWEdLaEF5Y0gxbXV3ak52Si9uMm1nK0NQQWVuK0k5eXdFMDVCS2NCTXY4clJiZDVocTI5L0dncE9UazNiZHBUYkZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cityexperiences.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19eda0a6856f15ea",
+      "emailDate": "2026-06-18T09:22:55.000Z"
+    },
+    {
+      "merchant": "Tripadvisor",
+      "percentBack": 20,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-06-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UmtkUEwxRU1QTkloNmVhTmowWndabzlxdDZmTUdXenBWazB6NCtNa0pHTytQdkRZSGlCbG5DbTlEMTNCMERGWXg1TCtjaFZYSXZyRndpQVp1cnRHSlZhb3BhbEkwb1pIa1hPSVl3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19eda0a6856f15ea",
+      "emailDate": "2026-06-18T09:22:55.000Z"
+    },
+    {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 15,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RVgyczdSZEtGVncyQ3RrSWRnalVzMVc0RVN6TDVVd0Vab3k3bGh2eDMyeGYySitvZzJDK0c0Q1hJNENOcGdlek9pMEtnZER5bTllVG00OGs1WHRLOURDMTdQSHpkK0RWZTMrOGJ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19eda0a6856f15ea",
+      "emailDate": "2026-06-18T09:22:55.000Z"
     },
     {
       "merchant": "bistroMD",
@@ -41,19 +93,6 @@
       "source": "single-use",
       "emailMessageId": "19ecddac06282835",
       "emailDate": "2026-06-16T00:35:25.000Z"
-    },
-    {
-      "merchant": "iHerb",
-      "percentBack": 14,
-      "capAmount": null,
-      "wasPercent": 2.5,
-      "lastViewed": null,
-      "expiresAt": "2026-06-20T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ajA5c2lCKzNKa2RWUjZiL3NFbm5LUElNdnlGWldzTys4SW1xbC8zR3JDbG1lVEZDYjAyWjkwVFRxTWp0WkpNMDdtdjhLenFxYlh4UjhCeE9JUVFFRm13ZFRsbTBqWWh1bE1VcElRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=iherb.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19ed32c55407fc2c",
-      "emailDate": "2026-06-17T01:22:38.000Z"
     },
     {
       "merchant": "Apple",
@@ -160,6 +199,45 @@
       "emailDate": "2026-06-16T00:35:25.000Z"
     },
     {
+      "merchant": "Tiqets",
+      "percentBack": 9,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bFBIOXNzcU5aa1l5Z0kyMmZEd1hUek5COFFLRnVVVUlFckFOYXdBN1gzbEFleFZiM29FN2dSWDhWM1VEbmNyd2ppcDBYUy9qUzFZQ0UvZ2pGZlJ1b3VtK1RMNEVFMXpOaDBGTDFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tiqets.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19eda0a6856f15ea",
+      "emailDate": "2026-06-18T09:22:55.000Z"
+    },
+    {
+      "merchant": "Polynesian Cultural Center",
+      "percentBack": 8.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bkhUSFhQamJvK0FaZ0dFWGJ0WURwZGhLT0VjVzczRmQvcnhyYlBNWnVPMlVxeDdWT0N2VU1iL0Flb2RiOStnSFdxTGRZUjdSUlJYL1pIU0dGZVFjY3NNSmNZMEJGYXA3YlRqR0dRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=polynesia.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19eda0a6856f15ea",
+      "emailDate": "2026-06-18T09:22:55.000Z"
+    },
+    {
+      "merchant": "CityPASS",
+      "percentBack": 8,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bjFGV2RqclNOeFUwOCtIMDFXRHNGTHhXMzhranVJdDV0Z0xlSTUyU2RiSW5BSVFwMVZjVnRsdmpoRC9sa094eHdtOFhZT3k2RFlUd3pKYXN2WDJpWWkxUm5nV3h5aXcvRnBFaEVBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=citypass.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19eda0a6856f15ea",
+      "emailDate": "2026-06-18T09:22:55.000Z"
+    },
+    {
       "merchant": "Tours4Fun",
       "percentBack": 8,
       "capAmount": null,
@@ -249,6 +327,19 @@
       "source": "single-use",
       "emailMessageId": "19ecddac06282835",
       "emailDate": "2026-06-16T00:35:25.000Z"
+    },
+    {
+      "merchant": "Iberostar Hotels & Resorts",
+      "percentBack": 4,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-06-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6LzI2SThQMHkveTlsTHRuY1ZQbThlMFFJVG5RdUU1ZURSSE9CYm12bHo0RmkrTGlGcG5oNWliSFh3R256TVliZGRaaTNtWTdkR1NLZVNKWTVMTzhtRzZIa0tLdHI5ZVpTRWx5b2xnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=iberostar.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19eda0a6856f15ea",
+      "emailDate": "2026-06-18T09:22:55.000Z"
     },
     {
       "merchant": "My Lab Box",
