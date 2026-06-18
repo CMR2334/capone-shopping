@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T14:34:06.738Z",
+  "lastUpdated": "2026-06-18T17:47:35.276Z",
   "sourceCount": 59,
   "parseFailures": 0,
   "offers": [
@@ -43,6 +43,19 @@
       "emailDate": "2026-06-18T12:25:56.000Z"
     },
     {
+      "merchant": "Brodo",
+      "percentBack": 30,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cXpoOWYzQmZNTjhoTTZqdC9SeVZxb0owWjA4TUppNkR6d1Zjei9pVHRVUW5PZjFEV2F0ZFdqSjhHWGhXZmFZcEE3Yi82ZUU1ODBGOGsvSzVVL2lRd3kzZGRoc2RINmc0blRYYmlRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=brodo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19edbc879e92616a",
+      "emailDate": "2026-06-18T17:30:08.000Z"
+    },
+    {
       "merchant": "City Cruises",
       "percentBack": 30,
       "capAmount": null,
@@ -54,6 +67,19 @@
       "source": "single-use",
       "emailMessageId": "19eda0a6856f15ea",
       "emailDate": "2026-06-18T09:22:55.000Z"
+    },
+    {
+      "merchant": "Fresh Meal Plan",
+      "percentBack": 25,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-06-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MEVXM3FTVVlHaVBuNHhFT29uNGgyMEszR2JRNU5YamVGVG96Q1piUjNFUXNLNE1PR1BiZHFldFBTdTZuWVZOaU41a05uWmswendrUFNXdkZ5KzRHUHNNa0VWNmdMM1hSUWcvc0lRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=freshmealplan.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19edbc879e92616a",
+      "emailDate": "2026-06-18T17:30:08.000Z"
     },
     {
       "merchant": "Fanatics",
@@ -106,6 +132,19 @@
       "source": "single-use",
       "emailMessageId": "19eda0a6856f15ea",
       "emailDate": "2026-06-18T09:22:55.000Z"
+    },
+    {
+      "merchant": "Incogni",
+      "percentBack": 15,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-06-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZkZoTzJuV29kTWJXSEpUS21hYTUxSC9xN3ByM212NFBtcU0wcmcxeVpNM2JRVytVZW9uQ2U3ZzM1RW5XMThOd1VWcHY3QkFISThUOWQ2Rm9mbkpFNHFFVWY0ZTNySTlXQ3ExeWx3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=incogni.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19edbc879e92616a",
+      "emailDate": "2026-06-18T17:30:08.000Z"
     },
     {
       "merchant": "adidas",
@@ -212,19 +251,6 @@
       "emailDate": "2026-06-17T01:22:38.000Z"
     },
     {
-      "merchant": "Fresh Meal Plan",
-      "percentBack": 12.5,
-      "capAmount": null,
-      "wasPercent": 4,
-      "lastViewed": null,
-      "expiresAt": "2026-06-20T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NXhNUm5GQ0dsd3RGN215Ulh2SU9wL1dQemI1Q2lKNTc1TmM4V1NCVXJ3ZlFaL2trUzJ4R3N0bHNqa1pmK3lNc3A5NjZneHZjcGZLS0FSMGJ1OFlJMTY4d2hPcHpUQTNGT2xnbUh3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=freshmealplan.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19ecfc23f4dc2ec7",
-      "emailDate": "2026-06-16T09:27:53.000Z"
-    },
-    {
       "merchant": "L.L.Bean",
       "percentBack": 12,
       "capAmount": null,
@@ -314,6 +340,19 @@
       "source": "single-use",
       "emailMessageId": "19ecddac06282835",
       "emailDate": "2026-06-16T00:35:25.000Z"
+    },
+    {
+      "merchant": "JustFoodForDogs",
+      "percentBack": 9,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TGhnTGMxeE52VkhTRnByZjBiRHM1dCtXMjBtYTB2cllTWTdZeHVGZE9hSzMzSjJHRkNTWkxRTVB5SzM0RW5aMXZwWElvSlhDa2UrNnpwTU45RnB3YVhQZmpsR055NWRiVkdLWUtBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=justfoodfordogs.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19edbc879e92616a",
+      "emailDate": "2026-06-18T17:30:08.000Z"
     },
     {
       "merchant": "Tiqets",
