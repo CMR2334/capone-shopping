@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T05:22:46.655Z",
+  "lastUpdated": "2026-06-19T09:57:26.670Z",
   "sourceCount": 58,
   "parseFailures": 0,
   "offers": [
@@ -15,19 +15,6 @@
       "source": "single-use",
       "emailMessageId": "19eda0a6856f15ea",
       "emailDate": "2026-06-18T09:22:55.000Z"
-    },
-    {
-      "merchant": "Steve Madden",
-      "percentBack": 35,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-06-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YmFvME1SZUVTV0Nob0VRVWRRR2dUTTVGYjMrYlZCRytyVnZOQU1IVFpqTnZsNS9ITFgzTHFLNWhtOFpQZVlaZ0s1VDdKRFQzL3h3eHZKbWVOamJtYVc0REE3dWlhdWh3OFdlKzFBPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/steve-madden-bc-2026-06-12-hlo.gif",
-      "source": "single-use",
-      "emailMessageId": "19ecddac06282835",
-      "emailDate": "2026-06-16T00:35:25.000Z"
     },
     {
       "merchant": "Under Armour",
@@ -199,19 +186,6 @@
       "emailDate": "2026-06-16T09:27:53.000Z"
     },
     {
-      "merchant": "Nolo",
-      "percentBack": 15,
-      "capAmount": null,
-      "wasPercent": 6,
-      "lastViewed": null,
-      "expiresAt": "2026-06-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6czdIL3QwK25pVGdOVEIxZUU0dEh4WGJKUlZSK0lsOFY4OU45Q01hOEJmMjRqejQ0WXNobTVFemRnYUhjLzRsemV5TkV2MmcwWlBqVllKRFFwSWs5UG8yRXNoKzdOcHkyRHNyMFJnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nolo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19ecddac06282835",
-      "emailDate": "2026-06-16T00:35:25.000Z"
-    },
-    {
       "merchant": "PatPat (US)",
       "percentBack": 14,
       "capAmount": null,
@@ -290,19 +264,6 @@
       "emailDate": "2026-06-16T09:27:53.000Z"
     },
     {
-      "merchant": "Gary's Wine",
-      "percentBack": 11,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-06-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MWpLeW45NlJIM241NXBRZ0ZYaUNqSE1WakhZUUc1VkJtc3VvQTc3RVlCOFJnUzJQVllPTWlJUUhvVVJ1TEJkaHd4V3h6a0tLREwrSVY1S3o3NTJKMGxqZzZId3QybHNWd1RydHVnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=garyswine.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19ecddac06282835",
-      "emailDate": "2026-06-16T00:35:25.000Z"
-    },
-    {
       "merchant": "Blue Apron",
       "percentBack": 10,
       "capAmount": null,
@@ -314,32 +275,6 @@
       "source": "single-use",
       "emailMessageId": "19ecfc23f4dc2ec7",
       "emailDate": "2026-06-16T09:27:53.000Z"
-    },
-    {
-      "merchant": "Peet's Coffee",
-      "percentBack": 10,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-06-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OStUME5ZRTgvWEhsODBwbEp0RGJ0UlVUTmNQeGNFRTJLVFhUcXRkV1oyNVhyWEdRVDVZSTVhZGMwNXlDMk9HL1VQcTl5N0w0alNFQlFkZDNjRUlQa0RSaVFDN1FXVTdmdUNTU213PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=peets.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19ecddac06282835",
-      "emailDate": "2026-06-16T00:35:25.000Z"
-    },
-    {
-      "merchant": "Big Bus Tours",
-      "percentBack": 10,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-06-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cXYzaHZxNVBKMTd2UGw1b3dETk1YRHJSM0c1dXdhM1lFWHNFbTg3ZVE3bVUxMUg1SVViZklvYmppeXRQb0lKYkpGQ211NUZzV3JEREp5SlFmdTZBWWRYUjRlclVkWHBQa3dOTUlBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19ecddac06282835",
-      "emailDate": "2026-06-16T00:35:25.000Z"
     },
     {
       "merchant": "JustFoodForDogs",
@@ -392,19 +327,6 @@
       "source": "single-use",
       "emailMessageId": "19eda0a6856f15ea",
       "emailDate": "2026-06-18T09:22:55.000Z"
-    },
-    {
-      "merchant": "Tours4Fun",
-      "percentBack": 8,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-06-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SmsyUGdPZ0JQS1VkcERCZ3BOK1NYbUVkaWFJRVVrY2ZIeHk3RFc4MlZRZ3o3cGVtSGQwQk0rdmwxV1VaR3lRdytqM05lNlpMR2hrNHkzN3FhOTBaS0tKdmtSWlZ3M21wK3dmN1dRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tours4fun.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19ecddac06282835",
-      "emailDate": "2026-06-16T00:35:25.000Z"
     },
     {
       "merchant": "Academy Sports + Outdoors",
@@ -483,32 +405,6 @@
       "source": "single-use",
       "emailMessageId": "19ed32c55407fc2c",
       "emailDate": "2026-06-17T01:22:38.000Z"
-    },
-    {
-      "merchant": "Wine Access",
-      "percentBack": 6,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-06-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MmtRTmJrUHFoSlJ2YndPZU40TTZoSVNOM205dm1rakpNSFg2c3pIeHY1cFNTdmdlN2JJYWk1YzVoSHBjcXhGZTU2b0lTcEs0ckVob01BMHdKU0VFSmQ4UXFkSEJYbFBqMHRJR2hBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wineaccess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19ecddac06282835",
-      "emailDate": "2026-06-16T00:35:25.000Z"
-    },
-    {
-      "merchant": "Wine Insiders",
-      "percentBack": 5,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": "June 11",
-      "expiresAt": "2026-06-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6N3czai9zbjJNMElRWmNMTDdoLzRJMmV3TkZqU0RyRmV0OWgvcnVHbWs4QkNLVDY0b004ZXVNbThUcW4renZjQTNuVjBlT2hTdk5xWW1nNEN0OC9icTdiaFE4UGVaRFlKYnlnRTB3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wineinsiders.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "19ecddac06282835",
-      "emailDate": "2026-06-16T00:35:25.000Z"
     },
     {
       "merchant": "Iberostar Hotels & Resorts",
