@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-19T22:29:46.806Z",
-  "sourceCount": 58,
+  "lastUpdated": "2026-06-19T23:37:18.421Z",
+  "sourceCount": 59,
   "parseFailures": 0,
   "offers": [
     {
@@ -15,6 +15,19 @@
       "source": "single-use",
       "emailMessageId": "19eda0a6856f15ea",
       "emailDate": "2026-06-18T09:22:55.000Z"
+    },
+    {
+      "merchant": "Harry & David",
+      "percentBack": 35,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bnhITFhGZnhwU3dhN1hSczIxaXZOZXhIdWoxcFNFUXRpWWZCb1pPRE13ZXZyOGgrSmpJcmNZWHV5ejQrTkJVNFJoZWxnaW01alZQUGx4WVovMENxZWdwS0Y1SW1oUWJuakU4WUV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=harryanddavid.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19ee233d48dd9d01",
+      "emailDate": "2026-06-19T23:25:07.000Z"
     },
     {
       "merchant": "Under Armour",
@@ -121,6 +134,32 @@
       "emailDate": "2026-06-18T09:22:55.000Z"
     },
     {
+      "merchant": "SpotHero",
+      "percentBack": 15,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cEt4SmZ1eVV1UmFhS3N5UFlSMjBEQThYL0dzd1kwQWRubXg4NmlzWmV4V1BDQ21pTFhpMFlpcGxIdXd4ODBiYzJTSmVXcEJLVXh5Uk1aY2NhSDQzY3lZYW5wVWN1WEFJL2E4VE9BPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spothero.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ee233d48dd9d01",
+      "emailDate": "2026-06-19T23:25:07.000Z"
+    },
+    {
+      "merchant": "SkinCeuticals",
+      "percentBack": 15,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Y3lCUVVIWUxpYWxSb2pURzBqZVp6UjRpbmk2L1lKL1VFUlpwVm9peStuUjlCOWtaclJJMktsKzk1aXhFZkpsSnBiNHRCNWZIRXVLdml6QjZBenF5TGwzaTNyejZGcVdlQ1krNjZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=skinceuticals.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19ee233d48dd9d01",
+      "emailDate": "2026-06-19T23:25:07.000Z"
+    },
+    {
       "merchant": "Incogni",
       "percentBack": 15,
       "capAmount": null,
@@ -184,6 +223,19 @@
       "source": "single-use",
       "emailMessageId": "19ecfc23f4dc2ec7",
       "emailDate": "2026-06-16T09:27:53.000Z"
+    },
+    {
+      "merchant": "New Era",
+      "percentBack": 14,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cVRta2dsRXh1cnh4VXRKcW4xYW0zZzhZeWJIaHFXaThNZFlCSWUxVlZwV293TWlkS01xMU5wckdBVXFKTW15S1dHUlJ4R0dzZ1duSlV2bEdZL29ZRVdNMUQwQ0NsdXlXZU82NU53PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=neweracap.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ee233d48dd9d01",
+      "emailDate": "2026-06-19T23:25:07.000Z"
     },
     {
       "merchant": "PatPat (US)",
@@ -264,6 +316,19 @@
       "emailDate": "2026-06-16T09:27:53.000Z"
     },
     {
+      "merchant": "StubHub",
+      "percentBack": 10,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6STgvUVpCY2RyUG50R2lWcmQvR0hHM2h5cTR0bytnV01WbEhnL2RvSnpBdWxIemExRitYRWg0RWlzbTNKemxSaUkrcmxyWFd1cFRRK2FKYytjbTRaTE8vMmxvd2xHR3hFZUtzblBBPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logostubhub.com,sphgONBU2W1SuiKUYBowdxKnlkfY_WAOCfGp6UYDdJaw/https://media.stubhubstatic.com/stubhub-v2-catalog/d_defaultLogo.jpg/t_f-fs-0fv,q_auto:low,f_auto,c_fill,$w_280_mul_3,$h_180_mul_3/categories/5333/6574302",
+      "source": "single-use",
+      "emailMessageId": "19ee233d48dd9d01",
+      "emailDate": "2026-06-19T23:25:07.000Z"
+    },
+    {
       "merchant": "Blue Apron",
       "percentBack": 10,
       "capAmount": null,
@@ -275,6 +340,19 @@
       "source": "single-use",
       "emailMessageId": "19ecfc23f4dc2ec7",
       "emailDate": "2026-06-16T09:27:53.000Z"
+    },
+    {
+      "merchant": "Hilton",
+      "percentBack": 9,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U0RVUENCeTBLUWtiZkxZT3l3a0FSd2Y0c2h5Z251UmlURDRrRFhkUDhSU2lTUjVLWGhxVkRHMldZMTFLRTRyTGd0RkNZQUgxUVkzUnBQSUg0S0ErUkRoT2h1a1ZNVllqMmlQcWt3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hilton.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ee233d48dd9d01",
+      "emailDate": "2026-06-19T23:25:07.000Z"
     },
     {
       "merchant": "JustFoodForDogs",
