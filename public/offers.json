@@ -1,11 +1,12 @@
 {
-  "lastUpdated": "2026-06-20T17:15:41.038Z",
+  "lastUpdated": "2026-06-20T17:32:00.949Z",
   "sourceCount": 60,
   "parseFailures": 0,
   "offers": [
     {
       "merchant": "BaubleBar",
       "percentBack": 70,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
@@ -19,6 +20,7 @@
     {
       "merchant": "Ancestry",
       "percentBack": 70,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 7,
       "lastViewed": null,
@@ -32,6 +34,7 @@
     {
       "merchant": "iHerb",
       "percentBack": 45,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
@@ -45,6 +48,7 @@
     {
       "merchant": "Under Armour",
       "percentBack": 33,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
@@ -58,6 +62,7 @@
     {
       "merchant": "NBA Store",
       "percentBack": 30,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -71,6 +76,7 @@
     {
       "merchant": "Brodo",
       "percentBack": 30,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -84,6 +90,7 @@
     {
       "merchant": "City Cruises",
       "percentBack": 30,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 3,
       "lastViewed": null,
@@ -97,6 +104,7 @@
     {
       "merchant": "Fresh Meal Plan",
       "percentBack": 25,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 4,
       "lastViewed": null,
@@ -110,6 +118,7 @@
     {
       "merchant": "Fanatics",
       "percentBack": 25,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 3,
       "lastViewed": null,
@@ -123,6 +132,7 @@
     {
       "merchant": "Tripadvisor",
       "percentBack": 20,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -136,6 +146,7 @@
     {
       "merchant": "New Balance",
       "percentBack": 20,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 3,
       "lastViewed": null,
@@ -149,6 +160,7 @@
     {
       "merchant": "Pelican Products",
       "percentBack": 20,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -162,6 +174,7 @@
     {
       "merchant": "Go City Pass",
       "percentBack": 16.5,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
@@ -175,6 +188,7 @@
     {
       "merchant": "Viator, a Tripadvisor company",
       "percentBack": 15,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 3,
       "lastViewed": null,
@@ -188,6 +202,7 @@
     {
       "merchant": "SpotHero",
       "percentBack": 15,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -201,6 +216,7 @@
     {
       "merchant": "MLB Shop",
       "percentBack": 15,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -214,6 +230,7 @@
     {
       "merchant": "Big Bus Tours",
       "percentBack": 15,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -227,6 +244,7 @@
     {
       "merchant": "Incogni",
       "percentBack": 15,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 1,
       "lastViewed": null,
@@ -240,6 +258,7 @@
     {
       "merchant": "adidas",
       "percentBack": 15,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
@@ -253,6 +272,7 @@
     {
       "merchant": "Keen Footwear",
       "percentBack": 15,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -266,6 +286,7 @@
     {
       "merchant": "TurboTax",
       "percentBack": 14,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
@@ -279,6 +300,7 @@
     {
       "merchant": "New Era",
       "percentBack": 14,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -292,6 +314,7 @@
     {
       "merchant": "PatPat (US)",
       "percentBack": 14,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 4,
       "lastViewed": null,
@@ -305,6 +328,7 @@
     {
       "merchant": "L.L.Bean",
       "percentBack": 12,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -318,6 +342,7 @@
     {
       "merchant": "SCHEELS",
       "percentBack": 11.5,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -331,6 +356,7 @@
     {
       "merchant": "Blue Apron",
       "percentBack": 10,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": "June 15",
@@ -344,6 +370,7 @@
     {
       "merchant": "StubHub",
       "percentBack": 10,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -357,6 +384,7 @@
     {
       "merchant": "The STRAT Hotel",
       "percentBack": 9,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -370,6 +398,7 @@
     {
       "merchant": "JustFoodForDogs",
       "percentBack": 9,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 0.5,
       "lastViewed": null,
@@ -383,6 +412,7 @@
     {
       "merchant": "Tiqets",
       "percentBack": 9,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
@@ -396,6 +426,7 @@
     {
       "merchant": "Polynesian Cultural Center",
       "percentBack": 8.5,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
@@ -409,6 +440,7 @@
     {
       "merchant": "Hilton",
       "percentBack": 8,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 0.5,
       "lastViewed": null,
@@ -422,6 +454,7 @@
     {
       "merchant": "CitizenM",
       "percentBack": 8,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 1,
       "lastViewed": null,
@@ -435,6 +468,7 @@
     {
       "merchant": "CityPASS",
       "percentBack": 8,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
@@ -448,6 +482,7 @@
     {
       "merchant": "Academy Sports + Outdoors",
       "percentBack": 7.5,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
@@ -461,6 +496,7 @@
     {
       "merchant": "TicketSmarter",
       "percentBack": 7,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -474,6 +510,7 @@
     {
       "merchant": "Vivid Seats",
       "percentBack": 7,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -487,6 +524,7 @@
     {
       "merchant": "NFL+",
       "percentBack": 6,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 0.5,
       "lastViewed": null,
@@ -500,6 +538,7 @@
     {
       "merchant": "PGA TOUR Superstore",
       "percentBack": 6,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
@@ -513,6 +552,7 @@
     {
       "merchant": "Iberostar Hotels & Resorts",
       "percentBack": 4,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": 1,
       "lastViewed": null,
@@ -526,6 +566,7 @@
     {
       "merchant": "Holiday Inn",
       "percentBack": 2,
+      "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
@@ -535,6 +576,146 @@
       "source": "single-use",
       "emailMessageId": "19ee4e3e3530a133",
       "emailDate": "2026-06-20T11:56:40.000Z"
+    },
+    {
+      "merchant": "Frontier Communications",
+      "percentBack": null,
+      "dollarBack": 130,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SDE4RUtRWU55ZmVhNmVGcEp1ZHZySlNmNjlaUnJoL1pBYUtNN254blh2SEpJeFp6cTJQdmkzV0xhaDFsWGVKalFwZ3ArSUtDUW1Yc2dCakExUHljUE55MzBuZ0o4NG1xTkt2dVBBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=frontier.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ee43a12341822b",
+      "emailDate": "2026-06-20T08:51:11.000Z"
+    },
+    {
+      "merchant": "Fubo",
+      "percentBack": null,
+      "dollarBack": 59.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cFBONmU3bFRtMjhobmhYL2pJT0FBTWV5ZVdseHkzK3piKzdNalBQSE5JdUhrT2ZMdC8rN01icWQ1Y1ZHN1RwTlJlTU5rNjFwaFNvaWpBS0RTczZzeVVuZER2NzNGdEZ0OFVvMmd3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fubo.tv&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ee58c7e7902699",
+      "emailDate": "2026-06-20T15:00:50.000Z"
+    },
+    {
+      "merchant": "CookUnity",
+      "percentBack": null,
+      "dollarBack": 50,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "June 15",
+      "expiresAt": "2026-06-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6REVWdFY5em00UENHbkJTZGxIaUFWdE1NZU9OQlNLK3N6eml2TlFNUEtTbTlid05NdXh6dDBLK0M2cnpqeUJneUkwL1ZQMWh4WE1MNXZVMjhzdUI2dXIrQUljQjRWdXU1T1dCZmN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cookunity.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19edbc879e92616a",
+      "emailDate": "2026-06-18T17:30:08.000Z"
+    },
+    {
+      "merchant": "Box",
+      "percentBack": null,
+      "dollarBack": 50,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6c1FtNW9vMXViQnJWZU1PdzZSVkR3bVQ2ZlFaTXUxWWkvMkhHcGVRNkkzLzUweVRNZlNhTEZpakxzWVhwZUFORjQyblFnbFcyK1JXTFkxWmRXTGVJVldoNmtzdlRDZUZaY3dPRlFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=box.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19edbc879e92616a",
+      "emailDate": "2026-06-18T17:30:08.000Z"
+    },
+    {
+      "merchant": "EveryPlate",
+      "percentBack": null,
+      "dollarBack": 45,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aG9Nb0xXdkM3QTJ1WTV2ZFl0NVUwMm9kMHBLVXFXTTByNXZzeWs5ZS8xZEo1V2dlTmtEZkJVRFhuT2JFakUvdForNkg2OERSVFVvZmltM1lvNWRKdStvTThoY2FHSit4UmUrWTJRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=everyplate.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ee43a12341822b",
+      "emailDate": "2026-06-20T08:51:11.000Z"
+    },
+    {
+      "merchant": "Sundays for Dogs",
+      "percentBack": null,
+      "dollarBack": 45,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eGs5WmIxSWhLeGJSQzZYeFJ3MUJLU0crWm0rR2dIYlJGYkIzV1BlWVkvczJTYzhtZDd0TXpxa0QwUU1mQjd2cHZRbzB3di81QytjMy85S1F5bWVWdWtJVk1CRW5ycnFMS3Y1MkFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sundaysfordogs.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19edbc879e92616a",
+      "emailDate": "2026-06-18T17:30:08.000Z"
+    },
+    {
+      "merchant": "Sling",
+      "percentBack": null,
+      "dollarBack": 30,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6c1RNeXRtTEMyVVdsSUs0UGJ4RkllQ1Uza28xYTRDUDhzMmcrZ2VYU2t4bWc0d24xbDRMNmRtU3ZsRS9mSjd4MUl6MVRVcnhBNERieGozRjNVSld6aG0rSWM3V1E3cStKYkZRYWFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sling.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ee58c7e7902699",
+      "emailDate": "2026-06-20T15:00:50.000Z"
+    },
+    {
+      "merchant": "WeightWatchers",
+      "percentBack": null,
+      "dollarBack": 20.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VFc5TnBHTERNL04vY0dHUkxqL2l4Q0d2eUhCZGxxbFBia3l2N056eUdQTGdJTVVDR0kwQ0lkYStKNXlyQnRoSHNPL0gyU3ZncjFpM3NBaU9BczZlRmNKemRyOGYvckYrL0NHOGpRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=weightwatchers.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ee5ee3ba5006d9",
+      "emailDate": "2026-06-20T16:47:35.000Z"
+    },
+    {
+      "merchant": "Paramount+",
+      "percentBack": null,
+      "dollarBack": 19,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MSthcjZ5Rm1yWVZVazNidklobXZwd3BoY1diRHBoeWlCbkZ2b0FWMUZ2RGhGYnZKeHNsVEkyazhuYjZJcTNPSm5MSUp0NnRzaVZjbHlzQVdPeWlGV3kzK085U3VFbmk5eTVsOGNBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=paramountplus.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ee233d48dd9d01",
+      "emailDate": "2026-06-19T23:25:07.000Z"
+    },
+    {
+      "merchant": "Safelite",
+      "percentBack": null,
+      "dollarBack": 13.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MzBsQTZLU0RjUFlNQ0RnWEFMdHh4cjUzUGJ3WTI3aXJxcC9YQnNxMjlQazlVaHZ2MjZqUUxTQktWYnMrR1lwV0ppQWgzL08yNzUvenFSV2FpdkFZSFhsa2VTMWFWM2I4YitCRnNBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=safelite.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ee233d48dd9d01",
+      "emailDate": "2026-06-19T23:25:07.000Z"
     }
   ],
   "upcomingReveals": []
