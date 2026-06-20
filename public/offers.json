@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-20T16:45:44.688Z",
-  "sourceCount": 59,
+  "lastUpdated": "2026-06-20T16:50:53.255Z",
+  "sourceCount": 60,
   "parseFailures": 0,
   "offers": [
     {
@@ -10,11 +10,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-06-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RmtZT0d4V2twQVVlY0dpamJBbWs5TjczSlhyaUQyYjYzOFdtbWRTdWRiWDFBV0NWWTdST0FiVjc2bFkxTTVoS2NqajJaS084TnlkSGlNTGdmZzVSWnMrVS90bmxzR25CRVlBUGVBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OW9vSHV3Yk41QjUzYzNlN1NLQTFUTmV4akptQkRlU1JHcFpaTHZPSVY4KzNpai9sZjc2dmJWZjdDYVNmQm9RZUdabCtjelFjNXN5dG0xT0kwRzNHRGd2VlZPMnZKTnhuWk9uOURRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=baublebar.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19ee58c7e7902699",
-      "emailDate": "2026-06-20T15:00:50.000Z"
+      "emailMessageId": "19ee5ee3ba5006d9",
+      "emailDate": "2026-06-20T16:47:35.000Z"
     },
     {
       "merchant": "Ancestry",
@@ -125,13 +125,13 @@
       "percentBack": 20,
       "capAmount": null,
       "wasPercent": 2,
-      "lastViewed": "June 18",
+      "lastViewed": null,
       "expiresAt": "2026-06-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dzNJaE8vTW41WGxSczBjQmhleUpIdnQ4bC90U0Z4VUlWNXh4ZXBXUlNRd0FON1pvUHdBa3FIc1diUmdtNmp0bmZuak1pZzk1S3dNc3lwNmc2OFFxZTIyL3hBdTAraWd2cmdhWHB3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&type=cropped&width=500",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cHFBUUpzVG41eVJ5bUEwbFRVdVRMUXZ3bktLR2xTalZVa2dGOEZPbmJuNUJiTE9Gdjc4enA5a2JOV2dMaFpxcWlnUERpa2Mwc0dmV0Q0NU9peVkxaGdyMll2YnJ1ZWozR2lWV0VnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19ee4e3e3530a133",
-      "emailDate": "2026-06-20T11:56:40.000Z"
+      "emailMessageId": "19ee5ee3ba5006d9",
+      "emailDate": "2026-06-20T16:47:35.000Z"
     },
     {
       "merchant": "New Balance",
@@ -171,6 +171,19 @@
       "source": "single-use",
       "emailMessageId": "19ee4e3e3530a133",
       "emailDate": "2026-06-20T11:56:40.000Z"
+    },
+    {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 15,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-06-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eGgzaEttNTFYRENvRUpENjZ2VnNJRUdPN3AwR0VPWlRERmNzUEhGYVBraFBmMFZTS05tU3dlUU5ta0cwQ2tXN2UrMjV0ZGpSVk9xZkFDeVBWL3krcDFybjZRM0ZBMExwN0dmVnJRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ee5ee3ba5006d9",
+      "emailDate": "2026-06-20T16:47:35.000Z"
     },
     {
       "merchant": "SpotHero",
@@ -249,19 +262,6 @@
       "source": "single-use",
       "emailMessageId": "19edab1f67fd5b67",
       "emailDate": "2026-06-18T12:25:56.000Z"
-    },
-    {
-      "merchant": "Viator, a Tripadvisor company",
-      "percentBack": 15,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-06-22T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RVgyczdSZEtGVncyQ3RrSWRnalVzMVc0RVN6TDVVd0Vab3k3bGh2eDMyeGYySitvZzJDK0c0Q1hJNENOcGdlek9pMEtnZER5bTllVG00OGs1WHRLOURDMTdQSHpkK0RWZTMrOGJ3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "19eda0a6856f15ea",
-      "emailDate": "2026-06-18T09:22:55.000Z"
     },
     {
       "merchant": "TurboTax",
@@ -355,6 +355,19 @@
       "emailDate": "2026-06-19T23:25:07.000Z"
     },
     {
+      "merchant": "The STRAT Hotel",
+      "percentBack": 9,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dXpteVRNOWFpaDVTcWtNWHEvVFBYNDBiUEJKYjJMT3pMY09HN0JzSDlja1UvQndzTjNwTTd5bllCVlZLQXBxYzBJNmlaaGFEU2tvVFBzcmVncjVKV0VwWnBzQ3BRNmM3a294bGhnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thestrat.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ee5ee3ba5006d9",
+      "emailDate": "2026-06-20T16:47:35.000Z"
+    },
+    {
       "merchant": "JustFoodForDogs",
       "percentBack": 9,
       "capAmount": null,
@@ -400,11 +413,11 @@
       "wasPercent": 0.5,
       "lastViewed": null,
       "expiresAt": "2026-06-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YlR5d09OMU4zTm1XT2hEOXlia3ZsKzV3ck5oQklUMERhaUNicitFK0tyL3c1a3ZzZkZ0ZUtjdVZDTVY3OWJuNThuRk5ka3FVaW5KZ2pjejlPSUlDYXVtVUhUQi84bnN6d0gvODF3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6amhiT3pGdFFuZVoyZVYyMy80N0RpZkp4dVM0VUQrMXc5U09idXg1eTNOTnZFQjV0cnlybTMrNTE4c0hRWmV4cGVoYmVoRkt3d1RUeXdKRFkzTHNhVittakdRTDNhNzRlVWorY0hBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hilton.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19ee58c7e7902699",
-      "emailDate": "2026-06-20T15:00:50.000Z"
+      "emailMessageId": "19ee5ee3ba5006d9",
+      "emailDate": "2026-06-20T16:47:35.000Z"
     },
     {
       "merchant": "CitizenM",
@@ -446,6 +459,19 @@
       "emailDate": "2026-06-18T12:25:56.000Z"
     },
     {
+      "merchant": "TicketSmarter",
+      "percentBack": 7,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6S3F6TGtzNVF3UTBKejJlaDg4blBwY0FabkVpc2RNNzc1SlJ6SXpYQmlqU2hXM2c5TzkrSVJKeHRJYmo1NFlqbkhZN1QwNFRsUEtBQWVnNVFvakprcFQxSEdrRXVIakVReU9xeDBRPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logoticketsmarter.com,svMISOfnSr-6PblTfhwd5hXPFkPCWB5FUNineq4dvnJo/https://ticketsmarter.com/content/uploaded/concert-game-theatre-tickets-ticketsmarter.jpg",
+      "source": "single-use",
+      "emailMessageId": "19ee5ee3ba5006d9",
+      "emailDate": "2026-06-20T16:47:35.000Z"
+    },
+    {
       "merchant": "Vivid Seats",
       "percentBack": 7,
       "capAmount": null,
@@ -465,11 +491,11 @@
       "wasPercent": 0.5,
       "lastViewed": null,
       "expiresAt": "2026-06-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SEpCVjFOOWhnQUJYRVlqMzN3RUdqNTlCeFlyNWNIdlozeEViWERpS20rTGhxbmV3bldROVhQNnhlMk12TDVlMFRhekRlUEhuc2QxMzFjNEkyVkl3UVpid0F5am9JYlRaRUluOVNBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WVNpYVdIZ29pT0xSeXA4VlBYUzMwVmtHckF6U0E3eHZBR09HTDhtOW40Unp1UDN1dHY3MlpHMWxHbGpkNDU5bm95REpsZmV6TktJUUJPcUM3SmlUaUJ3cXdyUzM3SW8vYlNoejlBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nfl.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19ee43a12341822b",
-      "emailDate": "2026-06-20T08:51:11.000Z"
+      "emailMessageId": "19ee5ee3ba5006d9",
+      "emailDate": "2026-06-20T16:47:35.000Z"
     },
     {
       "merchant": "PGA TOUR Superstore",
