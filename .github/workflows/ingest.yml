@@ -39,7 +39,12 @@ jobs:
             git config user.email "bot@users.noreply.github.com"
             git add public/offers.json
             git commit -m "ingest: refresh offers $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
-            git push
+            # Retry up to 3 times: if push is rejected by a concurrent run, rebase
+            # (prefer our ingestor output on conflict) and retry.
+            for i in 1 2 3; do
+              git push && break
+              git pull --rebase -X theirs
+            done
           else
             echo "No changes to offers.json"
           fi
