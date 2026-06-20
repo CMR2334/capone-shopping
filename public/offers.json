@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-20T19:00:41.158Z",
-  "sourceCount": 59,
+  "lastUpdated": "2026-06-20T19:15:45.056Z",
+  "sourceCount": 60,
   "parseFailures": 0,
   "offers": [
     {
@@ -137,11 +137,11 @@
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-06-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cHFBUUpzVG41eVJ5bUEwbFRVdVRMUXZ3bktLR2xTalZVa2dGOEZPbmJuNUJiTE9Gdjc4enA5a2JOV2dMaFpxcWlnUERpa2Mwc0dmV0Q0NU9peVkxaGdyMll2YnJ1ZWozR2lWV0VnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TlhMMW1pMTJVSzRIL05rMjlQNkRwQWZ6ZU51eVo0NmNFckZRaWFJdURPdFBkSVFnL3VLTDVjL2ZtYUcweE5KL2k4VVhsYnlLVnZyaUxBM1g5dnJKSEppUytCTE1hckppY2psdW1RPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19ee5ee3ba5006d9",
-      "emailDate": "2026-06-20T16:47:35.000Z"
+      "emailMessageId": "19ee66baf0036b3f",
+      "emailDate": "2026-06-20T19:04:37.000Z"
     },
     {
       "merchant": "New Balance",
@@ -193,11 +193,11 @@
       "wasPercent": 3,
       "lastViewed": null,
       "expiresAt": "2026-06-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eGgzaEttNTFYRENvRUpENjZ2VnNJRUdPN3AwR0VPWlRERmNzUEhGYVBraFBmMFZTS05tU3dlUU5ta0cwQ2tXN2UrMjV0ZGpSVk9xZkFDeVBWL3krcDFybjZRM0ZBMExwN0dmVnJRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cU4wNlBaeHQ4REpnRjFVWWhEN1VEbURnUjlmZE5ZSkRtdHBoOVhrejJNdWtCdlBxZS9wbGFqODV1cnVZSFRVaFNGenA3NEk1KzBsQzdzK0YyeHpYVllUM0RGQ3NOb2tkUmRhR1RBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19ee5ee3ba5006d9",
-      "emailDate": "2026-06-20T16:47:35.000Z"
+      "emailMessageId": "19ee66baf0036b3f",
+      "emailDate": "2026-06-20T19:04:37.000Z"
     },
     {
       "merchant": "SpotHero",
@@ -389,11 +389,11 @@
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-06-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dXpteVRNOWFpaDVTcWtNWHEvVFBYNDBiUEJKYjJMT3pMY09HN0JzSDlja1UvQndzTjNwTTd5bllCVlZLQXBxYzBJNmlaaGFEU2tvVFBzcmVncjVKV0VwWnBzQ3BRNmM3a294bGhnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RzFDNEZuWkNYb09EQXIwYitGOGJpekdKMWQ1emMwOHBuWnEzajg5R2hwK1NvSlo5Nm93bm9mTVdLOXBGek1jcHNYQ1BhUDA1UzhtMGpiM3FWMENZQnM5S0c0cUhxMVBmMWlhRTdRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thestrat.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19ee5ee3ba5006d9",
-      "emailDate": "2026-06-20T16:47:35.000Z"
+      "emailMessageId": "19ee66baf0036b3f",
+      "emailDate": "2026-06-20T19:04:37.000Z"
     },
     {
       "merchant": "JustFoodForDogs",
@@ -445,11 +445,11 @@
       "wasPercent": 0.5,
       "lastViewed": null,
       "expiresAt": "2026-06-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6amhiT3pGdFFuZVoyZVYyMy80N0RpZkp4dVM0VUQrMXc5U09idXg1eTNOTnZFQjV0cnlybTMrNTE4c0hRWmV4cGVoYmVoRkt3d1RUeXdKRFkzTHNhVittakdRTDNhNzRlVWorY0hBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YnFZbFVDZWxKL0Ywc3JIZ2MyM0hzczAzRnRrN0I5N1F2a2JsSFN1d29hdUNOeUxmbkF5ZVZJSGc3a2lxdmczUVdGSk8wNUNSUk9HU3RFRFRyR2t2NGV4TXJJdWRuelM2NTl6MlVBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hilton.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19ee5ee3ba5006d9",
-      "emailDate": "2026-06-20T16:47:35.000Z"
+      "emailMessageId": "19ee66baf0036b3f",
+      "emailDate": "2026-06-20T19:04:37.000Z"
     },
     {
       "merchant": "CitizenM",
@@ -501,11 +501,11 @@
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-06-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6S3F6TGtzNVF3UTBKejJlaDg4blBwY0FabkVpc2RNNzc1SlJ6SXpYQmlqU2hXM2c5TzkrSVJKeHRJYmo1NFlqbkhZN1QwNFRsUEtBQWVnNVFvakprcFQxSEdrRXVIakVReU9xeDBRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SkU1YUg5cERTREZ6cm4wTFBvYmVlNWo5SXdaUHlheFExN3FISmNxS2FwTmp2NVA0NVVxeXp3QWtxSFFPZkdWV09ocGNmU0dZc1NqbVJqUWUyMDA3Yy9WM3paaG02NXJHQ2RZWmRnPT0/runV3dl",
       "logoUrl": "https://i.capitaloneshopping.com/148x148,logoticketsmarter.com,svMISOfnSr-6PblTfhwd5hXPFkPCWB5FUNineq4dvnJo/https://ticketsmarter.com/content/uploaded/concert-game-theatre-tickets-ticketsmarter.jpg",
       "source": "single-use",
-      "emailMessageId": "19ee5ee3ba5006d9",
-      "emailDate": "2026-06-20T16:47:35.000Z"
+      "emailMessageId": "19ee66baf0036b3f",
+      "emailDate": "2026-06-20T19:04:37.000Z"
     },
     {
       "merchant": "Vivid Seats",
@@ -529,11 +529,11 @@
       "wasPercent": 0.5,
       "lastViewed": null,
       "expiresAt": "2026-06-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WVNpYVdIZ29pT0xSeXA4VlBYUzMwVmtHckF6U0E3eHZBR09HTDhtOW40Unp1UDN1dHY3MlpHMWxHbGpkNDU5bm95REpsZmV6TktJUUJPcUM3SmlUaUJ3cXdyUzM3SW8vYlNoejlBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TW5hYnd1OCtXSGlyMndBekVkMjBMZFpKZnd3R0gyLyszWUJPaUxGaWJTZnB0NUdDaUI3aFl2ZzgzVFFSaVBDRnVEK05PKzRxSWo3SEVGZnA3OG5JamJTMDB4V0hhUW5BMW9UZGJnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nfl.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19ee5ee3ba5006d9",
-      "emailDate": "2026-06-20T16:47:35.000Z"
+      "emailMessageId": "19ee66baf0036b3f",
+      "emailDate": "2026-06-20T19:04:37.000Z"
     },
     {
       "merchant": "PGA TOUR Superstore",
@@ -683,11 +683,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-06-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VFc5TnBHTERNL04vY0dHUkxqL2l4Q0d2eUhCZGxxbFBia3l2N056eUdQTGdJTVVDR0kwQ0lkYStKNXlyQnRoSHNPL0gyU3ZncjFpM3NBaU9BczZlRmNKemRyOGYvckYrL0NHOGpRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T0R3YWxvV1FQVnNGN1dtdnJMZDRnczFMSDdjNUxZYkFYZmM5TVBZUmRlOWF5cGhJQUdUOFR2QzcvYW12SU5LdTVZbU9CUTIrbG96K1RPRi9XelVkZkpnNzl0TWdNNlo5cHZMYUdnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=weightwatchers.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19ee5ee3ba5006d9",
-      "emailDate": "2026-06-20T16:47:35.000Z"
+      "emailMessageId": "19ee66baf0036b3f",
+      "emailDate": "2026-06-20T19:04:37.000Z"
     },
     {
       "merchant": "Paramount+",
