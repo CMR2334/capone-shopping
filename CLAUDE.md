@@ -14,6 +14,19 @@ door: current state, the environment capability matrix (what works on mobile/Dis
 vs the owner's Mac), infra/secrets locations, roadmap, and open issues. Then check
 [CHANGELOG.md](CHANGELOG.md) for recent commit-level changes.
 
+## Coordination guard
+Before editing files, follow [../docs/AI_COORDINATION.md](../docs/AI_COORDINATION.md):
+
+```bash
+node /Users/collinrekowski/Automation/scripts/agent-session.js start --platform claude --scope "$PWD" --task "short description"
+```
+
+If another active Claude/Codex session overlaps this project or the target files, pause and coordinate or use a Git worktree. Release the session after commit/push:
+
+```bash
+node /Users/collinrekowski/Automation/scripts/agent-session.js done --id SESSION_ID
+```
+
 ## Auto-push protocol (apply in every session)
 Always commit and push after making frontend changes. GitHub Pages rebuilds within 30–90s.
 

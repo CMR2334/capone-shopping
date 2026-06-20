@@ -4,6 +4,7 @@ This document is for any AI assistant working in this directory. It is AI-agnost
 
 See [../docs/USER_PROFILE.md](../docs/USER_PROFILE.md) for the workspace owner's working style and communication preferences.
 See [../docs/PREFERENCES.md](../docs/PREFERENCES.md) for code and documentation standards.
+See [../docs/AI_COORDINATION.md](../docs/AI_COORDINATION.md) before editing files so parallel Claude/Codex work does not overlap silently.
 
 **Read [HANDOFF.md](HANDOFF.md) first** — current state, the environment capability
 matrix (what works on mobile/Dispatch vs the owner's Mac), infra/secrets locations,
@@ -74,7 +75,9 @@ Do not manually commit `public/offers.json` — the ingestor manages that file v
 
 ## Session Protocol
 
-1. Check `CHANGELOG.md` for recent significant changes before starting work.
-2. Do the work.
-3. Commit and push.
-4. Add an entry to `CHANGELOG.md` if the change is significant (UI changes, logic changes, new features, bug fixes).
+1. Claim the session with `node /Users/collinrekowski/Automation/scripts/agent-session.js start --platform <codex|claude> --scope "$PWD" --task "short description"`.
+2. Check `CHANGELOG.md` for recent significant changes before starting work.
+3. Do the work.
+4. Commit and push.
+5. Release the session with `node /Users/collinrekowski/Automation/scripts/agent-session.js done --id SESSION_ID`.
+6. Add an entry to `CHANGELOG.md` if the change is significant (UI changes, logic changes, new features, bug fixes).
