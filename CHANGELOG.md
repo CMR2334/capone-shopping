@@ -13,6 +13,14 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-06-20 — Feature: flat-dollar offers ($N back)
+**Commit:** `e02c9fa`
+**Files:** `ingestor/parser.js`, `ingestor/ingest.js`, `public/index.html`, `README.md`
+**What changed:** Offers expressed as a flat dollar amount ("Earn up to $34 back at HelloFresh") are now parsed into a `dollarBack` field (with `percentBack: null`) instead of being dropped. The card renders "$34 back", and dollar offers sort after percentage offers under "Highest %"; merge/sort/hide logic is null-safe. Verified against the real HelloFresh email and a rendered card.
+**Revert:** `git revert e02c9fa`
+
+---
+
 ## 2026-06-16 — Fix: parse "Earn up to N% back" featured offers
 **Commit:** `3cb4f24`
 **Files:** `ingestor/parser.js`
