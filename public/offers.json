@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-20T08:45:41.956Z",
-  "sourceCount": 58,
+  "lastUpdated": "2026-06-20T09:00:43.810Z",
+  "sourceCount": 59,
   "parseFailures": 0,
   "offers": [
     {
@@ -61,12 +61,12 @@
       "capAmount": null,
       "wasPercent": 4,
       "lastViewed": null,
-      "expiresAt": "2026-06-22T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MEVXM3FTVVlHaVBuNHhFT29uNGgyMEszR2JRNU5YamVGVG96Q1piUjNFUXNLNE1PR1BiZHFldFBTdTZuWVZOaU41a05uWmswendrUFNXdkZ5KzRHUHNNa0VWNmdMM1hSUWcvc0lRPT0/runV3dl",
+      "expiresAt": "2026-06-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TkE1RUVzZHJqbEVHUEZHN25wTktDQ3hCc1dldXVVVnY1eEhjN2lkd2V3M3lnWXdaYTlMRzVDN0hvS01DS0w3Q0dNSEVYbXN5SitZWkMrNmR5QnpiUTdvZXVzTmhPQnM5SEZPTmVnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=freshmealplan.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19edbc879e92616a",
-      "emailDate": "2026-06-18T17:30:08.000Z"
+      "emailMessageId": "19ee43a12341822b",
+      "emailDate": "2026-06-20T08:51:11.000Z"
     },
     {
       "merchant": "Fanatics",
@@ -80,6 +80,19 @@
       "source": "single-use",
       "emailMessageId": "19edab1f67fd5b67",
       "emailDate": "2026-06-18T12:25:56.000Z"
+    },
+    {
+      "merchant": "BaubleBar",
+      "percentBack": 20,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-21T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WjJNak81YXgzeUROWkRRemFac2JqUVhqY2Jjbmh6Tm1IQTVBSFo0Q2NyaFBSdnV4b0piNnhvbm1CR2MyRFUzM2RXVUd1S1AwSTBFZmc3NWJyYXhMd0dTL3YyZi9UUXlhT1RLdkhBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=baublebar.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19ee43a12341822b",
+      "emailDate": "2026-06-20T08:51:11.000Z"
     },
     {
       "merchant": "New Balance",
@@ -186,6 +199,19 @@
       "emailDate": "2026-06-18T09:22:55.000Z"
     },
     {
+      "merchant": "TurboTax",
+      "percentBack": 14,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6c25Mdmo4MGdid05vZGlHak9tWk1jSm92UWZxT1lXbFJ2Z1VFc2QwNkhUM2N4RjBqTUtlSFpVU2ZRSmtyaW9HMXdPU1lDNUZhUG5LNy9zdkNVTFZTdnY4d2YzbHQ5eE9QMHdVMEZnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=turbotax.intuit.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ee43a12341822b",
+      "emailDate": "2026-06-20T08:51:11.000Z"
+    },
+    {
       "merchant": "New Era",
       "percentBack": 14,
       "capAmount": null,
@@ -236,6 +262,19 @@
       "source": "single-use",
       "emailMessageId": "19edab1f67fd5b67",
       "emailDate": "2026-06-18T12:25:56.000Z"
+    },
+    {
+      "merchant": "Blue Apron",
+      "percentBack": 10,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "June 15",
+      "expiresAt": "2026-06-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a3N6bkVIV2NEQ3hQbTlUUFdUREZVdkRXMGphT1pwU1NZLytTb0Q2SDJ2a0NiTVJuMG1KNkp4M1VFcjJ0TlRRMWZnVW0ydCtUekcwQ2p4TU1sQ3J6cnNsMXVmZ3lFc2UyRG5CeGF3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=blueapron.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19ee43a12341822b",
+      "emailDate": "2026-06-20T08:51:11.000Z"
     },
     {
       "merchant": "StubHub",
@@ -327,6 +366,19 @@
       "source": "single-use",
       "emailMessageId": "19edab1f67fd5b67",
       "emailDate": "2026-06-18T12:25:56.000Z"
+    },
+    {
+      "merchant": "NFL+",
+      "percentBack": 6,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SEpCVjFOOWhnQUJYRVlqMzN3RUdqNTlCeFlyNWNIdlozeEViWERpS20rTGhxbmV3bldROVhQNnhlMk12TDVlMFRhekRlUEhuc2QxMzFjNEkyVkl3UVpid0F5am9JYlRaRUluOVNBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nfl.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ee43a12341822b",
+      "emailDate": "2026-06-20T08:51:11.000Z"
     },
     {
       "merchant": "PGA TOUR Superstore",
