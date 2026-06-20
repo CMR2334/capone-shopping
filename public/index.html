@@ -243,6 +243,11 @@
     color: var(--navy-soft);
     margin-left: 1px;
   }
+  .percent .cur-unit {
+    font-size: 16px; font-weight: 500;
+    color: var(--navy-soft);
+    margin-right: 1px;
+  }
   .percent .back-word {
     font-size: 12px; font-weight: 500;
     color: var(--muted);
@@ -604,9 +609,11 @@
     return (new Date(iso) - new Date()) < 36 * 3600 * 1000;
   }
 
+  function offerValue(o) { return o.dollarBack != null ? o.dollarBack : o.percentBack; }
+
   function sortOffers(offers, mode) {
     const s = [...offers];
-    if (mode === 'percent') s.sort((a, b) => b.percentBack - a.percentBack);
+    if (mode === 'percent') s.sort((a, b) => (b.percentBack ?? -1) - (a.percentBack ?? -1) || (b.dollarBack ?? 0) - (a.dollarBack ?? 0));
     if (mode === 'expiring') s.sort((a, b) => new Date(a.expiresAt || 0) - new Date(b.expiresAt || 0));
     if (mode === 'newest') s.sort((a, b) => new Date(b.emailDate || 0) - new Date(a.emailDate || 0));
     return s;
@@ -619,13 +626,13 @@
     if (view === 'hidden') {
       return offers.filter(o => {
         const t = hidden[o.merchant];
-        return t != null && o.percentBack <= t;
+        return t != null && offerValue(o) <= t;
       });
     }
     return offers.filter(o => {
       const t = hidden[o.merchant];
       if (t == null) return true;
-      return o.percentBack > t;
+      return offerValue(o) > t;
     });
   }
 
@@ -666,6 +673,9 @@
         : `<span class="logo-fallback">${escapeAttr(o.merchant.charAt(0).toUpperCase())}</span>`;
 
       const capBelow = o.capAmount ? `<div class="cap-below">(up to $${o.capAmount})</div>` : '';
+      const rewardHtml = o.dollarBack != null
+        ? `<span class="cur-unit">$</span>${o.dollarBack}<span class="back-word">back</span>`
+        : `${o.percentBack}<span class="pct-unit">%</span><span class="back-word">back</span>`;
       const expiryContent = o.source === 'todays-top'
         ? `<span class="badge">Today's top</span>`
         : `<span class="${expClass}">${fmtExpiry(o.expiresAt)}</span>${capBelow}`;
@@ -681,10 +691,10 @@
       }
 
       return `
-        <div class="card" data-href="${escapeAttr(o.activationUrl || '')}" data-merchant="${escapeAttr(o.merchant)}" data-percent="${o.percentBack}" role="link" tabindex="0">
+        <div class="card" data-href="${escapeAttr(o.activationUrl || '')}" data-merchant="${escapeAttr(o.merchant)}" data-value="${offerValue(o)}" role="link" tabindex="0">
           <div class="logo">${logoHtml}</div>
           <div class="info">
-            <div class="percent">${o.percentBack}<span class="pct-unit">%</span><span class="back-word">back</span></div>
+            <div class="percent">${rewardHtml}</div>
             <div class="merchant">${escapeHtml(o.merchant)}</div>
           </div>
           <div class="expiry-block">${expiryContent}</div>
@@ -757,7 +767,7 @@
         setFavorites(favs);
       } else if (action === 'hide') {
         const hidden = getHidden();
-        hidden[merchant] = parseFloat(card.dataset.percent);
+        hidden[merchant] = parseFloat(card.dataset.value);
         setHidden(hidden);
       } else if (action === 'unhide') {
         const hidden = getHidden();

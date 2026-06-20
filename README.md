@@ -147,6 +147,7 @@ Steps:
     {
       "merchant": "Nike",
       "percentBack": 10,
+      "dollarBack": null,
       "wasPercent": 5,
       "expiresAt": "2026-05-20T07:00:00.000Z",
       "activationUrl": "https://...",
@@ -163,6 +164,8 @@ Steps:
 `source` values:
 - `single-use` — standard offer from a list email (has its own expiry)
 - `todays-top` — featured "Today's Top" merchant (uses the "Rewards offer ends on" date)
+
+Reward fields: most offers use `percentBack` (a percentage). Flat-dollar offers — e.g. "Earn up to $34 back at HelloFresh" — instead set `dollarBack` (a number) with `percentBack: null`; the UI renders these as "$34 back" and sorts them after percentage offers.
 
 ### `ingestor/parser.js`
 

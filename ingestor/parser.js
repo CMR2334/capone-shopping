@@ -38,7 +38,7 @@ function parseCaponeEmail(html, meta = {}) {
     });
     if (descendantMatches) return;
 
-    const { merchant, percentBack, isEarn, capAmount } = match;
+    const { merchant, percentBack, dollarBack, isEarn, capAmount } = match;
     const merchantKey = merchant.toLowerCase().trim();
     if (seen.has(merchantKey)) return;
     seen.add(merchantKey);
@@ -57,6 +57,7 @@ function parseCaponeEmail(html, meta = {}) {
     offers.push({
       merchant,
       percentBack,
+      dollarBack: dollarBack || null,
       capAmount: capAmount || null,
       wasPercent: wasMatch ? parseFloat(wasMatch[1]) : null,
       lastViewed: lastViewedMatch ? lastViewedMatch[1] : null,
@@ -73,14 +74,29 @@ function parseCaponeEmail(html, meta = {}) {
 }
 
 function matchOfferText(text) {
-  const m = text.match(/^(Earn\s+)?(?:up\s+to\s+)?(\d+(?:\.\d+)?)%\s*back(?:,\s*up\s+to\s+\$(\d+(?:\.\d+)?))?\s+at\s+(.+?)(?:\s*[-—]\s*single.use.*)?$/i);
-  if (!m) return null;
-  return {
-    isEarn: !!m[1],
-    percentBack: parseFloat(m[2]),
-    capAmount: m[3] ? parseFloat(m[3]) : null,
-    merchant: m[4].trim(),
-  };
+  // Percent offer: "(Earn) (up to) N% back (, up to $cap) at Merchant"
+  const pct = text.match(/^(Earn\s+)?(?:up\s+to\s+)?(\d+(?:\.\d+)?)%\s*back(?:,\s*up\s+to\s+\$(\d+(?:\.\d+)?))?\s+at\s+(.+?)(?:\s*[-—]\s*single.use.*)?$/i);
+  if (pct) {
+    return {
+      isEarn: !!pct[1],
+      percentBack: parseFloat(pct[2]),
+      dollarBack: null,
+      capAmount: pct[3] ? parseFloat(pct[3]) : null,
+      merchant: pct[4].trim(),
+    };
+  }
+  // Flat-dollar offer: "(Earn) (up to) $N back at Merchant" (no percentage)
+  const dol = text.match(/^(Earn\s+)?(?:up\s+to\s+)?\$(\d+(?:\.\d+)?)\s*back\s+at\s+(.+?)(?:\s*[-—]\s*single.use.*)?$/i);
+  if (dol) {
+    return {
+      isEarn: !!dol[1],
+      percentBack: null,
+      dollarBack: parseFloat(dol[2]),
+      capAmount: null,
+      merchant: dol[3].trim(),
+    };
+  }
+  return null;
 }
 
 function contextText($el, maxHops) {

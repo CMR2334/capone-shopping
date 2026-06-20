@@ -124,6 +124,7 @@ function headerValue(headers, name) {
 }
 
 function mergeOffers(offers, now) {
+  const rate = o => o.percentBack != null ? o.percentBack : (o.dollarBack ?? 0);
   const byMerchant = new Map();
   for (const offer of offers) {
     const key = offer.merchant.toLowerCase().trim();
@@ -132,13 +133,13 @@ function mergeOffers(offers, now) {
     const a = new Date(existing.expiresAt || 0);
     const b = new Date(offer.expiresAt || 0);
     if (b > a) byMerchant.set(key, offer);
-    else if (b.getTime() === a.getTime() && offer.percentBack > existing.percentBack) {
+    else if (b.getTime() === a.getTime() && rate(offer) > rate(existing)) {
       byMerchant.set(key, offer);
     }
   }
   return [...byMerchant.values()]
     .filter(o => !o.expiresAt || new Date(o.expiresAt) > now)
-    .sort((a, b) => b.percentBack - a.percentBack);
+    .sort((a, b) => (b.percentBack ?? -1) - (a.percentBack ?? -1) || (b.dollarBack ?? 0) - (a.dollarBack ?? 0));
 }
 
 main().catch(err => {
