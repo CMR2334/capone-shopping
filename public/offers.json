@@ -1,22 +1,8 @@
 {
-  "lastUpdated": "2026-06-21T06:45:46.314Z",
+  "lastUpdated": "2026-06-21T07:00:41.747Z",
   "sourceCount": 62,
   "parseFailures": 0,
   "offers": [
-    {
-      "merchant": "BaubleBar",
-      "percentBack": 70,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-06-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OW9vSHV3Yk41QjUzYzNlN1NLQTFUTmV4akptQkRlU1JHcFpaTHZPSVY4KzNpai9sZjc2dmJWZjdDYVNmQm9RZUdabCtjelFjNXN5dG0xT0kwRzNHRGd2VlZPMnZKTnhuWk9uOURRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=baublebar.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "19ee5ee3ba5006d9",
-      "emailDate": "2026-06-20T16:47:35.000Z"
-    },
     {
       "merchant": "Ancestry",
       "percentBack": 70,
