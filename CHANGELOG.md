@@ -13,6 +13,14 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-06-20 — Privacy: redact ingestion email + macOS username from public repo
+**Commit:** `b295638`
+**Files:** `README.md`, `HANDOFF.md`, `AGENTS.md`, `CLAUDE.md`, `.claude/settings.json`, `ingestor/auth.js`
+**What changed:** The repo is public, so every tracked file is world-readable. Removed the ingestion inbox address (`cmreko91@gmail.com`) from all docs and the `auth.js` console prompt, and the macOS home path (`/Users/collinrekowski/…`, which leaks the local username) — genericized to `~/` in docs and `$HOME/` in the `.claude/settings.json` hook commands (shell-expanded, so the coordination hooks still resolve). Also pointed the local git author email at the GitHub noreply address so future commits stop leaking the primary email. No runtime impact: ingestion authenticates via the `GMAIL_REFRESH_TOKEN` secret; the PWA, `offers.json`, and sync worker are untouched. Note: the primary email is still in *past* commit metadata — removing that needs a history rewrite + force-push, intentionally not done here.
+**Revert:** `git revert b295638` (and `git config user.email <old>` to restore the author email).
+
+---
+
 ## 2026-06-20 — Feature: flat-dollar offers ($N back)
 **Commit:** `e02c9fa`
 **Files:** `ingestor/parser.js`, `ingestor/ingest.js`, `public/index.html`, `README.md`
