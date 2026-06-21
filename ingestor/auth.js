@@ -32,7 +32,7 @@ const authUrl = oauth2Client.generateAuthUrl({
 });
 
 console.log('\n========================================================================');
-console.log('  Open this URL in your browser and sign in with cmreko91@gmail.com:');
+console.log('  Open this URL in your browser and sign in with your ingestion Gmail account:');
 console.log('========================================================================\n');
 console.log(authUrl);
 console.log('\nWaiting for browser callback on ' + REDIRECT_URI + ' ...\n');

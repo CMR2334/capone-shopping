@@ -4,7 +4,7 @@ Capital One Shopping offer tracker — a PWA that pulls cashback offers from Gma
 
 - **Live:** https://CMR2334.github.io/capone-shopping/
 - **Repo:** https://github.com/CMR2334/capone-shopping
-- **Source inbox:** `cmreko91@gmail.com`
+- **Source inbox:** `a dedicated account`
 - **Sender filter:** `hello@capitaloneshopping.com`
 
 ---
@@ -117,7 +117,7 @@ Runs a local HTTP server on port 53117, opens the Google OAuth consent URL, capt
 
 ```bash
 npm run auth
-# Opens browser → sign in with cmreko91@gmail.com → token.json written
+# Opens browser → sign in with a dedicated account → token.json written
 ```
 
 If Google doesn't return a refresh token (happens when the app was previously authorized), revoke at https://myaccount.google.com/permissions and rerun.
@@ -250,7 +250,7 @@ Required repo secrets:
 # Put client_secret.json (Google Cloud OAuth desktop app) in project root
 npm install
 npm run auth
-# Sign in with cmreko91@gmail.com — token.json is written
+# Sign in with a dedicated account — token.json is written
 ```
 
 ### 2. GitHub secrets
@@ -298,4 +298,4 @@ The sync worker's CORS allowlist includes `http://localhost:8000` and `http://12
 
 - **GitHub Issues:** https://github.com/CMR2334/capone-shopping/issues
 - **Apple Notes:** "Claude Tasks - C1 Email Tracker" — check the checkbox when done typing to trigger the task watcher
-- **Task watcher:** `/Users/collinrekowski/Automation/task-watcher.js` — monitors both GitHub Issues and Apple Notes
+- **Task watcher:** `~/Automation/task-watcher.js` — monitors both GitHub Issues and Apple Notes

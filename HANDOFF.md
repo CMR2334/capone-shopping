@@ -35,7 +35,7 @@ UI with favorite / hide / sort / filter and (intended) cross-device sync.
 - **Also known as:** "C1S Email Tracker" — Collin's display label for this project in
   Claude Code. Same project; the repo and local directory stay `capone-shopping`. The
   label is cosmetic and does not affect files or sync.
-- **Source inbox:** `cmreko91@gmail.com` — sender filter `hello@capitaloneshopping.com`
+- **Source inbox:** `a dedicated account` — sender filter `hello@capitaloneshopping.com`
 - **Status:** Live and healthy. GitHub Actions cron (ingest + Pages deploy) runs
   every 15 min and has been green through today. The frontend (`public/index.html`,
   ~700 lines, single file, no build step) is the bulk of ongoing work.
@@ -52,7 +52,7 @@ UI with favorite / hide / sort / filter and (intended) cross-device sync.
 ## Architecture (brief — see README/AGENTS for depth)
 
 ```
-Gmail (cmreko91@gmail.com)
+Gmail (a dedicated account)
   └─ ingestor/ingest.js + parser.js   (GitHub Actions cron, every 15 min)
         └─ public/offers.json          (committed to main by the bot)
               └─ public/index.html      (PWA: fetch + render, 5-min poll)
@@ -99,7 +99,7 @@ and *deploying* the worker — and both have CI workarounds noted above.
 | Local Gmail creds | Mac only: `client_secret.json`, `token.json` (gitignored) | For local `npm run ingest` / `npm run auth`. |
 | Worker auth secret | Cloudflare: secret `SYNC_TOKEN` on the worker | Gates `/state` and `/action`. Never commit it. |
 | KV store | Cloudflare KV `OFFERS_KV` = `84ae9a9ba9c944b0848d4c976152ded5` | Just an id, not a secret. |
-| Accounts | Gmail being read: `cmreko91@gmail.com`. The Google Cloud project + Cloudflare account are owned by a **separate** Google account. | Ask Collin for the owner account if you need console/Cloudflare access; it's intentionally not written here. |
+| Accounts | Gmail being read: `a dedicated account`. The Google Cloud project + Cloudflare account are owned by a **separate** Google account. | Ask Collin for the owner account if you need console/Cloudflare access; it's intentionally not written here. |
 
 To rotate the Gmail refresh token: revoke at myaccount.google.com/permissions →
 `npm run auth` on the Mac → update the `GMAIL_REFRESH_TOKEN` repo secret.

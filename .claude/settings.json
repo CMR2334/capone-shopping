@@ -7,7 +7,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "node /Users/collinrekowski/Automation/scripts/agent-session.js hook-start --platform claude"
+            "command": "node $HOME/Automation/scripts/agent-session.js hook-start --platform claude"
           }
         ]
       }
@@ -17,7 +17,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "node /Users/collinrekowski/Automation/scripts/agent-session.js hook-start --platform claude"
+            "command": "node $HOME/Automation/scripts/agent-session.js hook-start --platform claude"
           }
         ]
       }
@@ -28,7 +28,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "node /Users/collinrekowski/Automation/scripts/agent-session.js hook-pretool --platform claude"
+            "command": "node $HOME/Automation/scripts/agent-session.js hook-pretool --platform claude"
           }
         ]
       }
@@ -38,7 +38,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "node /Users/collinrekowski/Automation/scripts/agent-session.js hook-stop --platform claude"
+            "command": "node $HOME/Automation/scripts/agent-session.js hook-stop --platform claude"
           }
         ]
       }

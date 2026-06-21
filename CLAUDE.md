@@ -2,7 +2,7 @@
 
 ## Pre-Approved Access
 Collin pre-approves all Bash, Read, Edit, Write, and computer-use actions for:
-- All paths under /Users/collinrekowski/Automation/
+- All paths under ~/Automation/
 - ~/Library/LaunchAgents/
 - /tmp/
 No need to request confirmation for these locations in any session.
@@ -18,13 +18,13 @@ vs the owner's Mac), infra/secrets locations, roadmap, and open issues. Then che
 Before editing files, follow [../docs/AI_COORDINATION.md](../docs/AI_COORDINATION.md):
 
 ```bash
-node /Users/collinrekowski/Automation/scripts/agent-session.js start --platform claude --scope "$PWD" --task "short description"
+node ~/Automation/scripts/agent-session.js start --platform claude --scope "$PWD" --task "short description"
 ```
 
 If another active Claude/Codex session overlaps this project or the target files, pause and coordinate or use a Git worktree. Release the session after commit/push:
 
 ```bash
-node /Users/collinrekowski/Automation/scripts/agent-session.js done --id SESSION_ID
+node ~/Automation/scripts/agent-session.js done --id SESSION_ID
 ```
 
 ## Auto-push protocol (apply in every session)
@@ -34,7 +34,7 @@ The ingestor bot commits `public/offers.json` every ~15 min, so a plain push can
 rejected as non-fast-forward. **Always rebase before pushing:**
 
 ```bash
-cd /Users/collinrekowski/Automation/capone-shopping && \
+cd ~/Automation/capone-shopping && \
   git add public/index.html && \
   git commit -m "describe the change" && \
   git pull --rebase && \
@@ -75,6 +75,6 @@ See [AGENTS.md](AGENTS.md) for full architecture notes (AI-agnostic version of t
 - Live URL: https://CMR2334.github.io/capone-shopping/
 
 ## Shared Documentation
-- User profile and preferences: /Users/collinrekowski/Automation/docs/USER_PROFILE.md
-- Workflow preferences: /Users/collinrekowski/Automation/docs/PREFERENCES.md
-- Automation workspace overview: /Users/collinrekowski/Automation/docs/CONTEXT.md
+- User profile and preferences: ~/Automation/docs/USER_PROFILE.md
+- Workflow preferences: ~/Automation/docs/PREFERENCES.md
+- Automation workspace overview: ~/Automation/docs/CONTEXT.md
