@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-22T20:45:38.575Z",
-  "sourceCount": 65,
+  "lastUpdated": "2026-06-22T21:00:38.373Z",
+  "sourceCount": 66,
   "parseFailures": 0,
   "offers": [
     {
@@ -39,11 +39,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-06-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SWNoTHkyOTlYTGlIM29yeXRlM3pQT1V2cG1hMXBaVS9nZjBSUkNBSW9rNmtSUDlsYzhjOVFLeHhKd1pLcC8vT2tYYlpSLytQbzhjak1LTGtMckM4cmNLdTJZSWlueFYyM2h2VS9BPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dXk0WnQxTDE4ZnhYTHBsQ0xGOHRXcjI2MklKa3p1Z3JrWThwbW1vcHA5TlJ1Q01QYUY0NHlnTGxTbm1vS2ZjQk9HTlBlNTdDK3cydkJSMHQ4bHlLNmRnTmpUQ0UzQTFKU0p1WjB3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=zennioptical.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19ef0b3ef13bbb01",
-      "emailDate": "2026-06-22T18:59:43.000Z"
+      "emailMessageId": "19ef118f5489eb50",
+      "emailDate": "2026-06-22T20:50:04.000Z"
     },
     {
       "merchant": "Viator, a Tripadvisor company",
@@ -102,6 +102,20 @@
       "emailDate": "2026-06-20T15:00:50.000Z"
     },
     {
+      "merchant": "Find Parking",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZEIzb3BFblUrbWh1SC9RZ3NadGxXUm9CSGdmZ3pxYVJPL0tlQTNzemE1VHBRczZwYlZFZEdybXEvQ3ppRHYxLytVY1B2aW5DN0NHQlVKMWFYNGZVeFp4c0wycFR1K2R0Y1lUN2lBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=findparking.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ef118f5489eb50",
+      "emailDate": "2026-06-22T20:50:04.000Z"
+    },
+    {
       "merchant": "Tripadvisor",
       "percentBack": 25,
       "dollarBack": null,
@@ -142,6 +156,20 @@
       "source": "single-use",
       "emailMessageId": "19ee43a12341822b",
       "emailDate": "2026-06-20T08:51:11.000Z"
+    },
+    {
+      "merchant": "Vignette Collection",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MWQzRmxzMmdpeUptRndONnV3RW00SnZwbElIN2RQQldEbTRnbGVRdXBBRGMvSFRRYVV3MCtNS3ZKY2FqT052bnFOcVI3YlNQYUxLUkJPN0d5N1U2UGJsWlpnVFRqVVY3RlJRUllRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vignettecollectionhotels.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ef118f5489eb50",
+      "emailDate": "2026-06-22T20:50:04.000Z"
     },
     {
       "merchant": "Fanatics",
@@ -198,6 +226,20 @@
       "source": "single-use",
       "emailMessageId": "19eefaf721a2c13c",
       "emailDate": "2026-06-22T14:15:12.000Z"
+    },
+    {
+      "merchant": "GO Airlink",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-06-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TjFwb0xmQ25nWUpRMSs5UExBSXlvQUVwaDZJNUFmY0daTDNPSnMwQWhqZm4yODluYWNsZlZaejlPZUlva0JqeU80QU5CSXAxWTFEYmQ0NEpPSzhFZmprdUV5UE8xSnlVWTZOZ3hRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=goairlinkshuttle.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ef118f5489eb50",
+      "emailDate": "2026-06-22T20:50:04.000Z"
     },
     {
       "merchant": "New Era",
@@ -522,6 +564,34 @@
       "emailDate": "2026-06-21T09:25:13.000Z"
     },
     {
+      "merchant": "Trip.com",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T2YyM1ZhMjFaUk4vSEhnZ1FlWTI4MnlVSDhLOUI3RnRSK2V6M3lMZjZEU0FqY3BpUXFsL0dMcGhPVVgrSWs5L0E2Z1loLzVaYnpDZmpkRVhWWkl5eEp4ejRjWE5EaTVCSGlBa05nPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logous.trip.com,spNGZr_7zCKQQ7Z_9cUdpLdqrNIyUBra0shuRD4I3nZ8/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1780962758517.png",
+      "source": "single-use",
+      "emailMessageId": "19ef118f5489eb50",
+      "emailDate": "2026-06-22T20:50:04.000Z"
+    },
+    {
+      "merchant": "Omio",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-06-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aFFMQmw5bndwRUx1WFhnRUhpRjhKeUV5WVZIOS9DRWVsR0pmTGcxcUZBQ1N2Q01pNlBRL2VXekM4czVJYUdhSDk5Q0lmdjlzaGg3NCt2b0FMU3RZYmorWHhyMkp5aDc0SERUOVdBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=omio.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ef118f5489eb50",
+      "emailDate": "2026-06-22T20:50:04.000Z"
+    },
+    {
       "merchant": "eBay",
       "percentBack": 7,
       "dollarBack": null,
@@ -646,6 +716,34 @@
       "source": "single-use",
       "emailMessageId": "19ee66baf0036b3f",
       "emailDate": "2026-06-20T19:04:37.000Z"
+    },
+    {
+      "merchant": "Turbopass",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NW9yNWNqSnV1elRJNmtTdk9ESVpQRFQyUStLM1EzNzJzbnNMZ3RzSnBFNko0QVRTcmxPZDBmZVkvdHZNcy9IQkF3V0NlRGh5aGlOUjZEdnV4UEVPMjlYRFdUcUV2b3JhREgyNitRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=turbopass.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ef118f5489eb50",
+      "emailDate": "2026-06-22T20:50:04.000Z"
+    },
+    {
+      "merchant": "Turkish Airlines",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QlRTc3c3YXRSSHdJV0dOemQ2N3JxOEZqSE9vMDVObFdEa0lQZWFQa2VXSTMwV0o0K2ZrZ2pIbDJsS1BidTRCa1VoWkpZcUdvS01IRXV1UE1PTlJvS3ltK2tiU1VJOG1STllGalVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=turkishairlines.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19ef118f5489eb50",
+      "emailDate": "2026-06-22T20:50:04.000Z"
     },
     {
       "merchant": "Zazzle",
