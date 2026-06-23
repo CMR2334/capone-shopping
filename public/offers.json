@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-23T09:45:41.399Z",
-  "sourceCount": 67,
+  "lastUpdated": "2026-06-23T10:00:42.099Z",
+  "sourceCount": 68,
   "parseFailures": 0,
   "offers": [
     {
@@ -60,6 +60,20 @@
       "emailDate": "2026-06-22T16:44:04.000Z"
     },
     {
+      "merchant": "BJ's Membership",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 6,
+      "lastViewed": null,
+      "expiresAt": "2026-06-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZzBYU1JLV01HcVozOEZmWWNZMVhWOU9JWGdsTFRpQUxNeTA3VkFsUHIvSll0OHQ5a3ZIeWowL0x1WnhMMGZRbm5IZnRIc1l0M0JibWNEM3ZscjFXd0IySXpnZjJuTms0K254WVdBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=membership.bjs.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19ef3e1c45fcb63f",
+      "emailDate": "2026-06-23T09:48:39.000Z"
+    },
+    {
       "merchant": "Forkful",
       "percentBack": 30,
       "dollarBack": null,
@@ -86,6 +100,34 @@
       "source": "single-use",
       "emailMessageId": "19ee58c7e7902699",
       "emailDate": "2026-06-20T15:00:50.000Z"
+    },
+    {
+      "merchant": "Tatcha",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d3hKeDFucllVZTQ5elRLSGtsZjV1azVpTHNrbllHY0hGYUZvU2FEVE1XQkJ5NitMUUcyREtYOXlyWHhUWmV5L0RRVHF2WEFtM200UFlySHNGaFcwZVRueFk3bERtcTVHRUV1YldnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tatcha.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19ef3e1c45fcb63f",
+      "emailDate": "2026-06-23T09:48:39.000Z"
+    },
+    {
+      "merchant": "Viktor&Rolf",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-06-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NXl0VDBhUm92cG5HV0JWS0ZjdHBGc3BFdjFQUDdFSTgxMDRabEpxTys3em5EVlVPdVlGcFpDL1dNSndYYmREenlnUkQ3NVprU0VsbzdidGRRZEhGcVhtUlREb1F4d3g0djdpMlZ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=us.viktor-rolf.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19ef3e1c45fcb63f",
+      "emailDate": "2026-06-23T09:48:39.000Z"
     },
     {
       "merchant": "Find Parking",
@@ -142,6 +184,20 @@
       "source": "single-use",
       "emailMessageId": "19ee43a12341822b",
       "emailDate": "2026-06-20T08:51:11.000Z"
+    },
+    {
+      "merchant": "Perricone MD",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q0JZRG9laWZlRU5Ya29McUw1aG5SNENvOVhmeGlNb2MxRDV4K3JTY1o4QlYyeEhkeFdMUFhQSjdjaVhHNFdSaXQ3L0lrcmpxNGoxbnBUTUdENThQOGdlUWk0dTdXNWtudTMzU1JBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=perriconemd.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19ef3e1c45fcb63f",
+      "emailDate": "2026-06-23T09:48:39.000Z"
     },
     {
       "merchant": "Columbia",
@@ -338,6 +394,20 @@
       "source": "single-use",
       "emailMessageId": "19ee58c7e7902699",
       "emailDate": "2026-06-20T15:00:50.000Z"
+    },
+    {
+      "merchant": "StubHub",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6K3FBSzFIZi9kUWEwM3NCZjFMaFpCL2ZjMGUzV2FzdFl4QnFsK2huN2lUOXdTbytrS0JFWWZsMkVxLzdTcUFHTFk3SHkvRWlHQVpaN1dhSHcxL0owTjZNWEJzTTdDV1dRS0V4NFFRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=stubhub.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19ef3e1c45fcb63f",
+      "emailDate": "2026-06-23T09:48:39.000Z"
     },
     {
       "merchant": "Ticket Network",
@@ -606,6 +676,20 @@
       "emailDate": "2026-06-21T09:25:13.000Z"
     },
     {
+      "merchant": "LensCrafters",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6K3JYTlYzejBybWNldUl1Z3RzbWJ0Rm96T0VoemFIZ09RTG9pc2NGbEVJM1dyQ0YrTjZKRFJBV3Y4c2Vpb2FrdUxBZFlGd1JhcDlaVTNURU9Bc1JxbENib2dDQTFYNmVjNXpZNkN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lenscrafters.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19ef3e1c45fcb63f",
+      "emailDate": "2026-06-23T09:48:39.000Z"
+    },
+    {
       "merchant": "Trip.com",
       "percentBack": 7.5,
       "dollarBack": null,
@@ -702,6 +786,20 @@
       "source": "single-use",
       "emailMessageId": "19ee58c7e7902699",
       "emailDate": "2026-06-20T15:00:50.000Z"
+    },
+    {
+      "merchant": "Overstock",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RFVMMmZGUXpMTXhSYU1EdUk5bk9zQmNhb1ZIeU5TUzRYa003eW1oVmxmN2k2Y0ZIOWcrVnRENHZJUjRqNXNGT2dJNVlHNlY5OWxGaHRmUVRubFV0RzZIaHZ2d2tLaCs4emp0RnB3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=overstock.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19ef3e1c45fcb63f",
+      "emailDate": "2026-06-23T09:48:39.000Z"
     },
     {
       "merchant": "Alamy",
@@ -900,6 +998,20 @@
       "emailDate": "2026-06-21T06:24:03.000Z"
     },
     {
+      "merchant": "AT&T Internet",
+      "percentBack": null,
+      "dollarBack": 130,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6R05xVzRNeElZbXkxY2FaVmRUK1FQUVRYQjRNS0VuekEwb3I1YkR2N21kZlEvSk40YXczMmxEbVhkMytHK244Nmt0SjQ5MEZuKzJaUVhJT1F4NFdHOVJpWHR5SnpjR0Y2bDZnZnVBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=att.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19ef3e1c45fcb63f",
+      "emailDate": "2026-06-23T09:48:39.000Z"
+    },
+    {
       "merchant": "Frontier Communications",
       "percentBack": null,
       "dollarBack": 130,
@@ -912,6 +1024,20 @@
       "source": "single-use",
       "emailMessageId": "19ee43a12341822b",
       "emailDate": "2026-06-20T08:51:11.000Z"
+    },
+    {
+      "merchant": "Boost Mobile",
+      "percentBack": null,
+      "dollarBack": 90,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RXhJSG9Kb0gzaGRBODdjYSs2eTBJMFhtWGJrVy82NnRLY284YzlkQkFNMmdzdENCZ3RhVzBjVHBCU2JCNVUvYjNJOHpSVUZxTEs4TVYyVGZUeDFqQnNnZGNheWFyTy9xdU5FeExBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=boostmobile.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19ef3e1c45fcb63f",
+      "emailDate": "2026-06-23T09:48:39.000Z"
     },
     {
       "merchant": "Fubo",
