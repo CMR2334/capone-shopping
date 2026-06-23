@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T06:45:42.196Z",
+  "lastUpdated": "2026-06-23T07:00:41.275Z",
   "sourceCount": 67,
   "parseFailures": 0,
   "offers": [
@@ -30,20 +30,6 @@
       "source": "single-use",
       "emailMessageId": "19ef037bb2b5f0c5",
       "emailDate": "2026-06-22T16:44:04.000Z"
-    },
-    {
-      "merchant": "Zenni Optical",
-      "percentBack": 40,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-06-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TGt3M2JtalhTcG4rWnFpeFFHek9oekJIL0FPRmRqVTdKRmVycU54S0s5SVJJdE1Pbyt4V2dpVjY2NWpyeFNYT1g4M0tWTy94emtWYkFFWTA4bTdnSjNMajZ1TDhub0MxckRHTHp3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=zennioptical.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "19ef170888369a78",
-      "emailDate": "2026-06-22T22:25:44.000Z"
     },
     {
       "merchant": "Viator, a Tripadvisor company",
@@ -520,20 +506,6 @@
       "source": "single-use",
       "emailMessageId": "19ee43a12341822b",
       "emailDate": "2026-06-20T08:51:11.000Z"
-    },
-    {
-      "merchant": "StubHub",
-      "percentBack": 10,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-06-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6STgvUVpCY2RyUG50R2lWcmQvR0hHM2h5cTR0bytnV01WbEhnL2RvSnpBdWxIemExRitYRWg0RWlzbTNKemxSaUkrcmxyWFd1cFRRK2FKYytjbTRaTE8vMmxvd2xHR3hFZUtzblBBPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/148x148,logostubhub.com,sphgONBU2W1SuiKUYBowdxKnlkfY_WAOCfGp6UYDdJaw/https://media.stubhubstatic.com/stubhub-v2-catalog/d_defaultLogo.jpg/t_f-fs-0fv,q_auto:low,f_auto,c_fill,$w_280_mul_3,$h_180_mul_3/categories/5333/6574302",
-      "source": "single-use",
-      "emailMessageId": "19ee233d48dd9d01",
-      "emailDate": "2026-06-19T23:25:07.000Z"
     },
     {
       "merchant": "Macy's",
@@ -1024,20 +996,6 @@
       "source": "single-use",
       "emailMessageId": "19ee97f9d1795f0f",
       "emailDate": "2026-06-21T09:25:13.000Z"
-    },
-    {
-      "merchant": "Safelite",
-      "percentBack": null,
-      "dollarBack": 13.5,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-06-23T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MzBsQTZLU0RjUFlNQ0RnWEFMdHh4cjUzUGJ3WTI3aXJxcC9YQnNxMjlQazlVaHZ2MjZqUUxTQktWYnMrR1lwV0ppQWgzL08yNzUvenFSV2FpdkFZSFhsa2VTMWFWM2I4YitCRnNBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=safelite.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19ee233d48dd9d01",
-      "emailDate": "2026-06-19T23:25:07.000Z"
     },
     {
       "merchant": "Relief Factor",
