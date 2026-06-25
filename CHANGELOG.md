@@ -13,6 +13,14 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-06-25 — Fix: never show or open expired offers (client-side expiry gate)
+**Commit:** `deef527`
+**Files:** `public/index.html`, `package.json`
+**What changed:** Expired offers could still render as clickable cards when the served `offers.json` was stale, cached (PWA), or lagging a refresh — the frontend trusted whatever the feed contained and never re-checked expiry against the live clock. Now `filterOffers()` drops any offer past its `expiresAt` in every view (All/Favorites/Hidden) via a new `isExpired()` helper, and `openOffer()` refuses to open a link that is expired as of the click (re-rendering to drop the dead card), covering offers that lapse while their card sits on screen between the 5-minute refreshes. The ingestor/parser were already accurate — C1 emails expire offers at "11:59 PM PDT", which `resolveDate` (day+1 07:00 UTC) matches within a minute — so no parser change was needed. Bumped to v0.2.1. Verified in-browser against a synthetic feed (3 valid shown; 3 expired, incl. a `todays-top`, dropped) and the click guard (valid opens, lapsed does not).
+**Revert:** `git revert deef527`
+
+---
+
 ## 2026-06-20 — Privacy: redact ingestion email + macOS username from public repo
 **Commit:** `b295638`
 **Files:** `README.md`, `HANDOFF.md`, `AGENTS.md`, `CLAUDE.md`, `.claude/settings.json`, `ingestor/auth.js`
