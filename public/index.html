@@ -430,7 +430,7 @@
 
 <script>
 (() => {
-  const APP_VERSION = 'v0.2.0'; // bump with package.json on each meaningful release
+  const APP_VERSION = 'v0.2.1'; // bump with package.json on each meaningful release
   const grid = document.getElementById('grid');
   const empty = document.getElementById('empty');
   const emptyTitle = document.getElementById('emptyTitle');
@@ -609,6 +609,13 @@
     return (new Date(iso) - new Date()) < 36 * 3600 * 1000;
   }
 
+  // Authoritative expiry check against the live clock. Guards against a stale or
+  // cached offers.json (or a lagged refresh) surfacing offers that have already
+  // expired. Offers with no expiry date are treated as still valid.
+  function isExpired(iso) {
+    return iso ? new Date(iso).getTime() <= Date.now() : false;
+  }
+
   function offerValue(o) { return o.dollarBack != null ? o.dollarBack : o.percentBack; }
 
   function sortOffers(offers, mode) {
@@ -620,16 +627,19 @@
   }
 
   function filterOffers(offers, view, favs, hidden) {
+    // Drop anything past its expiry up front, so no view (including Favorites)
+    // ever surfaces a dead offer the user could click.
+    const live = offers.filter(o => !isExpired(o.expiresAt));
     if (view === 'favorites') {
-      return offers.filter(o => favs.has(o.merchant));
+      return live.filter(o => favs.has(o.merchant));
     }
     if (view === 'hidden') {
-      return offers.filter(o => {
+      return live.filter(o => {
         const t = hidden[o.merchant];
         return t != null && offerValue(o) <= t;
       });
     }
-    return offers.filter(o => {
+    return live.filter(o => {
       const t = hidden[o.merchant];
       if (t == null) return true;
       return offerValue(o) > t;
@@ -691,7 +701,7 @@
       }
 
       return `
-        <div class="card" data-href="${escapeAttr(o.activationUrl || '')}" data-merchant="${escapeAttr(o.merchant)}" data-value="${offerValue(o)}" role="link" tabindex="0">
+        <div class="card" data-href="${escapeAttr(o.activationUrl || '')}" data-merchant="${escapeAttr(o.merchant)}" data-value="${offerValue(o)}" data-expires="${escapeAttr(o.expiresAt || '')}" role="link" tabindex="0">
           <div class="logo">${logoHtml}</div>
           <div class="info">
             <div class="percent">${rewardHtml}</div>
@@ -748,6 +758,9 @@
   }
 
   function openOffer(card) {
+    // An offer can lapse while its card sits on screen between refreshes — never
+    // open a link that's expired as of right now; re-render to drop the dead card.
+    if (isExpired(card.dataset.expires)) { render(); return; }
     const href = card.dataset.href;
     if (href && href !== '') window.open(href, '_blank', 'noopener,noreferrer');
   }
