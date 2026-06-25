@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-25T10:31:03.448Z",
-  "sourceCount": 67,
+  "lastUpdated": "2026-06-25T10:44:09.778Z",
+  "sourceCount": 68,
   "parseFailures": 0,
   "offers": [
     {
@@ -16,6 +16,20 @@
       "source": "single-use",
       "emailMessageId": "19ef037bb2b5f0c5",
       "emailDate": "2026-06-22T16:44:04.000Z"
+    },
+    {
+      "merchant": "Columbia",
+      "percentBack": 35,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VVlDVkFDMFJkU1g5ak9HT2g1blpTWXdyU3c3eWpnbmFQWnZJZXFxQkVQa3ZydGF3WUUxMDBKYjgvNEV4bGpMUHZ1M0x0U25Xd1MzRW1tV09lQm8vUGVOeWI2WHZrNnFJeFVBTEtBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=columbia.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19efe581cf0e3e62",
+      "emailDate": "2026-06-25T10:34:07.000Z"
     },
     {
       "merchant": "Under Armour",
@@ -86,6 +100,20 @@
       "source": "single-use",
       "emailMessageId": "19ef3e1c45fcb63f",
       "emailDate": "2026-06-23T09:48:39.000Z"
+    },
+    {
+      "merchant": "Tripadvisor",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": "June 20",
+      "expiresAt": "2026-06-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Yk8zbk40WmdkRVEzazd5RktReGFXcHZiU1pvSVZ2b3dIbmJRZ1MxVGY5VUtnS0xqTlFOUDNBckFuaVJkNWtweEMxR0VBbjFQSzB2TDdITWhEdm9JTmpoNk5UZlBKWW1nK0pwQmF3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19efe581cf0e3e62",
+      "emailDate": "2026-06-25T10:34:07.000Z"
     },
     {
       "merchant": "Zales",
@@ -200,20 +228,6 @@
       "emailDate": "2026-06-23T09:48:39.000Z"
     },
     {
-      "merchant": "Columbia",
-      "percentBack": 20,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-06-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dVhDbkRDMU80dDdaSUFiRVFBMnA0T0wyZ2FKM0tWTlBwKy9hVjlVRnNqWXRaV3hSZmx2V3hOS1FWY3dRaEJuLzY2Y1hoZDZsaTN4Um9QODB1OWJuK3E3TW5oK0dOWjlkNVllYWhnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=columbia.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19ef170888369a78",
-      "emailDate": "2026-06-22T22:25:44.000Z"
-    },
-    {
       "merchant": "Vignette Collection",
       "percentBack": 20,
       "dollarBack": null,
@@ -254,6 +268,48 @@
       "source": "single-use",
       "emailMessageId": "19eefaf721a2c13c",
       "emailDate": "2026-06-22T14:15:12.000Z"
+    },
+    {
+      "merchant": "Best Western Hotels & Resorts",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aVFUekJtbHM1b2tUejNiS0pSSFpzVmFRVS9wdnR6akwzeFFMdWtSMlhidVJFS2RKemNCZ0RCVEFiZmhUZGUwZEkvUWdZR3A0MXFENVJMTkZtOVRZQ3hOZ3l1aFcvN3hpSll3UnhBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestwestern.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19efe581cf0e3e62",
+      "emailDate": "2026-06-25T10:34:07.000Z"
+    },
+    {
+      "merchant": "Big Bus Tours",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TkY5ZkVTQ0dXcFI0UkVMbVR4d21IaGR3VCt3aDAxOVhIVG5VT0dVZlVKV3ZON2QwVWRDam9JN1YxVUdsVHRIYm9ITUgvelNWQ015d0p5WUtBYWpZWFNCQ0NubVJ4c3ByMnV2NjhnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19efe581cf0e3e62",
+      "emailDate": "2026-06-25T10:34:07.000Z"
+    },
+    {
+      "merchant": "Go City Pass",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dWpEQ21paDZIcWJlcGRNVmVnL3BmWklLMjBGa0NXbDdWTFpwU1lNSC9wSmI0N0xxRTFlc1VjNC92ZXRURHRhYzlXU3BjR3dFSnc5dlBvSitJSDdmN05OOEdSWm5QRHJDTVRVcEhRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19efe581cf0e3e62",
+      "emailDate": "2026-06-25T10:34:07.000Z"
     },
     {
       "merchant": "GNC",
@@ -382,20 +438,6 @@
       "emailDate": "2026-06-22T18:59:43.000Z"
     },
     {
-      "merchant": "The STRAT Hotel",
-      "percentBack": 11,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-06-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eHJNNEhjZDg5ZFFoN0ZHUjFTQ0xoS09aUlpYTGdLd0ZCRkpxdGtheVhLa1IwWHNMNGlBc05XTGtrLzEwaU9TZVVmL0kwdkh2bzdCMU9sbER4UU1TMEhWVDNtZWk4dllpcTdHY2l3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thestrat.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19ef8da81d874e71",
-      "emailDate": "2026-06-24T08:58:49.000Z"
-    },
-    {
       "merchant": "Staples",
       "percentBack": 11,
       "dollarBack": null,
@@ -478,6 +520,34 @@
       "source": "single-use",
       "emailMessageId": "19ef0b3ef13bbb01",
       "emailDate": "2026-06-22T18:59:43.000Z"
+    },
+    {
+      "merchant": "CityPASS",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eXhiMktoNWViaDN1K3V1c1NoYWp4NW1RMUN4N1FqQk5oRXZ3RmFVOUgyeWhEQUg1M3Jjb1I4Zk9mdUF2akxqZ2RZUm9mbDg4azg0U0FYY0VKRklURXRxQlhjUlNXc282eXRlYUFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=citypass.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19efe581cf0e3e62",
+      "emailDate": "2026-06-25T10:34:07.000Z"
+    },
+    {
+      "merchant": "The STRAT Hotel",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZFFjM2lueXR1aloza0UrQUxBM1VDMERzTTBpMG5uM2w4eW8rWmFMRVF3SDJzQTByL01OZlE4TWFxYnhWTXRDNFUxemhIY3RjQndCeXhuWnNtbW1oUmJiaUJoZEgyMFJhc0tGU3R3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thestrat.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19efe581cf0e3e62",
+      "emailDate": "2026-06-25T10:34:07.000Z"
     },
     {
       "merchant": "Hilton",
@@ -772,6 +842,20 @@
       "source": "single-use",
       "emailMessageId": "19eefaf721a2c13c",
       "emailDate": "2026-06-22T14:15:12.000Z"
+    },
+    {
+      "merchant": "CheapOair",
+      "percentBack": null,
+      "dollarBack": 36,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QnVMYzRkOW4xTUo3NzRJajFWSHo0T0oxL2ZoVGdrRm1iZk1wSkVrOXJFeFk3VUJNZFRQOVZYbU52K0txQTUrOVRmdGN6VzhMTVdmZ0N3YkNOK1VNdlN6WVJaQjRJNkYvRFBhNFVBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cheapoair.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19efe581cf0e3e62",
+      "emailDate": "2026-06-25T10:34:07.000Z"
     },
     {
       "merchant": "HelloFresh",
