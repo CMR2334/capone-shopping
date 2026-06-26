@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-26T15:46:11.069Z",
-  "sourceCount": 64,
+  "lastUpdated": "2026-06-26T16:01:19.825Z",
+  "sourceCount": 65,
   "parseFailures": 0,
   "offers": [
     {
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-06-27T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ejV6SDBmSkRWL0g5KzREWEgwUW1nRzZPZGtMOXhQUU5RQ3JVUTBGbDhZaXFERGVrY0xaN1NrbmtNSnh2ZDVnZlhnZlR2dE05dUNjNk03WFZVMDZ4TEpwcEQ4NjBrVUswMkNwbkhnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T1lJRmk5VzlmTnFzVE12L2g2TWJIY05sR1MreUtTdlBSd0Qxd3p1U3FSSkhROTgySnlOYU5mN1Nsam42K3diZnlyN0F4NEhPZkVielVDNjZubHUram5WV3EzMDB3aTRKN1NGc3FRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=temu.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19f03f083e6beac8",
-      "emailDate": "2026-06-26T12:38:41.000Z"
+      "emailMessageId": "19f04a4f6b5211a5",
+      "emailDate": "2026-06-26T15:55:47.000Z"
     },
     {
       "merchant": "Carter's",
@@ -88,6 +88,20 @@
       "emailDate": "2026-06-23T09:48:39.000Z"
     },
     {
+      "merchant": "Under Armour",
+      "percentBack": 26,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4.5,
+      "lastViewed": "May 25",
+      "expiresAt": "2026-06-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TlQ2Z2Q4eGwrbDFCR0c0c21LRS9WTEFCUCtZWlVZTlZGcktiOWJwaU9iRkhaYUhzNWdVWE15WWMyWEJBZ1RSTVFGZmJSME5pL09NOGZPNXpOZG9mY3ZmaTRvQ1JGZHlIMVc3TlJRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=underarmour.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f04a4f6b5211a5",
+      "emailDate": "2026-06-26T15:55:47.000Z"
+    },
+    {
       "merchant": "Lancôme",
       "percentBack": 25,
       "dollarBack": null,
@@ -156,6 +170,34 @@
       "source": "single-use",
       "emailMessageId": "19efc7268fef2e19",
       "emailDate": "2026-06-25T01:43:36.000Z"
+    },
+    {
+      "merchant": "Lands' End",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RkFNRkRKbmdrOXBCR3ZQenVvbTI3V0RyQmdnbWJVVExGbWVGdGZsSU1KNi9xZFBLOWRjQ3MwR0JDK2RaZnZnaFUyN2JMdklFM28vUGQ0eXd2bXJGT2pQSHN5cVE5aHo3YlF5N1Z3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=landsend.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f04a4f6b5211a5",
+      "emailDate": "2026-06-26T15:55:47.000Z"
+    },
+    {
+      "merchant": "Gap",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-06-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cS83WG8vNkNlU2UyNmlQenhQblpDOUZVdzQvUGwrWWtBM3B6NUdpNXh4SW80WkVyYkhIWVdoeTdnbisweVNvQTlHdDdmZmhGZTllWEY3YzU0dzM1NUZxbDR6cWFpZ2tvUDZZMmxRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gap.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f04a4f6b5211a5",
+      "emailDate": "2026-06-26T15:55:47.000Z"
     },
     {
       "merchant": "b.tempt'd",
@@ -312,6 +354,20 @@
       "emailDate": "2026-06-25T01:43:36.000Z"
     },
     {
+      "merchant": "Columbia",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-06-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RTU1TzhQeWFkdTJRY3FxZ1kyVk5GSyt3T05GcWR3NU9saEFhYWtuSVgzZisvcGloT0FqRTliRGI3R0tTdW1wY0haZHUvQkUzeVRXYXJmdDFLUzdjUnV5dWdzM1JLYTlTUjgydHN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=columbia.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f04a4f6b5211a5",
+      "emailDate": "2026-06-26T15:55:47.000Z"
+    },
+    {
       "merchant": "Ticket Network",
       "percentBack": 14,
       "dollarBack": null,
@@ -366,6 +422,20 @@
       "source": "single-use",
       "emailMessageId": "19ef8da81d874e71",
       "emailDate": "2026-06-24T08:58:49.000Z"
+    },
+    {
+      "merchant": "Eddie Bauer",
+      "percentBack": 11,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-06-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SThrdm4yK1Q2MVROTDZuTkFXc0RnODBWSzBOMkVWOVhMM1JsbDRxa20xeE9ubDlmUiszbUQ0MktsTm15Sll1RHVMeUNZeExXbmFWUW1rUEx3ZVAxZG04NGk0c25NcFlPU2tmcTRBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=eddiebauer.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f04a4f6b5211a5",
+      "emailDate": "2026-06-26T15:55:47.000Z"
     },
     {
       "merchant": "The STRAT Hotel",
@@ -478,6 +548,20 @@
       "source": "single-use",
       "emailMessageId": "19ef8da81d874e71",
       "emailDate": "2026-06-24T08:58:49.000Z"
+    },
+    {
+      "merchant": "adidas",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6M3VMOVdobTJjZDZzbXRRaVA0djR2YlZJOEQ2WEF2dlZsenFtQytPWlc0Y2UwYlNHWS9NVzJXNW1xVFJOQ3h4V0Q2RklrZy9oTU1hY1JiZktOcFZUc1IyQ2tzMjNYaEFVRGtBOUhRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=adidas.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f04a4f6b5211a5",
+      "emailDate": "2026-06-26T15:55:47.000Z"
     },
     {
       "merchant": "Dickies",
@@ -604,6 +688,20 @@
       "source": "single-use",
       "emailMessageId": "19ef8da81d874e71",
       "emailDate": "2026-06-24T08:58:49.000Z"
+    },
+    {
+      "merchant": "Macy's",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U3llbFo3dFZoUGswMG11MHFkMjJ5bFRUY1FWc2hxZUhLRWc3OVhpVUhPcXJSallENlBwdVBEY2NiR3YyWDNFMDV5QUxiRm9VNWpGR2FEWkV3aDl6Njcxd0Q1cU5HZ2cwKzhnUER3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=macys.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f04a4f6b5211a5",
+      "emailDate": "2026-06-26T15:55:47.000Z"
     },
     {
       "merchant": "AT&T Internet",
