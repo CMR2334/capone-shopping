@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-26T16:01:19.825Z",
-  "sourceCount": 65,
+  "lastUpdated": "2026-06-26T16:16:08.863Z",
+  "sourceCount": 66,
   "parseFailures": 0,
   "offers": [
     {
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-06-27T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T1lJRmk5VzlmTnFzVE12L2g2TWJIY05sR1MreUtTdlBSd0Qxd3p1U3FSSkhROTgySnlOYU5mN1Nsam42K3diZnlyN0F4NEhPZkVielVDNjZubHUram5WV3EzMDB3aTRKN1NGc3FRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UWdWNGNKaTNmZ1ZaSVAxYjdwdW5taVdGZXY0a0ptMTdOVys4OHg4d1BvaGpWVXk1K29IV05DUTYxblBsMHVidUdQczRud21qdytnTEV0dGpOMFpwbkVzbUtUcUsybHVjYnpROXpRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=temu.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19f04a4f6b5211a5",
-      "emailDate": "2026-06-26T15:55:47.000Z"
+      "emailMessageId": "19f04aa2f2c7311b",
+      "emailDate": "2026-06-26T16:01:29.000Z"
     },
     {
       "merchant": "Carter's",
@@ -282,6 +282,20 @@
       "source": "single-use",
       "emailMessageId": "19ef8da81d874e71",
       "emailDate": "2026-06-24T08:58:49.000Z"
+    },
+    {
+      "merchant": "bistroMD",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-06-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TDhhWlNRYVBBUkFCeUJjWThLamxXNTRKazg0djV3UkdGbkUyaWxjOFJiWGpEME1ObndiTFFRS2ZtUVJ6M21nZVc2cW9GK2NrQXhweER1VUZwbmM4ZWhscHFkY3hYSDhMbkF0U3NBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bistromd.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f04aa2f2c7311b",
+      "emailDate": "2026-06-26T16:01:29.000Z"
     },
     {
       "merchant": "Compartés",
@@ -737,13 +751,13 @@
       "dollarBack": 55.5,
       "capAmount": null,
       "wasPercent": null,
-      "lastViewed": null,
+      "lastViewed": "June 25",
       "expiresAt": "2026-06-30T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UXRvY0NNTnRRSGprNWRFRWx4eDhsUjlvbG5MTlNydTJhSE93YXBmakpzeGJrSUtVZEt4Ris2aHhySzB0R1NSK25XZ09TalhRR0Z6aVp2MGZmVktRQlM4N2NHSmlSOEhjK0xBWXhRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=greenchef.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RFYxc2dQaGt4a1NEcTArK1R1M0NxZjhHdGQ2cWtSYnJZME03SzNoYjBtMlJXTFFYT3Vmc1lxL3lsWWZ1Z1M2dlB4cFB4ZWRiMTRnWUEzejMzYUNQNHRISFczNEUwVkRQTTJ6NEV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=greenchef.com&fallback=true&opaque=true&type=cropped&width=500",
       "source": "single-use",
-      "emailMessageId": "19f03576ff150f0e",
-      "emailDate": "2026-06-26T09:51:28.000Z"
+      "emailMessageId": "19f04aa2f2c7311b",
+      "emailDate": "2026-06-26T16:01:29.000Z"
     },
     {
       "merchant": "Fubo",
