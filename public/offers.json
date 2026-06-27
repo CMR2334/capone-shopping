@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-06-27T23:31:33.736Z",
-  "sourceCount": 67,
+  "lastUpdated": "2026-06-27T23:46:25.762Z",
+  "sourceCount": 68,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Chewy",
+      "percentBack": 35,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": "June 26",
+      "expiresAt": "2026-07-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T21qeE81WWlCaXEwaWd0aG5LT1RxMXlLVDM3OEZlczBYT3JJK0dBZnh3a2dvNFg4cUZ1Z3pDcWtsNE9kQ3VjdUg2ZWE5ZUxlVDJHNlFFcG91ZlJYRHlrUUl2WjRGOE9RdG9rRFV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=chewy.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f0b72dc7e4e597",
+      "emailDate": "2026-06-27T23:38:24.000Z"
+    },
     {
       "merchant": "NBA Store",
       "percentBack": 30,
@@ -74,18 +88,18 @@
       "emailDate": "2026-06-26T15:55:47.000Z"
     },
     {
-      "merchant": "Chewy",
+      "merchant": "WONDERCIDE",
       "percentBack": 25,
       "dollarBack": null,
       "capAmount": null,
-      "wasPercent": null,
+      "wasPercent": 4,
       "lastViewed": null,
       "expiresAt": "2026-07-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QmZFYVFwZmwzbEVmTVlSUTQraFNNd3BycW1qZGRTQnZyalUvS0dLYXhBR0owL1V0ZkJCT0l2Z2ZCTkdCSkE3WGIzRnVPMURtUmxjVG1yMndGbFdoeGI2WVUwTWNpR2VDN1hWZ1hBPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/chewy-hlo-bc.gif",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a2Y0V3dPTEhlclNkSUdUdEh5c1hoNzdjOGZObVk2SGpYa1ZjY3hLd2pubjBqcWcvOGNSdm41RzB4aWVzalJOblBIc2NiYVRMOC8zQUtrK085QXVzQ3E3NGhYdzFBSEJ0WWdBMVhRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wondercide.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f0782ee248d481",
-      "emailDate": "2026-06-27T05:17:28.000Z"
+      "emailMessageId": "19f0b72dc7e4e597",
+      "emailDate": "2026-06-27T23:38:24.000Z"
     },
     {
       "merchant": "Tripadvisor",
@@ -438,6 +452,20 @@
       "emailDate": "2026-06-27T05:17:28.000Z"
     },
     {
+      "merchant": "Petco",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QUtlVmwwNjJoQUhXbytMVlRXTHVKcDdURklJR1NIVGx0MTJocGFwaDg1Z3UxWWJwbGFDZUZDVkFEVS9XQTNyejJFYVB1a1Yyd0J3RmllOElzaDdWYlQrNkJlbzFIZVVrUXErMkxnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petco.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f0b72dc7e4e597",
+      "emailDate": "2026-06-27T23:38:24.000Z"
+    },
+    {
       "merchant": "Eddie Bauer",
       "percentBack": 11,
       "dollarBack": null,
@@ -578,6 +606,20 @@
       "emailDate": "2026-06-24T08:58:49.000Z"
     },
     {
+      "merchant": "Spot & Tango",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6K2xIbkh5cytUWHFKZXJZQ3k1RllwdWl6MEhDb3lsVVFuZDErdEFma0RjNzJsRWMvOWJ2SEtZdkcrMmlpZnA1ZmV4eGVaM2hYY1RDSy9uOXpXM3hCdE5id21kZCttYVRCb1RaMk13PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spotandtango.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f0b72dc7e4e597",
+      "emailDate": "2026-06-27T23:38:24.000Z"
+    },
+    {
       "merchant": "adidas",
       "percentBack": 7.5,
       "dollarBack": null,
@@ -704,6 +746,34 @@
       "emailDate": "2026-06-26T12:38:41.000Z"
     },
     {
+      "merchant": "PetFlow",
+      "percentBack": 5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Y2syS0hCNmZTbHJIUisrOXI0QXRFQnNvRVZxSkhxN1BmeUdiaklUMWxjZlJuOXVYOTBCUGxNSFJyYXdPbHUwZVVGVlRjNDg0dnJrMUt5eWNJeEZEZjVPZHB3WG10RXBGeWRQY3dRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petflow.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f0b72dc7e4e597",
+      "emailDate": "2026-06-27T23:38:24.000Z"
+    },
+    {
+      "merchant": "Staples",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6czl1dEpQbGMzQnk3REwvQ29XUVhrTmJ0cWRKZGprcWFBTXU3N3VIU0FNamhTWE9rcHBGWUNDZ1JvVjFjd3RKVGFVY2NuT09OeXVZdDRGSWFCOFFuTjdTRWtZZ3cvT3JWNDhFcU5BPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=staples.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f0b72dc7e4e597",
+      "emailDate": "2026-06-27T23:38:24.000Z"
+    },
+    {
       "merchant": "Joybird",
       "percentBack": 4,
       "dollarBack": null,
@@ -744,6 +814,20 @@
       "source": "single-use",
       "emailMessageId": "19f04a4f6b5211a5",
       "emailDate": "2026-06-26T15:55:47.000Z"
+    },
+    {
+      "merchant": "Target",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WHB4ZmhNNnpKU1ZVbXhDejBEZ3c1UUg2ajd4NkRxd2Ryd0VHQi80MmFEcitYWVdIM0Q5UkVjaTNHYytXQVErU01RRkkxOWprbVhEUWNDTit0bnpPR2RaT2pKbmlzRVkrNXNzUkV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=target.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f0b72dc7e4e597",
+      "emailDate": "2026-06-27T23:38:24.000Z"
     },
     {
       "merchant": "Green Chef",
