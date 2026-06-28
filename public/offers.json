@@ -1,22 +1,8 @@
 {
-  "lastUpdated": "2026-06-28T12:16:34.236Z",
+  "lastUpdated": "2026-06-28T12:31:33.336Z",
   "sourceCount": 68,
   "parseFailures": 0,
   "offers": [
-    {
-      "merchant": "Chewy",
-      "percentBack": 35,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": "June 26",
-      "expiresAt": "2026-07-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T21qeE81WWlCaXEwaWd0aG5LT1RxMXlLVDM3OEZlczBYT3JJK0dBZnh3a2dvNFg4cUZ1Z3pDcWtsNE9kQ3VjdUg2ZWE5ZUxlVDJHNlFFcG91ZlJYRHlrUUl2WjRGOE9RdG9rRFV3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=chewy.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "19f0b72dc7e4e597",
-      "emailDate": "2026-06-27T23:38:24.000Z"
-    },
     {
       "merchant": "NBA Store",
       "percentBack": 30,
@@ -58,6 +44,20 @@
       "source": "single-use",
       "emailMessageId": "19f04a4f6b5211a5",
       "emailDate": "2026-06-26T15:55:47.000Z"
+    },
+    {
+      "merchant": "Everlane",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eWl3Qk0rR2VSRzRwcURPTk5wc21IU3VpOC9LMVJ0WTcwNUcrNVhvVXhLY0ozN0RQSVBFZjFRVWM5U1RGQWt3d0l2dCtRbXNTeHdzRHlRYWZ5d3JFSkYvK2RNQVFNTEZwSWxCMld3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=everlane.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19f0e3374d3e75ef",
+      "emailDate": "2026-06-28T12:28:00.000Z"
     },
     {
       "merchant": "WONDERCIDE",
@@ -102,6 +102,20 @@
       "emailDate": "2026-06-26T12:38:41.000Z"
     },
     {
+      "merchant": "Tuft + Paw",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RXNoNnNJS01VelRCRDhUTFRWZW9Jc3lXM00zakE2ZFNpTmpzblN6SzNyRVNSRVY3ZWZXeHEwUUt3cTVJbjB3bCtZeEJjNVN4STJycHloMUlrcUM2Q28xb1h3TVJ0czVjNUdMd3VBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tuftandpaw.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f0e3374d3e75ef",
+      "emailDate": "2026-06-28T12:28:00.000Z"
+    },
+    {
       "merchant": "Lands' End",
       "percentBack": 20,
       "dollarBack": null,
@@ -142,6 +156,20 @@
       "source": "single-use",
       "emailMessageId": "19f03f083e6beac8",
       "emailDate": "2026-06-26T12:38:41.000Z"
+    },
+    {
+      "merchant": "PetCareRx",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TlhiYUtxKzY0U3FqTTJGTkdOS2c1RElZRHY2WjhYcnVnaFo3L0RlQ25ONDF0eld2SHZKT01FQXdtN1RhQWxsNm5VNDRvK1lrS2VxemFCVDNZWlJlb0dWc3J4T051OGV6VE5WeWNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petcarerx.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f0e3374d3e75ef",
+      "emailDate": "2026-06-28T12:28:00.000Z"
     },
     {
       "merchant": "Fanatics",
@@ -326,6 +354,20 @@
       "emailDate": "2026-06-27T23:38:24.000Z"
     },
     {
+      "merchant": "Chewy",
+      "percentBack": 11.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6L1dTTExzVlF5T1pubjlkcjBLbTJEc29iUW8zaW1qK2dwYW93VWpYMldNeWxFUk9HTVVuRVdQOGUwazN5djNuVkNWa0pDNk1mdlR3SVFGM3Z6NTJwcUtPMURFbm4rcVVVbTE2N2J3PT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sCMc031nznDhjAFS8WXPQB_tL2HwyCwx9PDedHwm3-gw/https://image.chewy.com/catalog/general/images/kong-cozie-ali-the-alligator-dog-toy-x-large/img-738452._AC_SX500_SY400_QL75_V1_.jpg",
+      "source": "single-use",
+      "emailMessageId": "19f0e3374d3e75ef",
+      "emailDate": "2026-06-28T12:28:00.000Z"
+    },
+    {
       "merchant": "Eddie Bauer",
       "percentBack": 11,
       "dollarBack": null,
@@ -430,12 +472,12 @@
       "capAmount": null,
       "wasPercent": 1,
       "lastViewed": null,
-      "expiresAt": "2026-07-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6K2xIbkh5cytUWHFKZXJZQ3k1RllwdWl6MEhDb3lsVVFuZDErdEFma0RjNzJsRWMvOWJ2SEtZdkcrMmlpZnA1ZmV4eGVaM2hYY1RDSy9uOXpXM3hCdE5id21kZCttYVRCb1RaMk13PT0/runV3dl",
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NHZZcnNBa0VROVpzNDhHc2dRdWdmbW5lNjkwZkp0RkNUd2gvL3RZeHZITjJzUEJrZkF2ZUdPNmU3WmxydDNhKzNSc1FYcGlhcEtCR2kycHNYQmFxK0xsaGNRU2VSajdIQmJvZkVRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spotandtango.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f0b72dc7e4e597",
-      "emailDate": "2026-06-27T23:38:24.000Z"
+      "emailMessageId": "19f0e3374d3e75ef",
+      "emailDate": "2026-06-28T12:28:00.000Z"
     },
     {
       "merchant": "adidas",
@@ -450,6 +492,20 @@
       "source": "single-use",
       "emailMessageId": "19f04a4f6b5211a5",
       "emailDate": "2026-06-26T15:55:47.000Z"
+    },
+    {
+      "merchant": "PetFlow",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MitxbG1SajhORDVtQ0JyUElhTHlhcWdSZVd0dFRZQ3BlRGQrY2tZSWYyTlk0NWVqaHBCUHU2TTBmaVZoamlSb2IyRkJLa0oyWCtZUlVsUDh2b0RlWXRSVmw4OTM5OFBQbHpYS3ZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petflow.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f0e3374d3e75ef",
+      "emailDate": "2026-06-28T12:28:00.000Z"
     },
     {
       "merchant": "SpotHero",
@@ -478,6 +534,20 @@
       "source": "single-use",
       "emailMessageId": "19f03f083e6beac8",
       "emailDate": "2026-06-26T12:38:41.000Z"
+    },
+    {
+      "merchant": "PetSmart",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dmtPRDc5VzliSTJ6UjhoM3JFbWlXTHlzRUNTdmlDU25wTHNJMk1zNStCdTlZbEtsNDhBbzNWK0tvWDlVa1V5eEEvVTB6c0lUWVZINE5pVWxBNjBsbzNqenMwdXVkdFV1M0laY1JRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petsmart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f0e3374d3e75ef",
+      "emailDate": "2026-06-28T12:28:00.000Z"
     },
     {
       "merchant": "NFL+",
@@ -534,20 +604,6 @@
       "source": "single-use",
       "emailMessageId": "19f03f083e6beac8",
       "emailDate": "2026-06-26T12:38:41.000Z"
-    },
-    {
-      "merchant": "PetFlow",
-      "percentBack": 5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-07-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Y2syS0hCNmZTbHJIUisrOXI0QXRFQnNvRVZxSkhxN1BmeUdiaklUMWxjZlJuOXVYOTBCUGxNSFJyYXdPbHUwZVVGVlRjNDg0dnJrMUt5eWNJeEZEZjVPZHB3WG10RXBGeWRQY3dRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petflow.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f0b72dc7e4e597",
-      "emailDate": "2026-06-27T23:38:24.000Z"
     },
     {
       "merchant": "Staples",
