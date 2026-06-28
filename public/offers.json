@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-06-28T17:31:26.670Z",
-  "sourceCount": 69,
+  "lastUpdated": "2026-06-28T17:46:26.724Z",
+  "sourceCount": 70,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "WONDERCIDE",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U2ZiRDhNSzdzN0MvOGZTLzcvYUk0dkc2STN2M0k4VmpWWnoxT2tjYmJ0cnEwRkZiVkRid0psQVgvcDI3akxDRnJoUkk2ano2T2ZUd0VXUHQ0KzBUWEtNSlJ0NVh0WmdtK2ZKemFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wondercide.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f0f55742084fb8",
+      "emailDate": "2026-06-28T17:44:45.000Z"
+    },
     {
       "merchant": "NBA Store",
       "percentBack": 30,
@@ -53,25 +67,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-06-29T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6S0pCRlhHZE05MHo0c1ROcWhmRVlqT1Z0enJLVnp5OHA2SDlKRksvandQZGhBMHdldkljYXJYeE5sNXpQLzhXMndWRDg4Z3JkNnJaNTZUOWVCblMvZ0lBTVhxK0N1NzJCd2I3MnhBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6V2wzV3BDWlF4NVpFOU1zOVpNakduNEFUa21QWERHNlJrUllBRjg5TlA0VFVQVERlSk5POGVqTk1zRjFCR2R5OXMydXN2NVFuQUM0Zk1lYVd3WlZMd0pkMElaWjRXQUx4K2wwU3N3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=everlane.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19f0edf4e0269376",
-      "emailDate": "2026-06-28T15:35:42.000Z"
-    },
-    {
-      "merchant": "WONDERCIDE",
-      "percentBack": 25,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 4,
-      "lastViewed": null,
-      "expiresAt": "2026-07-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a2Y0V3dPTEhlclNkSUdUdEh5c1hoNzdjOGZObVk2SGpYa1ZjY3hLd2pubjBqcWcvOGNSdm41RzB4aWVzalJOblBIc2NiYVRMOC8zQUtrK085QXVzQ3E3NGhYdzFBSEJ0WWdBMVhRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wondercide.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f0b72dc7e4e597",
-      "emailDate": "2026-06-27T23:38:24.000Z"
+      "emailMessageId": "19f0f55742084fb8",
+      "emailDate": "2026-06-28T17:44:45.000Z"
     },
     {
       "merchant": "Tripadvisor",
@@ -109,11 +109,11 @@
       "wasPercent": 3,
       "lastViewed": null,
       "expiresAt": "2026-07-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RXNoNnNJS01VelRCRDhUTFRWZW9Jc3lXM00zakE2ZFNpTmpzblN6SzNyRVNSRVY3ZWZXeHEwUUt3cTVJbjB3bCtZeEJjNVN4STJycHloMUlrcUM2Q28xb1h3TVJ0czVjNUdMd3VBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VHl0NmZVNkNUaENwM1VmRmdBUTFHV2F6SnlaTTZ1ZWVpRDRQbDZWQy9CVGYvc3lxczhKNVlxRFF1M2libi8vaytqYW1KbDNaNzVWRjJxREE1dUd4NDd0aE8yQlBkbi9IVzRCTXVRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tuftandpaw.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f0e3374d3e75ef",
-      "emailDate": "2026-06-28T12:28:00.000Z"
+      "emailMessageId": "19f0f55742084fb8",
+      "emailDate": "2026-06-28T17:44:45.000Z"
     },
     {
       "merchant": "Lands' End",
@@ -375,11 +375,11 @@
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-07-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6L1dTTExzVlF5T1pubjlkcjBLbTJEc29iUW8zaW1qK2dwYW93VWpYMldNeWxFUk9HTVVuRVdQOGUwazN5djNuVkNWa0pDNk1mdlR3SVFGM3Z6NTJwcUtPMURFbm4rcVVVbTE2N2J3PT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sCMc031nznDhjAFS8WXPQB_tL2HwyCwx9PDedHwm3-gw/https://image.chewy.com/catalog/general/images/kong-cozie-ali-the-alligator-dog-toy-x-large/img-738452._AC_SX500_SY400_QL75_V1_.jpg",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YWhBbC9wNllqY2p5SGxMRXdvdGd6TTVpbk1JMTh5R3FKT0I4TlZQb1AzSlovajdqczNPdHJ3cGNhb3NBN3NtYlNBWlppY2FBZ0laNlYxUnJENitQVUZFSG9jMDlrb0RBcDI5NnVBPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sUJPN-OvjHI8OlacTYP19KJaeS86C0FMbeUisBBb59Dg/https://image.chewy.com/catalog/general/images/moe/0671ffce-cb9e-7b85-8000-c4f526193d1c._AC_SX500_SY400_QL75_V1_.jpg",
       "source": "single-use",
-      "emailMessageId": "19f0e3374d3e75ef",
-      "emailDate": "2026-06-28T12:28:00.000Z"
+      "emailMessageId": "19f0f55742084fb8",
+      "emailDate": "2026-06-28T17:44:45.000Z"
     },
     {
       "merchant": "The STRAT Hotel",
@@ -408,6 +408,20 @@
       "source": "single-use",
       "emailMessageId": "19f04a4f6b5211a5",
       "emailDate": "2026-06-26T15:55:47.000Z"
+    },
+    {
+      "merchant": "PetMeds",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SDEvODN6U3ZTZ1p5eDNMc3RCUGZtRnI3UEs2S1NVYVlhbEthdk82M3pHNTVBYjB4M1pyKzNNMzBQM1YzSVdSdFNSUTFyQnYrV2R6QWpjTWVaU3U4aDRjR0ppSTJzeTZueHdwV1hBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=1800petmeds.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f0f55742084fb8",
+      "emailDate": "2026-06-28T17:44:45.000Z"
     },
     {
       "merchant": "Event Tickets Center",
@@ -557,11 +571,25 @@
       "wasPercent": 1,
       "lastViewed": null,
       "expiresAt": "2026-07-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dmtPRDc5VzliSTJ6UjhoM3JFbWlXTHlzRUNTdmlDU25wTHNJMk1zNStCdTlZbEtsNDhBbzNWK0tvWDlVa1V5eEEvVTB6c0lUWVZINE5pVWxBNjBsbzNqenMwdXVkdFV1M0laY1JRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dWFmTXZMVWttNEVBckxudlRtbmp6ZjA5TmR6bGFXQ3JjQWNIL3ZlRlJhU2s3SmxaWEYvaVNlQ0pkU1FQNnpZWWJ4WklWK2JUY3lwTkdiUXNtcDhwclEwb0Y3bnFLcXBSMjVJTytnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petsmart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f0e3374d3e75ef",
-      "emailDate": "2026-06-28T12:28:00.000Z"
+      "emailMessageId": "19f0f55742084fb8",
+      "emailDate": "2026-06-28T17:44:45.000Z"
+    },
+    {
+      "merchant": "Alamy",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NFNSaWJ6Qk1La1dnQVhrOUNjSGNsbVYyQVNIWUlUeWV1ZmYxUW5zM2g3c0xxM00zeXBJV0FNcTYvcHovcEpmeG9vcEVmQnR4d2RlSEFIMGNkeTloNXRIUDNJbG5lazNCSkpBaHVRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=alamy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f0f55742084fb8",
+      "emailDate": "2026-06-28T17:44:45.000Z"
     },
     {
       "merchant": "NFL+",
@@ -576,20 +604,6 @@
       "source": "single-use",
       "emailMessageId": "19f0782ee248d481",
       "emailDate": "2026-06-27T05:17:28.000Z"
-    },
-    {
-      "merchant": "Alamy",
-      "percentBack": 6,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-06-30T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MWg4cm9KMWxrTDVweHp3OHpXbklXVG9zQ2VBRXpmRjZwbG8rOG1Mam1sVTJXNU4xRU9YYzMwT2FEYS9YYUJwQUc1MitTbm1uLzBidlR3RWVqL1VocDhYL3pzM0tHR1BHdzNUaCtnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=alamy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f05188e9ae1ef2",
-      "emailDate": "2026-06-26T18:02:02.000Z"
     },
     {
       "merchant": "Reef",
@@ -688,6 +702,20 @@
       "source": "single-use",
       "emailMessageId": "19f0b72dc7e4e597",
       "emailDate": "2026-06-27T23:38:24.000Z"
+    },
+    {
+      "merchant": "Lowe's",
+      "percentBack": 1.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QVBMNUJuOVM3YTQxRUo0bXJ1cVBLUFI4UlY3TFJ0c3BjMDBOM21oTi9xUUJCNERYSnJsUlV4d2ZCZ3BvTThNSC9GNnZ5b3oycWNFb1N0MWR2VDU3MkZ6Nkw1RlJ2dm5kZnQ3bWFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lowes.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f0f55742084fb8",
+      "emailDate": "2026-06-28T17:44:45.000Z"
     },
     {
       "merchant": "Green Chef",
