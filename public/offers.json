@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-28T20:01:34.082Z",
-  "sourceCount": 70,
+  "lastUpdated": "2026-06-28T20:16:34.182Z",
+  "sourceCount": 71,
   "parseFailures": 0,
   "offers": [
     {
@@ -11,11 +11,11 @@
       "wasPercent": 4,
       "lastViewed": null,
       "expiresAt": "2026-07-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U2ZiRDhNSzdzN0MvOGZTLzcvYUk0dkc2STN2M0k4VmpWWnoxT2tjYmJ0cnEwRkZiVkRid0psQVgvcDI3akxDRnJoUkk2ano2T2ZUd0VXUHQ0KzBUWEtNSlJ0NVh0WmdtK2ZKemFBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OGdIRS8yTU9NSDNFdEtydTBPSjRDYWR4dzk4cWpiNFB4M2xQWk9HOW5tOHBmYTd0Zjd1ejdOb1QwUDdlWTZTYWtwdEF5ZlV1SVNlTDJWdnRBU2JVME5hbVJuaXNURWg2VTg4MzF3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wondercide.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f0f55742084fb8",
-      "emailDate": "2026-06-28T17:44:45.000Z"
+      "emailMessageId": "19f0fdc4c68caf52",
+      "emailDate": "2026-06-28T20:12:03.000Z"
     },
     {
       "merchant": "NBA Store",
@@ -67,11 +67,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-06-29T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6V2wzV3BDWlF4NVpFOU1zOVpNakduNEFUa21QWERHNlJrUllBRjg5TlA0VFVQVERlSk5POGVqTk1zRjFCR2R5OXMydXN2NVFuQUM0Zk1lYVd3WlZMd0pkMElaWjRXQUx4K2wwU3N3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6V2NuSWZ1WStuVDhybUd1dWgzeWI4OFB0RExoMmpwWnVGbGJTaWhGQjUrSFR2U1dLYysxcGRGdit2YVd1SldDZlZIMy9tc3FNUTEyZ2VMdyt1ME5IMFVFeW1GMlhqQW5ITkVlK2VBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=everlane.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19f0f55742084fb8",
-      "emailDate": "2026-06-28T17:44:45.000Z"
+      "emailMessageId": "19f0fdc4c68caf52",
+      "emailDate": "2026-06-28T20:12:03.000Z"
     },
     {
       "merchant": "Tripadvisor",
@@ -156,6 +156,20 @@
       "source": "single-use",
       "emailMessageId": "19f03f083e6beac8",
       "emailDate": "2026-06-26T12:38:41.000Z"
+    },
+    {
+      "merchant": "Kurgo",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6V3pYamkwaEFSaEk3NitSMlkyTy83N0NYZFlnb3FSVU15bTVVOVh2emlkbFoyRHhMOEhOell5NEVaYnpoZ0k2dEt0S05RSU9adzJRRzB6OVdqOUpSTU9GY1llRVdjYWRVbjBFNWlRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=kurgo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f0fdc4c68caf52",
+      "emailDate": "2026-06-28T20:12:03.000Z"
     },
     {
       "merchant": "Olfactory NYC",
@@ -417,11 +431,11 @@
       "wasPercent": 4,
       "lastViewed": null,
       "expiresAt": "2026-07-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SDEvODN6U3ZTZ1p5eDNMc3RCUGZtRnI3UEs2S1NVYVlhbEthdk82M3pHNTVBYjB4M1pyKzNNMzBQM1YzSVdSdFNSUTFyQnYrV2R6QWpjTWVaU3U4aDRjR0ppSTJzeTZueHdwV1hBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T3AyQ0dXVHpVWkkwekt5OVZPaEd2S3B4aDkwSzRHZmdRdjlWSmZFNUJXUUlMbUs5RHU0eE8xd1NRaG9OdWtkUWtKcHZhaFo5dGJ6aDJpRHh5d0ZNT25iVDUxUUUvR1lBUTJRaFN3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=1800petmeds.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f0f55742084fb8",
-      "emailDate": "2026-06-28T17:44:45.000Z"
+      "emailMessageId": "19f0fdc4c68caf52",
+      "emailDate": "2026-06-28T20:12:03.000Z"
     },
     {
       "merchant": "Event Tickets Center",
@@ -501,11 +515,11 @@
       "wasPercent": 1,
       "lastViewed": null,
       "expiresAt": "2026-07-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NHZZcnNBa0VROVpzNDhHc2dRdWdmbW5lNjkwZkp0RkNUd2gvL3RZeHZITjJzUEJrZkF2ZUdPNmU3WmxydDNhKzNSc1FYcGlhcEtCR2kycHNYQmFxK0xsaGNRU2VSajdIQmJvZkVRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MWlHYWlVaFZRQTVZKzFKamEzK2kzSkZxOVE3bG9ycXBpVi9vNUxSeUVHUko2Zm5yWXJ4ckFremM2U3pyNS95YWRXZ3NWNG1GdTBJcnVLdDlnQXJpMzdyeHBjNS82RDJ5K3VVaHFBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spotandtango.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f0e3374d3e75ef",
-      "emailDate": "2026-06-28T12:28:00.000Z"
+      "emailMessageId": "19f0fdc4c68caf52",
+      "emailDate": "2026-06-28T20:12:03.000Z"
     },
     {
       "merchant": "adidas",
@@ -571,11 +585,25 @@
       "wasPercent": 1,
       "lastViewed": null,
       "expiresAt": "2026-07-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dWFmTXZMVWttNEVBckxudlRtbmp6ZjA5TmR6bGFXQ3JjQWNIL3ZlRlJhU2s3SmxaWEYvaVNlQ0pkU1FQNnpZWWJ4WklWK2JUY3lwTkdiUXNtcDhwclEwb0Y3bnFLcXBSMjVJTytnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aWJ1NnVmaFdHTnpzSi9kdm1QZ2d3VzZsdWxCVktjZlM3azkyU1hGRnJFLzRRL1JpV3JEYkROY2pyUVlTVDJzQ0ZZbHVWR3dyMWtrb1B6bVFpMjViMy9FcXYydWpJMEMxNE51Y0JnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petsmart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f0f55742084fb8",
-      "emailDate": "2026-06-28T17:44:45.000Z"
+      "emailMessageId": "19f0fdc4c68caf52",
+      "emailDate": "2026-06-28T20:12:03.000Z"
+    },
+    {
+      "merchant": "baxterboo.com",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WmsvOHlpL2tIbXJDSjNJTGgyL1lNM2VtdURPNWwrc3lodGJkNERCM1IyTTZNUkRWZXJtUncxYStxa1RnczVrS0ZBa0drYnk5TlhWVVZ4UXZMRjBmeG5BYUkyVWxDMFZDZkFiaDV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=baxterboo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f0fdc4c68caf52",
+      "emailDate": "2026-06-28T20:12:03.000Z"
     },
     {
       "merchant": "Alamy",
