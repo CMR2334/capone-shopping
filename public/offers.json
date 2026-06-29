@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T06:46:34.371Z",
+  "lastUpdated": "2026-06-29T07:01:28.769Z",
   "sourceCount": 72,
   "parseFailures": 0,
   "offers": [
@@ -112,20 +112,6 @@
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6c2FkNkFtQm96ZGhoR1RzakZheG5QelR4UGtBUEcrMWkyMlQxajl4enhFWGlPdXB3L0dwaGlFZkltSDBpY29DRjBuZTRhVlp0VjVSZTZJemZKWHJOalRWVTRWMkwvb3FBdWgwZVVBPT0/runV3dl",
       "logoUrl": "https://i.capitaloneshopping.com/570x236,logotheinkeylist.com,s0SYaZeS7Y8nHqBgTX6IRmU1oKraslLL2txtKwuxosa0/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1782311993398.png",
       "source": "single-use",
-      "emailMessageId": "19f113d676942c75",
-      "emailDate": "2026-06-29T02:37:44.000Z"
-    },
-    {
-      "merchant": "Everlane",
-      "percentBack": 25,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-06-29T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NkI0OGpBdlgveWQ3YzNqbUl0ZXlXdTdjZ3pNNExIbVNRcHk1UVNYM1U2YXBWWWNaU1J0SWdUdDZscVlRY0FuSk9la1prNG5UMktnWEpWZzZ0T21NRnljYTArcWNBRGVSZWZXVHJBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=everlane.com&width=300",
-      "source": "todays-top",
       "emailMessageId": "19f113d676942c75",
       "emailDate": "2026-06-29T02:37:44.000Z"
     },
@@ -340,48 +326,6 @@
       "emailDate": "2026-06-26T12:38:41.000Z"
     },
     {
-      "merchant": "Best Western Hotels & Resorts",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-06-29T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aVFUekJtbHM1b2tUejNiS0pSSFpzVmFRVS9wdnR6akwzeFFMdWtSMlhidVJFS2RKemNCZ0RCVEFiZmhUZGUwZEkvUWdZR3A0MXFENVJMTkZtOVRZQ3hOZ3l1aFcvN3hpSll3UnhBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestwestern.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19efe581cf0e3e62",
-      "emailDate": "2026-06-25T10:34:07.000Z"
-    },
-    {
-      "merchant": "Big Bus Tours",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-06-29T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TkY5ZkVTQ0dXcFI0UkVMbVR4d21IaGR3VCt3aDAxOVhIVG5VT0dVZlVKV3ZON2QwVWRDam9JN1YxVUdsVHRIYm9ITUgvelNWQ015d0p5WUtBYWpZWFNCQ0NubVJ4c3ByMnV2NjhnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19efe581cf0e3e62",
-      "emailDate": "2026-06-25T10:34:07.000Z"
-    },
-    {
-      "merchant": "Go City Pass",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-06-29T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dWpEQ21paDZIcWJlcGRNVmVnL3BmWklLMjBGa0NXbDdWTFpwU1lNSC9wSmI0N0xxRTFlc1VjNC92ZXRURHRhYzlXU3BjR3dFSnc5dlBvSitJSDdmN05OOEdSWm5QRHJDTVRVcEhRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19efe581cf0e3e62",
-      "emailDate": "2026-06-25T10:34:07.000Z"
-    },
-    {
       "merchant": "Columbia",
       "percentBack": 14,
       "dollarBack": null,
@@ -562,20 +506,6 @@
       "source": "single-use",
       "emailMessageId": "19f03f083e6beac8",
       "emailDate": "2026-06-26T12:38:41.000Z"
-    },
-    {
-      "merchant": "CityPASS",
-      "percentBack": 8,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-06-29T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eXhiMktoNWViaDN1K3V1c1NoYWp4NW1RMUN4N1FqQk5oRXZ3RmFVOUgyeWhEQUg1M3Jjb1I4Zk9mdUF2akxqZ2RZUm9mbDg4azg0U0FYY0VKRklURXRxQlhjUlNXc282eXRlYUFnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=citypass.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19efe581cf0e3e62",
-      "emailDate": "2026-06-25T10:34:07.000Z"
     },
     {
       "merchant": "Spot & Tango",
