@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-29T12:31:31.261Z",
-  "sourceCount": 71,
+  "lastUpdated": "2026-06-29T12:46:28.298Z",
+  "sourceCount": 72,
   "parseFailures": 0,
   "offers": [
     {
@@ -102,6 +102,20 @@
       "emailDate": "2026-06-26T15:55:47.000Z"
     },
     {
+      "merchant": "PUMA",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-06-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OFZWWHNDaFQwOVZVeGNaZGxJUWVvSkFtYkNhOGdZWHhYdHpPdy85RTZ4NXdSa0FyUWdjcTd6N1pwRDdSNVVaOXdURUFVV00rcmVkcGJTaUxKNllxbThKbjFNQjMrUjh2MlFuZ2NRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=puma.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19f1362f51008759",
+      "emailDate": "2026-06-29T12:37:59.000Z"
+    },
+    {
       "merchant": "The INKEY List",
       "percentBack": 25,
       "dollarBack": null,
@@ -142,6 +156,20 @@
       "source": "single-use",
       "emailMessageId": "19f03f083e6beac8",
       "emailDate": "2026-06-26T12:38:41.000Z"
+    },
+    {
+      "merchant": "Sam's Club",
+      "percentBack": 23,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YmZaTFNNVlM4aWtwVlBualIzdllxMnp2OVNRTlBGYmVOTit0d09leElMOHA4UXN4RWR4ck1CVmlFZ29SOXhZeFVwR2VEMkV6dU9nMlZzbEZiZDJKR290VmQvU1U0REhaVm9BRVFBPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logosamsclub.com,sM8eQ7YvlwNU-ai0ZBO80baW6d-ZHRmIA57RF9PyyIJ0/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1782353371795.jpeg",
+      "source": "single-use",
+      "emailMessageId": "19f1362f51008759",
+      "emailDate": "2026-06-29T12:37:59.000Z"
     },
     {
       "merchant": "Tuft + Paw",
@@ -198,6 +226,20 @@
       "source": "single-use",
       "emailMessageId": "19f03f083e6beac8",
       "emailDate": "2026-06-26T12:38:41.000Z"
+    },
+    {
+      "merchant": "Best Western Hotels & Resorts",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OCt1Mmpha1hSMlNqemduKzZZYmR0RGNCWjVQMEFIc2lqTjAyZ2dTU21vSERzZ0I3QTV5d1ZwRitkRGVsYnFlYW9nOGo3YzdYcUFrNUxERXRWeEV5dFIrVmE5bFV1WldEVnJreFpnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestwestern.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f1362f51008759",
+      "emailDate": "2026-06-29T12:37:59.000Z"
     },
     {
       "merchant": "Kurgo",
@@ -368,6 +410,34 @@
       "emailDate": "2026-06-27T05:17:28.000Z"
     },
     {
+      "merchant": "IHG",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": "June 28",
+      "expiresAt": "2026-07-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aUdtSEtxbGxpWFRIelgzNkNHZXdoYXhTdFFPckFIWkZYQmdTdEhMdVg0eHZTVjdvN1N3NzF5Zm8va3RWQko1YlVjWVYvK2dWcTZBTjhlam5zWU5OQytQeW16ZlVTZUJiNkZ3ZU1RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ihg.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f1362f51008759",
+      "emailDate": "2026-06-29T12:37:59.000Z"
+    },
+    {
+      "merchant": "Budget Car Rental",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6L2U3aDh4Q2k4Zlh1VnFjbVgxdnVsQTc5OUN4R1RIL0JCWFJxNXJGUjBXbUVhREQrckc4ampOVGxoWVVVekxCNG1tdktLUFk4UGRKU3hWUG1CTEFqTXk3blRoamJQUi9PZ2FZN0t3PT0/runV3",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=budget.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f1362f51008759",
+      "emailDate": "2026-06-29T12:37:59.000Z"
+    },
+    {
       "merchant": "Pixi Beauty",
       "percentBack": 12,
       "dollarBack": null,
@@ -394,20 +464,6 @@
       "source": "single-use",
       "emailMessageId": "19f0b72dc7e4e597",
       "emailDate": "2026-06-27T23:38:24.000Z"
-    },
-    {
-      "merchant": "Chewy",
-      "percentBack": 11.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YWhBbC9wNllqY2p5SGxMRXdvdGd6TTVpbk1JMTh5R3FKT0I4TlZQb1AzSlovajdqczNPdHJ3cGNhb3NBN3NtYlNBWlppY2FBZ0laNlYxUnJENitQVUZFSG9jMDlrb0RBcDI5NnVBPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sUJPN-OvjHI8OlacTYP19KJaeS86C0FMbeUisBBb59Dg/https://image.chewy.com/catalog/general/images/moe/0671ffce-cb9e-7b85-8000-c4f526193d1c._AC_SX500_SY400_QL75_V1_.jpg",
-      "source": "single-use",
-      "emailMessageId": "19f0f55742084fb8",
-      "emailDate": "2026-06-28T17:44:45.000Z"
     },
     {
       "merchant": "The STRAT Hotel",
@@ -536,6 +592,20 @@
       "emailDate": "2026-06-26T15:55:47.000Z"
     },
     {
+      "merchant": "Holiday Inn",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6R3hUV1hRRmpQUWN6Z0RqdEU4RFBaZm16dk8vQW9RRk95MGlYcC9EcThFbFNGOHlOYkl2MkI3dHpvN3Q5ekpQNzFLL1ZwSFY2WFYwMFBGVjlmZlIrMmVMeVBFK3l0YVF2LzhNZ3F3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=c1-holidayinn.ihg.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f1362f51008759",
+      "emailDate": "2026-06-29T12:37:59.000Z"
+    },
+    {
       "merchant": "Colorescience",
       "percentBack": 7,
       "dollarBack": null,
@@ -590,6 +660,20 @@
       "source": "single-use",
       "emailMessageId": "19f03f083e6beac8",
       "emailDate": "2026-06-26T12:38:41.000Z"
+    },
+    {
+      "merchant": "Chewy",
+      "percentBack": 6.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MXpFbVpYSVgwMFk1RFBOcmV1NFhhWHdxcnVUR0w1dHhPZU5hRjE5Y21KOGpReXJ5aG5pYVZzYUtsVlZSUDJvdXIwV2s0aWRJL2Z1ZlhrRVZuclFlbUdWejkzaWtZbjgrT29HcW1RPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sllAuQ2jpH5oKDJNtSzsPp-me0wRR5-TzWOBstxLOb4U/https://image.chewy.com/catalog/general/images/moe/06838bb5-0462-7ae9-8000-c19eb8ed5f42._AC_SX500_SY400_QL75_V1_.jpg",
+      "source": "single-use",
+      "emailMessageId": "19f1362f51008759",
+      "emailDate": "2026-06-29T12:37:59.000Z"
     },
     {
       "merchant": "PetSmart",
@@ -744,6 +828,20 @@
       "source": "single-use",
       "emailMessageId": "19f04a4f6b5211a5",
       "emailDate": "2026-06-26T15:55:47.000Z"
+    },
+    {
+      "merchant": "Vrbo",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U1VRSDhOUjYrcVFIV1htTUs4UWViQkd6aXYyQnZ5SDRDNU8yMUNMdDJTSXdjV3hKYkdkblN5YVRoN2hFTlRucEhkVFV1T1JaMHNUZ0srdzA1YlZpNFpnSjAxb3Z2L0FGUG9vSU9nPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vrbo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f1362f51008759",
+      "emailDate": "2026-06-29T12:37:59.000Z"
     },
     {
       "merchant": "Target",
