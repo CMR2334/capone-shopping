@@ -1,8 +1,50 @@
 {
-  "lastUpdated": "2026-06-29T02:31:27.687Z",
-  "sourceCount": 71,
+  "lastUpdated": "2026-06-29T02:46:30.951Z",
+  "sourceCount": 72,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Dr. Jart+",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SHFYS3lPOEFTcTlTaFAyaExhV1NxODA2d1J5djRiMmFKY2ppWVM4d3k0Z1VNeTU5TllqbmZJRGI3WHZmdnJSandnVHdJdTNzdFUvWFh1U0hraGcyeWx0cGJrY2RRRHZDR0xQZVpRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=drjart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f113d676942c75",
+      "emailDate": "2026-06-29T02:37:44.000Z"
+    },
+    {
+      "merchant": "StackedSkincare",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 6,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NFMzRG9yQ0lBVEM4YUh6Y1k3ZWRPNkRHVzNuU0dRM2tkL2xWUmFxdmJJMzh4MUxDYmM1Y3dDUFh2SDFoMGI2bHdJL3BMM211RG1kVWgrMWpGN3ZSUElSRkppWlAvUUx0MDVhVEZnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=stackedskincare.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f113d676942c75",
+      "emailDate": "2026-06-29T02:37:44.000Z"
+    },
+    {
+      "merchant": "No7",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6V292QU9BVzRwaUtqWXhzcXkvdGpnWk9lK0I0WEFXNWdQWVVWdFBnMzlUTFZQYTRReDg1a3FlODJiRGJPMWtpcjl6N0dqSkNsdFB5dUJkaXVwU3NSVmM1bzJueUg2Y2hGWWdDQ1BBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=no7beauty.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f113d676942c75",
+      "emailDate": "2026-06-29T02:37:44.000Z"
+    },
     {
       "merchant": "WONDERCIDE",
       "percentBack": 30,
@@ -60,6 +102,20 @@
       "emailDate": "2026-06-26T15:55:47.000Z"
     },
     {
+      "merchant": "The INKEY List",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6c2FkNkFtQm96ZGhoR1RzakZheG5QelR4UGtBUEcrMWkyMlQxajl4enhFWGlPdXB3L0dwaGlFZkltSDBpY29DRjBuZTRhVlp0VjVSZTZJemZKWHJOalRWVTRWMkwvb3FBdWgwZVVBPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logotheinkeylist.com,s0SYaZeS7Y8nHqBgTX6IRmU1oKraslLL2txtKwuxosa0/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1782311993398.png",
+      "source": "single-use",
+      "emailMessageId": "19f113d676942c75",
+      "emailDate": "2026-06-29T02:37:44.000Z"
+    },
+    {
       "merchant": "Everlane",
       "percentBack": 25,
       "dollarBack": null,
@@ -67,11 +123,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-06-29T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6V2NuSWZ1WStuVDhybUd1dWgzeWI4OFB0RExoMmpwWnVGbGJTaWhGQjUrSFR2U1dLYysxcGRGdit2YVd1SldDZlZIMy9tc3FNUTEyZ2VMdyt1ME5IMFVFeW1GMlhqQW5ITkVlK2VBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NkI0OGpBdlgveWQ3YzNqbUl0ZXlXdTdjZ3pNNExIbVNRcHk1UVNYM1U2YXBWWWNaU1J0SWdUdDZscVlRY0FuSk9la1prNG5UMktnWEpWZzZ0T21NRnljYTArcWNBRGVSZWZXVHJBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=everlane.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19f0fdc4c68caf52",
-      "emailDate": "2026-06-28T20:12:03.000Z"
+      "emailMessageId": "19f113d676942c75",
+      "emailDate": "2026-06-29T02:37:44.000Z"
     },
     {
       "merchant": "Tripadvisor",
@@ -368,6 +424,20 @@
       "emailDate": "2026-06-27T05:17:28.000Z"
     },
     {
+      "merchant": "Pixi Beauty",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Ymo1UmhESURhMnhmZlBoK2MzSFpGNGtuV1ZLdEMrTHBsRTNPSGdYTXF0K0R4YTd4M2lPaFJCOEhCeXF2bVBjQjN2dGVuVWpsMTgyQWVYR0hIckY1NUdJYVZ5bUx1OC9MVVlRcWlRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=pixibeauty.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f113d676942c75",
+      "emailDate": "2026-06-29T02:37:44.000Z"
+    },
+    {
       "merchant": "Petco",
       "percentBack": 12,
       "dollarBack": null,
@@ -536,6 +606,20 @@
       "emailDate": "2026-06-26T15:55:47.000Z"
     },
     {
+      "merchant": "Colorescience",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TytlNWNZRVJDZWIrU0lLYTJ2VXJiT2pDenRZNXg5VjNibVRHL1lxSlFqcEp5bzlhbTVvSVlISFYwOXBlbHdFN2lqcVZGRFNYTFF0MEQrU3ROZkZoTnh4Y3FvODBmOVFWSG1hYmRnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=colorescience.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f113d676942c75",
+      "emailDate": "2026-06-29T02:37:44.000Z"
+    },
+    {
       "merchant": "PetFlow",
       "percentBack": 7,
       "dollarBack": null,
@@ -660,6 +744,20 @@
       "source": "single-use",
       "emailMessageId": "19f03f083e6beac8",
       "emailDate": "2026-06-26T12:38:41.000Z"
+    },
+    {
+      "merchant": "LookFantastic",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Uyt6bzdhTlptajhxMUs0TlpvMzJMTFo2QkNYT3d2WlZtemkzU0x3TUhPMmhXcitQWXVTVUloK1BxVG9nRU5NemZiNG0yd0tHODhock5GMFJTdCsvL0Zkb08yRTRIMUNieStwSUFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lookfantastic.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f113d676942c75",
+      "emailDate": "2026-06-29T02:37:44.000Z"
     },
     {
       "merchant": "Staples",
