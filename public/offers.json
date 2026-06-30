@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-30T19:16:31.184Z",
-  "sourceCount": 77,
+  "lastUpdated": "2026-06-30T19:31:31.526Z",
+  "sourceCount": 78,
   "parseFailures": 0,
   "offers": [
     {
@@ -122,12 +122,12 @@
       "capAmount": null,
       "wasPercent": 3,
       "lastViewed": null,
-      "expiresAt": "2026-07-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Z0ZEN2FQUGllN2thTWQxb2lscW5aYmZPaE8rUzI3U3pyczZzSmZwd0JrTVhHbktyZmtUcWlUR1BXZURTdjVxTjRDR2prWlNQZ2IwVTNlZk1OVk5ZdGJSa1JyVmtpRXdSQ3d5dnVRPT0/runV3dl",
+      "expiresAt": "2026-07-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Y2xUNEIyWUhoRnZUMkt3TEczVlg5Wi9oZTFpeVNuZzZkdEd3dy9kckNkV0duMThOQWFNTE9IWGU2MDVmRHNGQ3B1T2tWQnlCUmlmUW5PMTVMQ1dkanJaVEppUFZkZ05DaE5wbzV3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tuftandpaw.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f14f42210cf1c2",
-      "emailDate": "2026-06-29T19:56:10.000Z"
+      "emailMessageId": "19f19fdbffe434ca",
+      "emailDate": "2026-06-30T19:24:47.000Z"
     },
     {
       "merchant": "Tripadvisor",
@@ -142,6 +142,20 @@
       "source": "single-use",
       "emailMessageId": "19f140a6b09adcd2",
       "emailDate": "2026-06-29T15:40:54.000Z"
+    },
+    {
+      "merchant": "Kurgo",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d01SOXRWTWlpSFNpWW9lb1F2QlBqY3ZETlZ5YXppbXpTN210TVlmY0lWRTFMTzZTQ1FwaVYvb0s5LzMvaXB4SzJEMHdyL1NvTVZmRll3UHdST2V5QVNyS0lBcU1qbnQrUnJmanBnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=kurgo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f19fdbffe434ca",
+      "emailDate": "2026-06-30T19:24:47.000Z"
     },
     {
       "merchant": "PrettyLitter",
@@ -170,20 +184,6 @@
       "source": "single-use",
       "emailMessageId": "19f1600de52ebb31",
       "emailDate": "2026-06-30T00:49:43.000Z"
-    },
-    {
-      "merchant": "Kurgo",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WXZ4Q0pSZW9RL0ZrdHA2Vjg2bDdwbWNlejBPYURJV2VtTW5OZ3lhWmxXRVpIWTVQL1JPU0ExZEFBWHphNUdsQi9ZcXZZQ1RwdGgyNmdndm9COE1VUUYwL0FlMG5JQ2pJaGUwckZRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=kurgo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f14810d8f40268",
-      "emailDate": "2026-06-29T17:50:29.000Z"
     },
     {
       "merchant": "Best Western Hotels & Resorts",
@@ -438,20 +438,6 @@
       "emailDate": "2026-06-29T15:40:54.000Z"
     },
     {
-      "merchant": "Spot & Tango",
-      "percentBack": 7.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-07-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MWlHYWlVaFZRQTVZKzFKamEzK2kzSkZxOVE3bG9ycXBpVi9vNUxSeUVHUko2Zm5yWXJ4ckFremM2U3pyNS95YWRXZ3NWNG1GdTBJcnVLdDlnQXJpMzdyeHBjNS82RDJ5K3VVaHFBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spotandtango.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f0fdc4c68caf52",
-      "emailDate": "2026-06-28T20:12:03.000Z"
-    },
-    {
       "merchant": "Zesty Paws",
       "percentBack": 7,
       "dollarBack": null,
@@ -528,12 +514,12 @@
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
-      "expiresAt": "2026-07-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WmtyTXJZNk1pRHhRY01CWitpZjRSRTE5Rk5CdGpHdEVFODlkUUFmT0d3MmYzdkNmd1JTNmtKNXN5RzFmdEU4dzVkRUJoQTB2Z3J1QkluckFrKzBNbW9pL21SUndXNHNJbEo3ejNRPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sllAuQ2jpH5oKDJNtSzsPp-me0wRR5-TzWOBstxLOb4U/https://image.chewy.com/catalog/general/images/moe/06838bb5-0462-7ae9-8000-c19eb8ed5f42._AC_SX500_SY400_QL75_V1_.jpg",
+      "expiresAt": "2026-07-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZlpaZnRKeUFTQ3VzWFhWU3pOOEdlLzNUV2g3NDN3QzlYOG9aaW5HL0Y2N1FvUFpNUWhxeEZqS2xCMGZ5WjF6V2lidU1QNzA1WFhQb1FXSTlNT0JlanVMWTFHU2FrYTZKc1ArVitRPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sCMc031nznDhjAFS8WXPQB_tL2HwyCwx9PDedHwm3-gw/https://image.chewy.com/catalog/general/images/kong-cozie-ali-the-alligator-dog-toy-x-large/img-738452._AC_SX500_SY400_QL75_V1_.jpg",
       "source": "single-use",
-      "emailMessageId": "19f1600de52ebb31",
-      "emailDate": "2026-06-30T00:49:43.000Z"
+      "emailMessageId": "19f19fdbffe434ca",
+      "emailDate": "2026-06-30T19:24:47.000Z"
     },
     {
       "merchant": "Alamy",
@@ -604,6 +590,20 @@
       "source": "single-use",
       "emailMessageId": "19f1600de52ebb31",
       "emailDate": "2026-06-30T00:49:43.000Z"
+    },
+    {
+      "merchant": "Tractor Supply",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bzRiaUZIdkZTYTdRNmZNenBUUG0yMm5pUXNFSTZUbGRjeDR3Wjd2UHp6MnRFQ2JPTWwvRWdURHh4cDRVQlU5TjhqdmFIaExtY0theDBDMjlHSmo1N29EZkRoWTJON0ZpY3UxazhnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tractorsupply.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f19fdbffe434ca",
+      "emailDate": "2026-06-30T19:24:47.000Z"
     },
     {
       "merchant": "Way.com",
@@ -682,12 +682,40 @@
       "capAmount": null,
       "wasPercent": 0.5,
       "lastViewed": null,
-      "expiresAt": "2026-07-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bXZmL1pFTlhmN3djZGR1QlZhclRqQmxYSGxLWnE4UFJHRFQyNHR1MjJsRnJQKzhseWo0akZPNUJxNjduNVV6cXNvV1pSdHhndkRGMlQvUkRNdjVHVlU4Q05jWWczcHZ4UkJGOFZnPT0/runV3dl",
+      "expiresAt": "2026-07-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RXA2QncvVzZ0Qzg3TGMzQnQrWEw1VUNBd1dJTzRJc3M5czhJa3Z2UGhaTGFkNTEwc1pVaWxuRXhGK2E1UElLcDJic1JqUWVmMmtyaDlGemNtWGhCejI0UkU1VFBaWHNISmp1OVJnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lowes.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f14f42210cf1c2",
-      "emailDate": "2026-06-29T19:56:10.000Z"
+      "emailMessageId": "19f19fdbffe434ca",
+      "emailDate": "2026-06-30T19:24:47.000Z"
+    },
+    {
+      "merchant": "Target",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NnNBRnZtMy9uRk9SbDBBSEk0N0pEaDJCV1dmN0Y0Z3pobFVDNGZLeEF1YW5LV2dUbVdlZDFSMlAvYzVGQVZqZ1hIRExwNWpnMXB4THZrSVd0cmZhcVFZcXlHQzhxTmx5WkRnekF3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=target.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f19fdbffe434ca",
+      "emailDate": "2026-06-30T19:24:47.000Z"
+    },
+    {
+      "merchant": "Spot & Tango",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dC9MRENxOXZJd3FOeWhBUU02MXhJNzQ4QlYvZDJNaCtJSjRHTjBkaUo3MVkxTldwR0VNYnRTdVlpaHVzSCtObVFIeUxldmQyMnZUVytwQ3J6SFJRbGZrcVJ0cEx5bFlzTnNIUkZ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spotandtango.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f19fdbffe434ca",
+      "emailDate": "2026-06-30T19:24:47.000Z"
     },
     {
       "merchant": "Vrbo",
@@ -702,20 +730,6 @@
       "source": "single-use",
       "emailMessageId": "19f1362f51008759",
       "emailDate": "2026-06-29T12:37:59.000Z"
-    },
-    {
-      "merchant": "Target",
-      "percentBack": 2,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-07-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WHB4ZmhNNnpKU1ZVbXhDejBEZ3c1UUg2ajd4NkRxd2Ryd0VHQi80MmFEcitYWVdIM0Q5UkVjaTNHYytXQVErU01RRkkxOWprbVhEUWNDTit0bnpPR2RaT2pKbmlzRVkrNXNzUkV3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=target.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f0b72dc7e4e597",
-      "emailDate": "2026-06-27T23:38:24.000Z"
     },
     {
       "merchant": "Green Chef",
