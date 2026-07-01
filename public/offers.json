@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T06:45:36.863Z",
+  "lastUpdated": "2026-07-01T07:00:46.477Z",
   "sourceCount": 78,
   "parseFailures": 0,
   "offers": [
@@ -58,34 +58,6 @@
       "source": "single-use",
       "emailMessageId": "19f113d676942c75",
       "emailDate": "2026-06-29T02:37:44.000Z"
-    },
-    {
-      "merchant": "NBA Store",
-      "percentBack": 30,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T1UxMC91RzFVSkVIWGdoWXI0Tm9PNG0vWVVMKzRaYnBIRzVyY3BvMUNMNHJqTlFOQis4V25zVjlDWW5hY1owNGVkMjZVK0RoOTliVU1uekxuZEZNajJOVXRLZVhYZnZvcVBHZ0ZnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=store.nba.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f0782ee248d481",
-      "emailDate": "2026-06-27T05:17:28.000Z"
-    },
-    {
-      "merchant": "DICK'S Sporting Goods",
-      "percentBack": 25,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-07-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YXRpMk1SUG5rYnpaVmRzZ0NtRFkxTjdGcG55YVp6c2daZEhpc0VRS3llVU9WY1VFTGVEL3NkbDlOM2VqUGRualhGZ3BTdUtwb3cwV21XOWNGY3puVUsrYkoyREVqbzEreGYvcjRRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dickssportinggoods.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "19f198bc722b07fc",
-      "emailDate": "2026-06-30T17:20:17.000Z"
     },
     {
       "merchant": "The INKEY List",
@@ -228,20 +200,6 @@
       "emailDate": "2026-06-28T15:35:42.000Z"
     },
     {
-      "merchant": "Fanatics",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Z0FjenRjNlFFRmRSNEx2bDVTVENOTmhQZENKTm9GcExCbUVUZnRvb3lkQWVYMm0vMzFGeFpRV3dVdVo5bFNhN3p5WXpmVCtYemhhM3NEdlVrVi93ZmxGeEU0d0NveGpwWW1yMkx3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fanatics.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f0782ee248d481",
-      "emailDate": "2026-06-27T05:17:28.000Z"
-    },
-    {
       "merchant": "Ticket Network",
       "percentBack": 14,
       "dollarBack": null,
@@ -268,20 +226,6 @@
       "source": "single-use",
       "emailMessageId": "19f14810d8f40268",
       "emailDate": "2026-06-29T17:50:29.000Z"
-    },
-    {
-      "merchant": "StubHub",
-      "percentBack": 13,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aXJNck1XR0dOb0wwU0JoenhXKzViWjBRZDgzSHVjR3FLR2lhSzdHQWpGRmh1SkgrOWo4bGhsaHJ3TEROeSt1QU9BekcxVjJneTNzd014UHdBdk42bjZyay9INXlEWGVYU2RTdHdBPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/148x148,logostubhub.com,sz1ASyrfaolMjwD6AawjoATRWDW9VWbULqXgGhWqGl9w/https://media.stubhubstatic.com/stubhub-v2-catalog/d_defaultLogo.jpg/t_f-fs-0fv,q_auto:low,f_auto,c_fill,$w_280_mul_3,$h_180_mul_3/categories/21416/6585457",
-      "source": "single-use",
-      "emailMessageId": "19f0782ee248d481",
-      "emailDate": "2026-06-27T05:17:28.000Z"
     },
     {
       "merchant": "IHG",
@@ -324,20 +268,6 @@
       "source": "single-use",
       "emailMessageId": "19f113d676942c75",
       "emailDate": "2026-06-29T02:37:44.000Z"
-    },
-    {
-      "merchant": "Petco",
-      "percentBack": 12,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QUtlVmwwNjJoQUhXbytMVlRXTHVKcDdURklJR1NIVGx0MTJocGFwaDg1Z3UxWWJwbGFDZUZDVkFEVS9XQTNyejJFYVB1a1Yyd0J3RmllOElzaDdWYlQrNkJlbzFIZVVrUXErMkxnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petco.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f0b72dc7e4e597",
-      "emailDate": "2026-06-27T23:38:24.000Z"
     },
     {
       "merchant": "Walgreens",
@@ -494,20 +424,6 @@
       "emailDate": "2026-06-28T12:28:00.000Z"
     },
     {
-      "merchant": "SpotHero",
-      "percentBack": 7,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a3F3Vmdyd2JweFBmSlh4d2tQTHhka01od1k5Y0NRN043Z2tteHYwUXN1RHVqNkxvTTZ2eWRnaVhZbFJKbjZFczNkQ3ByTmJKMXJCZFJJM0tkbGFFWW5RMGdVaUtUUmQrMTBQV1B3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spothero.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f0782ee248d481",
-      "emailDate": "2026-06-27T05:17:28.000Z"
-    },
-    {
       "merchant": "Chewy",
       "percentBack": 6.5,
       "dollarBack": null,
@@ -562,20 +478,6 @@
       "source": "single-use",
       "emailMessageId": "19f0fdc4c68caf52",
       "emailDate": "2026-06-28T20:12:03.000Z"
-    },
-    {
-      "merchant": "NFL+",
-      "percentBack": 6,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-07-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WWkwaS9uQ0luQ0IwdmlTRzhmeTJ1aDRZZ0cvSDZyVGlNYjEyYjVTa3Q3V2ZtRFVzVzhObUdzQnpVeE5RdVBuMmIzRDNTdWlDcXVjUjdVZ2lxeC9YK3NDcEQxYVExSVJDK2NvTVJ3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nfl.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f0782ee248d481",
-      "emailDate": "2026-06-27T05:17:28.000Z"
     },
     {
       "merchant": "Fairmont Hotels & Resorts",
