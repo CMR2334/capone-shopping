@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-01T22:45:44.783Z",
-  "sourceCount": 77,
+  "lastUpdated": "2026-07-01T23:00:38.442Z",
+  "sourceCount": 78,
   "parseFailures": 0,
   "offers": [
     {
@@ -25,11 +25,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dERiT1ZvK3NwU2YxRlhvZUdPemIvbmdsU1ZYc1pORE9LbzFTZjhvNFRCdjVIR3VtVzFqaDM2SytwNy9FMTZTWXVzTlcyQ2w2K3NEcG0rck9SUU1UQkNmWDZOZ2R1bHpTVXdnZXV3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q1M0SEUvVlpYdTJEQU8zUVA0ZGVsTXUxSW9TSHZGNzVRbFMvLzlSa3EybnFWbVpsZ1pYQk1ZSFlvb2tHNkRSZjA1VHRsYnNlbWNHYmkvQnJkNVlnZ3o5dSszd1J0N3dxaTh2VVBRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=us.pandora.net&width=300",
       "source": "todays-top",
-      "emailMessageId": "19f1f7edfc0990bd",
-      "emailDate": "2026-07-01T21:03:55.000Z"
+      "emailMessageId": "19f1fdf91c4101ba",
+      "emailDate": "2026-07-01T22:49:32.000Z"
     },
     {
       "merchant": "WONDERCIDE",
@@ -198,6 +198,20 @@
       "source": "single-use",
       "emailMessageId": "19f19fdbffe434ca",
       "emailDate": "2026-06-30T19:24:47.000Z"
+    },
+    {
+      "merchant": "The Honest Kitchen",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eE1Kb0FXSjhlZzZDWVdPV0dzQkFOMVZmRFRoeXh1N1h1WkJJOCtPbWtIVVNTNkZjaWdHWWxIODFQVjZmNGlGMTJMZ3N5YjB0dUF5d3VkcWFHM0wxU0JHckUvSHBEZTZJbmpieWdnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thehonestkitchen.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f1fdf91c4101ba",
+      "emailDate": "2026-07-01T22:49:32.000Z"
     },
     {
       "merchant": "Forkful",
@@ -410,20 +424,6 @@
       "emailDate": "2026-06-30T17:20:17.000Z"
     },
     {
-      "merchant": "PetCareRx",
-      "percentBack": 14,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-07-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6clgyQldjWG04ZGtCYm9aUkhUb2V3Zzk1UTJtNUo4TEIrOGZCV2QzRzlFcUhNdy9zM0h4eTBVdml6TG9ldHBxNUR1NXM0cTJnU3hlbmN2N2VQMUhZeWw4VThXK2pEeG1LTS9vVGhnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petcarerx.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f14810d8f40268",
-      "emailDate": "2026-06-29T17:50:29.000Z"
-    },
-    {
       "merchant": "Ballard Designs",
       "percentBack": 12,
       "dollarBack": null,
@@ -564,32 +564,18 @@
       "emailDate": "2026-06-30T00:49:43.000Z"
     },
     {
-      "merchant": "The Honest Kitchen",
-      "percentBack": 10,
+      "merchant": "Chewy",
+      "percentBack": 9,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": 1,
       "lastViewed": null,
-      "expiresAt": "2026-07-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cGxWN0VUallZT3pXWkkxNFlGOWNTMTZEYUorcXpNZUNvNXhBRFpmU3FBL1FlQ3hlbk1pM3l3UmJXVi9zbnJPVmZZYXRoeHFERXpxcHRJc0tHWnUyME8xc3ZYOVhvOFVlTm02Y0J3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thehonestkitchen.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "expiresAt": "2026-07-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U0dMYjZBMTRUYmZSS3dsTWwvVnFHZXpsWE1jdGNJb3Fobk9GUGx5NDFwQ2pVNU1hQzJsMFhrVjFRMno1VVhtWEttb05MU0RmdFU4NTRtcWtWK3lvZUY2K2N6Q2hBZzJxa1VUZm9BPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sllAuQ2jpH5oKDJNtSzsPp-me0wRR5-TzWOBstxLOb4U/https://image.chewy.com/catalog/general/images/moe/06838bb5-0462-7ae9-8000-c19eb8ed5f42._AC_SX500_SY400_QL75_V1_.jpg",
       "source": "single-use",
-      "emailMessageId": "19f14810d8f40268",
-      "emailDate": "2026-06-29T17:50:29.000Z"
-    },
-    {
-      "merchant": "PetMeds",
-      "percentBack": 10,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 4,
-      "lastViewed": null,
-      "expiresAt": "2026-07-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T3AyQ0dXVHpVWkkwekt5OVZPaEd2S3B4aDkwSzRHZmdRdjlWSmZFNUJXUUlMbUs5RHU0eE8xd1NRaG9OdWtkUWtKcHZhaFo5dGJ6aDJpRHh5d0ZNT25iVDUxUUUvR1lBUTJRaFN3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=1800petmeds.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f0fdc4c68caf52",
-      "emailDate": "2026-06-28T20:12:03.000Z"
+      "emailMessageId": "19f1fdf91c4101ba",
+      "emailDate": "2026-07-01T22:49:32.000Z"
     },
     {
       "merchant": "Shop Simon",
@@ -634,6 +620,20 @@
       "emailDate": "2026-06-29T15:40:54.000Z"
     },
     {
+      "merchant": "PetSmart",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bDY0dkpzeS96cEVQd29UOE1IT1ZZbGU1WWFJVTZ6YXUrOUM0YTNQVG43N3BpcTI3SDVkNzhCemlEMzM3MTcwSWJ3V3FTMmp4VEZpT2NyN04vWHQ2VExhemNyVTZzd3IxMk51blRnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petsmart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f1fdf91c4101ba",
+      "emailDate": "2026-07-01T22:49:32.000Z"
+    },
+    {
       "merchant": "Trainline",
       "percentBack": 8,
       "dollarBack": null,
@@ -660,6 +660,20 @@
       "source": "single-use",
       "emailMessageId": "19f1f7edfc0990bd",
       "emailDate": "2026-07-01T21:03:55.000Z"
+    },
+    {
+      "merchant": "PetMeds",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-07-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bFdCRngrcno2S1ZQdVlJVDZHUjk1cVcyLzRNTFRTWW1jbTEwRjFQS1VJR2JMaWhYcCtuYlZ4VDdnOHVOVHYvaW9ZaWVnQjRkYU5LWUhlbFh6S25RY1dlYjRwMUhSK3NBbGZXTFd3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=1800petmeds.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f1fdf91c4101ba",
+      "emailDate": "2026-07-01T22:49:32.000Z"
     },
     {
       "merchant": "Zesty Paws",
@@ -718,18 +732,32 @@
       "emailDate": "2026-06-28T12:28:00.000Z"
     },
     {
-      "merchant": "Chewy",
-      "percentBack": 6.5,
+      "merchant": "Alamy",
+      "percentBack": 6,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
-      "expiresAt": "2026-07-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZlpaZnRKeUFTQ3VzWFhWU3pOOEdlLzNUV2g3NDN3QzlYOG9aaW5HL0Y2N1FvUFpNUWhxeEZqS2xCMGZ5WjF6V2lidU1QNzA1WFhQb1FXSTlNT0JlanVMWTFHU2FrYTZKc1ArVitRPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sCMc031nznDhjAFS8WXPQB_tL2HwyCwx9PDedHwm3-gw/https://image.chewy.com/catalog/general/images/kong-cozie-ali-the-alligator-dog-toy-x-large/img-738452._AC_SX500_SY400_QL75_V1_.jpg",
+      "expiresAt": "2026-07-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NHpkLzZ2c2ZQb2owWVR3OVZCWEw3NWdFajYrUTlFMXAwbGRxN2hkK1NKYVoxT29OY2RFM0VhTEJzM0p2WWgyQ0lvNURaQjYwczNhazIzeHZXQTRVUVZqM1ArQXg4c2ZJYm9sZzBBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=alamy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f19fdbffe434ca",
-      "emailDate": "2026-06-30T19:24:47.000Z"
+      "emailMessageId": "19f1fdf91c4101ba",
+      "emailDate": "2026-07-01T22:49:32.000Z"
+    },
+    {
+      "merchant": "PetCareRx",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZXVzUzh3eGxrSnpHM0krM2VvOWZvRHlKTmJRdFNwU2FCbVg0WlZ3a09ZY0tscHRQSzJkeWFaek8weUpDWnQvY1gwei85NGZHVkZpUzdLS1lLc2xxcVNweTErRVUveHgzQk9VbnRnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petcarerx.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f1fdf91c4101ba",
+      "emailDate": "2026-07-01T22:49:32.000Z"
     },
     {
       "merchant": "Tory Burch",
@@ -744,34 +772,6 @@
       "source": "single-use",
       "emailMessageId": "19f1f7edfc0990bd",
       "emailDate": "2026-07-01T21:03:55.000Z"
-    },
-    {
-      "merchant": "Alamy",
-      "percentBack": 6,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VkErT1pGOWt6cE9nLzI3dmlobmJqbjNmNHFnQXAwME9FM0wyK3NteHlobi96cjFodzgzUnlnUHJkdGM0MEFHcXFwYkNyOWxPRjh5cnhhZk4weVhDVkxqRjhReEFrRVMzOHdja1p3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=alamy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f1600de52ebb31",
-      "emailDate": "2026-06-30T00:49:43.000Z"
-    },
-    {
-      "merchant": "PetSmart",
-      "percentBack": 6,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-07-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aWJ1NnVmaFdHTnpzSi9kdm1QZ2d3VzZsdWxCVktjZlM3azkyU1hGRnJFLzRRL1JpV3JEYkROY2pyUVlTVDJzQ0ZZbHVWR3dyMWtrb1B6bVFpMjViMy9FcXYydWpJMEMxNE51Y0JnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petsmart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f0fdc4c68caf52",
-      "emailDate": "2026-06-28T20:12:03.000Z"
     },
     {
       "merchant": "baxterboo.com",
@@ -828,20 +828,6 @@
       "source": "single-use",
       "emailMessageId": "19f1f7edfc0990bd",
       "emailDate": "2026-07-01T21:03:55.000Z"
-    },
-    {
-      "merchant": "Tractor Supply",
-      "percentBack": 4,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-07-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bzRiaUZIdkZTYTdRNmZNenBUUG0yMm5pUXNFSTZUbGRjeDR3Wjd2UHp6MnRFQ2JPTWwvRWdURHh4cDRVQlU5TjhqdmFIaExtY0theDBDMjlHSmo1N29EZkRoWTJON0ZpY3UxazhnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tractorsupply.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f19fdbffe434ca",
-      "emailDate": "2026-06-30T19:24:47.000Z"
     },
     {
       "merchant": "Way.com",
@@ -912,6 +898,20 @@
       "source": "single-use",
       "emailMessageId": "19f0edf4e0269376",
       "emailDate": "2026-06-28T15:35:42.000Z"
+    },
+    {
+      "merchant": "Tractor Supply",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6emhWRms0SnUrL0x6OUFrYjY1SEpGdHRhN2ppT3JnODltQ2dISFRHSzVidFFpVzlZRW5XdEJ0eTFIbm1qeG1oZVdZTnVrUUhoNmVhMm1GV1o5WFFKK08yYkFrak9vUVI2ZnJjRmZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tractorsupply.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f1fdf91c4101ba",
+      "emailDate": "2026-07-01T22:49:32.000Z"
     },
     {
       "merchant": "Etsy",
