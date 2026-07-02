@@ -63,8 +63,39 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+      # Pages deployments occasionally sit in GitHub's queue until the action's
+      # polling times out (service-side incident, e.g. 2026-07-02). Two capped
+      # attempts cover transient blips; if both fail we only fail the run when
+      # the live site's data is actually stale, so a Pages outage doesn't send
+      # a failure email every 15 minutes while ingest keeps working.
       - id: deployment
         uses: actions/deploy-pages@v4
+        continue-on-error: true
+        with:
+          timeout: 300000
+      - id: deployment-retry
+        if: steps.deployment.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+        with:
+          timeout: 300000
+      - name: Fail only if the live site is stale (>2h)
+        if: steps.deployment.outcome == 'failure' && steps.deployment-retry.outcome != 'success'
+        run: |
+          set -uo pipefail
+          last=$(curl -sf --max-time 30 "https://cmr2334.github.io/capone-shopping/offers.json?nocache=$(date +%s)" | jq -r '.lastUpdated // empty')
+          if [ -z "$last" ]; then
+            echo "::error::Pages deployment failed and the live offers.json is unreadable."
+            exit 1
+          fi
+          age=$(( $(date -u +%s) - $(date -u -d "$last" +%s) ))
+          echo "Deployment failed; live offers.json lastUpdated=$last (${age}s ago)."
+          if [ "$age" -lt 7200 ]; then
+            echo "::warning::Pages deployment failed (likely a GitHub Pages outage) but live data is <2h old. Tolerating; the next successful run will publish current data."
+            exit 0
+          fi
+          echo "::error::Pages deployment failing and live data is >2h stale."
+          exit 1
 
   # If ingest or deploy fails, surface it as a GitHub issue so a dead refresh token
   # or broken cron is visible instead of offers.json silently going stale.
@@ -92,7 +123,7 @@ jobs:
           body=$(printf '%s\n' \
             "The scheduled ingest/deploy workflow failed, so public/offers.json is not being refreshed." \
             "" \
-            "Likely causes: an expired GMAIL_REFRESH_TOKEN (rotate it — see HANDOFF.md → Infrastructure & secrets map), a Gmail API/format change, or a parser regression. The live site shows a staleness banner once data is ~8h old." \
+            "Likely causes: an expired GMAIL_REFRESH_TOKEN (rotate it — see HANDOFF.md → Infrastructure & secrets map), a Gmail API/format change, a parser regression, or a prolonged GitHub Pages outage (deploy job only fails after >2h of the live site being stale — check https://www.githubstatus.com). The live site shows a staleness banner once data is ~8h old." \
             "" \
             "Failed run: $RUN_URL" \
             "Commit: $GITHUB_SHA" \

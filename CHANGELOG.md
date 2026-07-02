@@ -13,6 +13,14 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-07-02 — CI: tolerate GitHub Pages outages; visit-to-trigger v1 skeleton
+**Commit:** (this branch)
+**Files:** `.github/workflows/ingest.yml`, `docs/VISIT_TO_TRIGGER.md`, `bait/*`, `HANDOFF.md`
+**What changed:** (1) A GitHub Pages incident (2026-07-02, ~15:15Z onward) left every deployment stuck in `deployment_queued`; each 15-min run then failed at `actions/deploy-pages` after its 10-min poll timeout, emailing a failure notification per run. The deploy job now makes two capped (5-min) deploy attempts and, if both fail, checks the live site's `offers.json.lastUpdated`: within a 2-hour grace window the run is tolerated with a warning (Pages self-heals and the next green run publishes current data, since ingest keeps committing); beyond 2h it fails loudly as before, so real breakage still alerts. Ingest-job failures (token expiry, parser regressions) are unaffected and still fail immediately. (2) Shipped v1 of the roadmap's "Phase 3 — visit-to-trigger": `bait/targets.json` wishlist (editable from any device), `bait/visit-targets.sh` (opens active targets in Safari where the C1S extension can register intent; staggered, capped), a launchd template, and a full design/rollout plan in `docs/VISIT_TO_TRIGGER.md` (v2 = 🎯 toggle in the PWA + worker `targets` state; v3 = efficacy measurement). Mac-side install is one-time and documented in `bait/README.md`.
+**Revert:** `git revert HASH`
+
+---
+
 ## 2026-06-25 — Fix: never show or open expired offers (client-side expiry gate)
 **Commit:** `deef527`
 **Files:** `public/index.html`, `package.json`

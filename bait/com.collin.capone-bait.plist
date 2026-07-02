@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- launchd template for the visit-to-trigger job (docs/VISIT_TO_TRIGGER.md).
+     1. Replace both REPLACE_ME paths with the Mac clone of capone-shopping.
+     2. cp this file to ~/Library/LaunchAgents/
+     3. launchctl load ~/Library/LaunchAgents/com.collin.capone-bait.plist -->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.collin.capone-bait</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>REPLACE_ME/bait/visit-targets.sh</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>REPLACE_ME</string>
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Hour</key><integer>10</integer><key>Minute</key><integer>30</integer></dict>
+    <dict><key>Hour</key><integer>19</integer><key>Minute</key><integer>30</integer></dict>
+  </array>
+  <key>StandardOutPath</key>
+  <string>/tmp/capone-bait.log</string>
+  <key>StandardErrorPath</key>
+  <string>/tmp/capone-bait.err</string>
+</dict>
+</plist>

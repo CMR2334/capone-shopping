@@ -144,9 +144,13 @@ git push origin main
   **already exists** for exactly this — the remaining work is a CI job that builds
   the HTML and sends via Gmail SMTP (needs a Gmail app password). This also makes
   favorites genuinely cross-device if combined with a single shared sync token.
-- **Phase 3 — visit-to-trigger** (experimental, deferred). A wishlist of merchants
-  + a Mac `launchd` job that opens a store page in Safari (where the C1 extension can
-  fire an offer). Mechanism is sound; payoff is empirical. Mac-only by nature.
+- **Phase 3 — visit-to-trigger** (v1 skeleton shipped 2026-07-02; needs one-time Mac
+  install). Wishlist lives in `bait/targets.json` (editable from any device); the Mac
+  `launchd` job (`bait/com.collin.capone-bait.plist`) runs `bait/visit-targets.sh`,
+  which opens active targets in Safari where the C1 extension can fire an offer.
+  Design + v2 (🎯 toggle in the PWA, worker `targets` state) + v3 (efficacy
+  measurement) in `docs/VISIT_TO_TRIGGER.md`. Install steps: `bait/README.md`.
+  Payoff is empirical; visiting is Mac-only by nature.
 - **CI worker deploys** (enabler for full mobile). Add `CLOUDFLARE_API_TOKEN` secret
   + a workflow that runs `wrangler deploy` on changes to `sync-worker/**`.
 - **Node 20 → 24 in Actions.** `actions/*` emit Node20 deprecation warnings. As of
