@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-02T05:15:36.771Z",
-  "sourceCount": 79,
+  "lastUpdated": "2026-07-02T05:30:38.474Z",
+  "sourceCount": 80,
   "parseFailures": 0,
   "offers": [
     {
@@ -660,6 +660,20 @@
       "source": "single-use",
       "emailMessageId": "19f1f7edfc0990bd",
       "emailDate": "2026-07-01T21:03:55.000Z"
+    },
+    {
+      "merchant": "StubHub",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-06T07:00:00.000Z",
+      "activationUrl": null,
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "19f214d3a096d525",
+      "emailDate": "2026-07-02T05:28:56.000Z"
     },
     {
       "merchant": "PetMeds",
