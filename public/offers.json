@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-02T17:41:43.191Z",
-  "sourceCount": 81,
+  "lastUpdated": "2026-07-02T17:51:51.494Z",
+  "sourceCount": 82,
   "parseFailures": 0,
   "offers": [
     {
@@ -25,11 +25,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QmxlUlRYNURKQlV4VER6cGhBbHVSWmpqTEx1cXJIZkRMcTZHUjZOZHMrSWJjMmNkaExyVnR1dVJDWGtOdU44S2EzZ0xRV1paa0NxdHdFMzNSV1VWazFGamtodGFhVTVqMzZxM1R3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UW5SdWU1UE82QVNyZTMyYldaUlJ0V3U3M3Q5YW1oYW94c0gzVkZvME1NOXEwajJUM2RGeUNQQzY3N3JZVEdVK0grVlBLVVdlNy8rV1JyZ3Z6SEFnMFl3QzZuN2UzcUE3cmxEeGtRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=blinds.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19f23a194040582e",
-      "emailDate": "2026-07-02T16:20:19.000Z"
+      "emailMessageId": "19f23f045fa0afde",
+      "emailDate": "2026-07-02T17:46:16.000Z"
     },
     {
       "merchant": "Kiehl's",
@@ -221,11 +221,11 @@
       "wasPercent": 1,
       "lastViewed": null,
       "expiresAt": "2026-07-06T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a0IyQ1FzMG1tQnphYVhtYVkzaW95RnJmbUExc3NKYytndG5SS2JGaGtyZlZNb3V5Z1NNQWp1THpzczA2TzBtbmVNR21nK2RSem85YW9NNzgxMFVaZENxalRtT3A0akl0WEs4Z0dRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d3lPcTBvSlNnOWZoelh6Q0luNUxXUHdBUkh4TFRIM2h1eWNkcEVjQkdBc240Q0FIYkdWbS9ldjRyMUhBN1o5dGx2cWQ4ZnA5VnFycXZuWm43alZwRWZ6em44QW8yVkFOOUNxWkVBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thehonestkitchen.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f23a194040582e",
-      "emailDate": "2026-07-02T16:20:19.000Z"
+      "emailMessageId": "19f23f045fa0afde",
+      "emailDate": "2026-07-02T17:46:16.000Z"
     },
     {
       "merchant": "Tuft & Needle",
@@ -543,11 +543,11 @@
       "wasPercent": 1,
       "lastViewed": null,
       "expiresAt": "2026-07-06T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aVdDUWFnSU9KSy9uenU3ZVJiay8wYjNwTSszMmVJd0U4K092RDBVNWhiVHFwSTlDeFZrbmRWVVpWNU9HdjUzSnE2Tm5oVDlXY25Xbzd2T1R2Z282RlJ6eG1Kd0laTXk5ZWVIVVl3PT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,s4gi_2nd1A9fM2sMJL1So0AotYT52YZcvcD3jlLiWxDk/https://image.chewy.com/catalog/general/images/west-paw-skamp-tough-dog-chew-toy-aqua-blue-large-8-5in/img-636109._AC_SX500_SY400_QL75_V1_.jpg",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Z2hSMjMxOEp3WDFyNUJGTCtZZ1B2ZHJla1NYb2NWOUxXMEdRZzMzK3puM210NXZUWlppbGxEWjA1NnhtclZCTVBBaWZlZnV5S0dmU2RYZ0x1djNKMUlNT1dndW0rWnd4S1gvQkh3PT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sDgwO4ZSvQxqmBJvjz_qtuyFBBFvkK7EWzo-7XAOnhrE/https://image.chewy.com/catalog/general/images/kong-cozie-ali-the-alligator-dog-toy-medium/img-743652._AC_SX500_SY400_QL75_V1_.jpg",
       "source": "single-use",
-      "emailMessageId": "19f23a194040582e",
-      "emailDate": "2026-07-02T16:20:19.000Z"
+      "emailMessageId": "19f23f045fa0afde",
+      "emailDate": "2026-07-02T17:46:16.000Z"
     },
     {
       "merchant": "GetYourGuide",
@@ -704,20 +704,6 @@
       "emailDate": "2026-07-02T09:26:58.000Z"
     },
     {
-      "merchant": "Zesty Paws",
-      "percentBack": 7,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-07-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dFc4QTJidm5vVFVybWV6aXZsLzliVGMwZ2lEaWllZjBySU5nT1lCTjhCM3RkSzN6WGE5Si9Kc2FXSGJqNHVIR0pMM3RFcC82dFRhK1pWc1ZCVldLdHJ5VVhaMUptS2NLQXJqMDlBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=zestypaws.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f14f42210cf1c2",
-      "emailDate": "2026-06-29T19:56:10.000Z"
-    },
-    {
       "merchant": "Holiday Inn",
       "percentBack": 7,
       "dollarBack": null,
@@ -730,6 +716,34 @@
       "source": "single-use",
       "emailMessageId": "19f1362f51008759",
       "emailDate": "2026-06-29T12:37:59.000Z"
+    },
+    {
+      "merchant": "baxterboo.com",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bzB3Q1M4UVpJc3RZQXlzQnNSQnVkbjZuRGxaZnpmYVJSYzRJM0V2b2kzaDJlRmtxbSsrdjI2N2pBTlZnY3hOZnFtOHJpd3ljMnl1RmlSU3puMXA0bmpxemhtbWJrZU1wRTVycjdnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=baxterboo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f23f045fa0afde",
+      "emailDate": "2026-07-02T17:46:16.000Z"
+    },
+    {
+      "merchant": "PetCareRx",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZExNSTBEbldadzlMSTJFS2ZhUzZ4dyt2c3BodG9DK1lqVENNQXRUUGRRZ0ZlVGdXbXM3dTdjY2Vwdzg0OFI5WjBIRVRrNWV3aGVNY1g4M2JVQmpwS0xLMHNESjQ0U24wem5rRzJBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petcarerx.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f23f045fa0afde",
+      "emailDate": "2026-07-02T17:46:16.000Z"
     },
     {
       "merchant": "Ariat",
@@ -755,20 +769,6 @@
       "expiresAt": "2026-07-05T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aHE4Z1dkWnRUK1JJUHJtN1JoOS9ndnRJbHgzLzYxZnMrZzdSaHZxUVRpYXVyVzQ5OFpjRHgrUGpUUjJRL3VSaE9FampJdjJOV0FPNmxuTEpmQjdRNnBQRUx0YVNmOFMxbi9kaXhBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=alamy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f2012fc4182dee",
-      "emailDate": "2026-07-01T23:45:42.000Z"
-    },
-    {
-      "merchant": "PetCareRx",
-      "percentBack": 6,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NjlxeHdvZk5QSUJRaHh2ck5hMU5EZksxYng2RVM4TFZRdy9qK3RNZENzblhQUi9vMGRqeE0vZVhLSWNHZ1liOUVFNXBqaHM4WGFMeXZES0pYTTVxcGtvUEFreCtFclZ4NHpESnlRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petcarerx.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
       "emailMessageId": "19f2012fc4182dee",
       "emailDate": "2026-07-01T23:45:42.000Z"
@@ -802,6 +802,20 @@
       "emailDate": "2026-07-01T17:40:47.000Z"
     },
     {
+      "merchant": "Zesty Paws",
+      "percentBack": 5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UFFhdDQ1OS9iekRUR0g5ZWlySFNnQXQwNmRud2lxWm1pKzZVN3NMWi9SMXdNbVVPRjRDSVR4ZmRKSkQwMkhLU2hvcWhIOFFnWllYUGVnK2hBYXdQOFA5NWpCbEkrZGdnaUdMbGFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=zestypaws.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f23f045fa0afde",
+      "emailDate": "2026-07-02T17:46:16.000Z"
+    },
+    {
       "merchant": "Fairmont Hotels & Resorts",
       "percentBack": 5,
       "dollarBack": null,
@@ -823,11 +837,11 @@
       "wasPercent": 1,
       "lastViewed": null,
       "expiresAt": "2026-07-06T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SFJHdUN6d3B6T2JVckRwS3k1YlptMUNxc2tJTHN6cmJkV25JQ0RJSnN5d0xYS0NUZHREMDZUeGRSa2JkOFhDdm9CM0JvbW14Q1UxVm0yUzU3WjNzMXBkL0tQYkZjUzZlTXB2RUZnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MndEQTFNa3N3TWZ6alY3TGlacm8zand5bkkwMkJ1akhKZ0QrRzlKbHZBUmhkS0NvT3NUOEdSTTBIcmNwMkxwamg2ZWdneW5ROEVXV2tqbmFyalR5NXVQSXVEcUJVaXBaNGgwVnhRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petflow.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f23a194040582e",
-      "emailDate": "2026-07-02T16:20:19.000Z"
+      "emailMessageId": "19f23f045fa0afde",
+      "emailDate": "2026-07-02T17:46:16.000Z"
     },
     {
       "merchant": "Best Buy",
