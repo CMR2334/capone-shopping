@@ -13,6 +13,14 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-07-02 — CI: downgrade GitHub Pages queue timeouts to warnings
+**Commit:** `e193c39`
+**Files:** `.github/workflows/ingest.yml`
+**What changed:** Pages-only `actions/deploy-pages` queue timeouts no longer fail the whole `Ingest + deploy` workflow. The deploy step now uses `continue-on-error`, emits a workflow warning when GitHub Pages stays queued past the action timeout, and opens a deduped `pages-deploy-warning` issue instead of sending one failed-workflow email every refresh. Ingest/auth/parser failures still fail the workflow and keep the existing `ingest-failure` issue path.
+**Revert:** `git revert e193c39`
+
+---
+
 ## 2026-06-25 — Fix: never show or open expired offers (client-side expiry gate)
 **Commit:** `deef527`
 **Files:** `public/index.html`, `package.json`
