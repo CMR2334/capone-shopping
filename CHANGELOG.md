@@ -13,6 +13,14 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-07-02 — CI: reduce routine offer refresh/deploy cadence to hourly
+**Commit:** `98d3056`
+**Files:** `.github/workflows/ingest.yml`, `sync-worker/wrangler.toml`, `public/index.html`, `package.json`, `package-lock.json`, docs
+**What changed:** Routine automatic ingest/deploy runs now fire hourly at minute 17 instead of every 15 minutes, reducing GitHub Pages deploy pressure from about 96 scheduled deploys/day to about 24/day. Updated the Cloudflare Worker cron source, GitHub Actions schedule, stale-feed copy, project docs, and bumped the app/package version to v0.2.2. Manual workflow dispatch and the in-app refresh route are unchanged.
+**Revert:** `git revert 98d3056`
+
+---
+
 ## 2026-07-02 — CI: downgrade GitHub Pages queue timeouts to warnings
 **Commit:** `e193c39`
 **Files:** `.github/workflows/ingest.yml`
