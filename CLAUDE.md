@@ -30,7 +30,7 @@ node ~/Automation/scripts/agent-session.js done --id SESSION_ID
 ## Auto-push protocol (apply in every session)
 Always commit and push after making frontend changes. GitHub Pages rebuilds within 30–90s.
 
-The ingestor bot commits `public/offers.json` every ~15 min, so a plain push can be
+The ingestor bot commits `public/offers.json` hourly, so a plain push can be
 rejected as non-fast-forward. **Always rebase before pushing:**
 
 ```bash

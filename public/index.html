@@ -430,7 +430,7 @@
 
 <script>
 (() => {
-  const APP_VERSION = 'v0.2.1'; // bump with package.json on each meaningful release
+  const APP_VERSION = 'v0.2.2'; // bump with package.json on each meaningful release
   const grid = document.getElementById('grid');
   const empty = document.getElementById('empty');
   const emptyTitle = document.getElementById('emptyTitle');
@@ -467,7 +467,7 @@
 
   let data = null;
 
-  // Offers refresh on a ~15-min cron; 8h+ since the last successful refresh almost
+  // Offers refresh on an hourly cron; 8h+ since the last successful refresh almost
   // certainly means the pipeline is broken (dead refresh token, disabled workflow),
   // not just a few skipped runs — surface it instead of silently showing stale data.
   const STALE_HOURS = 8;
@@ -733,7 +733,7 @@
       subtitleText.textContent = `${visibleAll} active · updated ${updated ? timeAgo(updated) : 'just now'}`;
       const ageHours = updated ? (Date.now() - updated.getTime()) / 3.6e6 : Infinity;
       if (ageHours >= STALE_HOURS) {
-        setNotice('stale', `Offers may be out of date — last refreshed ${timeAgo(updated)}. The feed updates automatically every ~15 min.`);
+        setNotice('stale', `Offers may be out of date — last refreshed ${timeAgo(updated)}. The feed updates automatically about once an hour.`);
       } else {
         setNotice(null);
       }

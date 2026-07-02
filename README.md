@@ -13,13 +13,13 @@ Capital One Shopping offer tracker — a PWA that pulls cashback offers from Gma
 
 ```
 Gmail inbox
-    └── ingestor/ingest.js  (GitHub Actions, every 15 min)
+    └── ingestor/ingest.js  (GitHub Actions / Worker cron, hourly)
             └── public/offers.json  (committed to main, served by GitHub Pages)
                     └── public/index.html  (PWA fetches & renders)
                             └── sync-worker  (Cloudflare Worker, favorites/hidden state)
 ```
 
-1. GitHub Actions runs the ingestor on a 15-minute cron, parses the last 30 days of Capital One Shopping emails, and commits `public/offers.json` to `main` if anything changed.
+1. GitHub Actions runs the ingestor on an hourly cron, parses the last 30 days of Capital One Shopping emails, and commits `public/offers.json` to `main` if anything changed.
 2. The deploy job immediately publishes the `public/` folder to GitHub Pages.
 3. The PWA fetches `offers.json` on load and every 5 minutes, renders offer cards, and persists favorites/hidden via the Cloudflare sync worker.
 
@@ -218,7 +218,7 @@ wrangler deploy
 
 Runs on:
 - Push to `main`
-- Schedule: every 15 minutes (`*/15 * * * *`)
+- Schedule: hourly (`17 * * * *`)
 - Manual dispatch
 
 Two jobs:

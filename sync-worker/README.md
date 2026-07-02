@@ -12,10 +12,10 @@ Cloudflare Worker that persists favorites + hidden state across devices for capo
 
 ## Reliable ingest scheduler
 
-`wrangler.toml` defines a Cloudflare Cron Trigger (`*/15 * * * *`). Cloudflare's scheduler
+`wrangler.toml` defines a Cloudflare Cron Trigger (`17 * * * *`). Cloudflare's scheduler
 fires on time, unlike GitHub's heavily-throttled `schedule:` cron, so the Worker's
 `scheduled()` handler is the primary driver that keeps `offers.json` fresh — it dispatches
-the GitHub ingest workflow every 15 min. Inert until `GH_DISPATCH_TOKEN` is set.
+the GitHub ingest workflow hourly. Inert until `GH_DISPATCH_TOKEN` is set.
 
 ## Deploy
 
@@ -27,6 +27,6 @@ wrangler secret put GH_DISPATCH_TOKEN    # fine-grained GitHub PAT — Actions: 
 wrangler deploy
 ```
 
-`GH_DISPATCH_TOKEN` powers both `POST /refresh` (the app's refresh button) and the 15-min
+`GH_DISPATCH_TOKEN` powers both `POST /refresh` (the app's refresh button) and the hourly
 cron. Create the PAT at GitHub → Settings → Developer settings → Fine-grained tokens,
 scoped to the `capone-shopping` repo with **Actions: Read and write**.

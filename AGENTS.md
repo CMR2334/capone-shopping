@@ -27,7 +27,7 @@ A PWA that tracks Capital One Shopping cashback offers. It ingests offer emails 
 
 ```
 Gmail inbox (a dedicated account)
-    └── ingestor/ingest.js       (GitHub Actions, every 15 min)
+    └── ingestor/ingest.js       (GitHub Actions / Worker cron, hourly)
             └── public/offers.json   (committed to main, served by GitHub Pages)
                     └── public/index.html    (PWA fetches & renders)
                             └── sync-worker      (Cloudflare Worker, favorites/hidden state)
@@ -35,7 +35,7 @@ Gmail inbox (a dedicated account)
 
 **Frontend:** Single-file PWA in `public/index.html` — all HTML, CSS, and JS in one file. Vanilla JS+CSS, no build step.
 
-**Ingestor:** `ingestor/ingest.js` runs on a GitHub Actions cron every 15 minutes. It reads the last 30 days of Capital One Shopping emails, parses offer data, and commits an updated `public/offers.json` to `main` if anything changed. The deploy job publishes `public/` to GitHub Pages immediately after.
+**Ingestor:** `ingestor/ingest.js` runs on an hourly cron. It reads the last 30 days of Capital One Shopping emails, parses offer data, and commits an updated `public/offers.json` to `main` if anything changed. The deploy job publishes `public/` to GitHub Pages immediately after.
 
 **Sync backend:** Cloudflare Worker stores per-device favorites/hidden state. Keyed by a UUID token auto-generated on first PWA load and persisted in `localStorage`. No login required — the token is the identity.
 
