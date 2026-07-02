@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-01T23:45:44.422Z",
-  "sourceCount": 78,
+  "lastUpdated": "2026-07-02T00:00:38.261Z",
+  "sourceCount": 79,
   "parseFailures": 0,
   "offers": [
     {
@@ -25,11 +25,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q1M0SEUvVlpYdTJEQU8zUVA0ZGVsTXUxSW9TSHZGNzVRbFMvLzlSa3EybnFWbVpsZ1pYQk1ZSFlvb2tHNkRSZjA1VHRsYnNlbWNHYmkvQnJkNVlnZ3o5dSszd1J0N3dxaTh2VVBRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VXZsUWFTNnQ5bzlYby9wS0VmUGZucUYyejZ2QlM3TVdHeFEwSmZCUmZDTHJXbUlmRHhVV1BpT21JQ2RBR2swNnBDSVF0dUVyTHoxMEdGVXdsQlJjc2Q3WjIwNFBNcFFJRmRwWkx3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=us.pandora.net&width=300",
       "source": "todays-top",
-      "emailMessageId": "19f1fdf91c4101ba",
-      "emailDate": "2026-07-01T22:49:32.000Z"
+      "emailMessageId": "19f2012fc4182dee",
+      "emailDate": "2026-07-01T23:45:42.000Z"
     },
     {
       "merchant": "WONDERCIDE",
@@ -207,11 +207,11 @@
       "wasPercent": 1,
       "lastViewed": null,
       "expiresAt": "2026-07-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eE1Kb0FXSjhlZzZDWVdPV0dzQkFOMVZmRFRoeXh1N1h1WkJJOCtPbWtIVVNTNkZjaWdHWWxIODFQVjZmNGlGMTJMZ3N5YjB0dUF5d3VkcWFHM0wxU0JHckUvSHBEZTZJbmpieWdnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QVR0TitUSzFtUldzRFUyOHoxbGFCRG9Jem9uZFkyVERXWWlnaG1RcFZUcC9KMXlKaU5kdjZ4NE8xUWIvSE5WUEgxUGg4QlpyUTJ0WWVWL3dVUVN5VEVkWUxYWnhwQmdZZ1o0TmNnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thehonestkitchen.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f1fdf91c4101ba",
-      "emailDate": "2026-07-01T22:49:32.000Z"
+      "emailMessageId": "19f2012fc4182dee",
+      "emailDate": "2026-07-01T23:45:42.000Z"
     },
     {
       "merchant": "Forkful",
@@ -571,11 +571,11 @@
       "wasPercent": 1,
       "lastViewed": null,
       "expiresAt": "2026-07-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U0dMYjZBMTRUYmZSS3dsTWwvVnFHZXpsWE1jdGNJb3Fobk9GUGx5NDFwQ2pVNU1hQzJsMFhrVjFRMno1VVhtWEttb05MU0RmdFU4NTRtcWtWK3lvZUY2K2N6Q2hBZzJxa1VUZm9BPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sllAuQ2jpH5oKDJNtSzsPp-me0wRR5-TzWOBstxLOb4U/https://image.chewy.com/catalog/general/images/moe/06838bb5-0462-7ae9-8000-c19eb8ed5f42._AC_SX500_SY400_QL75_V1_.jpg",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bU5LUmhnVlpHOUw0QWxvYi90VHZmZWYwV29LUnR3MDBaUG1RQWxGbFZDc2xMbEV5d09Db2tWN05lUDFVQjJGZDVyS2loeGY1bTRlYkdraFFMWC9jSVFVelIrRVh6YXpnTk5Tb2R3PT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,scm0HdpcRSHQ9f_lqhYq__UBw1dsWslHxdIQKS4GcQEw/https://image.chewy.com/catalog/general/images/moe/068fb65e-9d70-758d-8000-bdbea9426642._AC_SX500_SY400_QL75_V1_.jpg",
       "source": "single-use",
-      "emailMessageId": "19f1fdf91c4101ba",
-      "emailDate": "2026-07-01T22:49:32.000Z"
+      "emailMessageId": "19f2012fc4182dee",
+      "emailDate": "2026-07-01T23:45:42.000Z"
     },
     {
       "merchant": "Shop Simon",
@@ -627,11 +627,11 @@
       "wasPercent": 1,
       "lastViewed": null,
       "expiresAt": "2026-07-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bDY0dkpzeS96cEVQd29UOE1IT1ZZbGU1WWFJVTZ6YXUrOUM0YTNQVG43N3BpcTI3SDVkNzhCemlEMzM3MTcwSWJ3V3FTMmp4VEZpT2NyN04vWHQ2VExhemNyVTZzd3IxMk51blRnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UktPOVMwZmxvc3I5Nkl5OWFJdWthay9HQ1BpREtMMUZLazF2SXVwN1E2MEE0dlQyS0hWdElzMERFMWRhWWtjcXJkRThqYjgwTjBkdG14eHpXWjArS2N4RDNMbWR1T2J5SnRYUHNRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petsmart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f1fdf91c4101ba",
-      "emailDate": "2026-07-01T22:49:32.000Z"
+      "emailMessageId": "19f2012fc4182dee",
+      "emailDate": "2026-07-01T23:45:42.000Z"
     },
     {
       "merchant": "Trainline",
@@ -669,11 +669,11 @@
       "wasPercent": 4,
       "lastViewed": null,
       "expiresAt": "2026-07-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bFdCRngrcno2S1ZQdVlJVDZHUjk1cVcyLzRNTFRTWW1jbTEwRjFQS1VJR2JMaWhYcCtuYlZ4VDdnOHVOVHYvaW9ZaWVnQjRkYU5LWUhlbFh6S25RY1dlYjRwMUhSK3NBbGZXTFd3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Sk9wM0JIeVMyeFd1cGZ6d3JsRTExVEJXVHNxRDdLZExVWmE2TlN1N0hSUXpKS2UzQVJnMUFCWkUwdDhTUmtkNjAzMHdCZ014eFhtS0hldzNxYnNWeGtRV01qdmNVVWtDckxBT1JRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=1800petmeds.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f1fdf91c4101ba",
-      "emailDate": "2026-07-01T22:49:32.000Z"
+      "emailMessageId": "19f2012fc4182dee",
+      "emailDate": "2026-07-01T23:45:42.000Z"
     },
     {
       "merchant": "Zesty Paws",
@@ -739,11 +739,11 @@
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-07-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NHpkLzZ2c2ZQb2owWVR3OVZCWEw3NWdFajYrUTlFMXAwbGRxN2hkK1NKYVoxT29OY2RFM0VhTEJzM0p2WWgyQ0lvNURaQjYwczNhazIzeHZXQTRVUVZqM1ArQXg4c2ZJYm9sZzBBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aHE4Z1dkWnRUK1JJUHJtN1JoOS9ndnRJbHgzLzYxZnMrZzdSaHZxUVRpYXVyVzQ5OFpjRHgrUGpUUjJRL3VSaE9FampJdjJOV0FPNmxuTEpmQjdRNnBQRUx0YVNmOFMxbi9kaXhBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=alamy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f1fdf91c4101ba",
-      "emailDate": "2026-07-01T22:49:32.000Z"
+      "emailMessageId": "19f2012fc4182dee",
+      "emailDate": "2026-07-01T23:45:42.000Z"
     },
     {
       "merchant": "PetCareRx",
@@ -753,11 +753,11 @@
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-07-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZXVzUzh3eGxrSnpHM0krM2VvOWZvRHlKTmJRdFNwU2FCbVg0WlZ3a09ZY0tscHRQSzJkeWFaek8weUpDWnQvY1gwei85NGZHVkZpUzdLS1lLc2xxcVNweTErRVUveHgzQk9VbnRnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NjlxeHdvZk5QSUJRaHh2ck5hMU5EZksxYng2RVM4TFZRdy9qK3RNZENzblhQUi9vMGRqeE0vZVhLSWNHZ1liOUVFNXBqaHM4WGFMeXZES0pYTTVxcGtvUEFreCtFclZ4NHpESnlRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petcarerx.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f1fdf91c4101ba",
-      "emailDate": "2026-07-01T22:49:32.000Z"
+      "emailMessageId": "19f2012fc4182dee",
+      "emailDate": "2026-07-01T23:45:42.000Z"
     },
     {
       "merchant": "Tory Burch",
@@ -907,11 +907,11 @@
       "wasPercent": 0.5,
       "lastViewed": null,
       "expiresAt": "2026-07-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6emhWRms0SnUrL0x6OUFrYjY1SEpGdHRhN2ppT3JnODltQ2dISFRHSzVidFFpVzlZRW5XdEJ0eTFIbm1qeG1oZVdZTnVrUUhoNmVhMm1GV1o5WFFKK08yYkFrak9vUVI2ZnJjRmZRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZU4yVERvdEdmUjZUM2JFMkE0cFhmaXRiTFhSWU1IWEFucWN1RGNPL0doNTlJWXpSU3dNQ1JDMm1GRlFvZkJRVDNyMHYxcHJ0aDQzZWRIZEJNZkIvOGhWdE1UWEU2VlB4RkJsM3d3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tractorsupply.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f1fdf91c4101ba",
-      "emailDate": "2026-07-01T22:49:32.000Z"
+      "emailMessageId": "19f2012fc4182dee",
+      "emailDate": "2026-07-01T23:45:42.000Z"
     },
     {
       "merchant": "Etsy",
