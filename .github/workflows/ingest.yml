@@ -66,7 +66,7 @@ jobs:
       - id: deployment
         uses: actions/deploy-pages@v4
         with:
-          timeout: 1800000
+          timeout: 600000
 
   # If ingest or deploy fails, surface it as a GitHub issue so a dead refresh token
   # or broken cron is visible instead of offers.json silently going stale.
