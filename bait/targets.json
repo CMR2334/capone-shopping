@@ -1,0 +1,11 @@
+{
+  "_comment": "Visit-to-trigger wishlist. Edit from any device; the Mac launchd job pulls before each run. url:null = derive the store URL from public/offers.json (logoUrl domain) — merchants not in the current feed need an explicit url. Set active:false to pause a target without deleting it.",
+  "targets": [
+    {
+      "merchant": "ExampleStore",
+      "url": "https://www.example.com",
+      "active": false,
+      "note": "placeholder — replace with a real vendor, set active:true"
+    }
+  ]
+}
