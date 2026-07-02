@@ -52,9 +52,11 @@ jobs:
   deploy:
     needs: ingest
     runs-on: ubuntu-latest
+    outputs:
+      pages_outcome: ${{ steps.deployment.outcome }}
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://cmr2334.github.io/capone-shopping/
     steps:
       - uses: actions/checkout@v4
         with:
@@ -65,8 +67,13 @@ jobs:
           path: ./public
       - id: deployment
         uses: actions/deploy-pages@v4
+        continue-on-error: true
         with:
           timeout: 600000
+      - name: Warn on Pages-only deploy failure
+        if: steps.deployment.outcome == 'failure'
+        run: |
+          echo "::warning::GitHub Pages did not finish deploying before deploy-pages timed out. Ingest succeeded and offers.json was committed; the live site may lag until GitHub Pages drains its queue."
 
   # If ingest or deploy fails, surface it as a GitHub issue so a dead refresh token
   # or broken cron is visible instead of offers.json silently going stale.
@@ -101,3 +108,38 @@ jobs:
             "" \
             "Close this issue once the pipeline is healthy again; the next failure will open a fresh one.")
           gh issue create --label ingest-failure --title "Ingest workflow failing" --body "$body"
+
+  # Pages queue timeouts are usually an upstream GitHub Pages condition. Keep the
+  # workflow green to avoid repeated email alerts, but leave a deduped issue trail.
+  notify-deploy-warning:
+    needs: [ingest, deploy]
+    if: needs.ingest.result == 'success' && needs.deploy.outputs.pages_outcome == 'failure'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GH_REPO: ${{ github.repository }}
+      RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+    steps:
+      - name: Open a Pages deploy issue (deduped on an open one)
+        continue-on-error: true
+        run: |
+          set -euo pipefail
+          gh label create pages-deploy-warning --color D4A72C --description "GitHub Pages deploy delayed or timed out" 2>/dev/null || true
+          existing=$(gh issue list --label pages-deploy-warning --state open --json number --jq '.[0].number // empty')
+          if [ -n "$existing" ]; then
+            echo "Pages deploy issue #$existing already open — not duplicating."
+            exit 0
+          fi
+          body=$(printf '%s\n' \
+            "The ingestor succeeded and committed public/offers.json, but GitHub Pages did not finish publishing before actions/deploy-pages timed out." \
+            "" \
+            "This is usually a GitHub Pages queue or service degradation. The live site may lag until the next successful deploy publishes the latest committed feed." \
+            "" \
+            "Failed deploy run: $RUN_URL" \
+            "Commit: $GITHUB_SHA" \
+            "" \
+            "The workflow intentionally treats Pages-only deploy timeouts as warnings to avoid repeated failure emails while ingestion is healthy. Close this issue once a later deploy is green.")
+          gh issue create --label pages-deploy-warning --title "GitHub Pages deploy delayed or failing" --body "$body"
