@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-03T14:18:07.975Z",
-  "sourceCount": 82,
+  "lastUpdated": "2026-07-03T15:18:10.006Z",
+  "sourceCount": 83,
   "parseFailures": 0,
   "offers": [
     {
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QkhTMUNybER0ajREYm53dEVodzhLUUMvM1hpMDlKQURySERrMXppTFE2TzVCUkhZTjhqcXlPQ3Zqa3h6SXI0YXpzUGJpY1FJSjhOWUJMcWQzSVAvTm15cWlLa1MvSEp5VHZ2SUN3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6M0VGcWFuTVdWWTVRaVpWOGZscmROdW55Rm1HS3Z5QlpIakNMUU5BSFNia0JxNk02QUd2MW9TdElxQXFRczV5TmpCTEFEUFU3UXFmcHZpbENLVFBOQmxNRi80dU91QmVCc3E0Sjh3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ashleyfurniture.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19f27e96a8f41d30",
-      "emailDate": "2026-07-03T12:17:15.000Z"
+      "emailMessageId": "19f2886110100c59",
+      "emailDate": "2026-07-03T15:08:22.000Z"
     },
     {
       "merchant": "Kiehl's",
@@ -172,6 +172,20 @@
       "emailDate": "2026-06-30T19:24:47.000Z"
     },
     {
+      "merchant": "Event Tickets Center",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SlVtSGNLQ0s1SngyOEtiSUU5MGhTYWI1QTc0TVIrcWNsdm5HYXJNSVExQzVMQ2NmdERRa3BWbmMvSkdrczcxYVBseDRDTGJCOEZiL1dpekJ6bVc4c0Q3ZFVUbU02QlMrRUpGWi9RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=eventticketscenter.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f2886110100c59",
+      "emailDate": "2026-07-03T15:08:22.000Z"
+    },
+    {
       "merchant": "Viator, a Tripadvisor company",
       "percentBack": 15,
       "dollarBack": null,
@@ -179,11 +193,11 @@
       "wasPercent": 4,
       "lastViewed": null,
       "expiresAt": "2026-07-07T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WWJXa0dJUThjUkZvQWcyOHZzQzN4cVFyL09ZNmtWZ3ZEM1BrcmFPVWNPWmR0QlQ5cFR2d3luVGtkR3FmLy85ZnRXU0ZOZXJ6VDVURFNaeWhXbWUzRjVPTFBFV3dNMWdXd3JjZWt3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bm81WXllY2xVL2JlMHU3bjcrY3J3MHR2Ylp2b3p6T29ISWVwdmJBOW51L1lsYXk0YjRSd21aMC9OYUlvbGZJRjNZcDkzcTBKTGZpalRRRFBmNlZURHNBeVlneW1hR3VRc3hneEd3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f2756e3d5b1eb7",
-      "emailDate": "2026-07-03T09:37:12.000Z"
+      "emailMessageId": "19f2886110100c59",
+      "emailDate": "2026-07-03T15:08:22.000Z"
     },
     {
       "merchant": "Airalo",
@@ -352,6 +366,34 @@
       "source": "single-use",
       "emailMessageId": "19f198bc722b07fc",
       "emailDate": "2026-06-30T17:20:17.000Z"
+    },
+    {
+      "merchant": "SpotHero",
+      "percentBack": 13,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RlFJUElkMkwxZ3pFOG1rWjVzaUNscG42VHBQSmNFRkR1cGE1RWRmMWtYMUs1dkhzNW5LaUVWTVEzQTJ6ZVcvZWhVYjFVNTFkQ3NuQkh0UEdvTkdXem5qNE1SdjJXMnFYOHliSjd3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spothero.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f2886110100c59",
+      "emailDate": "2026-07-03T15:08:22.000Z"
+    },
+    {
+      "merchant": "Liquid I.V.",
+      "percentBack": 12.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OFovUEVmVzZhU29iZEpTeWs1TU5jTFlHNEgzSVpIbm5uaFAwTGlKYmQ5ZmlvNDRUS0JSSWhLM2lQbVFUWnVpVHJIR00rMEtVeFhRTmh3SWYvVklMc2FVektEeUtBdkRRcUxNajh3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=liquid-iv.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f2886110100c59",
+      "emailDate": "2026-07-03T15:08:22.000Z"
     },
     {
       "merchant": "Ballard Designs",
@@ -858,6 +900,20 @@
       "emailDate": "2026-06-30T19:24:47.000Z"
     },
     {
+      "merchant": "HelloFresh",
+      "percentBack": null,
+      "dollarBack": 176.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6V1dleXJDcnBKcnd6NlBUVEdKNGVtSXAwVlkxdm9rdFNuVDN4Qk44ajFJSVU2WEovMG5HRFMyVnBGT21IYmZScW9ERjlLbmlxSTFwR2t4anl5RDBrTGFtcVFyeDVCL3J1aGw0NTJBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hellofresh.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f2886110100c59",
+      "emailDate": "2026-07-03T15:08:22.000Z"
+    },
+    {
       "merchant": "Green Chef",
       "percentBack": null,
       "dollarBack": 37,
@@ -937,20 +993,6 @@
       "expiresAt": "2026-07-04T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YmxxT1hSOTk2S1lmSDJ0d3prQTRHMW5BNHlvNWkxeWl1bFdyYVIrMUhmTFlpSmVSTTRCQXFSODdpNGV3VU9DOStjVFMwV3lZSUNnYmZjdG14YVQycjBJWFoxYTlmakdrZ09GOThnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=relieffactor.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f17d0664fb88a9",
-      "emailDate": "2026-06-30T09:16:01.000Z"
-    },
-    {
-      "merchant": "HelloFresh",
-      "percentBack": null,
-      "dollarBack": 0.5,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-07-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bGVxVU9yWmw2Rjk2QnA2L2NKOUtLazNFSGpuRVFEaHViTlNTZ0tubmRzKzJEaHNlUTVkOU1oMloxUDExS01YVzk5b3BIQTZLa3Qwa0kwdERDTDY3TlRybFRGMkhDdVZVOVcxaHp3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hellofresh.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
       "emailMessageId": "19f17d0664fb88a9",
       "emailDate": "2026-06-30T09:16:01.000Z"
