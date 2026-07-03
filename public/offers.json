@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-07-03T11:18:14.284Z",
-  "sourceCount": 81,
+  "lastUpdated": "2026-07-03T12:18:20.324Z",
+  "sourceCount": 82,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Ashley",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QkhTMUNybER0ajREYm53dEVodzhLUUMvM1hpMDlKQURySERrMXppTFE2TzVCUkhZTjhqcXlPQ3Zqa3h6SXI0YXpzUGJpY1FJSjhOWUJMcWQzSVAvTm15cWlLa1MvSEp5VHZ2SUN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ashleyfurniture.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19f27e96a8f41d30",
+      "emailDate": "2026-07-03T12:17:15.000Z"
+    },
     {
       "merchant": "Kiehl's",
       "percentBack": 30,
@@ -88,46 +102,18 @@
       "emailDate": "2026-07-01T17:40:47.000Z"
     },
     {
-      "merchant": "Tiqets",
-      "percentBack": 20.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-07-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cXNoQkhZVTdKU0xKN2JqT282ZGlVZ1ZzWGxFS0xoSG8wUW9JUFFYYm53MEpsb01oMVNFaHY0cnNFalJIK1BxSWJqdDZnRU15RUhWY200bGdQV3lSb05RRVkybVdTODBQOXdJV3lBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tiqets.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f1e1f3980ef00d",
-      "emailDate": "2026-07-01T14:39:49.000Z"
-    },
-    {
       "merchant": "Tripadvisor",
       "percentBack": 20,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": 3,
-      "lastViewed": "June 28",
-      "expiresAt": "2026-07-07T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YWNXdml2VGREQmdXVkYwMk85WmUxZnB1ZitOSVJQNGFlRi95bmRtbklnV2FmbWtPQWhPV244N2xEWXRMYzhTZzh3bnI4WElIN1hYUzg5b3RZT1JGQjExNTc0SG1EU3hVcDJXLzZRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "19f2756e3d5b1eb7",
-      "emailDate": "2026-07-03T09:37:12.000Z"
-    },
-    {
-      "merchant": "Ashley",
-      "percentBack": 20,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-07-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dTJvaEpiVmZDZWwvRG5jd2lqMGk0Tms2am9WT2haZHd5Yzh0ZmdlMDJ2dW9VSWsvK0c4emE3Mk5sRDcyZWphT3NDRU9DWU8rZm04U0NmVFY5cEhwOTY0TUxyZGlwM1NFaUtvVndnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ashleyfurniture.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "19f2756e3d5b1eb7",
-      "emailDate": "2026-07-03T09:37:12.000Z"
+      "expiresAt": "2026-07-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TzRkcHBxVkUySUxwUE9CbHMzTG9IN0JYbW01cXpzTlloNEFnMVBEenVUdGpURlVDaFNJdHFncENrbFdJTitYVXZKNWJXam53VEowSmNuSTZVd3lWMTV0RVBJZUNKUGhzSTlZRWN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f27e96a8f41d30",
+      "emailDate": "2026-07-03T12:17:15.000Z"
     },
     {
       "merchant": "Foreo",
@@ -382,6 +368,20 @@
       "emailDate": "2026-07-01T17:40:47.000Z"
     },
     {
+      "merchant": "Tiqets",
+      "percentBack": 11,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6M2RpSUp4bTFXZlBBL3R0dEhHa2R4eitNOWZ1QkJZWks3YXR1ZUM3NGd2ZW5wdTJBL2F4anp0QmVNU0pWWHdRYmUxa1d5YVRnS3M3cjZ5cUE1N1NyZnZ2em84bWhYTFdCSGI4Y1RBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tiqets.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f27e96a8f41d30",
+      "emailDate": "2026-07-03T12:17:15.000Z"
+    },
+    {
       "merchant": "The STRAT Hotel",
       "percentBack": 11,
       "dollarBack": null,
@@ -466,6 +466,20 @@
       "emailDate": "2026-06-30T09:16:01.000Z"
     },
     {
+      "merchant": "Chewy",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UjB0SE0rQ0syam9RZnh1NzJSMnhVVCtwczUvKzFDL0xUZndVOUlsbXM0ZHFjRlVhbHh6VEJXbmZnTHlXTHRqRjhvYkEzZXNXajZDMTNWeDRxQWtVUmpjVkFabUpXaDFzbjNUdE1BPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,s4gi_2nd1A9fM2sMJL1So0AotYT52YZcvcD3jlLiWxDk/https://image.chewy.com/catalog/general/images/west-paw-skamp-tough-dog-chew-toy-aqua-blue-large-8-5in/img-636109._AC_SX500_SY400_QL75_V1_.jpg",
+      "source": "single-use",
+      "emailMessageId": "19f27e96a8f41d30",
+      "emailDate": "2026-07-03T12:17:15.000Z"
+    },
+    {
       "merchant": "GetYourGuide",
       "percentBack": 9,
       "dollarBack": null,
@@ -478,20 +492,6 @@
       "source": "single-use",
       "emailMessageId": "19f2756e3d5b1eb7",
       "emailDate": "2026-07-03T09:37:12.000Z"
-    },
-    {
-      "merchant": "Chewy",
-      "percentBack": 9,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-07-06T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Z2hSMjMxOEp3WDFyNUJGTCtZZ1B2ZHJla1NYb2NWOUxXMEdRZzMzK3puM210NXZUWlppbGxEWjA1NnhtclZCTVBBaWZlZnV5S0dmU2RYZ0x1djNKMUlNT1dndW0rWnd4S1gvQkh3PT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sDgwO4ZSvQxqmBJvjz_qtuyFBBFvkK7EWzo-7XAOnhrE/https://image.chewy.com/catalog/general/images/kong-cozie-ali-the-alligator-dog-toy-medium/img-743652._AC_SX500_SY400_QL75_V1_.jpg",
-      "source": "single-use",
-      "emailMessageId": "19f23f045fa0afde",
-      "emailDate": "2026-07-02T17:46:16.000Z"
     },
     {
       "merchant": "Kay Jewelers",
@@ -564,6 +564,34 @@
       "emailDate": "2026-07-01T21:03:55.000Z"
     },
     {
+      "merchant": "IHG",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": "June 28",
+      "expiresAt": "2026-07-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ci9yUE9ITkIxYmNCTWUxZlVvbVFvWnl2bDVySEU5bDBvWk9tTW52WFVaUWYyTEV2bTVEWE0vVEViL0REa1ZnR29MSWJtb3Z0UEpvNzI1c2d5ZDZCUWlsTHR4OWlwQTVtWWFRT3hRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ihg.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f27e96a8f41d30",
+      "emailDate": "2026-07-03T12:17:15.000Z"
+    },
+    {
+      "merchant": "Klook",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QTFRc1pRbHJ3RzF0Si9ieGxxTmUrTFIrbGRpaWRQZHlwU21oYkV3cDBnM0gzclRrYWV1aHh1TDBoeGk1OW9CWWNYb0RpWjVDRTMwSVQ4NGdEZVZyQkNNRWFIcDVmbUMwclp5NXZnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=klook.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f27e96a8f41d30",
+      "emailDate": "2026-07-03T12:17:15.000Z"
+    },
+    {
       "merchant": "PetMeds",
       "percentBack": 7,
       "dollarBack": null,
@@ -578,20 +606,6 @@
       "emailDate": "2026-07-02T16:20:19.000Z"
     },
     {
-      "merchant": "Klook",
-      "percentBack": 7,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-07-06T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dlQwSFV0dW1BQ3Q5WCtnc29ISkVYQ2tEOXNYMTlmSlZhZnRwaUhHWVI1aE51NTdQSEFacWtPVmw0YnZtQWpEVjJaV1JxWmUwZVdqRW5EeFVKaDdEczJodXVUMk9jSzQ3WTVFYTFBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=klook.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f22d6220b49e03",
-      "emailDate": "2026-07-02T12:38:06.000Z"
-    },
-    {
       "merchant": "StubHub",
       "percentBack": 7,
       "dollarBack": null,
@@ -601,20 +615,6 @@
       "expiresAt": "2026-07-06T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MjZ2Z05hUHhtSXZ1L2FHZVcxRGw2VnptN3RVaitydld1TTd2bHlhV2h2OWtGNGJ3TW5iUGxPTTk2TWVuUUQxN0ZhOEZKVWZzbFBhc0Z0cnRNSTJlK3ZmaWF0eG5mTjR4Q0dwN0hRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=stubhub.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "19f22272748820b5",
-      "emailDate": "2026-07-02T09:26:58.000Z"
-    },
-    {
-      "merchant": "IHG",
-      "percentBack": 7,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-06T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cUM2d0lTRlZIcDczcXRMUVgyRDdtVmluTjhxTUt5VEpWNzQwdVNna2VPeTFlc21CK1Vpejc3bWtmVlFpQWRBNm0yK0RWRnBDRnJ6RENNUkpacEZFVFlsTjh6bjNDWVNvUEJsVnVnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ihg.com&fallback=true&opaque=true&type=cropped&width=500",
       "source": "single-use",
       "emailMessageId": "19f22272748820b5",
       "emailDate": "2026-07-02T09:26:58.000Z"
@@ -912,6 +912,20 @@
       "source": "single-use",
       "emailMessageId": "19f198bc722b07fc",
       "emailDate": "2026-06-30T17:20:17.000Z"
+    },
+    {
+      "merchant": "JustFly",
+      "percentBack": null,
+      "dollarBack": 7.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aksxRDhrekg0aEgvV2ZiVnpuSUhRakttQktQSlVnZHdYUGl6VVRWajMwLzBHdHZBclc4QUR3WUFMNjhVRU9ycDZxbGFBT09wZ0JOQ3Vkcm9iVThjaUJDVU0vTzVaM2RuQUhHNml3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=justfly.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f27e96a8f41d30",
+      "emailDate": "2026-07-03T12:17:15.000Z"
     },
     {
       "merchant": "Relief Factor",
