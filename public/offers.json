@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-03T20:18:11.296Z",
-  "sourceCount": 84,
+  "lastUpdated": "2026-07-03T21:18:14.340Z",
+  "sourceCount": 85,
   "parseFailures": 0,
   "offers": [
     {
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YnR4bDRWVmhnWGVYU1V0NzlBdkdoVDVMZG1vOU5LeXJmRklPejRnL3BSOFRqSDJaRHYwNHl6SnFmSmZZQ05SRmRSb2NaTU15M3RVRVZ0K1RBRUVOVzJQei9KQWM1QkxRaExWWmVnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RERzd3ZWaDdCdVBFcU9FeUo5Ty8zbWQ1bnZsNWwrQWRyYXp0MWdtdWQ3OTYxeDM0YUw5blZ4dWtNdnJldUIwR0lYckIyQ1AxRzFtTWlKdVFtZE0yaERZZjZScUxhN0x1MWdVeHF3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ashleyfurniture.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19f28f1d4676f768",
-      "emailDate": "2026-07-03T17:06:04.000Z"
+      "emailMessageId": "19f29cb144960a30",
+      "emailDate": "2026-07-03T21:03:22.000Z"
     },
     {
       "merchant": "Kiehl's",
@@ -172,6 +172,20 @@
       "emailDate": "2026-06-30T19:24:47.000Z"
     },
     {
+      "merchant": "Airalo",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-07-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6djJGVWE0eFJVcEt3WkVXNUV4bldLSFNnUHM3Qms2a0xKdFlTdTduU0I5OUJqVzQ2dzhnNHZYeWtrS3g1Y21aMUxRU0pOcStGR2pnaTVRSnpSa0p3R0ZXOEpGbm5meFNrSkZEZmVBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=airalo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f29cb144960a30",
+      "emailDate": "2026-07-03T21:03:22.000Z"
+    },
+    {
       "merchant": "Viator, a Tripadvisor company",
       "percentBack": 15,
       "dollarBack": null,
@@ -212,20 +226,6 @@
       "source": "single-use",
       "emailMessageId": "19f2886110100c59",
       "emailDate": "2026-07-03T15:08:22.000Z"
-    },
-    {
-      "merchant": "Airalo",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 4,
-      "lastViewed": null,
-      "expiresAt": "2026-07-07T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MjlaUDhWUVJoWEx3Z05Vanc4aVZxUEpsdFJwN3M5NzNrWUZ3NHVTUXFYYTU2WXpDWGY0VUZrdS9qVzhYTWdJMDBTRVFqU0R0UjNVZXNIVTJBQmM5QnBMRElLTmtpQldGbFhqdk93PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=airalo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f2756e3d5b1eb7",
-      "emailDate": "2026-07-03T09:37:12.000Z"
     },
     {
       "merchant": "The Honest Kitchen",
@@ -704,6 +704,20 @@
       "emailDate": "2026-07-03T17:06:04.000Z"
     },
     {
+      "merchant": "Qatar Airways",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": "July 2",
+      "expiresAt": "2026-07-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TFlEaDN2bjllNlZPNHQraFdrbmQ2WDVHM2tvS1BQQUVYMmlFc1V2QktNa2gvYmppMmRsd2tkMjZSUE02U0hMZ0kyNFhJSXVoMDF6cUoxZnVDN3ZROVNDWlFsYkF4MnZ1QW5BVVJnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=qatarairways.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f29cb144960a30",
+      "emailDate": "2026-07-03T21:03:22.000Z"
+    },
+    {
       "merchant": "Princess Cruises",
       "percentBack": 6,
       "dollarBack": null,
@@ -802,6 +816,20 @@
       "emailDate": "2026-07-01T17:40:47.000Z"
     },
     {
+      "merchant": "Avianca Air",
+      "percentBack": 5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cHNMb251QWlyRVhLT0NxbUlLaGlWd1FZZlZFaWNEVzJvdTRrbFFDYmFnbHUrMXd0WU15MHE4a1cwYzBaUjF2WmZDOTBobXNPVnJXczB5MUM3SG4wdEEzaStTTEE0UjY5bUtGdDJRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=avianca.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f29cb144960a30",
+      "emailDate": "2026-07-03T21:03:22.000Z"
+    },
+    {
       "merchant": "Zesty Paws",
       "percentBack": 5,
       "dollarBack": null,
@@ -884,6 +912,34 @@
       "source": "single-use",
       "emailMessageId": "19f22d6220b49e03",
       "emailDate": "2026-07-02T12:38:06.000Z"
+    },
+    {
+      "merchant": "Cathay Pacific",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bXRhaDJyczJvUjJkYzFFdDZtYi9Pa25mVkxUcmR1L2FiME0ySXpvR0JyOG84bms1SWlFZXFGTFY1RHRETzQwalJJZDVUaEUxZUsreFJlVDVhTDhTcXBQamR4YTNrUGxiSnVuMjZBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cathaypacific.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f29cb144960a30",
+      "emailDate": "2026-07-03T21:03:22.000Z"
+    },
+    {
+      "merchant": "United Airlines MileagePlus - Points.com",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aWU3L3QxTTdtcFNVUHI3YVgyRVUxTlkwSUx3VWNnK08xQURvTXozR1c2MXBOTGFnV3ptS0JLa0ZKRTkwRUFpbVVrRGVpV2xUeW9Bb0ZtLzZtV2s2WDRtZmlwb3M1NEp1TTIvRjJBPT0/runV3",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=buymiles.mileageplus.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f29cb144960a30",
+      "emailDate": "2026-07-03T21:03:22.000Z"
     },
     {
       "merchant": "Tractor Supply",
@@ -1047,11 +1103,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-07T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aksxRDhrekg0aEgvV2ZiVnpuSUhRakttQktQSlVnZHdYUGl6VVRWajMwLzBHdHZBclc4QUR3WUFMNjhVRU9ycDZxbGFBT09wZ0JOQ3Vkcm9iVThjaUJDVU0vTzVaM2RuQUhHNml3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UlNPZGtyRENoamJoajRqWHdybjZabjlndWVJMUxBUTQzU3MrTGFwRU4rSHhZbEVvN0xOV2pGUTVoS3pkZ1pZdkpEZnlBVVdIQVlpRmcxcm1aV2x2bytKdXZmNEVpd2RsS00zNHNBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=justfly.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f27e96a8f41d30",
-      "emailDate": "2026-07-03T12:17:15.000Z"
+      "emailMessageId": "19f29cb144960a30",
+      "emailDate": "2026-07-03T21:03:22.000Z"
     },
     {
       "merchant": "Relief Factor",
