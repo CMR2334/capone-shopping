@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-04T18:18:12.111Z",
-  "sourceCount": 88,
+  "lastUpdated": "2026-07-04T19:18:15.818Z",
+  "sourceCount": 89,
   "parseFailures": 0,
   "offers": [
     {
@@ -16,6 +16,34 @@
       "source": "single-use",
       "emailMessageId": "19f2da2527836f1b",
       "emailDate": "2026-07-04T14:57:20.000Z"
+    },
+    {
+      "merchant": "Firstleaf Wine Club",
+      "percentBack": 35,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-08T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6c1pzTFZURDZZejRodld6eG45TEgrTWZkbjNFWmhzMGlYdmlWeDhiZ3hneWsyNFRDUmdyRG5pSEpXbVA5UGpjN3lFL1lJalNKejFpb1N1c2ZzQU53U1poclQrZzBkdDZTb1RLeGV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=firstleaf.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f2e89d5de8bf1e",
+      "emailDate": "2026-07-04T19:10:11.000Z"
+    },
+    {
+      "merchant": "ProFlowers",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-07-08T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VXdFU09tZk0vN0hzMzhpZ2pTcTR3MmlkYVZMQ0p2dmJwdmdXdWN1WVBvUXUzaUJwbUdJSWVHZ1c4QW5aWEVESlk1QzN3OTVqSmo3ekt4dEkrRWY1clpoSllUazE2Mm50OUJCNnVBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=proflowers.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f2e89d5de8bf1e",
+      "emailDate": "2026-07-04T19:10:11.000Z"
     },
     {
       "merchant": "Dr. Barbara Sturm",
@@ -81,11 +109,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-08T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dzBkN2ZrcnF4TUJwMHRsaW9XN3JvaGVYa2s2M3FmNWR5cjN0Zkt0bURwTWwrR2RNbTZ3YVJ6V3VBbTZLZ24xZjV0bDNqbUFKeGF2eElIbkFFekg1ZzFmdUs5NXBFWHlnS2JrMUxnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WmdocDVzMUNmYWV4bFhjajk4QnhzUXNpeThYL2Y1TU1qTFJyQTNjUHJCNlBLbEEwNXRYcEhwNE9kMFlxNHQ4cXNiVUx6emwrak93djhDVE10UGd0cEszZnROMm85dTR3c1pqd1pnPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/fanatics.com/30e8608f-d5ed-4aef-9b4f-32a26cd41f13.gif",
       "source": "single-use",
-      "emailMessageId": "19f2e0f09eb279d0",
-      "emailDate": "2026-07-04T16:56:04.000Z"
+      "emailMessageId": "19f2e89d5de8bf1e",
+      "emailDate": "2026-07-04T19:10:11.000Z"
     },
     {
       "merchant": "Rosetta Stone",
@@ -142,6 +170,34 @@
       "source": "single-use",
       "emailMessageId": "19f1ec4e52b7768e",
       "emailDate": "2026-07-01T17:40:47.000Z"
+    },
+    {
+      "merchant": "Robert Mondavi Winery",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-07-08T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Njhlb1ExNFRpS3VTN3dFWFR6QytBSVVwQUN6dk0zd2VaMmNGNXRxdVYza3VtYk5Dc2FIQTBIeHZCWVNGS3RIbFZHZlFFRlNBa05vUTBnOUlQenNzd3ViaGRFbEFBTmtaRVZTbUtRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=robertmondaviwinery.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f2e89d5de8bf1e",
+      "emailDate": "2026-07-04T19:10:11.000Z"
+    },
+    {
+      "merchant": "Winc",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-07-08T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6K0pDdnF2MEFyNDVGL0RVKzlvN2RTbnMvWkxFV3RJc1VQcGE3M290akc3TFZVaUJaY1o1b2pXTS94NzBuK05yV2R3VzdQbGF2bjBNT3M3VTd6UTF4RzdGemtFd1JaSmZUQkFKL2hRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=winc.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f2e89d5de8bf1e",
+      "emailDate": "2026-07-04T19:10:11.000Z"
     },
     {
       "merchant": "Airalo",
@@ -249,11 +305,11 @@
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-07-08T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WTEwQ3ltdUwwRis3VFlKemY4bVdmMHJwRDBsTVNZNERDTTY5VlErWElpcWtYNmFTaVdaUlFVMHNORW93T0lkdVVyRXBRWnZqSjBvb01zRlFOZlczTG5XVldhemFPTGZLV3NyTzJRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NU01bDRFUVMyMitYdFluZG9Cb3BpVVlMV0R5cWVDZEZ5MHdRZEM1V2tUT1FzMTdMMmVUTlhzNCtBMDZHSW50YnloU2dSYUZNSDNpZHlSU2lCR0xnWDQ4V1BKQ3VZNVNqMWVMbmJBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f2e0f09eb279d0",
-      "emailDate": "2026-07-04T16:56:04.000Z"
+      "emailMessageId": "19f2e89d5de8bf1e",
+      "emailDate": "2026-07-04T19:10:11.000Z"
     },
     {
       "merchant": "Omio",
@@ -660,6 +716,20 @@
       "source": "single-use",
       "emailMessageId": "19f1ec4e52b7768e",
       "emailDate": "2026-07-01T17:40:47.000Z"
+    },
+    {
+      "merchant": "Wine Insiders",
+      "percentBack": 9.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-08T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6N3FpTHJvdnE3cWRPL0VTSzBYdFRFUUtPTVRGeloyMGVYYm03NU1LSUdlb3lRSXJ1aWFWNVcyaWJuZkI2V2RjNmpvWXBXRmh3K0JMN0c0YkVYdWJEU0FCaW5yU2d1UHoyRXlvTUlnPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logowineinsiders.com,segAL5J0kLRXe2-fPMs6ToTS8knRk3e3SDkQpq2nnhz0/http://wineinsiders.com/cdn/shop/files/full_bf939918-46e3-405c-938d-8b64916f6693.png?v=1753992514",
+      "source": "single-use",
+      "emailMessageId": "19f2e89d5de8bf1e",
+      "emailDate": "2026-07-04T19:10:11.000Z"
     },
     {
       "merchant": "Chewy",
@@ -1262,6 +1332,20 @@
       "source": "single-use",
       "emailMessageId": "19f2c73eddc920d2",
       "emailDate": "2026-07-04T09:27:01.000Z"
+    },
+    {
+      "merchant": "Wine Access",
+      "percentBack": null,
+      "dollarBack": 8.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-08T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Z3ZhdkRBRHhZeElUOUhiVXA0b0hCaXIzSGdoR20yVzEwdHplSHVnT0Q3MVFpcmdEOEFhVEM5dEhBQUE0cEl1Q0ZXVFhjOGc2bDAyZUlDNlVaRmlITmRUYWV6NXFZQ01HL2pKaEZ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wineaccess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f2e89d5de8bf1e",
+      "emailDate": "2026-07-04T19:10:11.000Z"
     },
     {
       "merchant": "JustFly",
