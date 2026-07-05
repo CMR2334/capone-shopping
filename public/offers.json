@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-07-05T11:18:12.623Z",
-  "sourceCount": 89,
+  "lastUpdated": "2026-07-05T12:18:07.094Z",
+  "sourceCount": 90,
   "parseFailures": 0,
   "offers": [
     {
-      "merchant": "Hostelworld",
-      "percentBack": 56,
+      "merchant": "Klook",
+      "percentBack": 47,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-07-08T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VUlERCthb3VhdHFIT2F4MXpCd1c4NlY3TnJhaHZ6ZFNid0xBSkUwS0Iwb3JsZjk1bzc1elVSN1paVGpvQmlMYk9WTSsvaldicFFBRHl0WDNEdXJuVWllRjdvWWNSamFyZDE3V3ZnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hostelworld.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "expiresAt": "2026-07-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q2N2WTRncUsxYjF1Rk5JUGhuV1JEb25QVWwvK2hDY2FxeksvdjB3UGFSRVVWM0dVN1hiVkFObk5VTjZzNzJMekV3ZWl4c3lZeitMMmNCVCtZTHB3ZmRmRW56QVovRTNGcmZBRVlBPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1780521345279.gif",
       "source": "single-use",
-      "emailMessageId": "19f2da2527836f1b",
-      "emailDate": "2026-07-04T14:57:20.000Z"
+      "emailMessageId": "19f322f0587c80fd",
+      "emailDate": "2026-07-05T12:09:29.000Z"
     },
     {
       "merchant": "Firstleaf Wine Club",
@@ -102,6 +102,20 @@
       "emailDate": "2026-07-02T09:26:58.000Z"
     },
     {
+      "merchant": "Hostelworld",
+      "percentBack": 28,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WEs1cE5qdlVrWG1IbXJEbEpTOVNiRS8wZXlzdy9hRWUvK2NURnlNTHhGQXhUenc4TVlLUEY1OHRlYUhNTENNT2wrM2orcEpwa0c4Y3h6bFVXQmp6SmFCNnQzaXNTNHVhWHFpbyt3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hostelworld.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f322f0587c80fd",
+      "emailDate": "2026-07-05T12:09:29.000Z"
+    },
+    {
       "merchant": "Fanatics",
       "percentBack": 25,
       "dollarBack": null,
@@ -158,18 +172,18 @@
       "emailDate": "2026-07-02T09:26:58.000Z"
     },
     {
-      "merchant": "Klook",
-      "percentBack": 23.5,
+      "merchant": "TicketSmarter",
+      "percentBack": 20,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cG1LN0JQckkwVmZ5alB4UkFCWEIrc0xNU2d0V0hNYTRtSkxncDJ6NFNkSU9uaWgvMnNLUUFwUmN4dnVRVzg3ZDdFbU96MHBRdWVaVjhicGFtem1xTGxXWTM2enE2enN0aXFHTnJRPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1780521345279.gif",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aTN6QUVQWVRZK0g2aFArQUhxYXRMUTBhQjJIbk9JOHVndG1saHdaSjJvbnpDRTlxMGJOVG1WZnZOa0tKeTduZ1NPdWh3UkZ2T0dBa1ZXNk9hdjZDZlQ1eGl2RHJTYTltU25zMnJ3PT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/ticketsmarter.com/2d936f33-fe1e-498d-9015-7c0d9c042ad6.gif",
       "source": "single-use",
-      "emailMessageId": "19f31a6ca713f84a",
-      "emailDate": "2026-07-05T09:40:41.000Z"
+      "emailMessageId": "19f322f0587c80fd",
+      "emailDate": "2026-07-05T12:09:29.000Z"
     },
     {
       "merchant": "Tripadvisor",
@@ -179,25 +193,11 @@
       "wasPercent": 3,
       "lastViewed": null,
       "expiresAt": "2026-07-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6K2lDaVNIQUFQYm56b1ZaOEVVQWRGMVp3enM1L3N1Qlc0b0RoWGVWRXNWL0R1MVdYaXc4Uy90RnpJZkF1Q0RVcUg5OG1lWmJDMGNTQ2JNNTBvTzZlM2kvR3FHSno0WGdaTmQyR21RPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eit0NDR0bmVaNXl3ZWFhRDRXYjJaZUh0M05wVnVidk1ra21MOE9pMWYrVzdDZXVWNm9GYTdHekZyTVZxQVFBcWhrUnBiRk1SeThQWWR3N2VlR2k4UmtjYWRkdW9XWjdrZFFWQlpRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f31a6ca713f84a",
-      "emailDate": "2026-07-05T09:40:41.000Z"
-    },
-    {
-      "merchant": "TicketSmarter",
-      "percentBack": 20,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-07-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6V0tPaFFSbXZMT0JKdFlQQ2gzc2RuOWxycWR5YzNwVGovWEhhTHZVNDNubWxzM1RkSitBZDk5bnZkRUdIUHlUeXN5RVFOcXdDanVKeUpKUXdZbXJheU5YbHFHRmJySGlTUEp6UTRnPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/ticketsmarter.com/2d936f33-fe1e-498d-9015-7c0d9c042ad6.gif",
-      "source": "single-use",
-      "emailMessageId": "19f31a6ca713f84a",
-      "emailDate": "2026-07-05T09:40:41.000Z"
+      "emailMessageId": "19f322f0587c80fd",
+      "emailDate": "2026-07-05T12:09:29.000Z"
     },
     {
       "merchant": "Robert Mondavi Winery",
@@ -291,11 +291,11 @@
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-07-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YnlCUlRPSWczK0Fvanc4Wm1oWGtTUU5aNWNiZGN4dzRQTDV5Y1NrV2JjU1pGVWpWZ01nNmtmeXMvZHV1d00xYVc3L013OXh5aU9MeXdoeHNwZVUrdlV6eXk1dklPMlhBQVQvc2h3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=forkfulmeals.com&fallback=true&opaque=true&type=cropped&width=500",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6V3M5SEI3VWdOWElqQU9zdFBRaTVmM0pVbEc4cGY4R0F2eHpsNzFNOWI5b05rb0lQbFRVM2cvUkZxV0pJUnlNaGNraVM4TTNIbVVCZTdkRDg3VTZISUxSVVorclp4cW5NclIzckxnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=forkfulmeals.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f31a6ca713f84a",
-      "emailDate": "2026-07-05T09:40:41.000Z"
+      "emailMessageId": "19f322f0587c80fd",
+      "emailDate": "2026-07-05T12:09:29.000Z"
     },
     {
       "merchant": "Big Bus Tours",
@@ -508,20 +508,6 @@
       "emailDate": "2026-07-03T17:06:04.000Z"
     },
     {
-      "merchant": "The STRAT Hotel",
-      "percentBack": 11,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-06T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QWo0NUVDNHJ2WnJNWU9ZaWRlVk5wRFV0ekwrYVNtZ1RPQzNsZmYvUkh1bDdSOE53K05IaVZudnN2b2hoc0pOZkZ6NjhNUXcrM3ljbnJDSklpTWRmdXowOGlZUWNzRXM4QXpXTUxRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thestrat.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f22d6220b49e03",
-      "emailDate": "2026-07-02T12:38:06.000Z"
-    },
-    {
       "merchant": "True Religion",
       "percentBack": 11,
       "dollarBack": null,
@@ -646,6 +632,34 @@
       "source": "single-use",
       "emailMessageId": "19f22272748820b5",
       "emailDate": "2026-07-02T09:26:58.000Z"
+    },
+    {
+      "merchant": "Hilton",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZWRrVTltckRUc1lZbEQ4bHkzWlZZY0lQYmdEMUNnSGFxcTJsb2pWakRTQW1hcnVnbFZEV3VYWEhzODJHbDhWakhlK3NmMWtuQy95SFFEM0dyYlZsNjcxWVZqbUZIOE9lejRBYzBnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hilton.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f322f0587c80fd",
+      "emailDate": "2026-07-05T12:09:29.000Z"
+    },
+    {
+      "merchant": "The STRAT Hotel",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Um83YlFraThqWlMvZTVJcVlSR2NXWDhlL2tHWVBoelZkVXRCR2ZIQTlDVnZoNVl4VGJna2JjWmdtQzlYNHE3d1l6STNDNFRXTi9BYzhMTU81elE2cFhRUk45eDVMclhPRXFZVnNBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thestrat.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f322f0587c80fd",
+      "emailDate": "2026-07-05T12:09:29.000Z"
     },
     {
       "merchant": "Reef",
