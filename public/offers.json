@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-05T21:18:14.268Z",
-  "sourceCount": 89,
+  "lastUpdated": "2026-07-05T22:15:57.335Z",
+  "sourceCount": 90,
   "parseFailures": 0,
   "offers": [
     {
@@ -310,6 +310,34 @@
       "source": "single-use",
       "emailMessageId": "19f22d6220b49e03",
       "emailDate": "2026-07-02T12:38:06.000Z"
+    },
+    {
+      "merchant": "Walgreens",
+      "percentBack": 17,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Z2JhZzJQaXdJM2Q1Y1FZMGw3MWtMSnBBYzE0bExGeXlySUMyaGtrK0M3bFhzY09QcXNBUGpLVWI2ZlNxRzh1eDY4Qko0S2QxZFAyc1QxemRGMHJlYVhNVXo5bHFxbjYwWEI3MEtRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walgreens.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f342cad3146086",
+      "emailDate": "2026-07-05T21:26:10.000Z"
+    },
+    {
+      "merchant": "Sam's Club",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WlF6cjVvZFdRSCtFTC83NHNoUHoveFZ4QTFZcE8vdXBqRDBwNkFMdzk3bWp5MENXYzNtc2lIaWpJaWtpdXFTUXJOeTE0Y0xRaFpqN0E3ODRRVHpWdnFQcVoyMHZPVzdiZUlmaHN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=samsclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f342cad3146086",
+      "emailDate": "2026-07-05T21:26:10.000Z"
     },
     {
       "merchant": "Scosche",
@@ -1012,6 +1040,34 @@
       "emailDate": "2026-07-02T17:46:16.000Z"
     },
     {
+      "merchant": "Walmart",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "July 2",
+      "expiresAt": "2026-07-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RVFWQVFVYVlPV2djbyt3cytrNm9ZeWJ1cThOT3drdFBDY2w5WXFpM1FEYTBodVhrL3Q5ekF5R0ZnTUJiRFBNTDFDeEVMVnBoaW5RWU5JRXY0RzdYNmFHNXZvQkM3Vm92aXAyblR3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walmart.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f342cad3146086",
+      "emailDate": "2026-07-05T21:26:10.000Z"
+    },
+    {
+      "merchant": "Best Buy",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eW53VG04amttdFMvak9FTkNEMS9kQW8wMXM2RzlrdExjYmJtRmxieEc4KzUrNnIvUzQwR1JGcFhDODVqS1NZVW50MEVDbFRVVjVHNGxKUytRRXBFUCtaVkJTTTdVSHhNRVd2K2xnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestbuy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f342cad3146086",
+      "emailDate": "2026-07-05T21:26:10.000Z"
+    },
+    {
       "merchant": "DXL Big + Tall",
       "percentBack": 4,
       "dollarBack": null,
@@ -1096,6 +1152,20 @@
       "emailDate": "2026-07-04T00:24:16.000Z"
     },
     {
+      "merchant": "Tractor Supply",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YlQwcEdab3pMQUhxaDZQZlp1cUlRWkdwOHZLaEtQSCs3a0NHWEx3SGcvSkJuVmlmdllPemlLcEdvQ2NZWi9FNHpRS0t2bS9BT1BPaGVpdUJnVnM4YTQ5dWMvMzEzQlhFdjcwZFV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tractorsupply.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f342cad3146086",
+      "emailDate": "2026-07-05T21:26:10.000Z"
+    },
+    {
       "merchant": "Cathay Pacific",
       "percentBack": 3,
       "dollarBack": null,
@@ -1122,6 +1192,20 @@
       "source": "single-use",
       "emailMessageId": "19f29cb144960a30",
       "emailDate": "2026-07-03T21:03:22.000Z"
+    },
+    {
+      "merchant": "Kohl's",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cGlSTVRoZ3AzVlpaV3F3djd4MEVta0VHdC91dStrREh6SktTTmp5N0o1eGlWMzFGandVVTMyTWZCUTM3UjRYbWs5YzNKVFE1d0JoUVNzNGFIdWRDaUVRK2dLUlRhSzZ6M1NwNFZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=kohls.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f342cad3146086",
+      "emailDate": "2026-07-05T21:26:10.000Z"
     },
     {
       "merchant": "Target",
