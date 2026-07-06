@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-06T20:18:10.563Z",
-  "sourceCount": 93,
+  "lastUpdated": "2026-07-06T21:06:38.036Z",
+  "sourceCount": 94,
   "parseFailures": 0,
   "offers": [
     {
@@ -744,6 +744,20 @@
       "source": "single-use",
       "emailMessageId": "19f2a830469e6826",
       "emailDate": "2026-07-04T00:24:16.000Z"
+    },
+    {
+      "merchant": "eBay",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-10T07:00:00.000Z",
+      "activationUrl": null,
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "19f391afd9b23e1a",
+      "emailDate": "2026-07-06T20:24:57.000Z"
     },
     {
       "merchant": "StubHub",
