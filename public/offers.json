@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-07-07T11:18:07.683Z",
-  "sourceCount": 95,
+  "lastUpdated": "2026-07-07T12:11:46.908Z",
+  "sourceCount": 96,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Bonobos",
+      "percentBack": 40,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-08T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Ym5CYUVYRkRucisybHhGTm5SMTlvWFkvano5Tk9SditkM0pubjhNbnVCcEtrdERrRUw3Mnd2bFFma3NQTi9WY0hhM0dCMkM3Z2ZQTEpxYjJuSVhtNmJhZnVNT0UyRFlZMEY3M0Z3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bonobos.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19f3c7664a2bea0a",
+      "emailDate": "2026-07-07T12:03:39.000Z"
+    },
     {
       "merchant": "Firstleaf Wine Club",
       "percentBack": 35,
@@ -56,20 +70,6 @@
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SjF0cGVZTFRLV24rTWFkOVZvdHdYblRnUjd0Rk9qdzRDTytQS3pqQ2VIWUFvQ3dpLy8wU01YOU1ZRzdYVis4NllrUHlaWDlldEVYNzlXSmRnTmYxdVl6N0U5YU1oSTRpaFBTZmpRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hostelworld.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f3c0b8f44ae5a0",
-      "emailDate": "2026-07-07T10:06:57.000Z"
-    },
-    {
-      "merchant": "Bonobos",
-      "percentBack": 25,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-07-08T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QmpjTVR1YzZxUmhNbTU5YzVJd3FlbVd1STBTV2EvcWFWWUlSeDlqSnRTdTEyWjJUSWQxTTY1Y1dORzVPeFJ0VFdDNUh0YjZFcWgrL2UrREtuZXRXMXF6ckFkS0VyQ1d4eEFSdThnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bonobos.com&width=300",
-      "source": "todays-top",
       "emailMessageId": "19f3c0b8f44ae5a0",
       "emailDate": "2026-07-07T10:06:57.000Z"
     },
@@ -234,12 +234,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-07-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VnMweGF5YlA4ZUViUFY3dWFwUlhhb2FKNUlYL3lMQlFlQTdTZkw4VmdQZEZVMFBFTFY3ay9NNkJBdkxROG8zelhTSDVJZTdzREJyNzA3MzhPRFdVbEtleFd6TC9IdEJNaXl0VTBBPT0/runV3dl",
+      "expiresAt": "2026-07-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WE1IT1Y2QVQwTng2cGNPZzRURjFob29mSndHQmtSc2UweVFqdnRmRXJkZEtlUDhhNjN5REFqaU0wVVgwamdUZ1FSUDBJU255ZVlxdHNkNTQvdjdHQlZnbVllb0tpZVVhZGRIeW13PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=klook.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f386330cc19d50",
-      "emailDate": "2026-07-06T17:04:11.000Z"
+      "emailMessageId": "19f3c7664a2bea0a",
+      "emailDate": "2026-07-07T12:03:39.000Z"
     },
     {
       "merchant": "Tiqets",
@@ -270,6 +270,20 @@
       "emailDate": "2026-07-05T21:26:10.000Z"
     },
     {
+      "merchant": "Forkful",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WnUvT0tqM1E0cEVhOEZ1eEtxazAvRkpIQk11dmYrSUVJMWpUeTJXNmdFWk8vc1RjUE0zKzg5eU0vMmJ4c2ZWUUJLeThFTnFlRm9UaEhmQ2FucUliN0krczZoVG1QdmgybjIyVWJRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=forkfulmeals.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f3c7664a2bea0a",
+      "emailDate": "2026-07-07T12:03:39.000Z"
+    },
+    {
       "merchant": "Viator, a Tripadvisor company",
       "percentBack": 15,
       "dollarBack": null,
@@ -282,20 +296,6 @@
       "source": "single-use",
       "emailMessageId": "19f3c0b8f44ae5a0",
       "emailDate": "2026-07-07T10:06:57.000Z"
-    },
-    {
-      "merchant": "Forkful",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T2FCN0lCclV5cENlY3RjTG9jVUxMQVgyZ294RytMcU5NQ2xCeWxNOURhQkhkekhMS1dPZVIydTUvck5aZm1wNmVnWEx3SGdyRm5aODFuNTVaZkt1V3RZOVFxejVMWVptZFZXRE9BPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=forkfulmeals.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f386330cc19d50",
-      "emailDate": "2026-07-06T17:04:11.000Z"
     },
     {
       "merchant": "Brooks Running",
@@ -480,6 +480,20 @@
       "emailDate": "2026-07-04T19:10:11.000Z"
     },
     {
+      "merchant": "Chewy",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WEFXbDJaR0Qra3FFZWMyZWJTQVJZNk8xUHJlcklUQjNVZWx5V3piR0FDK2o3WEhDb094OXZDYVpDOGttSmhvbUcwNnNKellWUTVjQkc3eTJWM3A3VFk0V1lJZlhqZkR4dUZOWHJBPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,s4gi_2nd1A9fM2sMJL1So0AotYT52YZcvcD3jlLiWxDk/https://image.chewy.com/catalog/general/images/west-paw-skamp-tough-dog-chew-toy-aqua-blue-large-8-5in/img-636109._AC_SX500_SY400_QL75_V1_.jpg",
+      "source": "single-use",
+      "emailMessageId": "19f3c7664a2bea0a",
+      "emailDate": "2026-07-07T12:03:39.000Z"
+    },
+    {
       "merchant": "GetYourGuide",
       "percentBack": 9,
       "dollarBack": null,
@@ -492,34 +506,6 @@
       "source": "single-use",
       "emailMessageId": "19f3c0b8f44ae5a0",
       "emailDate": "2026-07-07T10:06:57.000Z"
-    },
-    {
-      "merchant": "Chewy",
-      "percentBack": 9,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-07-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6b2lrYy9rT3Q0ajhSNWNUTWNWTFQ4RVA0L1NOK2hWaWhnVm04a09ET1RPUEFIYkZDYytRbkpjZkcvRmhtNWlXL3VQQ01nMVpDcDBYNmhjd1VyL0NPZXd6SHhlRkVCdmVXVFVrM2p3PT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,s4gi_2nd1A9fM2sMJL1So0AotYT52YZcvcD3jlLiWxDk/https://image.chewy.com/catalog/general/images/west-paw-skamp-tough-dog-chew-toy-aqua-blue-large-8-5in/img-636109._AC_SX500_SY400_QL75_V1_.jpg",
-      "source": "single-use",
-      "emailMessageId": "19f31a6ca713f84a",
-      "emailDate": "2026-07-05T09:40:41.000Z"
-    },
-    {
-      "merchant": "Trainline",
-      "percentBack": 9,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q013UG10M0NVTzNCZFBJbmlmelBCY2FLQnpUOEhyc2hpQWtueWxac0pyT3kwdng3b2dKZ0RLSEJFUWRWMVZUa3BYd1F6Z2tGbnlLbTNBdURPVTMvWnVqaVFBWnphblo3clozM3BRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thetrainline.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f31a6ca713f84a",
-      "emailDate": "2026-07-05T09:40:41.000Z"
     },
     {
       "merchant": "Soundcore",
@@ -576,6 +562,20 @@
       "source": "single-use",
       "emailMessageId": "19f2c73eddc920d2",
       "emailDate": "2026-07-04T09:27:01.000Z"
+    },
+    {
+      "merchant": "Trainline",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WWh3aHdzdHlRMDB0dTRPc010RVpyQXpnWmorTFZ2WDhEakpkZUtySTVFVGdFckdybWRtbyt4Y25CQ082SkEybFdTOEU5SUdsQ0tYc1VvYjhFZlFPUTdrZys2KzRYdDVSN0lwRXdnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thetrainline.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f3c7664a2bea0a",
+      "emailDate": "2026-07-07T12:03:39.000Z"
     },
     {
       "merchant": "eBay",
@@ -794,12 +794,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-07-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cEV6c1c3Qit4NGYrdS9OUHpRSlAwci9aUmgybExDQkprWFNPWUYydE1RUzM1VTU5MHRacDRPKzA0a1ZaWmNZYnQvc1pXOENLdXR4ZUhGaDVnWXU5VXkweENzV0czV3IxdFI4VTlRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=scheels.com&fallback=true&opaque=true&type=cropped&width=500",
+      "expiresAt": "2026-07-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YVkyL0dWbEVYMzFFd3RjS1JWZktmVENjd251aGZhcXJJSGxmSytJTWlnQ0FkL2RwNWdXNjl0UkxZRk1UOU1XN09jczBhcUY2dk84bmhvRTRwQ2FQMXcrcVJDOFp0enBTd1VEYTZRPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoscheels.com,s3l0zBe0CvzXuIJ4BCDcvsV2GckQ3hV0wronlF77WaWg/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1780607394767.png",
       "source": "single-use",
-      "emailMessageId": "19f36be2c882544e",
-      "emailDate": "2026-07-06T09:24:20.000Z"
+      "emailMessageId": "19f3c7664a2bea0a",
+      "emailDate": "2026-07-07T12:03:39.000Z"
     },
     {
       "merchant": "Tractor Supply",
@@ -870,6 +870,20 @@
       "source": "single-use",
       "emailMessageId": "19f2da2527836f1b",
       "emailDate": "2026-07-04T14:57:20.000Z"
+    },
+    {
+      "merchant": "Intuit",
+      "percentBack": null,
+      "dollarBack": 12.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "July 2",
+      "expiresAt": "2026-07-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SnNXcXV5aXRuZTlrbFhGdTNvZE1RQXM3N0c1dXpaejVxNFhKeVBEVlg5QmxrbVR6SWk4dzRTWHltUW5YUjZxTFBTTld1MDNHTVVxdmFmejAwS3FnREZ4RS9LblgxclZFcGtoeVBRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=intuit.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f3c7664a2bea0a",
+      "emailDate": "2026-07-07T12:03:39.000Z"
     },
     {
       "merchant": "Misfits Market",
