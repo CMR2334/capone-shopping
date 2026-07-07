@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-07T14:18:16.631Z",
-  "sourceCount": 96,
+  "lastUpdated": "2026-07-07T15:18:15.274Z",
+  "sourceCount": 97,
   "parseFailures": 0,
   "offers": [
     {
@@ -424,20 +424,6 @@
       "emailDate": "2026-07-06T09:24:20.000Z"
     },
     {
-      "merchant": "Anker",
-      "percentBack": 10,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OS9lQWd2VVlpWlozN0dCc2JGcmVEZUZEV1VlYmZXMXlLSzdyYUVQWTlKdENxVnNQYlFtOCtnazdrdFRSaE5NZDRRR0g5VHZoV3BpaXpoR3IvZDhpUFM5TWRjaG1TcENhUGsrNFp3PT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/148x148,logoanker.com,s5sM3NYVpPEP69rSNZPpEW5PHEudL532sMtBBvnOtpDQ/https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A2554021_TD01.2_V1.png?v=1750235541",
-      "source": "single-use",
-      "emailMessageId": "19f332fdd739f92b",
-      "emailDate": "2026-07-05T16:50:02.000Z"
-    },
-    {
       "merchant": "Peak Design",
       "percentBack": 10,
       "dollarBack": null,
@@ -562,6 +548,20 @@
       "source": "single-use",
       "emailMessageId": "19f2c73eddc920d2",
       "emailDate": "2026-07-04T09:27:01.000Z"
+    },
+    {
+      "merchant": "Anker",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-11T07:00:00.000Z",
+      "activationUrl": null,
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "19f3d1045c8b6077",
+      "emailDate": "2026-07-07T14:51:43.000Z"
     },
     {
       "merchant": "Trainline",
