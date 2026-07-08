@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-08T12:17:43.473Z",
-  "sourceCount": 99,
+  "lastUpdated": "2026-07-08T13:17:53.789Z",
+  "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
     {
@@ -11,11 +11,25 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VVVvNnRrNURYYTRKL1luVURhMnRLK2grTzM4cTk1Y1hwVS9XZUFIbnJJcHV6S3NhNjZLZHFJLzNvWDVab0pPb2V4SVFhdTYwallHVUdtTVdjdHA3Wk9ydlBqT1c3SWNpSXp1M1pnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6c240RTlxS0V5dWNHRnVrbndOMmxUdjY0ekxHZk1MUEFiWXZSeWVVSHQzcldwVk9qWmNZczlCMEVpbndKM3VZWGszb3dpaFNPbDlMUCtrVlgvc0czYi9qSGNuODJWc0FERUVKTkdnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=skechers.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19f412ab6b135cca",
-      "emailDate": "2026-07-08T09:59:05.000Z"
+      "emailMessageId": "19f41c3936429e7a",
+      "emailDate": "2026-07-08T12:46:03.000Z"
+    },
+    {
+      "merchant": "Targus",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MnhqeFNXbUJFb0RmdWdjN2Yrek9vbXBqSjN1TDRxVk1zVnl4eVZjY2xoTWJueEppKzFPSDUzb0ZnUVZNcEZKMjFvaW9mVStEWTAzRUJwbWdubUlsc3NMQlhHU29KWXYyUVdkQ1J3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=targus.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f41c3936429e7a",
+      "emailDate": "2026-07-08T12:46:03.000Z"
     },
     {
       "merchant": "Serta",
@@ -312,6 +326,20 @@
       "emailDate": "2026-07-05T16:50:02.000Z"
     },
     {
+      "merchant": "Ulanzi",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZjJHUnloQWJSZWdLYlQ5YzJzSDFWcHFlUG5STGxGQjJrZkErU1E3alJVdEd3UENBUUw0Ty9LRnY4UXgzZGRRVTd1bGZlT3lrdU82bzZkTjJ3RTJxcWpsUERMWjVEZDAyYkFzZlB3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ulanzi.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f41c3936429e7a",
+      "emailDate": "2026-07-08T12:46:03.000Z"
+    },
+    {
       "merchant": "NAPA",
       "percentBack": 14,
       "dollarBack": null,
@@ -382,6 +410,20 @@
       "emailDate": "2026-07-08T00:21:33.000Z"
     },
     {
+      "merchant": "Think Tank Photo",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bnJhenBNTjdMd2U4VUtudW5CdlR2aVl2WWpZTXFYSjR2SUxja1Q3aTVqMm50TFhnU2pheWpHczgvZ3Qza3hTSTZFaDdrRXhGcVdEblNqNnBFblc1TkVQd1FheHRHWUVBYTgzUmVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thinktankphoto.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f41c3936429e7a",
+      "emailDate": "2026-07-08T12:46:03.000Z"
+    },
+    {
       "merchant": "TicketSmarter",
       "percentBack": 12,
       "dollarBack": null,
@@ -422,6 +464,20 @@
       "source": "single-use",
       "emailMessageId": "19f3db3606acc515",
       "emailDate": "2026-07-07T17:49:53.000Z"
+    },
+    {
+      "merchant": "Peak Design",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": 45,
+      "wasPercent": 3,
+      "lastViewed": "July 2",
+      "expiresAt": "2026-07-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dzZlWGNPaHRTVVdCS3RFajB0MW5ncmpHNlBxNWR6dlJNTFk2UysvR01sQ2xqU0IyUFdaZlBDNHZlMUNrRHBQV0JNbUlqWXlMVUFlV2dmRnh5UG8rei9HRHpyalhCUWFqdzEwZk1nPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=peakdesign.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "personalized",
+      "emailMessageId": "19f41c3936429e7a",
+      "emailDate": "2026-07-08T12:46:03.000Z"
     },
     {
       "merchant": "iRobot",
@@ -746,6 +802,34 @@
       "emailDate": "2026-07-05T16:50:02.000Z"
     },
     {
+      "merchant": "Sony",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bTZxVVJvTkd1d29iVDBPTC9JbTRSZDVJOWN4Smx5eVBKZGhMckxkd0hJTHpBTXQ1MmdWSVR0bVhFcEt5WE5BZmlMZ0J1K0pLT3NmMGJlczY5cEhPeGx0b3o4Q1FKbVhLVG5Jc2R3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sony.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f41c3936429e7a",
+      "emailDate": "2026-07-08T12:46:03.000Z"
+    },
+    {
+      "merchant": "ALPAKA",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RXdXNHpUOGVMUU9OVkVhalVYeTBhMWcrUjQ5SGRkRktab2RmVC9LZ0RNM3Y0MzRVaGxNUUltb1lpMjRtclpVcjhQMjVhRXZzRkh5allBcGx6RG1mak9DYUI2ZUU0dHFiOHFjT0tnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=alpakagear.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f41c3936429e7a",
+      "emailDate": "2026-07-08T12:46:03.000Z"
+    },
+    {
       "merchant": "PetSmart",
       "percentBack": 6,
       "dollarBack": null,
@@ -898,6 +982,20 @@
       "source": "single-use",
       "emailMessageId": "19f342cad3146086",
       "emailDate": "2026-07-05T21:26:10.000Z"
+    },
+    {
+      "merchant": "WANDRD Gear",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QmZuR21DTThURGdoRjlOaGMwOFdKWFJ4VlA1QzIzR0pENXpBMElxUVpIQUFtRUdhOSt6bm8waGpZVkxaLzAxbndyM0RRc1NCNU8vYUxLZXQ4NVhWTkpVRWtDbE9UOXVuNWpVQWVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wandrd.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f41c3936429e7a",
+      "emailDate": "2026-07-08T12:46:03.000Z"
     },
     {
       "merchant": "GameTime",
