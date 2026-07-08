@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T21:18:09.823Z",
+  "lastUpdated": "2026-07-08T22:18:09.487Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -30,6 +30,20 @@
       "source": "single-use",
       "emailMessageId": "19f426c5128955ed",
       "emailDate": "2026-07-08T15:50:21.000Z"
+    },
+    {
+      "merchant": "edX",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-07-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6S2pTb0grMVlmV0ZHdDM3QkRoaklzWUtrQzJDNHExSjBCRTZ1YXhET1U5bkJqT3QxQ0tDUXNUZWM0ME4wR1VmY2ZFYVJLNjBETTdCVTg5QXBRaERuS3JOUU02SlRLUDF1dFhldUNBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=edx.org&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f43bb8b65b6ace",
+      "emailDate": "2026-07-08T21:56:31.000Z"
     },
     {
       "merchant": "Airport Parking Reservations",
@@ -254,6 +268,20 @@
       "source": "single-use",
       "emailMessageId": "19f342cad3146086",
       "emailDate": "2026-07-05T21:26:10.000Z"
+    },
+    {
+      "merchant": "pdfFiller",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 10,
+      "lastViewed": null,
+      "expiresAt": "2026-07-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TUFJQ2dISFFBN1hEZWZZc3dBZ2FBWkNYQ1N0RkNoTmZzTlBoaTFiR0MxRXR0aDg5WTYrOEo4SFg2Q0hqb0lDSGlnNE1mcEl1d3FPQzBpeFdxSllUZFBIVnJwWVpkcm5zOHVZem9BPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=pdffiller.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f43bb8b65b6ace",
+      "emailDate": "2026-07-08T21:56:31.000Z"
     },
     {
       "merchant": "Event Tickets Center",
@@ -562,6 +590,20 @@
       "source": "single-use",
       "emailMessageId": "19f3f19f6f1a2e3b",
       "emailDate": "2026-07-08T00:21:33.000Z"
+    },
+    {
+      "merchant": "Liberty Tax",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-07-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bDFmb2JHWnordGJMOVhsQXk2TWZiN1IxTGdhVTlScjZzMU1oa2tVRFJBLzJiNFQ1VDBQY2RQVGhRLy8yZHRrRkN0bHZRRmVRbmpsRkVhbDQ4UDFubU1GM3l3OHRmTFM0SURKUCtBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=libertytax.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f43bb8b65b6ace",
+      "emailDate": "2026-07-08T21:56:31.000Z"
     },
     {
       "merchant": "Peak Design",
@@ -970,6 +1012,20 @@
       "emailDate": "2026-07-08T00:21:33.000Z"
     },
     {
+      "merchant": "Coursera",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6LzZGMzJ6UjZmeEtkWjMvclpHclZYQ1grd3Zack5pWnh0TEpGK3Y0Rnp2aW9NOVoxR25jeXVXMk1JbTZHa01Kbjd1dGgweWQvRXAvanhBWEpueVNLRGwxZVB2dGp2Uk5ERDZYSGZnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=coursera.org&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f43bb8b65b6ace",
+      "emailDate": "2026-07-08T21:56:31.000Z"
+    },
+    {
       "merchant": "Tours4Fun",
       "percentBack": 4,
       "dollarBack": null,
@@ -1082,6 +1138,20 @@
       "emailDate": "2026-07-05T21:26:10.000Z"
     },
     {
+      "merchant": "singaporeair.com",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Nkg1MjJleWhiSzM1eFBWbUtUcWhGRlZNR0J0WWJ2elRITXB4a1J4cm9Xd0F1Q2o0eTVuNkVPM2VjMU4wajd6VHUvL3VybkhvRVY1YXhQTVE1b0F6WERQUVY3Vlg3Vm84M1VwYnR3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=singaporeair.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f43bb8b65b6ace",
+      "emailDate": "2026-07-08T21:56:31.000Z"
+    },
+    {
       "merchant": "GameTime",
       "percentBack": 2,
       "dollarBack": null,
@@ -1138,6 +1208,20 @@
       "emailDate": "2026-07-06T09:24:20.000Z"
     },
     {
+      "merchant": "Remitly",
+      "percentBack": null,
+      "dollarBack": 24,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "July 2",
+      "expiresAt": "2026-07-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d1g2RE9YL0NGYS9xV2lscjhUdStBSVVERTJ3ZHlyVlJyczl1VUdTU0RIcW5sRHJETWVzbU1iZlNyV1hVcE5LMEF0TC9LUFZRMEtHV0sxdk10Nkc2U2FheER0dG02SlY3aThqSHRnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=remitly.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f43bb8b65b6ace",
+      "emailDate": "2026-07-08T21:56:31.000Z"
+    },
+    {
       "merchant": "Intuit",
       "percentBack": null,
       "dollarBack": 12.5,
@@ -1164,6 +1248,20 @@
       "source": "single-use",
       "emailMessageId": "19f426c5128955ed",
       "emailDate": "2026-07-08T15:50:21.000Z"
+    },
+    {
+      "merchant": "OneTravel",
+      "percentBack": null,
+      "dollarBack": 8,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RmIxUmZ6VDZWYXZMc3haVTV6RTFBN0F6SjFNYUJneEt6NE9HVkFVTzRBVmxScW1tVGxKdWpzL1NmRzRVWGRReVh3NDlYNUZZVGhiWDZZL2d4RWV0YTlkMlkySTMrdmFXUG5vKzV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=onetravel.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f43bb8b65b6ace",
+      "emailDate": "2026-07-08T21:56:31.000Z"
     }
   ],
   "upcomingReveals": []
