@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T18:18:18.940Z",
+  "lastUpdated": "2026-07-09T19:18:11.154Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -102,6 +102,34 @@
       "emailDate": "2026-07-09T16:53:37.000Z"
     },
     {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-07-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VUUvaWJPeklBOUNyc2ZpMmpCczBsVmR5b2ZFR3J5NHRYYTBXMUVKc1RZU2MwTGJhZGE5dy9naVl1MlFabk41R1hvdmM4SU9rTjJFaFJETnFhcnVkUmxYNTlBMTJONWpRaUdEOUtnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f48388d9125750",
+      "emailDate": "2026-07-09T18:51:32.000Z"
+    },
+    {
+      "merchant": "Priority Pass",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U0dWVWlDTXd3RlpVOG4wNXRLUitaeUJZWmdlOS9sRWpKN2lLZFAybVBGTlQ3Q3UzT2N5TzExN1kvbjU2eWRFVUtveUZZSUJreUFUZ0h6SUxMOGhVMFlOU3dya2hFNyt1eTJ4TDdRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=prioritypass.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f48388d9125750",
+      "emailDate": "2026-07-09T18:51:32.000Z"
+    },
+    {
       "merchant": "Airalo",
       "percentBack": 20,
       "dollarBack": null,
@@ -114,20 +142,6 @@
       "source": "single-use",
       "emailMessageId": "19f47cc97dd5f43c",
       "emailDate": "2026-07-09T16:53:37.000Z"
-    },
-    {
-      "merchant": "Viator, a Tripadvisor company",
-      "percentBack": 20,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-07-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VWZqMTBhcXNrTE9WemltSmJyaG81M0VoQjFnVENYTk1ocEVzWjZ1NFhWdkF6RTgvR0ZRa0RwOVRtbXJsYmY3cFpQa3RxV2QzVzA2TnlWSG5ISkFJNERnc3NuYldQYjZ2QmdNY0RnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f477b3726224e4",
-      "emailDate": "2026-07-09T15:24:44.000Z"
     },
     {
       "merchant": "Tuft + Paw",
@@ -193,11 +207,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZTZxeUlYaDJqeTVuaFNOR2YyS0dEa1lsb2dVSkVIdlF0VVZUTnFZWUd0eTVrVWVFZ3d1blE2ZGs2ejRYcDlwK09uQm12a1E3OUlkZ2ZFNllQQS94TzlzRXh5ODVnaGhiRnovZk1nPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dUprMVVlUEtzUFpzMGlxMHJYSFJocWRwbjUzb0Rib2tnKzZhWks5SXlsbVl1TTh3OC9EZjFGUUkwNGdzbGs2TzZUVjhDN0NrZFRmbXlvUFBFTW1nUVNoRmNOY3RqMGkxbk52RGZ3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=us.trip.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19f47cc97dd5f43c",
-      "emailDate": "2026-07-09T16:53:37.000Z"
+      "emailMessageId": "19f48388d9125750",
+      "emailDate": "2026-07-09T18:51:32.000Z"
     },
     {
       "merchant": "Tiqets",
@@ -207,11 +221,25 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OHJpZHVRSU1LUEJCTTNJeG1BekFPcWdJb0NoS01DSEZHc2JwSk8rTlZOTkxWaGpCWEFXa0F5L1BYUjY4Q0taSUNWY1RTcTkvekNxZ0xGaTZsTEU5OTVZTDNEeXIvb0FVOXNKTlZnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NlVBbWl3TzJvVXFSV2wvTnpBcEpkRUFNd2F3K1o1M25pZXpPU0Z0MmlIc3NXaGpCNkZicjB0dndOc2JEVmVIbDR5K3QxRk5DcXBoRG4xZ0s0NGVrcHRDZlpDbjh1Sk0rM3BNZHNBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tiqets.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f47cc97dd5f43c",
-      "emailDate": "2026-07-09T16:53:37.000Z"
+      "emailMessageId": "19f48388d9125750",
+      "emailDate": "2026-07-09T18:51:32.000Z"
+    },
+    {
+      "merchant": "Tripadvisor",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TThLVWE0WEhMK3QvTUJ3cUtOUE8zbTBlTFRzQUh4dFFQcFBaei93L09tT1J6TDFUYnZZb0ZmaTcrR091QlJ0YkRDKzdta3lNVXF6VUFnak04cDJQa244ZkttMlNGaWk3WTV5akx3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f48388d9125750",
+      "emailDate": "2026-07-09T18:51:32.000Z"
     },
     {
       "merchant": "Event Tickets Center",
@@ -226,20 +254,6 @@
       "source": "single-use",
       "emailMessageId": "19f47cc97dd5f43c",
       "emailDate": "2026-07-09T16:53:37.000Z"
-    },
-    {
-      "merchant": "Tripadvisor",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-07-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Z3NjbGJNTEp4dzFhN1BaMk1nbW5LcW9VNVF2cmZXUnRyV0NBa0ZuY1BuMnd1bmtaMkhxQTRETGpFNVI1elNCeVVJdUZYS2hNQmZHZ1VNa1NpenJLQWJ1Z09nc3NmeVBXUWdtTnVRPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/tripadvisor.com/ee4fc965-1543-4b8d-a52a-eab6cf6896ec.gif",
-      "source": "single-use",
-      "emailMessageId": "19f46e19f1e2a19d",
-      "emailDate": "2026-07-09T12:36:59.000Z"
     },
     {
       "merchant": "Forkful",
@@ -1040,6 +1054,20 @@
       "emailDate": "2026-07-08T09:59:05.000Z"
     },
     {
+      "merchant": "Enterprise Rent a Car",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NE5ka0g4bjhCNXBhV3h0b0M4MENueG0yejFiVUVhRy9McytVS2Z5ZitBQ29CLy94Tk50MW15cGVZOXh4TjdwVS9lNmg2ekZ3Ry9LaVkxZXVqZDlCOWt4bmNUQ3Y2NFJCNUU3aVZBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=enterprise.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f48388d9125750",
+      "emailDate": "2026-07-09T18:51:32.000Z"
+    },
+    {
       "merchant": "singaporeair.com",
       "percentBack": 2,
       "dollarBack": null,
@@ -1080,6 +1108,20 @@
       "source": "single-use",
       "emailMessageId": "19f41c3936429e7a",
       "emailDate": "2026-07-08T12:46:03.000Z"
+    },
+    {
+      "merchant": "British Airways",
+      "percentBack": 1,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NXFtQlYvZFJZU25lcEtEZGVybmd6RGlQK1FVNDIyS2xocnBqNEFaUUI0aWZhTUZ6S29vdmpKc1VlYnlIQ2kvRzV4dnNwbm5wc0JHWUhmMXFvOFBXemk4OUdJTFVhYVl4SDg5bi9nPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=britishairways.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f48388d9125750",
+      "emailDate": "2026-07-09T18:51:32.000Z"
     },
     {
       "merchant": "T-Mobile Home Internet",
