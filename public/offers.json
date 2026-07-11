@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T14:18:28.371Z",
+  "lastUpdated": "2026-07-11T15:18:20.710Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -520,6 +520,20 @@
       "source": "single-use",
       "emailMessageId": "19f4305a3cebacef",
       "emailDate": "2026-07-08T18:37:50.000Z"
+    },
+    {
+      "merchant": "eBay",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-15T07:00:00.000Z",
+      "activationUrl": null,
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "19f51a9f0fded1e4",
+      "emailDate": "2026-07-11T14:51:59.000Z"
     },
     {
       "merchant": "NFL+",
