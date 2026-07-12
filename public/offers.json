@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T14:18:29.117Z",
+  "lastUpdated": "2026-07-12T15:18:21.231Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-16T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UzlKdUlveE9aQlQwdDU2NkJHQ3Zpd29nMU5PY1dSTEh3SmhoM01qTElUdUNtWDBlcFZ2cnJWR1lhNWxOeTZIRUVoWHZXbXBTQmgwM0diK09UZTIvOEhYMDhVOE9FM2NhN1pCRzdBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eHVnZGEvLysya0Y3ZmFlY045aHVrQ0UxdGlOK3ZDRWVsMFJ0VGtaRjg4anFvQktWR0tjQ05ENWVpUGpDajZGMVNpOXFwTFNocklUWGtnWDc3OURpTlJUNk41STRnTlVIcjZzYzZBPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/shutterfly.com/6df133b3-1f56-4623-82d6-e7cd6e064de4.gif",
       "source": "single-use",
-      "emailMessageId": "19f563524f94740d",
-      "emailDate": "2026-07-12T12:02:30.000Z"
+      "emailMessageId": "19f56cb847413c0c",
+      "emailDate": "2026-07-12T14:46:45.000Z"
     },
     {
       "merchant": "Hostelworld",
@@ -30,6 +30,34 @@
       "source": "single-use",
       "emailMessageId": "19f558f2984b083c",
       "emailDate": "2026-07-12T09:01:12.000Z"
+    },
+    {
+      "merchant": "Rosetta Stone",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6b3RrUHFtM1lnUTJwb0FaQXh6K2ZieWFyQ0hEODZZMlVrYm9XdDdJczU2SWhkai8zRTdaRTBOakJmd2F5MElrSjR1UVQrT0Zsb1U2VTZmUmhvbHl2T1RGV2Fua3l6VHdtTnVPQll3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=rosettastone.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f56cb847413c0c",
+      "emailDate": "2026-07-12T14:46:45.000Z"
+    },
+    {
+      "merchant": "Priority Pass",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U0VIZ2Z5czRYWFduUWdlckRnQ1pBdy9ad1JNUzRRUDNudkMxRy9ES0dhdWMzVmFEQkNMRXlCNTBOVTlKNnNhUjlyKzRnc2VodERNN3pJaGlmS0VYb3ZLMms2RnEzWHlzRUZBUk5RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=prioritypass.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f56cb847413c0c",
+      "emailDate": "2026-07-12T14:46:45.000Z"
     },
     {
       "merchant": "Viator, a Tripadvisor company",
@@ -72,20 +100,6 @@
       "source": "single-use",
       "emailMessageId": "19f558f2984b083c",
       "emailDate": "2026-07-12T09:01:12.000Z"
-    },
-    {
-      "merchant": "Priority Pass",
-      "percentBack": 20,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U0dWVWlDTXd3RlpVOG4wNXRLUitaeUJZWmdlOS9sRWpKN2lLZFAybVBGTlQ3Q3UzT2N5TzExN1kvbjU2eWRFVUtveUZZSUJreUFUZ0h6SUxMOGhVMFlOU3dya2hFNyt1eTJ4TDdRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=prioritypass.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f48388d9125750",
-      "emailDate": "2026-07-09T18:51:32.000Z"
     },
     {
       "merchant": "Tiqets",
@@ -221,11 +235,11 @@
       "wasPercent": 3,
       "lastViewed": null,
       "expiresAt": "2026-07-16T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UnhkRVlTdXFLeW5QVlNzbytIUm5jelhxSHVLbXFETk95Q1RXWEhLWklnRVdDOGViMFl6dCs2ekxJUGFJWW5CMDdtcTFKOXBPNzlZNWZQRmxMYWJNbTJjMFZSeTNvV1RldnJoYmh3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T2xLazR5WjNWMTdCdVdFZVFpa0dPR2xTcHhxZzVNR2dwZWN3WWt4dFBzdmFHeTNOemtXTFkvaTVRMVo2MldtUzJoNmdtZm9wY0lGNFN0Q2doYWxMc25yUlJ6dlRnOFI1Vm9Iak9RPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=getyourguide.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f563524f94740d",
-      "emailDate": "2026-07-12T12:02:30.000Z"
+      "emailMessageId": "19f56cb847413c0c",
+      "emailDate": "2026-07-12T14:46:45.000Z"
     },
     {
       "merchant": "Hilton",
@@ -263,25 +277,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-16T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RUMvQXI0cHlQY1lnUktQcUY4NkpTTlVGaTRTMUNFeEl6S1VxaG5YM21VVzdGbmdVUzZMMklFdzhrTkprMUJEOUFJS3E5OVpOZXAyeVVFR0Y2N3ZERVdHQktlN3Qra3JwTDVxeGRRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=klook.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6L2ZYUGhNbDFtcWUzTWRkNmtManB5akRFR01NazJCZ08xMG9ScGFGRklCU01SU1FTNVBpeGtkMnlDV0JzUlFDdG1oc1laWklGeWI5dkFNN2VMcHpQcERiZFlKTDdvU0hMZXFRQ1d3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=klook.com&fallback=true&opaque=true&type=cropped&width=500",
       "source": "single-use",
-      "emailMessageId": "19f563524f94740d",
-      "emailDate": "2026-07-12T12:02:30.000Z"
-    },
-    {
-      "merchant": "Go City Pass",
-      "percentBack": 7,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-07-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YWJPb1hrbCtFcHJxTkpFTm9QTERjNkVMN0VOMXdreGxQMWJ4d0VwMlBNMXpRcXFyWEFwaTljS0RMdXRpZGpuMUpzQStiMjczZjBaRHhpUmJvWExCTElWeXpUN1REbDEvMitWR3VBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f46e19f1e2a19d",
-      "emailDate": "2026-07-09T12:36:59.000Z"
+      "emailMessageId": "19f56cb847413c0c",
+      "emailDate": "2026-07-12T14:46:45.000Z"
     },
     {
       "merchant": "eBay",
@@ -324,6 +324,34 @@
       "source": "single-use",
       "emailMessageId": "19f46e19f1e2a19d",
       "emailDate": "2026-07-09T12:36:59.000Z"
+    },
+    {
+      "merchant": "Polynesian Cultural Center",
+      "percentBack": 4.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WEVEMmRLVzVkY25LUGNGQURPZEhVYU14N1FBT245NFFJRHNoeEpTM05yc0UyRzFpakNWNmNvaXdyZTVJMlBlY2IzamNadFVoYitOSDY0SERuekExTWpJazErZkxQNGhTVERpMHJnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=polynesia.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f56cb847413c0c",
+      "emailDate": "2026-07-12T14:46:45.000Z"
+    },
+    {
+      "merchant": "Go City Pass",
+      "percentBack": 3.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZjBJdU1CLy9ld2I3bm9SQ2lRWTkxY3RiY0R2N2t1OTRESlkxZWF1VUlwYzhuY3d3Q1ByMWxwWTU5dWpjdHlDWEZZSHFvc2NrUmNmdTB0WU1DN1hHZHRxa3lXNU1XVHJUVll6aWdRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f56cb847413c0c",
+      "emailDate": "2026-07-12T14:46:45.000Z"
     },
     {
       "merchant": "Vivid Seats",
