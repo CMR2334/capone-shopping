@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T16:17:53.866Z",
+  "lastUpdated": "2026-07-14T17:18:00.002Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -382,6 +382,20 @@
       "emailDate": "2026-07-13T15:38:42.000Z"
     },
     {
+      "merchant": "eBay",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-18T07:00:00.000Z",
+      "activationUrl": null,
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "19f618a981cfb395",
+      "emailDate": "2026-07-14T16:51:40.000Z"
+    },
+    {
       "merchant": "iHerb",
       "percentBack": 7,
       "dollarBack": null,
@@ -436,20 +450,6 @@
       "source": "single-use",
       "emailMessageId": "19f580d9812d2b06",
       "emailDate": "2026-07-12T20:38:33.000Z"
-    },
-    {
-      "merchant": "eBay",
-      "percentBack": 6,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-07-15T07:00:00.000Z",
-      "activationUrl": null,
-      "logoUrl": null,
-      "source": "single-use",
-      "emailMessageId": "19f51a9f0fded1e4",
-      "emailDate": "2026-07-11T14:51:59.000Z"
     },
     {
       "merchant": "Polynesian Cultural Center",
