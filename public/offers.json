@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T06:30:43.099Z",
+  "lastUpdated": "2026-07-15T07:17:51.980Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -86,20 +86,6 @@
       "source": "single-use",
       "emailMessageId": "19f56cb847413c0c",
       "emailDate": "2026-07-12T14:46:45.000Z"
-    },
-    {
-      "merchant": "1-800 Contacts",
-      "percentBack": 23,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-07-15T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SzZpakhZcUQzSmc1cG1Ba3RjU1JQcjJ3dURTSTU1aEphM2VraVdxZnRjRFgrSXlQWUQwOGIza0YzYUJwL3IrV1lsbi8ra3VCdlRhQTZvOENTd3dEU1l0bHNZT29qa1BpQnBHM3NRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=1800contacts.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "19f62efbce7ed998",
-      "emailDate": "2026-07-14T23:21:45.000Z"
     },
     {
       "merchant": "Tiqets",
