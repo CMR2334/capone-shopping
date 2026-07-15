@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T23:17:59.082Z",
+  "lastUpdated": "2026-07-15T00:08:01.110Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -95,11 +95,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-15T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TmgwaHRFOTJIL21Xdk1ELzNNQytKYml1cWlFeHJkQzVoS015MmRWbVZTVXFXSUx0Vk5EanVidmF4UllsdnF3WlpMaEwvOFEwbGFtV1ZWVlIyMkhvb2FLWW5SNGZiU0hFMmpkS1hRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SzZpakhZcUQzSmc1cG1Ba3RjU1JQcjJ3dURTSTU1aEphM2VraVdxZnRjRFgrSXlQWUQwOGIza0YzYUJwL3IrV1lsbi8ra3VCdlRhQTZvOENTd3dEU1l0bHNZT29qa1BpQnBHM3NRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=1800contacts.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19f629091b6796f4",
-      "emailDate": "2026-07-14T21:37:49.000Z"
+      "emailMessageId": "19f62efbce7ed998",
+      "emailDate": "2026-07-14T23:21:45.000Z"
     },
     {
       "merchant": "Tiqets",
@@ -114,6 +114,20 @@
       "source": "single-use",
       "emailMessageId": "19f5c6f98632fb12",
       "emailDate": "2026-07-13T17:04:05.000Z"
+    },
+    {
+      "merchant": "Winc",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-07-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WGIvdUFIa2E1TmdOWWlzdC9rdUNUSWZTa3o4NVBuN0lSNk9VaVJQSFYybndBT0JJUE01VkQ1Mm9DMC9LUGlPK0laK3UxdnBXbkNsVWpHRkRWVGRQYzFJSWxNZDdXVjF3TGxidUlBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=winc.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f62efbce7ed998",
+      "emailDate": "2026-07-14T23:21:45.000Z"
     },
     {
       "merchant": "City Cruises",
@@ -186,6 +200,20 @@
       "emailDate": "2026-07-13T15:38:42.000Z"
     },
     {
+      "merchant": "Nolo",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 6,
+      "lastViewed": null,
+      "expiresAt": "2026-07-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bUQ4YlZFNXJPSGlaTjdYVVl3eFRNcm9SUzZMWEk0bzYrY2ZlZ1U1U083cGZtb1I2bE1YMXRUMG91RDdIU3RaNDNYbHFIRngxNVhNMVg1b1gzQ0l1ZXNUWUdGNktHQXlzYWNwZTF3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nolo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f62efbce7ed998",
+      "emailDate": "2026-07-14T23:21:45.000Z"
+    },
+    {
       "merchant": "Event Tickets Center",
       "percentBack": 15,
       "dollarBack": null,
@@ -242,6 +270,20 @@
       "emailDate": "2026-07-12T12:02:30.000Z"
     },
     {
+      "merchant": "Big Bus Tours",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VmNyV1pnT0ZVWThQaFhGQ1Y3SG9yYS9LM3M3RlBGTEYycFZlNUQxRkxYSktKTDRFN0prbW40TjBLQlJJb3F0emp5empLdENiSE5kSk51YkRDL2NZa2d5SnhPWW5ISUZGb0xDOElnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f62efbce7ed998",
+      "emailDate": "2026-07-14T23:21:45.000Z"
+    },
+    {
       "merchant": "TicketSmarter",
       "percentBack": 14,
       "dollarBack": null,
@@ -296,6 +338,20 @@
       "source": "single-use",
       "emailMessageId": "19f5c6f98632fb12",
       "emailDate": "2026-07-13T17:04:05.000Z"
+    },
+    {
+      "merchant": "Gary's Wine",
+      "percentBack": 11,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NXVsZE91bG9WQlNuVytxaHgrOElqc2FpUi91Rjh0T3RZaG11Q2hlN3JzaWRGeXE2elg5RE5CZkdKblQ0a0NuU0dLL0xTWkthclZyQzR5U3FxTGRVaVg4eExrN01LNnYrVjN4RUpRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=garyswine.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f62efbce7ed998",
+      "emailDate": "2026-07-14T23:21:45.000Z"
     },
     {
       "merchant": "Hertz",
@@ -550,6 +606,20 @@
       "emailDate": "2026-07-13T15:38:42.000Z"
     },
     {
+      "merchant": "Wine Insiders",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ekI5V2lJSmd6TmEwdCtzbk82Ukd5aGtYRU1yS1FOWEc3U3JRMm1VS3J0d29LZDd6ZWVaeTVBSlpPN3VzYVdaNGxseVZQL0YwZzhPdDdiMDUyRzJRTlZsV1ZMUExsWmx2Z1FQMUJnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wineinsiders.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f62efbce7ed998",
+      "emailDate": "2026-07-14T23:21:45.000Z"
+    },
+    {
       "merchant": "PetCareRx",
       "percentBack": 6,
       "dollarBack": null,
@@ -607,17 +677,17 @@
     },
     {
       "merchant": "Go City Pass",
-      "percentBack": 3.5,
+      "percentBack": 3,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": 1,
       "lastViewed": null,
-      "expiresAt": "2026-07-16T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZjBJdU1CLy9ld2I3bm9SQ2lRWTkxY3RiY0R2N2t1OTRESlkxZWF1VUlwYzhuY3d3Q1ByMWxwWTU5dWpjdHlDWEZZSHFvc2NrUmNmdTB0WU1DN1hHZHRxa3lXNU1XVHJUVll6aWdRPT0/runV3dl",
+      "expiresAt": "2026-07-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6V0lPKytMNStiMXJvdEJrZ0YrZVVqRUwvaDdrWWhQVGRuTnpYMHpzM0FOOUlGUmh5Nmg5T0lXZVpqblJvdUhvVUhHNE5BR2JwdVV1RU9HUVIrN2xnU3RKc0hSa01GUFBBWUhFSWt3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f56cb847413c0c",
-      "emailDate": "2026-07-12T14:46:45.000Z"
+      "emailMessageId": "19f62efbce7ed998",
+      "emailDate": "2026-07-14T23:21:45.000Z"
     },
     {
       "merchant": "Lowe's",
