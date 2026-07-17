@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T10:18:12.239Z",
+  "lastUpdated": "2026-07-17T11:18:07.876Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -44,6 +44,20 @@
       "source": "single-use",
       "emailMessageId": "19f6ad3c5796f660",
       "emailDate": "2026-07-16T12:08:10.000Z"
+    },
+    {
+      "merchant": "Cole Haan",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cDFiTkFQbWFyVDBTYURWM1BSKy9oWWVjL3hnUjF4OFNUSWJWWlhjQ1RUcTdRV0QzeUZhMTlRWlRQR0pjMFpqTTlDaUhlOEwvTis2cjV1Rko5WGV3dmYwNzQrVHpnYzlva2t2Y1R3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=colehaan.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19f6fb12834ec084",
+      "emailDate": "2026-07-17T10:48:28.000Z"
     },
     {
       "merchant": "Winc",
@@ -186,6 +200,20 @@
       "emailDate": "2026-07-14T23:21:45.000Z"
     },
     {
+      "merchant": "Forkful",
+      "percentBack": 12.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-21T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YzMyRzkyUEtoWnkrbmxlTWMyV3F2d09DalZBVG9rSE84ajVXZjBtSEtuSlNSZ3hWNUtlWDZZRERQak1JTUZMZkV5MlZRekVlZ2Q3aGROeUJCZGlpNktCR1lpeVUzRFJhVzN5SnlnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=forkfulmeals.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f6fb12834ec084",
+      "emailDate": "2026-07-17T10:48:28.000Z"
+    },
+    {
       "merchant": "Peak Design",
       "percentBack": 12.5,
       "dollarBack": null,
@@ -198,6 +226,20 @@
       "source": "personalized",
       "emailMessageId": "19f62029149eba61",
       "emailDate": "2026-07-14T19:02:42.000Z"
+    },
+    {
+      "merchant": "Chewy",
+      "percentBack": 11.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-21T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U01RQTZTVFF1MFpSYjgxak1Xd0ZHV1hlclVsbHNMM0FxcnMxak1wTkJPTGRqeGIyMzFYNVZPZDlvdStrWWdDLy9QZXhDYlVreTNMOVFwSDl4VThxMEhuZUdYYWFOR1p3cEd4ZDBRPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/chewy.com/5dbeb0ab-6a98-4973-a433-f48cfc08193b.gif",
+      "source": "single-use",
+      "emailMessageId": "19f6fb12834ec084",
+      "emailDate": "2026-07-17T10:48:28.000Z"
     },
     {
       "merchant": "Tiqets",
