@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-07-18T16:18:29.394Z",
+  "lastUpdated": "2026-07-18T17:18:34.288Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Firstleaf Wine Club",
+      "percentBack": 35,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZVdRWUdyUEFJdS9XQVlONmc3ME8yZThPc2dnSTBZcCsxQXZwMnBEa3FibllRVnRqMUJWVWpCRGFhV3dqYWR6a21RVmVZVE40N2p6VHZ2SFlhcnZieVVUNDNhSGRlZnhEWnh6LzVRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=firstleaf.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f7634ae814c15e",
+      "emailDate": "2026-07-18T17:09:51.000Z"
+    },
     {
       "merchant": "europcar.com",
       "percentBack": 25,
@@ -214,6 +228,20 @@
       "emailDate": "2026-07-17T21:39:30.000Z"
     },
     {
+      "merchant": "Big Bus Tours",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q3BnM0JFR1I4cnNjL25WVmhCaEdHRDRHRXBQWkZXR1FNcHlDWFBqTUJrdzl1eWZnZ05IWFhFd3Q2Q3JZLzQ1UmxJSTNXY1BVZkUvRnB0Wnh0b3ljODFZcmxNVVlHaDRJT2tYTHFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f7634ae814c15e",
+      "emailDate": "2026-07-18T17:09:51.000Z"
+    },
+    {
       "merchant": "Ticket Network",
       "percentBack": 14,
       "dollarBack": null,
@@ -235,11 +263,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-07-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6M3YweXdMTXpwSktvdmZ1MWQ2Q0hTdFJEMmp4Nyt1UHBRTXNXOVVJUzkzOExzRHdVS1A1SE51c2ZzWkdPalBCamp1ZUhYUjlhZ2lScU5OKzNKS1BSMnZpamUvMUFlZGVMMDZQQU9RPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6S3JDcnJobFErUm5VdEduakd1TW9pNCtzdVhDM0c3dGc1bGVlNEhHWUltTG04NGFVSENkMTRQT0ZTdXh1U212eUIxT3BHVjN6VmNYL1Z0VlQrVnJaR0RtRy9lUkpRc1AxTFVtY0dRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=meta.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "19f753d4ad73d15d",
-      "emailDate": "2026-07-18T12:39:38.000Z"
+      "emailMessageId": "19f7634ae814c15e",
+      "emailDate": "2026-07-18T17:09:51.000Z"
     },
     {
       "merchant": "Peak Design",
@@ -298,6 +326,20 @@
       "emailDate": "2026-07-17T21:39:30.000Z"
     },
     {
+      "merchant": "Gary's Wine",
+      "percentBack": 11,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6amt6Zm11VkFEWFJaSlpKNXVGYU5pVzRMUzlGdkw0MllRN29tQjczeHlVV0JwelZsT3RETWEyWHNnMmZReG9haFZaaVpHZCtWVE1TWHk2djJ6R1pBdzgrV01zcGFLa2ZuMFBpc0pnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=garyswine.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f7634ae814c15e",
+      "emailDate": "2026-07-18T17:09:51.000Z"
+    },
+    {
       "merchant": "Kurgo",
       "percentBack": 11,
       "dollarBack": null,
@@ -312,6 +354,20 @@
       "emailDate": "2026-07-17T21:39:30.000Z"
     },
     {
+      "merchant": "Winc",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-07-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YjdqT2NWQlRpTmprejM5azlkcERoSll5bHN4RHRuRmJvZ3NIdS9RdjFrNC9jMERHMDVHeGE0T21sY2E3RWpqRlJPeFYvMGU3TGo1ZW9MblNuWnU1YnliemtNenprekJidW1TSzdnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=winc.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f7634ae814c15e",
+      "emailDate": "2026-07-18T17:09:51.000Z"
+    },
+    {
       "merchant": "Hertz",
       "percentBack": 10,
       "dollarBack": null,
@@ -324,6 +380,20 @@
       "source": "single-use",
       "emailMessageId": "19f6ad3c5796f660",
       "emailDate": "2026-07-16T12:08:10.000Z"
+    },
+    {
+      "merchant": "Wine Insiders",
+      "percentBack": 9.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Y1NRSnh2VThNYkx3Qk1xaGFEaUVuVzk5WkZsUE8vb2pMRUp0dWYwdHJQYzRnWFVtY1V2bUcwdVVUR3F5c0FUclhIYkM3S0RKS1RLNUR6dnROeWd1R05xVG41UGE4QVVkOTNzSkxBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wineinsiders.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f7634ae814c15e",
+      "emailDate": "2026-07-18T17:09:51.000Z"
     },
     {
       "merchant": "GetYourGuide",
@@ -352,6 +422,20 @@
       "source": "single-use",
       "emailMessageId": "19f716c206876376",
       "emailDate": "2026-07-17T18:52:18.000Z"
+    },
+    {
+      "merchant": "Way.com",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6c0o3Q1k3MU4rc254TnROVTU0a2tSZUZHMDlmZHRUVFovLzhjVnpqVlR4bFJxdElFSFE0eUZoMkYydWIzaDJFUERFdUFIajg2U1JRNG5FbTlFQS9yMFhyTHdJVUlIcStuajdSZ2dRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=way.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f7634ae814c15e",
+      "emailDate": "2026-07-18T17:09:51.000Z"
     },
     {
       "merchant": "Fathead",
