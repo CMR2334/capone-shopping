@@ -24,7 +24,7 @@ HANDOFF = orientation + state. CHANGELOG = the commit-level ledger. Keep both cu
 
 ---
 
-## Project snapshot (as of 2026-06-07)
+## Project snapshot (as of 2026-07-18)
 
 A PWA that tracks Capital One Shopping cashback offers: it ingests offer emails
 from Gmail, parses them to structured data, and shows them in a mobile-first card
@@ -36,9 +36,11 @@ UI with favorite / hide / sort / filter and (intended) cross-device sync.
   Claude Code. Same project; the repo and local directory stay `capone-shopping`. The
   label is cosmetic and does not affect files or sync.
 - **Source inbox:** `a dedicated account` — sender filter `hello@capitaloneshopping.com`
-- **Status:** Live and healthy. GitHub Actions / Worker cron (ingest + Pages deploy) runs
-  hourly. The frontend (`public/index.html`,
-  ~700 lines, single file, no build step) is the bulk of ongoing work.
+- **Status:** Live and healthy. GitHub Actions cron (ingest + Pages deploy) runs
+  hourly (`17 * * * *`). The frontend (`public/index.html`, ~850 lines, single
+  file, no build step) is the bulk of ongoing work. `APP_VERSION` shows in the
+  footer so a cached client is identifiable — bump it with `package.json`
+  `version` on each meaningful release.
 
 > **Naming note:** the repo was renamed `capone-offers` → `capone-shopping` on
 > 2026-05-16. GitHub redirects the old clone URL, so `git clone …/capone-offers.git`
@@ -161,21 +163,11 @@ git push origin main
 
 ## Known issues / open questions
 
-- **✅ Cross-device sync — FIXED 2026-06-07.** Previously `bootstrapSyncToken()` minted
-  a per-device `crypto.randomUUID()` when the app was opened without `?sync=`, giving
-  each device a *private* KV bucket (green dot, but no real sharing). Now every device
-  defaults to a shared token (`SHARED_SYNC_TOKEN` in `index.html`), so all devices
-  read/write one bucket = true cross-device sync with zero setup. Legacy random-UUID
-  tokens auto-migrate to the shared token on next load, so existing devices reconverge
-  after one refresh. `?sync=OTHER` still overrides for a custom/private namespace.
-  Caveats: (1) the token sits in client JS — a static site can't keep it secret — so
-  the bucket is protected by obscurity only; fine for non-sensitive favorites/hidden
-  data, not for anything private. (2) On first convergence it's last-writer-wins: the
-  first device to load after the change seeds the shared bucket and others adopt it,
-  so glance at favorites once and re-add anything missing.
-- **✅ README sync section — FIXED 2026-06-14.** README previously described sync as
-  opt-in (gray dot "by design"). Updated to match current always-on shared-token
-  behavior: green/red in normal use, gray only briefly before bootstrap.
+- **Sync token is public by design.** Cross-device sync works via a shared token
+  (`SHARED_SYNC_TOKEN` in `index.html`, fixed 2026-06-07 — see CHANGELOG `33da2ac`);
+  a static site can't keep it secret, so the KV bucket is protected by obscurity only.
+  Fine for favorites/hidden state; never store anything private in it. `?sync=OTHER`
+  overrides for a custom namespace.
 - **Local Mac copy may be stale.** A `…/Automation/capone-offers/` folder existed
   locally with **no `.git`** and old files (pre-rename). The real local working copy
   should be a fresh clone of `capone-shopping`. Dispatch is unaffected (it clones fresh).

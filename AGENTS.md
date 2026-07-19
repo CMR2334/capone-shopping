@@ -60,24 +60,25 @@ These are known fixes that must be preserved when editing the frontend:
 
 ## Auto-Push Protocol
 
-Always commit and push after making changes to the frontend. The live URL rebuilds automatically within 30–90 seconds.
+Always commit and push after making changes to the frontend. The live URL rebuilds automatically within 30–90 seconds. The CI ingestor commits `public/offers.json` every ~15 minutes, so **always rebase before pushing** (canonical version, including the stash dance: HANDOFF.md → Auto-push protocol):
 
 ```bash
 cd ~/Automation/capone-shopping && \
   git add public/index.html && \
-  git commit -m "auto update" && \
+  git commit -m "descriptive, imperative summary" && \
+  git pull --rebase && \
   git push origin main
 ```
 
-Do not manually commit `public/offers.json` — the ingestor manages that file via GitHub Actions.
+Do not manually commit or hand-edit `public/offers.json` — the ingestor manages that file via GitHub Actions.
 
 ---
 
 ## Session Protocol
 
 1. Claim the session with `node ~/Automation/scripts/agent-session.js start --platform <codex|claude> --scope "$PWD" --task "short description"`.
-2. Check `CHANGELOG.md` for recent significant changes before starting work.
+2. Read `HANDOFF.md` (current state, environment limits, open issues), then check the top of `CHANGELOG.md` for recent significant changes.
 3. Do the work.
-4. Commit and push.
+4. Commit, rebase (`git pull --rebase`), and push.
 5. Release the session with `node ~/Automation/scripts/agent-session.js done --id SESSION_ID`.
-6. Add an entry to `CHANGELOG.md` if the change is significant (UI changes, logic changes, new features, bug fixes).
+6. Add an entry to `CHANGELOG.md` if the change is significant (UI changes, logic changes, new features, bug fixes), and update HANDOFF.md's snapshot/roadmap/known-issues if the state changed.

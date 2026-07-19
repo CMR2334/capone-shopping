@@ -1,80 +1,28 @@
 # Capital One Shopping Tracker — Claude Code Instructions
 
-## Pre-Approved Access
-Collin pre-approves all Bash, Read, Edit, Write, and computer-use actions for:
-- All paths under ~/Automation/
-- ~/Library/LaunchAgents/
-- /tmp/
-No need to request confirmation for these locations in any session.
-See ../docs/USER_PROFILE.md for full working preferences.
+Claude-specific config only. **Read [HANDOFF.md](HANDOFF.md) first** — current
+state, the environment capability matrix (mobile/Dispatch vs the owner's Mac),
+infra/secrets map, roadmap, and open issues. Architecture + protocols live in
+[AGENTS.md](AGENTS.md); deep reference (ingestor, parser, worker, endpoints)
+in [README.md](README.md). Don't restate those here.
 
-## Read first
-**Read [HANDOFF.md](HANDOFF.md) first** — it is the cross-session, cross-device front
-door: current state, the environment capability matrix (what works on mobile/Dispatch
-vs the owner's Mac), infra/secrets locations, roadmap, and open issues. Then check
-[CHANGELOG.md](CHANGELOG.md) for recent commit-level changes.
-
-## Coordination guard
-Before editing files, follow [../docs/AI_COORDINATION.md](../docs/AI_COORDINATION.md):
-
-```bash
-node ~/Automation/scripts/agent-session.js start --platform claude --scope "$PWD" --task "short description"
-```
-
-If another active Claude/Codex session overlaps this project or the target files, pause and coordinate or use a Git worktree. Release the session after commit/push:
-
-```bash
-node ~/Automation/scripts/agent-session.js done --id SESSION_ID
-```
-
-## Auto-push protocol (apply in every session)
-Always commit and push after making frontend changes. GitHub Pages rebuilds within 30–90s.
-
-The ingestor bot commits `public/offers.json` hourly, so a plain push can be
-rejected as non-fast-forward. **Always rebase before pushing:**
-
-```bash
-cd ~/Automation/capone-shopping && \
-  git add public/index.html && \
-  git commit -m "describe the change" && \
-  git pull --rebase && \
-  git push origin main
-```
-
-Do **not** manually commit `public/offers.json` — the GitHub Actions ingestor manages that file.
-See HANDOFF.md → "Auto-push protocol" for the canonical version (incl. the stash dance when you have uncommitted changes at pull time).
-
-Push at least every 30 minutes of active work. Push before the user steps away.
-
-Live URL: `https://CMR2334.github.io/capone-shopping/` (rebuilt automatically by GitHub Pages within 30–90s of every push to `main`).
-
-## Project
-Single-file PWA that tracks Capital One Shopping cashback offers. Frontend lives in `public/index.html` (vanilla JS + CSS, no build step). Offers are ingested from Gmail by a GitHub Actions cron and committed as `public/offers.json`.
+## Session start
+Read HANDOFF.md, then skim the top of [CHANGELOG.md](CHANGELOG.md).
 
 ## Permissions
-This project runs with `bypassPermissions` mode — all tool calls (Bash, Read, Edit, Write, etc.) are auto-approved without prompting. Configured in `.claude/settings.json`.
+`bypassPermissions` mode via `.claude/settings.json` — all tool calls
+auto-approved. Collin additionally pre-approves every action under
+`~/Automation/`, `~/Library/LaunchAgents/`, and `/tmp/`.
 
-## Architecture
-See [AGENTS.md](AGENTS.md) for full architecture notes (AI-agnostic version of this file).
+## Push rules (canonical version: HANDOFF.md → Auto-push protocol)
+- The CI ingestor commits `public/offers.json` hourly (GitHub Actions cron `17 * * * *`) — **always
+  `git pull --rebase` before pushing**, or the push is rejected.
+- Never hand-edit or manually commit `public/offers.json` — the ingestor owns it.
+- Push after every meaningful change, at least every 30 min, and before the
+  user steps away. Add a CHANGELOG entry for significant changes.
+- Live URL: https://CMR2334.github.io/capone-shopping/ (rebuilds 30–90 s after push).
 
-## Key File Locations
-- `public/index.html` — entire frontend app
-- `public/offers.json` — parsed offer data (auto-committed by GitHub Actions ingestor)
-- `public/favicon.svg`, `public/logo.png` — app icon assets
-- `ingestor/ingest.js` — Gmail ingestion and parsing logic
-- `sync-worker/` — Cloudflare Worker source (cross-device sync backend)
-- `.github/workflows/` — GitHub Actions cron and deploy config
-
-## Key UI Constraints
-- Grid columns: `minmax(0, 1fr)` — never plain `1fr` (causes card overflow on mobile)
-- Logo images: `align-self: flex-start` (prevents stretch when adjacent text is taller)
-- Mobile action buttons: 26px minimum touch target
-
-## Repo
-- Repo: https://github.com/CMR2334/capone-shopping
-- Live URL: https://CMR2334.github.io/capone-shopping/
-
-## Shared Documentation
-- User profile and preferences: ~/Automation/docs/USER_PROFILE.md
-- Workflow preferences: ~/Automation/docs/PREFERENCES.md
-- Automation workspace overview: ~/Automation/docs/CONTEXT.md
+## Shared docs
+`~/Automation/docs/USER_PROFILE.md` (owner + working style) ·
+`~/Automation/docs/PREFERENCES.md` (code/doc standards) ·
+`~/Automation/docs/CONTEXT.md` (workspace overview).
