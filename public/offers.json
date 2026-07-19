@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T06:45:01.455Z",
+  "lastUpdated": "2026-07-19T07:18:36.685Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -254,20 +254,6 @@
       "source": "single-use",
       "emailMessageId": "19f6b8cc5cccc6ba",
       "emailDate": "2026-07-16T15:30:15.000Z"
-    },
-    {
-      "merchant": "Meta",
-      "percentBack": 12.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-07-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6S3JDcnJobFErUm5VdEduakd1TW9pNCtzdVhDM0c3dGc1bGVlNEhHWUltTG04NGFVSENkMTRQT0ZTdXh1U212eUIxT3BHVjN6VmNYL1Z0VlQrVnJaR0RtRy9lUkpRc1AxTFVtY0dRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=meta.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "19f7634ae814c15e",
-      "emailDate": "2026-07-18T17:09:51.000Z"
     },
     {
       "merchant": "Peak Design",
