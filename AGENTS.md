@@ -4,7 +4,6 @@ This document is for any AI assistant working in this directory. It is AI-agnost
 
 See [../docs/USER_PROFILE.md](../docs/USER_PROFILE.md) for the workspace owner's working style and communication preferences.
 See [../docs/PREFERENCES.md](../docs/PREFERENCES.md) for code and documentation standards.
-See [../docs/AI_COORDINATION.md](../docs/AI_COORDINATION.md) before editing files so parallel Claude/Codex work does not overlap silently.
 
 **Read [HANDOFF.md](HANDOFF.md) first** — current state, the environment capability
 matrix (what works on mobile/Dispatch vs the owner's Mac), infra/secrets locations,
@@ -60,7 +59,7 @@ These are known fixes that must be preserved when editing the frontend:
 
 ## Auto-Push Protocol
 
-Always commit and push after making changes to the frontend. The live URL rebuilds automatically within 30–90 seconds. The CI ingestor commits `public/offers.json` every ~15 minutes, so **always rebase before pushing** (canonical version, including the stash dance: HANDOFF.md → Auto-push protocol):
+Always commit and push after making changes to the frontend. The live URL rebuilds automatically within 30–90 seconds. The CI ingestor commits `public/offers.json` hourly (GitHub Actions cron `17 * * * *`), so **always rebase before pushing** (canonical version, including the stash dance: HANDOFF.md → Auto-push protocol):
 
 ```bash
 cd ~/Automation/capone-shopping && \
@@ -76,9 +75,7 @@ Do not manually commit or hand-edit `public/offers.json` — the ingestor manage
 
 ## Session Protocol
 
-1. Claim the session with `node ~/Automation/scripts/agent-session.js start --platform <codex|claude> --scope "$PWD" --task "short description"`.
-2. Read `HANDOFF.md` (current state, environment limits, open issues), then check the top of `CHANGELOG.md` for recent significant changes.
-3. Do the work.
-4. Commit, rebase (`git pull --rebase`), and push.
-5. Release the session with `node ~/Automation/scripts/agent-session.js done --id SESSION_ID`.
-6. Add an entry to `CHANGELOG.md` if the change is significant (UI changes, logic changes, new features, bug fixes), and update HANDOFF.md's snapshot/roadmap/known-issues if the state changed.
+1. Read `HANDOFF.md` (current state, environment limits, open issues), then check the top of `CHANGELOG.md` for recent significant changes.
+2. Do the work.
+3. Commit, rebase (`git pull --rebase`), and push.
+4. Add an entry to `CHANGELOG.md` if the change is significant (UI changes, logic changes, new features, bug fixes), and update HANDOFF.md's snapshot/roadmap/known-issues if the state changed.

@@ -13,6 +13,14 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-07-18 — Docs: dedupe CLAUDE.md/AGENTS.md, retire agent-session coordination
+**Commit:** see `git log --grep="agent-session" -1` and the preceding docs commit
+**Files:** `CLAUDE.md`, `AGENTS.md`, `HANDOFF.md`, `.claude/settings.json`
+**What changed:** Recovered a docs-dedupe commit stranded mid-rebase since 2026-07-03: CLAUDE.md now defers to HANDOFF/AGENTS/README instead of restating them, AGENTS.md's push protocol reflects the hourly (`17 * * * *`) ingest cron, and HANDOFF's snapshot was refreshed (hourly cadence, ~850-line frontend, `APP_VERSION` note). Also removed the `agent-session.js` claim/release protocol from AGENTS.md and its SessionStart/PreToolUse hooks from `.claude/settings.json` — the multi-agent session-locking experiment is retired; `bypassPermissions` remains.
+**Revert:** `git revert HASH` (per commit)
+
+---
+
 ## 2026-07-02 — CI: reduce routine offer refresh/deploy cadence to hourly
 **Commit:** `98d3056`
 **Files:** `.github/workflows/ingest.yml`, `sync-worker/wrangler.toml`, `public/index.html`, `package.json`, `package-lock.json`, docs

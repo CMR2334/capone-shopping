@@ -1,37 +1,3 @@
 {
-  "bypassPermissions": true,
-  "hooks": {
-    "SessionStart": [
-      {
-        "matcher": "startup|resume|clear|compact",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "node $HOME/Automation/scripts/agent-session.js hook-start --platform claude"
-          }
-        ]
-      }
-    ],
-    "PreToolUse": [
-      {
-        "matcher": "Edit|Write|MultiEdit|NotebookEdit",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "node $HOME/Automation/scripts/agent-session.js hook-pretool --platform claude"
-          }
-        ]
-      }
-    ],
-    "Stop": [
-      {
-        "hooks": [
-          {
-            "type": "command",
-            "command": "node $HOME/Automation/scripts/agent-session.js hook-stop --platform claude"
-          }
-        ]
-      }
-    ]
-  }
+  "bypassPermissions": true
 }
