@@ -13,6 +13,14 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-07-19 — CI: treat GitHub Pages setup/API failures as warnings
+**Commit:** `3f80328`
+**Files:** `.github/workflows/ingest.yml`
+**What changed:** Extended the Pages-only failure guard beyond `actions/deploy-pages` to cover `actions/configure-pages` and `actions/upload-pages-artifact` too. The 2026-07-19 failure happened before deployment, when `configure-pages` could not read the GitHub Pages site because GitHub returned "No server is currently available to service your request." Ingest had already succeeded, so these Pages API/setup failures now emit a workflow warning and a deduped `pages-deploy-warning` issue without sending a failed-workflow email. Gmail/auth/parser failures still fail the workflow.
+**Revert:** `git revert 3f80328`
+
+---
+
 ## 2026-07-18 — Docs: dedupe CLAUDE.md/AGENTS.md, retire agent-session coordination
 **Commit:** see `git log --grep="agent-session" -1` and the preceding docs commit
 **Files:** `CLAUDE.md`, `AGENTS.md`, `HANDOFF.md`, `.claude/settings.json`
