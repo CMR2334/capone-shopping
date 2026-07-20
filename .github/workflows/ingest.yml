@@ -53,7 +53,7 @@ jobs:
     needs: ingest
     runs-on: ubuntu-latest
     outputs:
-      pages_outcome: ${{ steps.deployment.outcome }}
+      pages_warning: ${{ steps.configure_pages.outcome == 'failure' || steps.upload_artifact.outcome == 'failure' || steps.deployment.outcome == 'failure' }}
     environment:
       name: github-pages
       url: https://cmr2334.github.io/capone-shopping/
@@ -61,19 +61,25 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
-      - uses: actions/configure-pages@v4
-      - uses: actions/upload-pages-artifact@v3
+      - id: configure_pages
+        uses: actions/configure-pages@v4
+        continue-on-error: true
+      - id: upload_artifact
+        if: steps.configure_pages.outcome == 'success'
+        uses: actions/upload-pages-artifact@v3
+        continue-on-error: true
         with:
           path: ./public
       - id: deployment
+        if: steps.configure_pages.outcome == 'success' && steps.upload_artifact.outcome == 'success'
         uses: actions/deploy-pages@v4
         continue-on-error: true
         with:
           timeout: 600000
-      - name: Warn on Pages-only deploy failure
-        if: steps.deployment.outcome == 'failure'
+      - name: Warn on Pages-only pipeline failure
+        if: steps.configure_pages.outcome == 'failure' || steps.upload_artifact.outcome == 'failure' || steps.deployment.outcome == 'failure'
         run: |
-          echo "::warning::GitHub Pages did not finish deploying before deploy-pages timed out. Ingest succeeded and offers.json was committed; the live site may lag until GitHub Pages drains its queue."
+          echo "::warning::GitHub Pages setup/upload/deploy failed after ingest succeeded. offers.json was committed; the live site may lag until GitHub Pages recovers and a later run publishes it."
 
   # If ingest or deploy fails, surface it as a GitHub issue so a dead refresh token
   # or broken cron is visible instead of offers.json silently going stale.
@@ -113,7 +119,7 @@ jobs:
   # workflow green to avoid repeated email alerts, but leave a deduped issue trail.
   notify-deploy-warning:
     needs: [ingest, deploy]
-    if: needs.ingest.result == 'success' && needs.deploy.outputs.pages_outcome == 'failure'
+    if: needs.ingest.result == 'success' && needs.deploy.outputs.pages_warning == 'true'
     runs-on: ubuntu-latest
     permissions:
       issues: write
@@ -134,9 +140,9 @@ jobs:
             exit 0
           fi
           body=$(printf '%s\n' \
-            "The ingestor succeeded and committed public/offers.json, but GitHub Pages did not finish publishing before actions/deploy-pages timed out." \
+            "The ingestor succeeded and committed public/offers.json, but the GitHub Pages setup/upload/deploy pipeline failed." \
             "" \
-            "This is usually a GitHub Pages queue or service degradation. The live site may lag until the next successful deploy publishes the latest committed feed." \
+            "This is usually a GitHub Pages queue/API/service degradation. The live site may lag until the next successful deploy publishes the latest committed feed." \
             "" \
             "Failed deploy run: $RUN_URL" \
             "Commit: $GITHUB_SHA" \
