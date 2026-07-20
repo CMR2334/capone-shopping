@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T09:17:37.112Z",
+  "lastUpdated": "2026-07-20T10:17:36.588Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -16,6 +16,48 @@
       "source": "single-use",
       "emailMessageId": "19f7634ae814c15e",
       "emailDate": "2026-07-18T17:09:51.000Z"
+    },
+    {
+      "merchant": "Ticket Club",
+      "percentBack": 34.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VXZLay9pNGpzMDZOQmFXUG1nOWUwckx3OVdxSGRuOTd6YnI0UFdQdm04aUtFL2dreEoyb1pGMzBJbHBLT2tJVEpVYjZlYjZ2ZjNEcUhDS2J1b0hIVnNxcnlHSkJRaU5Ba2IyaDdRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f7efd13f6e41a8",
+      "emailDate": "2026-07-20T10:05:41.000Z"
+    },
+    {
+      "merchant": "Ulta Beauty",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-21T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RU0zOW9TckhqSUpJbXRTMnpxbEJVNE5rRW9id2xBcnl4Q0tmaHlBMnN6c1BLUSt0Q0tiWW1QbDRFMDZlN1AyM3lRTjdqcW5DaEhmM1hnZzFmRXdOVWNoQmM1TURaUDdWOXo2WXp3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ulta.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "19f7efd13f6e41a8",
+      "emailDate": "2026-07-20T10:05:41.000Z"
+    },
+    {
+      "merchant": "Ticket Liquidator",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-07-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U0hpZ3JkWHk0N28xbmNVZ3kwQWIrRjBTMVkrNHc5Qm8ybW40RnUvbG9uOUJoSGNDY0FkM1BoRzk4WnhUYk5abk9kOVNjMmtqZWF5RmZ2L1NqTUFVWkpSSUg2ZEJXUEZUTkRHL0pBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketliquidator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f7efd13f6e41a8",
+      "emailDate": "2026-07-20T10:05:41.000Z"
     },
     {
       "merchant": "Viator, a Tripadvisor company",
@@ -214,6 +256,20 @@
       "emailDate": "2026-07-17T21:39:30.000Z"
     },
     {
+      "merchant": "Ticket Network",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eXZ6UGlFM0tpWnk3amlCM3QyMWRVU3BneDdUQ3A5VjdhNFY4SWRWMm9vcFFUL2FaZzc4aEl6dmxyNWJTRlJ0eHlJVno3K2lHZHFNRnNmTkVsNWV5Q1A1YjdWSnhaek05Y2h2WWVRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketnetwork.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f7efd13f6e41a8",
+      "emailDate": "2026-07-20T10:05:41.000Z"
+    },
+    {
       "merchant": "Big Bus Tours",
       "percentBack": 14,
       "dollarBack": null,
@@ -382,20 +438,6 @@
       "emailDate": "2026-07-19T09:36:09.000Z"
     },
     {
-      "merchant": "IHG",
-      "percentBack": 8,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": "June 28",
-      "expiresAt": "2026-07-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6N1ROdDN6V0VSVTg3TWh1M1lFUnd1eU5zZ2FaM0VUVVVKREhBRWRzVHR3cWdkSUNETldTTkpmeUJOek15R2lBV1NxeGt3QWdDWlhYcUFvbW9hYysxYmxneFVnSzVZSXpSdUUvMWR3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ihg.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19f716c206876376",
-      "emailDate": "2026-07-17T18:52:18.000Z"
-    },
-    {
       "merchant": "Academy Sports + Outdoors",
       "percentBack": 7.5,
       "dollarBack": null,
@@ -422,6 +464,20 @@
       "source": "single-use",
       "emailMessageId": "19f7634ae814c15e",
       "emailDate": "2026-07-18T17:09:51.000Z"
+    },
+    {
+      "merchant": "IHG",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Y3lHaDNDQ05GU0NkMDFrVlZyY2NFYS9rdnRLUmMvMzl0anUyYVQ4WXFsOStmbXB5WXA3MWdrMkplN0pTUDdsZmtFVFNmRHd1OUxJNURsZ1owa1pBRjY3UGNWVzF6STZQZFN6QndRPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/ihg.com/9bd877f2-7045-4b0f-9295-017e70ba82bf.gif",
+      "source": "single-use",
+      "emailMessageId": "19f7efd13f6e41a8",
+      "emailDate": "2026-07-20T10:05:41.000Z"
     },
     {
       "merchant": "Zappos",
@@ -596,14 +652,14 @@
       "percentBack": 3.5,
       "dollarBack": null,
       "capAmount": null,
-      "wasPercent": null,
+      "wasPercent": 2,
       "lastViewed": null,
-      "expiresAt": "2026-07-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WThpZll5a0l5UHk0MlBjMTNlb09jaHV4TDRoQ1lLRXFOb0lyeExwelFLZnMyalRwY1hERHQ5TlFsUkJJdnNRYjBzUnl6TzBBMVFPRTVuM3hwcStvYllMSmFXaVY0eCtTWWtWekJnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vividseats.com&fallback=true&opaque=true&type=cropped&width=500",
+      "expiresAt": "2026-07-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OGxQY29vbVUwUnl4L1JhZGhPVXNTdXJQenlubjh5V0YyS1pycTNlSzBrZlhXTlR4ZjZxbEZuOGdTQWdneExybGxjTnI3NHN0MHBDbW9OamlrWWxtdUpCbDVwL3FQWTFlSVdBR1ZBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vividseats.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f71bacbfbac7f4",
-      "emailDate": "2026-07-17T20:18:13.000Z"
+      "emailMessageId": "19f7efd13f6e41a8",
+      "emailDate": "2026-07-20T10:05:41.000Z"
     },
     {
       "merchant": "Virgin Atlantic",
