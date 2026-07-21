@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T22:18:37.198Z",
+  "lastUpdated": "2026-07-21T23:15:36.562Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -16,6 +16,20 @@
       "source": "todays-top",
       "emailMessageId": "19f86067957e72b6",
       "emailDate": "2026-07-21T18:53:18.000Z"
+    },
+    {
+      "merchant": "CVS",
+      "percentBack": 35,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6THpKbkQveUZBL2xub3hmWGlZdU55MmRsWkl2aXhhOGNVdVBteUFuZFBxZUlGQjFxZ2ltRzFoOG1sUnNpa3JITmQxdUdjYnMvcTQ0RWxYcVl0RTdnazdKQ2hCMlBGRVVUaHE4R1lnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cvs.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f86ead2817e476",
+      "emailDate": "2026-07-21T23:02:43.000Z"
     },
     {
       "merchant": "Firstleaf Wine Club",
@@ -44,20 +58,6 @@
       "source": "single-use",
       "emailMessageId": "19f7efd13f6e41a8",
       "emailDate": "2026-07-20T10:05:41.000Z"
-    },
-    {
-      "merchant": "Instacart",
-      "percentBack": 20.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-07-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aTRwTHExYW03MnR2MWhaTGZxTzRYVkp2MmdpTlB3c1N2VkdSdndvVXFFci9XK2NuYUJnMFU2Wkc0TDZNUGgvZy9INnluMldBTEplbER1aFl2ZzdaRzB3cWpzWHlaeXRDYmRJL0FRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "19f80a3cc741df3c",
-      "emailDate": "2026-07-20T17:47:25.000Z"
     },
     {
       "merchant": "Ticket Liquidator",
@@ -128,20 +128,6 @@
       "source": "single-use",
       "emailMessageId": "19f74a35ecb97e3a",
       "emailDate": "2026-07-18T09:51:31.000Z"
-    },
-    {
-      "merchant": "CVS",
-      "percentBack": 17.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-07-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Q3hrSXh4Q1ZuMHJnTUxWSTRFS1REQktVTkFiSDNuWEwrZVNZa1hRRVR6clRMVXkvd0J5MGROVGt2aHN1UnBOcTg0OUNZRWJnRjBqTGVFazFQMFM5NktUL096Z1lBQkQ3R2orOXJRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cvs.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "19f80a3cc741df3c",
-      "emailDate": "2026-07-20T17:47:25.000Z"
     },
     {
       "merchant": "Tuft + Paw",
@@ -242,6 +228,20 @@
       "emailDate": "2026-07-18T09:51:31.000Z"
     },
     {
+      "merchant": "Walgreens",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UTJIRGpYVTExZVdQUWpxY0FmYlUwK1MrNGNIMXdBMUd6bGU2TnFqSmJsOGo2QzZXaCtPM0grVGVYMkFRWXg2KzdEcVR0ZkxoelZVS1N3YzRoWDdVaXZtaG8rQytBSzdDRFBLYWt3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walgreens.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f86ead2817e476",
+      "emailDate": "2026-07-21T23:02:43.000Z"
+    },
+    {
       "merchant": "Ticket Network",
       "percentBack": 14,
       "dollarBack": null,
@@ -270,6 +270,34 @@
       "emailDate": "2026-07-18T17:09:51.000Z"
     },
     {
+      "merchant": "Instacart",
+      "percentBack": 13.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "July 20",
+      "expiresAt": "2026-07-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YmF1Vk8zcUdLTGlYNHk3aXpkNlNCSDVrYzZrMkUyc3phR1RiVGpaL3IvTzZWemdzSWxjOENsd3EyVjNacFB3aW0vdVlCT2FVaVlSYVZVNmRhSnJFTUdKbzdHZDZiSXIyVzhjMTJRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "19f86ead2817e476",
+      "emailDate": "2026-07-21T23:02:43.000Z"
+    },
+    {
+      "merchant": "Journeys",
+      "percentBack": 13,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MnAzWVFvQzhmZlB4SWRUbzFmeFduSnRkaVl0N1VpNk5ZS2crVjRQQmZyejFHMzJMM0QxaEF1eVdobTZaQWxFaWlwQ0RIdmIycG9CdFZUZDlNNG84dVRybXVhRXNMWXFHNlVyRkJBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=journeys.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f86ead2817e476",
+      "emailDate": "2026-07-21T23:02:43.000Z"
+    },
+    {
       "merchant": "Peak Design",
       "percentBack": 12.5,
       "dollarBack": null,
@@ -296,20 +324,6 @@
       "source": "single-use",
       "emailMessageId": "19f86067957e72b6",
       "emailDate": "2026-07-21T18:53:18.000Z"
-    },
-    {
-      "merchant": "Walgreens",
-      "percentBack": 12,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-07-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MVhMQUs1cWVzK1M4WWtwMEFaejBINjlyQjg3alpMSlJxUDhRZnc2bmpNZG5rK2NHZXhCQXZuSndnb2FSTEV2ejlDeWJaMDRrRUgxczRYRERmNEpBS01RRFB4L1RrekZ6QjhoU2h3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walgreens.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "19f80a3cc741df3c",
-      "emailDate": "2026-07-20T17:47:25.000Z"
     },
     {
       "merchant": "Trainline",
@@ -368,6 +382,20 @@
       "emailDate": "2026-07-18T17:09:51.000Z"
     },
     {
+      "merchant": "Staples",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6c29kTFErT29CM3VPOEphMUFkR2MxdHZxUTM2SHVpaThNd1VLUmsyNSt5bk1Bb2xqZTV3RXdhOXM1SHM3MXpMMWorckRrcGYzNXVPbWlnYUtJT2gxQUVqYU85eG82SWlzdVM3cmdRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=staples.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f86ead2817e476",
+      "emailDate": "2026-07-21T23:02:43.000Z"
+    },
+    {
       "merchant": "Klook",
       "percentBack": 10,
       "dollarBack": null,
@@ -422,6 +450,20 @@
       "source": "single-use",
       "emailMessageId": "19f7634ae814c15e",
       "emailDate": "2026-07-18T17:09:51.000Z"
+    },
+    {
+      "merchant": "Macy's",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WHpxMy9ZUmpWWVJ6aDZtNEluUFl0aVVaY3Q5V0dqWlZtSW9BZlJ5VDZINUd6ZEtDNzdBWHlOd1A5eUozM28xV0xIOE9wT1NXQ2thZmlXWGpBYUltV05YRnhtS0hsTlhuSUJXcUtBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=macys.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f86ead2817e476",
+      "emailDate": "2026-07-21T23:02:43.000Z"
     },
     {
       "merchant": "PetCareRx",
@@ -682,12 +724,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-07-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OCtCQWhGUVJYczA2bzVIWXUyMzRpUjRkZTdKdUYxMHkwQ1pmK1J1ekV1aVRlbDZFMzM2R29ta2E3YzltKzR0Z3hhT2ZWZm5wRlJTTnJFdFV6ck9YVytlYlk4VzJwTFkvSXZLQVRBPT0/runV3dl",
+      "expiresAt": "2026-07-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UmF3d3ZLWE9xSjFIaVU0SFV6ZTNIcGpyemRTbngxLzV0RTZpVjRxTFIyTERkdlBzZXJ0eEdaaEhCZ1NiSDMrVnVxWnhnMHZnbEFIYVg3bENSSmRYQmh4am13RUxzYWdYWUJNdnpnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=jcpenney.com&fallback=true&opaque=true&type=cropped&width=500",
       "source": "single-use",
-      "emailMessageId": "19f80a3cc741df3c",
-      "emailDate": "2026-07-20T17:47:25.000Z"
+      "emailMessageId": "19f86ead2817e476",
+      "emailDate": "2026-07-21T23:02:43.000Z"
     },
     {
       "merchant": "CityPASS",
@@ -718,6 +760,20 @@
       "emailDate": "2026-07-20T00:36:21.000Z"
     },
     {
+      "merchant": "Walmart",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QjVLU2Y1dmplMEM5N09zTGNnaFA1eVVDclFPeXJ4Z0dEdk9janBYZ2tBd2tPS3k3SnI2NHJ5MTkwczBpYnZpMCtRU2hqZnlkYkhiekpjcDV1elZ3UWRxVkVNdVFEZ0dwd0x1RXd3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walmart.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f86ead2817e476",
+      "emailDate": "2026-07-21T23:02:43.000Z"
+    },
+    {
       "merchant": "Zesty Paws",
       "percentBack": 4,
       "dollarBack": null,
@@ -730,20 +786,6 @@
       "source": "single-use",
       "emailMessageId": "19f86067957e72b6",
       "emailDate": "2026-07-21T18:53:18.000Z"
-    },
-    {
-      "merchant": "Walmart",
-      "percentBack": 4,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-07-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SGNSUHhHcldsUHRuVmliWVhTMHVRRHFVNk9zUDZtRWpINWg3ejhDTUt3NCtZaEJiT0IvY1Njakp1ZnN0UFZBVWx3N0NFa3VhaVhXZzhBb3lMSit3TE8rb3VrSHY5MjBzZFV0bzFRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walmart.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "19f80a3cc741df3c",
-      "emailDate": "2026-07-20T17:47:25.000Z"
     },
     {
       "merchant": "Polynesian Cultural Center",
@@ -772,20 +814,6 @@
       "source": "single-use",
       "emailMessageId": "19f82a0e1e0cf8cf",
       "emailDate": "2026-07-21T03:03:29.000Z"
-    },
-    {
-      "merchant": "Macy's",
-      "percentBack": 3.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-07-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OXdNRlZlS0ZzMFBFWUtGVW8zc05NbGlNMEVxUDdlUlhtNzZ6ai9aaVgzUGNpR282RDZEdm13YytYUy9sQ0NQRW92WFdRMnREZjIwM3pRRklnbnBPT2FlYkdnRjdTL0ZPcnZ2YTBnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=macys.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "19f80a3cc741df3c",
-      "emailDate": "2026-07-20T17:47:25.000Z"
     },
     {
       "merchant": "Go City Pass",
@@ -844,6 +872,20 @@
       "emailDate": "2026-07-20T00:36:21.000Z"
     },
     {
+      "merchant": "Astound",
+      "percentBack": null,
+      "dollarBack": 269,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6clJPYWprUmRIT29DcFRlaDhMaEVHaE9YbS8rTmVtem5rNWpUakRIQ2x5REUzL0FnU2xrdkxOMlNjbkMySFBxeDlTU0IzWVFGVkQwakRvY3pQbkQ1enl0QUt5anJQbWN4WTZjakJBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=astound.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f86ead2817e476",
+      "emailDate": "2026-07-21T23:02:43.000Z"
+    },
+    {
       "merchant": "T-Mobile Home Internet",
       "percentBack": null,
       "dollarBack": 110,
@@ -886,6 +928,20 @@
       "emailDate": "2026-07-20T17:47:25.000Z"
     },
     {
+      "merchant": "DoorDash",
+      "percentBack": null,
+      "dollarBack": 24,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cklrV25ETjhHQjJXSHhicHpWS1JhaHFsZDBPdVd3UUxZNDhVcUo2a2tzK2pHZmZsdWJ6d08wZkNNWDQ1WlR6L3p5WTlCQXZ4TWpuelF2SEk4UkFEb3VFSFowdVdteE12NUJQMW13PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=doordash.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f86ead2817e476",
+      "emailDate": "2026-07-21T23:02:43.000Z"
+    },
+    {
       "merchant": "Sling",
       "percentBack": null,
       "dollarBack": 15,
@@ -898,6 +954,34 @@
       "source": "single-use",
       "emailMessageId": "19f753d4ad73d15d",
       "emailDate": "2026-07-18T12:39:38.000Z"
+    },
+    {
+      "merchant": "Homeaglow",
+      "percentBack": null,
+      "dollarBack": 12,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NlA2dkZ5eHltdXBwQmVQdDdXRUE2UWh4WUU4QkFGNUt6Nk5rZGpwNHpOZEZxellISFJ6RXVoZHdZQndDRFFodmxDYXNZUTJYRW81WHNmeEVkZ0pIcVdyVmloSEZOMllQd1oybVRRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=homeaglow.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f86ead2817e476",
+      "emailDate": "2026-07-21T23:02:43.000Z"
+    },
+    {
+      "merchant": "Walmart Business",
+      "percentBack": null,
+      "dollarBack": 5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UUNwYnV4MVVDOFBrMDZFU0o3THBzQ25MdDlUT0JFc1lNczE2Z0huTDdnT1dNdURoenJycEhmbTVIQ3FqaWFtSGNLNmZNby9oM3g0UDdXNUFFZEM4V3dNOU9nNWpDYlBwcTIvbDlBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=business.walmart.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f86ead2817e476",
+      "emailDate": "2026-07-21T23:02:43.000Z"
     },
     {
       "merchant": "Pimsleur Language Program",
