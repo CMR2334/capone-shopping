@@ -14,10 +14,10 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 ---
 
 ## 2026-07-21 — UI: show tomorrow expirations in orange
-**Commit:** `020bab6`
+**Commit:** `22aaa5a`
 **Files:** `public/index.html`, `package.json`, `package-lock.json`
 **What changed:** Replaced the broad under-36-hours red treatment with explicit urgency states: offers expiring in under 24 hours remain red, while every offer labeled "expires tomorrow" is orange. Bumped the app/package version to v0.2.3.
-**Revert:** `git revert 020bab6`
+**Revert:** `git revert 22aaa5a`
 
 ---
 
