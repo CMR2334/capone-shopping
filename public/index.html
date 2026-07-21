@@ -23,8 +23,8 @@
     --navy-soft: #1a4d80;
     --alert: #c8262f;
     --alert-soft: rgba(200, 38, 47, 0.10);
-    --warn: #9a6a00;
-    --warn-soft: rgba(154, 106, 0, 0.10);
+    --warn: #b45309;
+    --warn-soft: rgba(180, 83, 9, 0.10);
     --safe-top: env(safe-area-inset-top);
     --safe-bottom: env(safe-area-inset-bottom);
     --serif: 'New York', 'Iowan Old Style', 'Charter', Georgia, ui-serif, serif;
@@ -292,7 +292,10 @@
     font-feature-settings: 'tnum';
     white-space: nowrap;
   }
-  .expiry-soon { color: var(--alert); font-weight: 500; }
+  .expiry-soon,
+  .expiry-tomorrow { font-weight: 500; }
+  .expiry-soon { color: var(--alert); }
+  .expiry-tomorrow { color: var(--warn); }
 
   .actions {
     position: absolute;
@@ -430,7 +433,7 @@
 
 <script>
 (() => {
-  const APP_VERSION = 'v0.2.2'; // bump with package.json on each meaningful release
+  const APP_VERSION = 'v0.2.3'; // bump with package.json on each meaningful release
   const grid = document.getElementById('grid');
   const empty = document.getElementById('empty');
   const emptyTitle = document.getElementById('emptyTitle');
@@ -604,9 +607,13 @@
     return `expires ${exp.toLocaleDateString(undefined, { month: 'short', day: 'numeric' })}`;
   }
 
-  function isSoon(iso) {
-    if (!iso) return false;
-    return (new Date(iso) - new Date()) < 36 * 3600 * 1000;
+  function expiryClass(iso) {
+    if (!iso) return '';
+    const diffMs = new Date(iso) - new Date();
+    const diffDays = Math.floor(diffMs / 86400000);
+    if (diffMs < 86400000) return 'expiry-soon';
+    if (diffDays === 1) return 'expiry-tomorrow';
+    return '';
   }
 
   // Authoritative expiry check against the live clock. Guards against a stale or
@@ -673,8 +680,7 @@
     empty.hidden = true;
 
     grid.innerHTML = sorted.map(o => {
-      const soon = isSoon(o.expiresAt);
-      const expClass = soon ? 'expiry-soon' : '';
+      const expClass = expiryClass(o.expiresAt);
       const isFav = favs.has(o.merchant);
       const isHiddenView = view === 'hidden';
 
