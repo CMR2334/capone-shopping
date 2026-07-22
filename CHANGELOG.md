@@ -13,6 +13,14 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-07-22 — Fix: keep the best active offer per merchant
+**Commit:** `1cf8fb3`
+**Files:** `ingestor/ingest.js`, `test/ingest.test.js`, `package.json`, `README.md`, `HANDOFF.md`
+**What changed:** Fixed merchant deduplication choosing the latest expiration before reward value, which allowed a newer lower offer to replace a better still-valid offer. The ingestor now drops expired entries first, keeps the highest active percentage or flat-dollar reward of the same type, and uses later expiry then newer email only as tie-breakers. Because each run reparses recent Gmail history, a lower active offer automatically becomes the displayed fallback on the first ingest after the better offer expires. Added regression coverage using the observed 35% versus 14% CVS sequence.
+**Revert:** `git revert 1cf8fb3`
+
+---
+
 ## 2026-07-21 — UI: show tomorrow expirations in orange
 **Commit:** `22aaa5a`
 **Files:** `public/index.html`, `package.json`, `package-lock.json`
