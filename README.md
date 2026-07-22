@@ -133,8 +133,8 @@ Steps:
 1. Authenticates via refresh token (local files or env vars).
 2. Searches Gmail for emails from `hello@capitaloneshopping.com` within the last 30 days.
 3. Parses each email with `parser.js`.
-4. Merges offers by merchant — keeps the entry with the latest expiry; ties broken by higher %.
-5. Filters out already-expired offers.
+4. Filters out already-expired offers.
+5. Merges offers by merchant — keeps the highest active reward of the same type; ties use the later expiry, then the newer email. This lets a lower offer automatically reappear after a better one expires.
 6. Writes `public/offers.json`.
 
 `offers.json` shape:

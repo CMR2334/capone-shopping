@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "auth": "node ingestor/auth.js",
-    "ingest": "node ingestor/ingest.js"
+    "ingest": "node ingestor/ingest.js",
+    "test": "node --test"
   },
   "dependencies": {
     "cheerio": "^1.0.0",

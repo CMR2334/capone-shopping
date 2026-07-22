@@ -62,8 +62,9 @@ Gmail (a dedicated account)
 ```
 
 - **Frontend:** `public/index.html` — all HTML/CSS/JS in one file. Vanilla, no bundler.
-- **Ingestor:** Node, runs in CI. Reads 30 days of mail, parses, merges by merchant
-  (latest expiry wins; ties → higher %), drops expired, writes `public/offers.json`.
+- **Ingestor:** Node, runs in CI. Reads 30 days of mail, parses, drops expired offers,
+  then merges by merchant (highest active same-type reward wins; ties use later expiry,
+  then newer email), and writes `public/offers.json`.
 - **Sync worker:** Cloudflare Worker + KV (`OFFERS_KV`, id `84ae9a9ba9c944b0848d4c976152ded5`).
   REST: `GET/PUT /state` (Bearer token), `GET /action` (email links), `GET /health`.
 

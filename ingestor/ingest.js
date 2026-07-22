@@ -124,25 +124,50 @@ function headerValue(headers, name) {
 }
 
 function mergeOffers(offers, now) {
-  const rate = o => o.percentBack != null ? o.percentBack : (o.dollarBack ?? 0);
+  const rewardValue = o => o.percentBack != null ? o.percentBack : (o.dollarBack ?? 0);
+  const timestamp = value => {
+    const parsed = Date.parse(value || '');
+    return Number.isNaN(parsed) ? 0 : parsed;
+  };
+  const shouldReplace = (existing, candidate) => {
+    const sameRewardType = (existing.percentBack != null) === (candidate.percentBack != null);
+    const existingValue = rewardValue(existing);
+    const candidateValue = rewardValue(candidate);
+
+    // Percentage and flat-dollar rewards are only directly comparable with offers
+    // of the same type. Preserve the old expiry-first behavior for mixed types.
+    if (sameRewardType && candidateValue !== existingValue) {
+      return candidateValue > existingValue;
+    }
+
+    const existingExpiry = timestamp(existing.expiresAt);
+    const candidateExpiry = timestamp(candidate.expiresAt);
+    if (candidateExpiry !== existingExpiry) return candidateExpiry > existingExpiry;
+
+    if (!sameRewardType && candidateValue !== existingValue) {
+      return candidateValue > existingValue;
+    }
+
+    return timestamp(candidate.emailDate) > timestamp(existing.emailDate);
+  };
+
   const byMerchant = new Map();
   for (const offer of offers) {
+    if (offer.expiresAt && timestamp(offer.expiresAt) <= now.getTime()) continue;
     const key = offer.merchant.toLowerCase().trim();
     const existing = byMerchant.get(key);
     if (!existing) { byMerchant.set(key, offer); continue; }
-    const a = new Date(existing.expiresAt || 0);
-    const b = new Date(offer.expiresAt || 0);
-    if (b > a) byMerchant.set(key, offer);
-    else if (b.getTime() === a.getTime() && rate(offer) > rate(existing)) {
-      byMerchant.set(key, offer);
-    }
+    if (shouldReplace(existing, offer)) byMerchant.set(key, offer);
   }
   return [...byMerchant.values()]
-    .filter(o => !o.expiresAt || new Date(o.expiresAt) > now)
     .sort((a, b) => (b.percentBack ?? -1) - (a.percentBack ?? -1) || (b.dollarBack ?? 0) - (a.dollarBack ?? 0));
 }
 
-main().catch(err => {
-  console.error('Ingest failed:', err);
-  process.exit(1);
-});
+if (require.main === module) {
+  main().catch(err => {
+    console.error('Ingest failed:', err);
+    process.exit(1);
+  });
+}
+
+module.exports = { mergeOffers };
