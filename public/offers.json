@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T20:33:48.954Z",
+  "lastUpdated": "2026-07-22T21:23:37.991Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -44,6 +44,20 @@
       "source": "single-use",
       "emailMessageId": "19f8966954ad1d7b",
       "emailDate": "2026-07-22T10:37:08.000Z"
+    },
+    {
+      "merchant": "NBA Store",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6L0JPamVUd1VvSFJGL2xmU2pueWJGVjhpanY0NGtZNDJRUXJIczRRbkIyMzJMNE91KzJLYmk0YVhPQm1mNzZqTGZlTnZuV05RZWRZVkd1MDRDRHQ4RmZBWTBCRk9rN2FYUWlSL25nPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=store.nba.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f8bae7578d5ba7",
+      "emailDate": "2026-07-22T21:14:53.000Z"
     },
     {
       "merchant": "Instacart",
@@ -114,6 +128,20 @@
       "source": "single-use",
       "emailMessageId": "19f883f88d1ceb2d",
       "emailDate": "2026-07-22T05:14:52.000Z"
+    },
+    {
+      "merchant": "Mitchell & Ness",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MEN1TFMwVXVkc2cxbkp4dm1tbVZha3BUMDJ5bFZpekpWZ2J6YkdLYTN6RXM1dld6amFVR3A3ZnpaSUJScmdvQUcrSFR2dmREd1g0dEpHTWFuYnlDb2szUUIrK1dzelFQREdqcXFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=mitchellandness.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f8bae7578d5ba7",
+      "emailDate": "2026-07-22T21:14:53.000Z"
     },
     {
       "merchant": "Tripadvisor",
@@ -228,6 +256,34 @@
       "emailDate": "2026-07-21T23:02:43.000Z"
     },
     {
+      "merchant": "Carhartt",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d20wbGI3eUZJZzlORVI3SlhnTnZ2aGhsVk5NYzFlVWhJME9RVnhXSnJPRysvTDBhaWlPMXd2UWF1Y2o4NEExVU41NWE1WFNhUUl2bDc1dTFqc0JIWjNHRnJkY2hUdHBnMUJVQWV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=carhartt.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f8bae7578d5ba7",
+      "emailDate": "2026-07-22T21:14:53.000Z"
+    },
+    {
+      "merchant": "Streaker Sports",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WjhwbHJuWnNCcW02aHE2b0RobTdyaUdSbnczayttOU90OExMekQvNVlMSjR6TUlQRndmbjFRYjdsazd6d0pqSWhHcHdKNlgrUEtpN3NIdUZYSlFJbGllY2pnTWZEOC9NazVUbVNRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=streakersports.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f8bae7578d5ba7",
+      "emailDate": "2026-07-22T21:14:53.000Z"
+    },
+    {
       "merchant": "Spirit Halloween",
       "percentBack": 12,
       "dollarBack": null,
@@ -254,6 +310,20 @@
       "source": "single-use",
       "emailMessageId": "19f86067957e72b6",
       "emailDate": "2026-07-21T18:53:18.000Z"
+    },
+    {
+      "merchant": "Fanatics",
+      "percentBack": 11,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZGFqbVplYmpZMEhKRmNqT3U5WUlQNWd1bTZDR0FuT1BvZFF5bUFyNDJCUnZCOXJLYndYVndjOE4zTjJ1VE9IaUhsSk9vVVJ4VGIyUCtzM2dQeHkzUEV6ZjgxSExPcHRhMTlmQ3FRPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/fanatics.com/30e8608f-d5ed-4aef-9b4f-32a26cd41f13.gif",
+      "source": "single-use",
+      "emailMessageId": "19f8bae7578d5ba7",
+      "emailDate": "2026-07-22T21:14:53.000Z"
     },
     {
       "merchant": "Chewy",
@@ -324,6 +394,20 @@
       "source": "single-use",
       "emailMessageId": "19f82a0e1e0cf8cf",
       "emailDate": "2026-07-21T03:03:29.000Z"
+    },
+    {
+      "merchant": "Pro Standard",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-07-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WjNWeWNIRGZ3M1BqNFB5aEkzWE9KS3N6NEtyYnVEdHBuc1BUbGZpdVVkZTMrRElENG1vMngzNnJHQkFLUXM1a1ZiRjl6eFliWTFMMTMrVjUrU0dFNHdmc1RpZGUzaG9HN2xZbmh3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=teamprostandard.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f8bae7578d5ba7",
+      "emailDate": "2026-07-22T21:14:53.000Z"
     },
     {
       "merchant": "GetYourGuide",
@@ -800,6 +884,20 @@
       "source": "single-use",
       "emailMessageId": "19f86ead2817e476",
       "emailDate": "2026-07-21T23:02:43.000Z"
+    },
+    {
+      "merchant": "Monthly Clubs",
+      "percentBack": null,
+      "dollarBack": 11,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6REN6RzB3YW9zZzA4ZTcyRGFXODBMSkhuVk1SZERPWkFDVS9rSVBUeWFyYk4rWmY5N1NjWnhyREN1SDFwQllPQjRKMTFxUXIwekNFUmxOZ3pRYXRnSjlOdWQ1ZjhWRjJ5cmdQYVVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=monthlyclubs.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f8bae7578d5ba7",
+      "emailDate": "2026-07-22T21:14:53.000Z"
     },
     {
       "merchant": "Safelite",
