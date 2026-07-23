@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T09:40:02.997Z",
+  "lastUpdated": "2026-07-23T10:18:32.176Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -760,6 +760,20 @@
       "emailDate": "2026-07-22T10:37:08.000Z"
     },
     {
+      "merchant": "Xfinity",
+      "percentBack": null,
+      "dollarBack": 37.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NzR0S0tLOHZveE9CU2dGYlFBcUxxaCtTM3JWQ2dWVTk5eVYyRWhUOVZSSkYzVW9XVkw0WDZhM2Q3Qlo2K0pqeVQ2VUFaRU03ZCs2L1R4OWpYUjFHdmNBeTM1c24zRjg3OTduWUhRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=xfinity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f8e66f431e74c4",
+      "emailDate": "2026-07-23T09:55:39.000Z"
+    },
+    {
       "merchant": "Temu",
       "percentBack": null,
       "dollarBack": 24.5,
@@ -786,6 +800,20 @@
       "source": "single-use",
       "emailMessageId": "19f86ead2817e476",
       "emailDate": "2026-07-21T23:02:43.000Z"
+    },
+    {
+      "merchant": "NOW",
+      "percentBack": null,
+      "dollarBack": 15,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WjlBNmFEQ3QrUTdFTkczOEE2WTVRWCt6ZmZaYXZxLy9aYmg1d2pSZVJLUnVYYnpIR0YyUkgraUN5WDA5K0lPSnBXU0dZZElhUldKVGtDY2hXaExQVmk4anI0dWM5WFlHTktsRGtBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=xfinityprepaid.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f8e66f431e74c4",
+      "emailDate": "2026-07-23T09:55:39.000Z"
     },
     {
       "merchant": "Homeaglow",
@@ -828,6 +856,20 @@
       "source": "single-use",
       "emailMessageId": "19f8966954ad1d7b",
       "emailDate": "2026-07-22T10:37:08.000Z"
+    },
+    {
+      "merchant": "Liberty Mutual Insurance",
+      "percentBack": null,
+      "dollarBack": 5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YmU2LzdmVTdSd1ZSOHY4cklGeTdFdDRKYkMvc3BmT1JrN2Y0Y3BpZnpQeU00YS9iV1YyYmEwMHQ4YzE0aEhTTXNaWHlETHRQSGI1bFNscjlpcytZelNoZVMvMnY0LzFBSlp2cDRnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=libertymutual.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f8e66f431e74c4",
+      "emailDate": "2026-07-23T09:55:39.000Z"
     },
     {
       "merchant": "Walmart Business",
