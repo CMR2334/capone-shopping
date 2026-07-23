@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T01:18:36.475Z",
+  "lastUpdated": "2026-07-23T02:18:30.791Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -480,6 +480,20 @@
       "emailDate": "2026-07-21T18:53:18.000Z"
     },
     {
+      "merchant": "PetSmart",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-26T07:00:00.000Z",
+      "activationUrl": null,
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "19f8ca6cd0e8979c",
+      "emailDate": "2026-07-23T01:46:08.000Z"
+    },
+    {
       "merchant": "Petco",
       "percentBack": 8,
       "dollarBack": null,
@@ -489,20 +503,6 @@
       "expiresAt": "2026-07-25T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WFUyZXZ6MUYzMTZXcXp0V1d0eTZUWXpTbkhhU0pKMzVsdVJOZDhRMmF2VU5FcXc1am9tVDd1R2kwTWlmRzFMVUlsK2lHRFdYNmFncU1rLzhYMnVNUnNCVDdDMG8yb1RSc3lpTUVRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petco.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f86067957e72b6",
-      "emailDate": "2026-07-21T18:53:18.000Z"
-    },
-    {
-      "merchant": "PetSmart",
-      "percentBack": 8,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-07-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6R2daajlPczdjUGViVi9TdWJ6czd0aVFYNzhsNVRzNWlnbjdNa3ZYcThaOVZOMk5FUmx1ZXUrYnJIRHBEdDV2T2JYT2ZPYURRUHE3V0tVT2d1ZXU3WUhoelhTNTFZYkRHVTVvbGhRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petsmart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
       "emailMessageId": "19f86067957e72b6",
       "emailDate": "2026-07-21T18:53:18.000Z"
