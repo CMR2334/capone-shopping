@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-07-24T16:18:46.036Z",
+  "lastUpdated": "2026-07-24T17:18:38.784Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Ticket Club",
+      "percentBack": 35,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MzFYRmR6azZlYVRGNExzbW4wL3dmRjNicGM4MStLTkNSelBLQ2MrTnd5SWJWRUltemtHRHVzNW9hdy9IRzUxb0srK0w5K1paME9qb3pEUzBocG52V2xCdTJXemd2WWFpOVdsU0tBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f94efb0428cede",
+      "emailDate": "2026-07-24T16:22:43.000Z"
+    },
     {
       "merchant": "Sam's Club",
       "percentBack": 35,
@@ -38,12 +52,12 @@
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
-      "expiresAt": "2026-07-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dzJRV0VGZ0N2aDBMdVZUeU5RaDZTTXIyUkZtL3BCeE1XbGtwaitMQm12bHI2Qm5qYkJucnNrV2FHeWwrNXBDRUludlNWSU9YbG9DOUlSUkZ1SHRvZWtoREo2bVk0aW04eTFLVk13PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=eventticketscenter.com&fallback=true&opaque=true&type=cropped&width=500",
+      "expiresAt": "2026-07-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6K1dZQUErUjhSSllxaDExRERIYlpxeStpUDNKUEVHcDg0WXJSVi9KZ25IdDduY3lTbTdodEZ1MmFOOVovQ205M3ZDY0tMaGNGY3ZzVW0rQkhIUHgzbGtpTm1iWXoyNlVUVFhwSnFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=eventticketscenter.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "19f8966954ad1d7b",
-      "emailDate": "2026-07-22T10:37:08.000Z"
+      "emailMessageId": "19f94efb0428cede",
+      "emailDate": "2026-07-24T16:22:43.000Z"
     },
     {
       "merchant": "NBA Store",
@@ -58,6 +72,34 @@
       "source": "single-use",
       "emailMessageId": "19f8bae7578d5ba7",
       "emailDate": "2026-07-22T21:14:53.000Z"
+    },
+    {
+      "merchant": "TicketSmarter",
+      "percentBack": 23.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6L3UyamNiQXcxVFRWZFJ4bnM2eFhOK3puN1hFeVFNS3M3Mk1KU21RVkhPTnRDVFJMWlZNQWdRd29MWWxPb3Z0TkpqNGxiSksweFFNQ1V6cXk0UnI5NFRUdjIrMkx0K0NhRUxTakNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketsmarter.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f94efb0428cede",
+      "emailDate": "2026-07-24T16:22:43.000Z"
+    },
+    {
+      "merchant": "Ticket Liquidator",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-07-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ckI5aDZ4cmpiaVNsdW1lbmRSYVNEckdueStvRFZ6TG8zQXh0R3NJZzc1MzlQOGxnWERGQTF2cFAvdXBycjhYOGNPNzBsQW1KN1JJNmc1SG5pa016NFQxMGttaFBRSmpUMHRFUWpBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketliquidator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f94efb0428cede",
+      "emailDate": "2026-07-24T16:22:43.000Z"
     },
     {
       "merchant": "Airalo",
@@ -242,6 +284,20 @@
       "emailDate": "2026-07-21T18:53:18.000Z"
     },
     {
+      "merchant": "Ticket Network",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-07-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YzRHUS9GdVAxUHIxUnlhMzY5R2Z4Nzd4ZkhSNjRUWDIyU2hkOUR0MWZuQ3N3MVkyZkQyUkhPaDdUejJrc3dTOWdnRGpEc1ZvaDNweW1NSGlKSDJheDZ3WVpJUmE1T1ZnZitZc1J3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketnetwork.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "19f94efb0428cede",
+      "emailDate": "2026-07-24T16:22:43.000Z"
+    },
+    {
       "merchant": "Big Bus Tours",
       "percentBack": 14,
       "dollarBack": null,
@@ -256,20 +312,6 @@
       "emailDate": "2026-07-24T14:21:24.000Z"
     },
     {
-      "merchant": "Ticket Network",
-      "percentBack": 14,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 4,
-      "lastViewed": null,
-      "expiresAt": "2026-07-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cHB5WkJrSjZadDc1YllsNnBVNU5BTWRpK3FWU2NpQ3lqZWRzTGVsTkZJNFQwbE82a25oeDEzd1h6bnZCOFFneEFjTG11Y2s0RklIVU1UOFNkUXRJMnllNGZqTUNCbVVWM280V3NBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketnetwork.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f8966954ad1d7b",
-      "emailDate": "2026-07-22T10:37:08.000Z"
-    },
-    {
       "merchant": "Instacart",
       "percentBack": 13.5,
       "dollarBack": null,
@@ -282,6 +324,20 @@
       "source": "single-use",
       "emailMessageId": "19f8f6fa92e04df2",
       "emailDate": "2026-07-23T14:44:47.000Z"
+    },
+    {
+      "merchant": "NFL+",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-07-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d25paWpSWmkvcFErekJucFdRakFTZkFLbnVUNDVpbnBMWUY0OWUxWVRnYW9lclFEWndNK05sV3BnWjZjM3BaY2FNODdxUU1MSXJ6TU9ucEg0S1FQa3h5VzgydFcvUzk0Q3I1TW1RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nfl.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f94efb0428cede",
+      "emailDate": "2026-07-24T16:22:43.000Z"
     },
     {
       "merchant": "Carhartt",
@@ -578,20 +634,6 @@
       "emailDate": "2026-07-24T00:23:25.000Z"
     },
     {
-      "merchant": "TicketSmarter",
-      "percentBack": 7,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Qk1EaTM2RVdyclZmblVGOFcrWnluMUFGV0ZGL09ReDE1ajdyUnIza1FmYUNiVkg5SkJKR0VDckJhMnY2dFg0VlBRZmpSRm0wK0xQMFN3U0d3OGVtQzZhTGl3T3RIT3k5ekUyVHN3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketsmarter.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f8966954ad1d7b",
-      "emailDate": "2026-07-22T10:37:08.000Z"
-    },
-    {
       "merchant": "Way.com",
       "percentBack": 6.5,
       "dollarBack": null,
@@ -760,6 +802,20 @@
       "emailDate": "2026-07-21T18:53:18.000Z"
     },
     {
+      "merchant": "Vivid Seats",
+      "percentBack": 3.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-07-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QWJ0bVJlTVErSW5qMldGYURhVlJITmM2MFlDd3NSeFZ4d01EUW5ST3VHWGlhaVFNV2gyVERGTUVuaUtsQkRzM0FxUFBiUXZXRU9XRDZ3T094YTdQL24ySFpMcjhBOUNsNkN1eFdnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vividseats.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "19f94efb0428cede",
+      "emailDate": "2026-07-24T16:22:43.000Z"
+    },
+    {
       "merchant": "Go City Pass",
       "percentBack": 3.5,
       "dollarBack": null,
@@ -772,20 +828,6 @@
       "source": "single-use",
       "emailMessageId": "19f94809ff434022",
       "emailDate": "2026-07-24T14:21:24.000Z"
-    },
-    {
-      "merchant": "Vivid Seats",
-      "percentBack": 3.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-07-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6b2tEWk9PdjZPZDdFU2xtaklXa3o2czIyMWZzTEErcHNkNWxqNnhRZXJLSGNlQXJVK25rSFhLSFMzc1I5dThJVFh3NXVWc3JzRlpWYWhEdXhQK0VvWmFpaGwyL3dvQUZGUCtYU0pBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vividseats.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "19f8966954ad1d7b",
-      "emailDate": "2026-07-22T10:37:08.000Z"
     },
     {
       "merchant": "Polynesian Cultural Center",
