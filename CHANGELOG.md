@@ -13,6 +13,14 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-09-10 — Envelope tab icon with the Capital One Shopping logo
+**Commit:** see `git log --grep="Add envelope tab icon"`
+**Files:** `public/favicon.png` (new), `public/index.html`, `README.md`, `CHANGELOG.md`
+**What changed:** `icon.png` was illegible at tab size (the wordmark shrank to a smudge). Added a dedicated transparent 256px `favicon.png` — the beige envelope from `icon.png` with the red Capital One Shopping ring-and-swoosh logo as a seal in place of the cart — and pointed `<link rel="icon">` at it. `icon.png` still serves the home screen and manifest. The new filename also forces Safari to drop its cached favicon.
+**Revert:** `git revert` the commit shown by the `git log` command above
+
+---
+
 ## 2026-09-10 — Use icon.png as the browser tab icon
 **Commit:** see `git log --grep="Use icon.png as the browser tab icon"`
 **Files:** `public/index.html`, `public/manifest.json`, `public/favicon.svg` (deleted), `README.md`, `CHANGELOG.md`
