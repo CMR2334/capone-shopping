@@ -13,6 +13,14 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-09-10 — Use icon.png as the browser tab icon
+**Commit:** see `git log --grep="Use icon.png as the browser tab icon"`
+**Files:** `public/index.html`, `public/manifest.json`, `public/favicon.svg` (deleted), `README.md`, `CHANGELOG.md`
+**What changed:** Desktop browser tabs still showed the retired crimson cart (`favicon.svg`) because `<link rel="icon">` was never repointed when `icon.png` became the home-screen icon (`1b3536b`). The tab icon now uses `icon.png`, the SVG entry is removed from the manifest, and `favicon.svg` is deleted so one icon is used everywhere.
+**Revert:** `git revert` the commit shown by the `git log` command above
+
+---
+
 ## 2026-07-25 — CI: suppress deploy-runner startup failure emails
 **Commit:** see `git log --grep="deploy runner startup"`
 **Files:** `.github/workflows/ingest.yml`, `CHANGELOG.md`, `HANDOFF.md`
