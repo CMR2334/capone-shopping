@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-10T14:18:28.373Z",
-  "sourceCount": 93,
+  "lastUpdated": "2026-09-10T15:18:19.969Z",
+  "sourceCount": 94,
   "parseFailures": 0,
   "offers": [
     {
@@ -305,11 +305,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-09-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RC9rQVpUTVhqRjI1eStxTm1aWVpGNml2eCtPRk5aUFdPZXk4R2xoV1dMdmRScnVtT21NSkNkZTEzVTA3NFd2RkhtbzNGMTdzYndDM2R6YVlUbzlvOGFNZUlTMml2NGROOEp6dDRBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QUkvTnFMMVU2Tll3M3I1QXdTWG9ha1plTGVIc0ZTYWpQWjc2cEg5emdQNEFxMjAzMnF2YlFidy9oeGhJKzBDSi95cmZOKzBkRkEzK1d3Sng2UU1mczFISmliR3d3WEtSN0QwMy9RPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dyson.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a08b256d2dd3bdb",
-      "emailDate": "2026-09-10T11:48:00.000Z"
+      "emailMessageId": "1a08bb08d5964bfe",
+      "emailDate": "2026-09-10T14:19:58.000Z"
     },
     {
       "merchant": "SpotHero",
@@ -594,16 +594,16 @@
     {
       "merchant": "DIRECTV",
       "percentBack": null,
-      "dollarBack": 195,
+      "dollarBack": 200,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-09-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6eFpSV1Y2YzArNTlUSXloWWVTUDF1L3NobFQrbHMyOFZ3MHZmNTN1RUFTV29Fd3lJeDRacFJrd3dmbG43UzdiQnh4WGR2N0tweVc2dnlhTWhRWVhXUVVNR1YyK3d2RXdJKzVTcjF3PT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/directv.com/9ff93ed1-3aa7-4729-ba45-cd93af38dffa.gif",
+      "expiresAt": "2026-09-14T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YVhGOXYyQ1RaWXZDTUthNU4wcE0zNmRYbVBKQjFrWFFvUGZWVVo0QUd1TVJ6cWp3bGpZQ2dDdWN6ODlsT09GdzlpWW9KUG5ERjJ2NC90c2hnTkkvWTlEbzV0R05YTEJaVEF1ZWdBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=directv.com&width=500&fallback=true&type=cropped&opaque=true",
       "source": "single-use",
-      "emailMessageId": "1a088b7e09f60897",
-      "emailDate": "2026-09-10T00:29:06.000Z"
+      "emailMessageId": "1a08bb08d5964bfe",
+      "emailDate": "2026-09-10T14:19:58.000Z"
     },
     {
       "merchant": "T-Mobile Home Internet",
@@ -660,6 +660,48 @@
       "source": "single-use",
       "emailMessageId": "1a081252b000b416",
       "emailDate": "2026-09-08T13:11:31.000Z"
+    },
+    {
+      "merchant": "Fubo",
+      "percentBack": null,
+      "dollarBack": 28.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-14T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TGtOOXJvYSttcmlpbUdnZ2ZwMVdnblFva01ua1dsVXkxeVh0Y3JyWEx2aHJkNXhYTFhTblBpZjllYWJQZVczV0gxMndHK1AwMVNSNElrQjJuSm9acnRPYWx1VmlHcW91MWs2UG1RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fubo.tv&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a08bb08d5964bfe",
+      "emailDate": "2026-09-10T14:19:58.000Z"
+    },
+    {
+      "merchant": "Sling",
+      "percentBack": null,
+      "dollarBack": 15,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-14T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6azFBcTl4dTRaN1psRTFzditWZ2NMZHNBVFNaY1Q0NWpydDFRR1Y5cHhEblI0WnZoRlUydmlyMEZ3VzNoN0hmaHFTYnFPVFcraUh2cm9KbEdKRjYvUDhZbnFLRkZxNFZXYjFJL09RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sling.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a08bb08d5964bfe",
+      "emailDate": "2026-09-10T14:19:58.000Z"
+    },
+    {
+      "merchant": "NOW",
+      "percentBack": null,
+      "dollarBack": 15,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-14T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T2JtYTdraGJtRTBHdXYvM29laS8vVzBxZHdKMDdmQ0ZIMDM0WlBVanlPWjlJK0JNT1BRYTErQm9TbDNNNGlCdStTWHRrakV5SmluNGRoZlhLUmpCNWE1alNDV3Bmd1R1UGVOTzFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=xfinityprepaid.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a08bb08d5964bfe",
+      "emailDate": "2026-09-10T14:19:58.000Z"
     },
     {
       "merchant": "Efax",
