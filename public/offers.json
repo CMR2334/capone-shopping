@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T00:18:12.657Z",
+  "lastUpdated": "2026-09-10T01:08:32.085Z",
   "sourceCount": 93,
   "parseFailures": 0,
   "offers": [
@@ -128,6 +128,20 @@
       "source": "single-use",
       "emailMessageId": "1a081252b000b416",
       "emailDate": "2026-09-08T13:11:31.000Z"
+    },
+    {
+      "merchant": "Columbia",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6K2I1Z1NlOWpwMjVuVysrMmJkcWVLNUNueHdYN3lidWZNVHZvbGhpcmxqUFc0Uys3TVlpc2c1QVpwb0dkSzNXcEJUbW5mNHNXSGgzS0hFNjN1aGlCRkUzSllxL2xiakNtdXgrWHNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=columbia.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a088b7e09f60897",
+      "emailDate": "2026-09-10T00:29:06.000Z"
     },
     {
       "merchant": "Fanatics",
@@ -324,6 +338,20 @@
       "source": "single-use",
       "emailMessageId": "1a081924fbbecd51",
       "emailDate": "2026-09-08T15:10:43.000Z"
+    },
+    {
+      "merchant": "SpotHero",
+      "percentBack": 11,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-09-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YmFZZUJRMEtvYThtVWZIclVDYXdpZGM0R2w3d210RDl2NFg5d0EvbTZTWXB3eWtQem0vNHc2eHgxUUxPemkyM0ZGM0hkWWJCTVdLcGVOemlSTE5wNDN5Y3JsR0hLdS9NeHhCeVFRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spothero.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a088b7e09f60897",
+      "emailDate": "2026-09-10T00:29:06.000Z"
     },
     {
       "merchant": "Ticket Network",
@@ -596,14 +624,14 @@
       "percentBack": 1,
       "dollarBack": null,
       "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": "August 30",
-      "expiresAt": "2026-09-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6c3ZOOEVsdDBYU3RTbms1VUluLzl2SjMzVUQwQktCTXlSd1prN1V0QituUTd5aXZuc1pzYWhHS0dsUjhnSG5FT3doNS9yUjFsVHl2cVg0eFlnbGdjNzdLQjFSbm4yOFdYcU5ZeDR3PT0/runV3",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=giftcards.com&width=500&fallback=true&type=cropped&opaque=true",
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-09-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6enp2cTYrWHNrRHdNRGo1S1RoWTNaZXhGeUhicC9kTjZMZWxHLythV0J2TVQ2STRFOUtOd1JFQ05Jc2hGS3NabXN1ckpsVmxibFlYVmdGQUpheFd2YjBGZmY4NWRjYmJBS1I5Y2RBPT0/runV3",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=giftcards.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a07cf059c0ad625",
-      "emailDate": "2026-09-07T17:35:20.000Z"
+      "emailMessageId": "1a088b7e09f60897",
+      "emailDate": "2026-09-10T00:29:06.000Z"
     },
     {
       "merchant": "Squarespace",
@@ -640,12 +668,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-09-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Qk5zMTlpYzBySVRSRDBSeFl2a2MxSzg5M056YmN1clpRSTd1VWVpbjdnTU5jK0UyTzNpMmFQbWFMMG95Y2t1djhvdCtXVU1IbS9KV2ZocVBWUDIrZXk2TlFRV0pYMW1CbUlGVHdnPT0/runV3dl",
+      "expiresAt": "2026-09-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6N3BXMkRSYk44MHFpSU4vd0lWR1FUVTY1SG9wSXZCck9FYll3ZGcrNjkxNjdJV1dhdUdRWXo3STZDclZEdGVkZjBRZHd2bHNkRFo4OVc2NWlhSTdFY0Z6NmRTekpHeEJQWWRCUWR3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=t-mobile.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a07ba50f13ff056",
-      "emailDate": "2026-09-07T11:33:29.000Z"
+      "emailMessageId": "1a088b7e09f60897",
+      "emailDate": "2026-09-10T00:29:06.000Z"
     },
     {
       "merchant": "Acuity Scheduling",
@@ -696,12 +724,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-09-12T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6R3ZaTUNmOVJQRnJydlZnUGhMZWtKT3EwNzYwSWdDWlhaVTZWSFI3OWszaXBMNGNZUWN0akNXdTFJQlBtbk13azI1TTJjbVptTXArT0lUK1pOcDlYYU1TWDFRMmtxckNPZFR1em5RPT0/runV3dl",
+      "expiresAt": "2026-09-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VGhPdGlza2s5eGQ0d3VZSzVkWWk1S25sUUlHVFdBOWcwbjFtVDBCNDZEU1V2NURXUU1FQW9NWGlFQkRBQXV6V1dIdHkvWlQ0Q3ZWYnpvNlcyaXdHU3REUjFURTdTeG9SOFRDMGhBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ubereats.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a081252b000b416",
-      "emailDate": "2026-09-08T13:11:31.000Z"
+      "emailMessageId": "1a088b7e09f60897",
+      "emailDate": "2026-09-10T00:29:06.000Z"
     },
     {
       "merchant": "Home Chef",
