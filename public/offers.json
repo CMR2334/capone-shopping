@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-13T10:17:49.309Z",
-  "sourceCount": 94,
+  "lastUpdated": "2026-09-13T11:17:53.864Z",
+  "sourceCount": 95,
   "parseFailures": 0,
   "offers": [
     {
@@ -74,6 +74,34 @@
       "emailDate": "2026-09-10T11:48:00.000Z"
     },
     {
+      "merchant": "Nature Made",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 6,
+      "lastViewed": null,
+      "expiresAt": "2026-09-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6N2t6UWNGNGFPWXBFelRicVBTVVRTVml2cllnTlFMQ0JqSWNLblhRZjNaZzMvWTlxY01MUmZGTXdZNVhIZHg3M2dMM1Uzc25TS2FuU3BYcHgzdC9QUGpvYmhEaDJwRzJZZzNPNGpRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=naturemade.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a09a69001c234ca",
+      "emailDate": "2026-09-13T10:56:07.000Z"
+    },
+    {
+      "merchant": "Walgreens",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-09-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6b2xqRC9ubmhocWwvUjJqWFNDQ1NXRTFvOERJTmlpcXJra3VrdWwxR1R5ejlIYlN1RGlLU0dJbmp0ZHRoZlZxVEhyNzc4eWpwUFdPaXN6UHhkVVMwYVpsNmFHMVRnYTRId3RFckFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walgreens.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a09a69001c234ca",
+      "emailDate": "2026-09-13T10:56:07.000Z"
+    },
+    {
       "merchant": "Viator, a Tripadvisor company",
       "percentBack": 15,
       "dollarBack": null,
@@ -86,6 +114,34 @@
       "source": "single-use",
       "emailMessageId": "1a08c2a178cf052c",
       "emailDate": "2026-09-10T16:32:43.000Z"
+    },
+    {
+      "merchant": "Chewy",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TFI5ZXJsYW1pTjF1ZTdkMEsyL041WkU2TTdNcFRVd3JTL2I4N1VCTUYycjNRNlVyYTVUQUJHWVBMazN5eXJUdDRIU3oyZ05kZkxacmRwc3A5Y0E3clU3VTlFaVVaQjRIYnBTWmxnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/chewy.com/511752ae-83a6-4684-9e08-9f618cec1741.gif",
+      "source": "single-use",
+      "emailMessageId": "1a09a69001c234ca",
+      "emailDate": "2026-09-13T10:56:07.000Z"
+    },
+    {
+      "merchant": "CVS",
+      "percentBack": 12.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6amxSSTJ1Y3JjTkdxbG1GVlVUNUwxWTZXRC9TQ2ZOM1JoUk9QUTFuWVR3T1ltOFpjZ0ZLN0k2V1R5Q01TTjl1RTM5NWgzQU1oTTZBYldLd0ttSHBxTHV1OVJ2cGlxSDJIa2Q1dk53PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cvs.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a09a69001c234ca",
+      "emailDate": "2026-09-13T10:56:07.000Z"
     },
     {
       "merchant": "StubHub",
@@ -144,6 +200,20 @@
       "emailDate": "2026-09-11T10:53:31.000Z"
     },
     {
+      "merchant": "Sally Beauty",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-09-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZFlJNkRPQXpYNkRBRG52cUVWVXFYb2RyTVBDSTNWY0RrS1c3dFBvckdWTFN3YnVuZG5JREt6OWN6aHdEUUNkaEFMQlhIZSttWWc2b1c3cndaQ3NwdDFKRTdUeGNTaWluM29qUUVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sallybeauty.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a09a69001c234ca",
+      "emailDate": "2026-09-13T10:56:07.000Z"
+    },
+    {
       "merchant": "GetYourGuide",
       "percentBack": 9,
       "dollarBack": null,
@@ -156,6 +226,20 @@
       "source": "single-use",
       "emailMessageId": "1a08c2a178cf052c",
       "emailDate": "2026-09-10T16:32:43.000Z"
+    },
+    {
+      "merchant": "The Vitamin Shoppe",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-09-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a2EwRm1BeTA2WjNQY0tKQVc1cnl0VVFORVQ5cFNaNFFTZmJHcEFNc0diSDMxakw5K1lwRFpGdUsvSlE5WHRGWnI3Q0ZvMzMrcUE1RGNvNFFMYkkvNE5ZNHJua3BZL2FmWWtMSWp3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vitaminshoppe.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a09a69001c234ca",
+      "emailDate": "2026-09-13T10:56:07.000Z"
     },
     {
       "merchant": "Hilton",
@@ -268,6 +352,20 @@
       "source": "single-use",
       "emailMessageId": "1a08c2a178cf052c",
       "emailDate": "2026-09-10T16:32:43.000Z"
+    },
+    {
+      "merchant": "Spirit Halloween",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-09-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OHE1N1UzMnN5Ykx2bCthZUZWcE1icFJqL3cybGVzWDFCZS9YbmJmeDZNU3Bra01VaGVGdzRjSmRiUExNSU1BaTNqdWU2VS9wRm1MMnBWd1pxdDdxUVk4aU1Lb1ZTaGdxa0JqWE5RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spirithalloween.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a09a69001c234ca",
+      "emailDate": "2026-09-13T10:56:07.000Z"
     },
     {
       "merchant": "GameTime",
