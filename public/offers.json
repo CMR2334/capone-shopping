@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-09-14T13:17:53.934Z",
-  "sourceCount": 93,
+  "lastUpdated": "2026-09-14T14:10:32.744Z",
+  "sourceCount": 94,
   "parseFailures": 0,
   "offers": [
     {
       "merchant": "Journeys",
-      "percentBack": 40,
+      "percentBack": 45,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-09-18T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VDlWWXU2TDl6d1VPY3NnYVhvVEpBOWhrRjJMdFRIQm9JcXlkTmYwTmlsY3VxOTU0MFBoTzJFQXRjK0lZalBkS0lQNEJpNllUbmM3YVZBY20zMXZhQlMreG9qVFdxQlBNbGZHQlpBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6c3N2eXpXN29QOWg3UGhTZ2tMYTFWeG9WNnVmbjlOSkV5cVhwOERheUFwS1hIRnoyaStMcTcvbkM0WVZKa29ZS2NZWWFRSzhQTUlmeFB1cFdYNG90RUczMGJGMUR3ZjU5K05jOW5RPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/journeys.com/1c0d9d2b-ba0c-4ee4-990d-c26057b5244f.gif",
       "source": "single-use",
-      "emailMessageId": "1a09fad5c6098155",
-      "emailDate": "2026-09-14T11:28:53.000Z"
+      "emailMessageId": "1a0a0328c45fc0ba",
+      "emailDate": "2026-09-14T13:54:22.000Z"
     },
     {
       "merchant": "Ticket Club",
@@ -46,6 +46,20 @@
       "emailDate": "2026-09-13T22:28:16.000Z"
     },
     {
+      "merchant": "NFL+",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-09-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SHNPT1ZYY1FHUnA5R3JCMzZjOGRlN1E0SWtTcndpS3NkZEg3aGxCcXlJdnlRRjhkN1lERXpkNEhkTFRhdHc0Umwwd1poSE41MEplOEU0YVplMlRIa000KzVsSkhLellSWUMrZlJnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nfl.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0a0328c45fc0ba",
+      "emailDate": "2026-09-14T13:54:22.000Z"
+    },
+    {
       "merchant": "Chewy",
       "percentBack": 25,
       "dollarBack": null,
@@ -69,20 +83,6 @@
       "expiresAt": "2026-09-16T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZTMrczhQeWpOVXM5ZkVseGY2ckdxQXlic00yQnpoTFBneUhIc01QQTZiSS9rZVlWWm15UFVvVGdjaEIwcExta3NKa0ZBZEM1WHFjc25VTDdXUFVvdFJJcWJqTjJzdEI0Ym5oditBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ticketsmarter.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "1a095b7fee980062",
-      "emailDate": "2026-09-12T13:04:18.000Z"
-    },
-    {
-      "merchant": "NFL+",
-      "percentBack": 25,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-09-16T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SnMxalFTbGtmOEU3UzhKSjJ6TjlYZWUvWks3VlJlTVN3MWgrVDJYckNJMVhVUkN4R2lqZjExNTFQbEN0amZGamRoYUJBaXRyczVKZVdwNDNGZlBiZGJnNFlMU0RtalFFYTNsck93PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nfl.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
       "emailMessageId": "1a095b7fee980062",
       "emailDate": "2026-09-12T13:04:18.000Z"
@@ -492,6 +492,62 @@
       "source": "single-use",
       "emailMessageId": "1a09019e656473f7",
       "emailDate": "2026-09-11T10:53:31.000Z"
+    },
+    {
+      "merchant": "DIRECTV",
+      "percentBack": null,
+      "dollarBack": 104.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dTRSTWQ5UDBrNzF6d3pJU3hlK3htbGE4czJQV0dmOUx4VndieFROUmdrZSt3ek1RY3NtM3UyVnBhdndTeXZLWFIxbnhWV1V1a3FIUmVTZEVFYXFnRVJlTFBxOHd6VSt4ZzhOUnJBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=directv.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a0a0328c45fc0ba",
+      "emailDate": "2026-09-14T13:54:22.000Z"
+    },
+    {
+      "merchant": "Fubo",
+      "percentBack": null,
+      "dollarBack": 58.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YkhlVmVTM2c2c3VzeGFkNHRwOWl5ZDIwWVMyUzJTMmNMcUtmMlIySS9ibWZjUjBMbEF3aGhuNFJXTnYzemRGdmIvVnFTcFpZTXdJbnhScEJXYXd0RU83Tk1CTEFvKzNOYVd5WGZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fubo.tv&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0a0328c45fc0ba",
+      "emailDate": "2026-09-14T13:54:22.000Z"
+    },
+    {
+      "merchant": "Sling",
+      "percentBack": null,
+      "dollarBack": 15,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6L0dpNis5VzlTb0sxSkJPc3cwZlZuQTc0QmpYZ3c0MGFnVzcrRFBIbldUdlRQZG1WL3RlazlycDZiaU5uZGFKVWNjcW96dnNrQzBmQnRrKyt1enB5Ny9HendINVd1RUpZWDdYSkN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sling.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0a0328c45fc0ba",
+      "emailDate": "2026-09-14T13:54:22.000Z"
+    },
+    {
+      "merchant": "NOW",
+      "percentBack": null,
+      "dollarBack": 15,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cU5nUklTOTgzS3kyU0h2NlFyR3doeEh6clQ1VFdaVkJKVUVySW1DemRMUEVoR0Q4SldzeTU3ZUJHeDM5Ynlqc0gxNk9jSDVTZkNCQXg2YWdjcnNBZ054NjNWdEtJYVFsakJkYnVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=xfinityprepaid.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0a0328c45fc0ba",
+      "emailDate": "2026-09-14T13:54:22.000Z"
     }
   ],
   "upcomingReveals": []
