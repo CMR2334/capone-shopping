@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T00:17:53.245Z",
+  "lastUpdated": "2026-09-14T01:11:28.017Z",
   "sourceCount": 93,
   "parseFailures": 0,
   "offers": [
@@ -72,6 +72,20 @@
       "source": "single-use",
       "emailMessageId": "1a095b7fee980062",
       "emailDate": "2026-09-12T13:04:18.000Z"
+    },
+    {
+      "merchant": "NOBULL",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a2tLNnFqdm9qUnMybk9EMkt3dGQzWjEwUVFCM1JxN05kSXV1UmNRdGhqMWJWcUFtNFRwSXFLT2pYb0U2aTNPZTYvOHhESXdHaTQ1Vkh6a2lLbkcwbk5iZHFSK3ZuNWI0MGdFbFh3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nobullproject.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a09d52dd0332925",
+      "emailDate": "2026-09-14T00:30:47.000Z"
     },
     {
       "merchant": "Tripadvisor",
