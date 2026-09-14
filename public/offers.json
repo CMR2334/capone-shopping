@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-09-14T11:17:48.795Z",
-  "sourceCount": 92,
+  "lastUpdated": "2026-09-14T12:17:48.060Z",
+  "sourceCount": 93,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Journeys",
+      "percentBack": 40,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VDlWWXU2TDl6d1VPY3NnYVhvVEpBOWhrRjJMdFRIQm9JcXlkTmYwTmlsY3VxOTU0MFBoTzJFQXRjK0lZalBkS0lQNEJpNllUbmM3YVZBY20zMXZhQlMreG9qVFdxQlBNbGZHQlpBPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/journeys.com/1c0d9d2b-ba0c-4ee4-990d-c26057b5244f.gif",
+      "source": "single-use",
+      "emailMessageId": "1a09fad5c6098155",
+      "emailDate": "2026-09-14T11:28:53.000Z"
+    },
     {
       "merchant": "Ticket Club",
       "percentBack": 34.5,
@@ -242,6 +256,20 @@
       "emailDate": "2026-09-12T10:56:32.000Z"
     },
     {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bTFWTnlNTXF4ZGxpNlJwSE1IWHRnaHJVMDdOL3UwOUlKWnl5eHQyL0EyWWtEM0VxRFVvamU3aDF5eE0zY05kYWQ1cGc5YUh1YTZ6UTFZYjFqZS9YZmdoQnNqbXBZSHBybi9rbktnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a09fad5c6098155",
+      "emailDate": "2026-09-14T11:28:53.000Z"
+    },
+    {
       "merchant": "Ticket Network",
       "percentBack": 10,
       "dollarBack": null,
@@ -352,6 +380,34 @@
       "source": "single-use",
       "emailMessageId": "1a09019e656473f7",
       "emailDate": "2026-09-11T10:53:31.000Z"
+    },
+    {
+      "merchant": "Go City Pass",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aVZJN3hVTUUvSmFWcFBXSmQrSlNueUQyZHhMSEN5K2hQMjZWRTVXZ2VkYkgvMG1ZVUttdk1KTXpURmdGKzE5REJPQ0Mxc3RVSkpqc1RMTWRCRkFJWHFQTUJJY3ZjR0xqN0ZKS0pBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a09fad5c6098155",
+      "emailDate": "2026-09-14T11:28:53.000Z"
+    },
+    {
+      "merchant": "Princess Cruises",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-09-18T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SERkNWs5dytJUUZwU1YrM3lqcHFJd1JJc0trZkZMaXVyRWU1R3ZMM1lxQWkvemtkUmJ6U0l3dEZqenVxb1hmVG1kQjJLL2lXaHgwWjNtcEpuWDd4a2RGNXFqK1lyWHVzZ1hxLy9RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=princess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a09fad5c6098155",
+      "emailDate": "2026-09-14T11:28:53.000Z"
     },
     {
       "merchant": "Spirit Halloween",
