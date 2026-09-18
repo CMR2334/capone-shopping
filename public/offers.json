@@ -1,8 +1,36 @@
 {
-  "lastUpdated": "2026-09-18T20:17:55.080Z",
-  "sourceCount": 95,
+  "lastUpdated": "2026-09-18T21:17:43.808Z",
+  "sourceCount": 96,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "DonJoy",
+      "percentBack": 32.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-09-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ejZES21jeklxS3RyRUMwdTdnV09tUERvckFuelEzVGUzSlZBUXVCcTlTM1dVMXduazF0bGo2cFN5QjhFL0xUTTVPMy9henhNZGdFNkhtNkFJeC96bVBhUGpLTHlXeDhPN2w1S2lnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=donjoystore.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0b65e8e57aff17",
+      "emailDate": "2026-09-18T21:14:05.000Z"
+    },
+    {
+      "merchant": "Quest",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": "August 26",
+      "expiresAt": "2026-09-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6LzZSa0RBbUoyV0RUMVJjT2ZlYVdudUhKTUszNG42QlJzNHhHOGtzc0hyNHY0NXhwdEdWR3J5eTQ1ZVptbmNZQk1HeWlFM0RQSXFJUDlpajlRd0pWTFZyN2VUL2ZpbkIvLzFLZ2t3PT0/runV3dl",
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "1a0b65e8e57aff17",
+      "emailDate": "2026-09-18T21:14:05.000Z"
+    },
     {
       "merchant": "Columbia",
       "percentBack": 30,
@@ -16,6 +44,20 @@
       "source": "single-use",
       "emailMessageId": "1a0b5efcab297cc7",
       "emailDate": "2026-09-18T19:13:05.000Z"
+    },
+    {
+      "merchant": "Magzter",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 5,
+      "lastViewed": null,
+      "expiresAt": "2026-09-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Z3VGU0JVZWNXSXZlVFowR1R3R21hU1VtYmUxYjg4TUF2dFdlZy9LenJhUFdicU5XYjNOc2w4dzUvNXFTWmhjZ0JRMHBGVENkek9VZ0NtLzArVnFJS2tkcUEyd2FLWW1YSzE0VS93PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=magzter.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0b65e8e57aff17",
+      "emailDate": "2026-09-18T21:14:05.000Z"
     },
     {
       "merchant": "NFL+",
@@ -72,6 +114,20 @@
       "source": "single-use",
       "emailMessageId": "1a0b4bf27aa476af",
       "emailDate": "2026-09-18T13:40:20.000Z"
+    },
+    {
+      "merchant": "Roadtrippers",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-09-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WjIzTGRzOFpDUnlIaUVxc2l2Qmc2M3Z2V3UvTkI3QUxIVmd5UlE1bkVhakdybnMxeDE5R0RpZnkxVTJaQjVYYnJYclpjd3lPT21iUGhkUTI0TTc0VGt2NEFteTVTeENPRlZiYmpRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=roadtrippers.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0b65e8e57aff17",
+      "emailDate": "2026-09-18T21:14:05.000Z"
     },
     {
       "merchant": "Instacart",
@@ -674,6 +730,20 @@
       "source": "single-use",
       "emailMessageId": "1a0b5efcab297cc7",
       "emailDate": "2026-09-18T19:13:05.000Z"
+    },
+    {
+      "merchant": "Self.",
+      "percentBack": null,
+      "dollarBack": 14,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TUZSZDMvalBWc2xjU0VXSnFXKysvM1lEYXhDQVFhcnZ4d1FnaHNJWlJuZnF4UkFxSHQ3cDJDNEdYQ1hzMFN0MllzWllGUUl3amtEdEorSk5NNWxROTIrN0R5R0RtNVE0NXphb3B3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=self.inc&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0b65e8e57aff17",
+      "emailDate": "2026-09-18T21:14:05.000Z"
     },
     {
       "merchant": "Efax",
