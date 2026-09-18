@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T00:27:31.045Z",
+  "lastUpdated": "2026-09-18T01:18:15.779Z",
   "sourceCount": 95,
   "parseFailures": 0,
   "offers": [
@@ -240,6 +240,20 @@
       "source": "single-use",
       "emailMessageId": "1a09fad5c6098155",
       "emailDate": "2026-09-14T11:28:53.000Z"
+    },
+    {
+      "merchant": "GetYourGuide",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-09-21T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6a29FL0FJc2J4VmxaMm5RYStjSEJFRERpZHdFdnUzSS95dElGUFNKQ2JFTlBBdGNkVGRiQjJLMEwzK2psZE9jcmdDSG81UitXTjZrUTUraWt3ckFJOWlMYzhFeGZCQ3J5YS9vSlZ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=getyourguide.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a0b1e90564a3e51",
+      "emailDate": "2026-09-18T00:27:12.000Z"
     },
     {
       "merchant": "The Vitamin Shoppe",
