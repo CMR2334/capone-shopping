@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-24T12:17:46.101Z",
-  "sourceCount": 84,
+  "lastUpdated": "2026-09-24T13:17:41.562Z",
+  "sourceCount": 85,
   "parseFailures": 0,
   "offers": [
     {
@@ -58,6 +58,20 @@
       "source": "single-use",
       "emailMessageId": "1a0c6817ed7909d0",
       "emailDate": "2026-09-22T00:26:10.000Z"
+    },
+    {
+      "merchant": "Instacart",
+      "percentBack": 15.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UWVIcnBsdktHbVhPNnR5SmRMT3JRNk53aXY2OUUremJ5cUFGeTcvVzRsK2I5Tlo2Y2RSR2l1Tks3U1lXL1NtQXY3QXVub3NKeVN1bEpSNVY1YTV4QzlnSndlcVp0UlBrZzk4cUpRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0d37f0346fa9a8",
+      "emailDate": "2026-09-24T12:58:30.000Z"
     },
     {
       "merchant": "Walgreens",
@@ -128,6 +142,20 @@
       "source": "single-use",
       "emailMessageId": "1a0c6817ed7909d0",
       "emailDate": "2026-09-22T00:26:10.000Z"
+    },
+    {
+      "merchant": "Blue Apron",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 6,
+      "lastViewed": null,
+      "expiresAt": "2026-09-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T3pjYUlxd012MFNRNDhjVHd4dUxoSTBFN2NJVzFWeWpZWmtCeHQ2dFpnTFRJM09yL2V1VEgveVFEZ211T3RIdkdtdEYvZllHQUtZVzBhK0JJNDlkL3dPMWoxMzV2M3AzOHR6WVp3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=blueapron.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0d37f0346fa9a8",
+      "emailDate": "2026-09-24T12:58:30.000Z"
     },
     {
       "merchant": "Walmart",
@@ -275,13 +303,27 @@
       "dollarBack": 45,
       "capAmount": null,
       "wasPercent": null,
-      "lastViewed": "September 1",
+      "lastViewed": null,
       "expiresAt": "2026-09-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OHdkaFJBSUpySXZWaThLSUNGck13UVRPRXE4dkszUEVlbEhxRS8rZFc1YmN6OGw3NWFUZFYxVFJPOWtzU29od1YyRFdMOUdYN0JBL0xDc05KYktCSmRoeDJTeDUxbEZYeHFmUXBnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=doordash.com&width=500&fallback=true&type=cropped&opaque=true",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YjloL0c4L0owNldPdU9qeklGcUlldWlhdFdTS3p3UENzYTdQUDluM1NuUXRxYzExb1BQei9yNHBVY3M3NTBvVmJBZ2JudjRjS210NmV3OFpaMHc5ak5YV25mMXZ5bG0vWjVRNjhBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=doordash.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a0d2fa03ea1401d",
-      "emailDate": "2026-09-24T10:33:14.000Z"
+      "emailMessageId": "1a0d37f0346fa9a8",
+      "emailDate": "2026-09-24T12:58:30.000Z"
+    },
+    {
+      "merchant": "The Farmer's Dog",
+      "percentBack": null,
+      "dollarBack": 40,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NWlrTzdSZ2dTaS8wdEUxRk5kTmh5YmVSZkFxUVB3aHo4Y1U4VHQyaXFObEpiQ2g1Yit2bVRCbFRKYUpOT1hPTi80blJGa2ZXMjE3TFZwS09iTVFRbFVPeXRCRFo3QkY1cEJoV1p3PT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/thefarmersdog.com/8c153823-b5b0-477c-a455-21880b8307e1.gif",
+      "source": "single-use",
+      "emailMessageId": "1a0d37f0346fa9a8",
+      "emailDate": "2026-09-24T12:58:30.000Z"
     },
     {
       "merchant": "Uber Eats",
@@ -291,25 +333,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-09-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UUE0NWNEcFhjTUljYjhLbkxoZjFKUTdrQnJ3OWp1NFpoL2NuckdDNTIzalB3bnNNbS9Md0lIejJ1Qk1hWnByTFR1ZVhOTWFBSmRPMkFtdWxEaU9GNFZhZ1ljNXlwWFZ2U2N3dDNnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ubereats.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SnZjYU9UVmlZQTNrZXBEWm1IWmF2dUQ3WStBc0NWcnVEN3ZHWVBmVDJhRGhiZUxSRHBZaXF2ZHA2SVdKMG5oOEh2RmkvTXEyNjhBWWJQeUNPb05POW5qcW9vU2JCb2R0Z1MzdzVRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ubereats.com&fallback=true&opaque=true&type=cropped&width=500",
       "source": "single-use",
-      "emailMessageId": "1a0d2fa03ea1401d",
-      "emailDate": "2026-09-24T10:33:14.000Z"
-    },
-    {
-      "merchant": "The Farmer's Dog",
-      "percentBack": null,
-      "dollarBack": 25,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-09-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VUtHVStGU2owZkNFbkJVMkZhMGxkTStGSFY4ODc2V2hJN0NkSnplUk5kcGgrNE5ZZ01NdzNya3NycWMrekZGeEZYRVNwY0ZVUWVEQ0tYMXlvM2NHNHBNY2E2cGxMWjY3WmtnTXZBPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/thefarmersdog.com/8c153823-b5b0-477c-a455-21880b8307e1.gif",
-      "source": "single-use",
-      "emailMessageId": "1a0d2fa03ea1401d",
-      "emailDate": "2026-09-24T10:33:14.000Z"
+      "emailMessageId": "1a0d37f0346fa9a8",
+      "emailDate": "2026-09-24T12:58:30.000Z"
     },
     {
       "merchant": "Sling",
