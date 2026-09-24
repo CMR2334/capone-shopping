@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-24T15:17:39.823Z",
-  "sourceCount": 84,
+  "lastUpdated": "2026-09-24T16:17:53.039Z",
+  "sourceCount": 85,
   "parseFailures": 0,
   "offers": [
     {
@@ -186,6 +186,34 @@
       "emailDate": "2026-09-22T00:26:10.000Z"
     },
     {
+      "merchant": "Go City Pass",
+      "percentBack": 6.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VGFDNlBBeG8reFhYTmxlWDRNNE11ck53RHJCbUIxMitHSXJDZ1V0Y3c5UkVETFpFN3pYeFUxQkxJMU9nV1c1N1pta1U3aVhPU0IwdHd3T2preW9SckdaQ29JWGFNcWFWeFVrVDNRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0d4259bb6a08c4",
+      "emailDate": "2026-09-24T16:00:28.000Z"
+    },
+    {
+      "merchant": "Princess Cruises",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-09-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MlY2cjVjQlZLVVFaN0h5OXBQVnZISkFpTWt5RkdNa24wazFSUEJ2a2FsR0plMlY5M1F2aTBqZHNvNFNGVkNBcTQrRS9UUld6QVRYVjliN2JWLzhZdkowaVpwRmEvMXE1T2FMMEVBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=princess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0d4259bb6a08c4",
+      "emailDate": "2026-09-24T16:00:28.000Z"
+    },
+    {
       "merchant": "Spirit Halloween",
       "percentBack": 6,
       "dollarBack": null,
@@ -319,11 +347,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-09-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NWlrTzdSZ2dTaS8wdEUxRk5kTmh5YmVSZkFxUVB3aHo4Y1U4VHQyaXFObEpiQ2g1Yit2bVRCbFRKYUpOT1hPTi80blJGa2ZXMjE3TFZwS09iTVFRbFVPeXRCRFo3QkY1cEJoV1p3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6K0tkb0M3TURtVzZueDlrdFlJalN6TWlvVnloSm15QTVTR3ExWkVQVjE1aUl5dFE1Y3lwc3lLNzBmK1QvRVQxeGt0Uy9wUmNaSlk2cmI3a1JrNDVGMkZrSzlzbkVrMFMxM0Jhd1VRPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/thefarmersdog.com/8c153823-b5b0-477c-a455-21880b8307e1.gif",
       "source": "single-use",
-      "emailMessageId": "1a0d37f0346fa9a8",
-      "emailDate": "2026-09-24T12:58:30.000Z"
+      "emailMessageId": "1a0d4259bb6a08c4",
+      "emailDate": "2026-09-24T16:00:28.000Z"
     },
     {
       "merchant": "Uber Eats",
