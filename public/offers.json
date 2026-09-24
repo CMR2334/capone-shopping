@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T10:17:44.307Z",
+  "lastUpdated": "2026-09-24T11:17:38.778Z",
   "sourceCount": 84,
   "parseFailures": 0,
   "offers": [
@@ -102,6 +102,20 @@
       "emailDate": "2026-09-22T11:15:35.000Z"
     },
     {
+      "merchant": "CVS",
+      "percentBack": 13,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6K09qVTNQT3lCREs4TWlraDU4NHJBWjA4TVIrYVE1a21OZHhMZE52SEViRjdwRStZQmhrQTNxV3FHM0tmRmVNY1E4OEJ5MHJoTE5vd3huR3FHWER6L3ZSRFhkOVVsS0IzRzZKZDd3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cvs.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0d2fa03ea1401d",
+      "emailDate": "2026-09-24T10:33:14.000Z"
+    },
+    {
       "merchant": "Tuft + Paw",
       "percentBack": 11,
       "dollarBack": null,
@@ -142,6 +156,20 @@
       "source": "single-use",
       "emailMessageId": "1a0c6817ed7909d0",
       "emailDate": "2026-09-22T00:26:10.000Z"
+    },
+    {
+      "merchant": "Spirit Halloween",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-09-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6R203ZFhMbVZtQWJFNWI3cXl0eHlKWUdnZDQ0MnhyR3ZSUzZ4aTVNdzc5RnNQb3lTUzVtZ3p5cEZRbUFBRlRnSDk5RGFCQUlPYys0Wjl4Tng5SUNoYXZCNkdqVmpFZWJmWXFWWkdBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spirithalloween.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0d2fa03ea1401d",
+      "emailDate": "2026-09-24T10:33:14.000Z"
     },
     {
       "merchant": "Chewy",
@@ -240,6 +268,48 @@
       "source": "single-use",
       "emailMessageId": "1a0c949fb1bb1732",
       "emailDate": "2026-09-22T13:24:22.000Z"
+    },
+    {
+      "merchant": "DoorDash",
+      "percentBack": null,
+      "dollarBack": 45,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "September 1",
+      "expiresAt": "2026-09-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OHdkaFJBSUpySXZWaThLSUNGck13UVRPRXE4dkszUEVlbEhxRS8rZFc1YmN6OGw3NWFUZFYxVFJPOWtzU29od1YyRFdMOUdYN0JBL0xDc05KYktCSmRoeDJTeDUxbEZYeHFmUXBnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=doordash.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a0d2fa03ea1401d",
+      "emailDate": "2026-09-24T10:33:14.000Z"
+    },
+    {
+      "merchant": "Uber Eats",
+      "percentBack": null,
+      "dollarBack": 36,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UUE0NWNEcFhjTUljYjhLbkxoZjFKUTdrQnJ3OWp1NFpoL2NuckdDNTIzalB3bnNNbS9Md0lIejJ1Qk1hWnByTFR1ZVhOTWFBSmRPMkFtdWxEaU9GNFZhZ1ljNXlwWFZ2U2N3dDNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ubereats.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0d2fa03ea1401d",
+      "emailDate": "2026-09-24T10:33:14.000Z"
+    },
+    {
+      "merchant": "The Farmer's Dog",
+      "percentBack": null,
+      "dollarBack": 25,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VUtHVStGU2owZkNFbkJVMkZhMGxkTStGSFY4ODc2V2hJN0NkSnplUk5kcGgrNE5ZZ01NdzNya3NycWMrekZGeEZYRVNwY0ZVUWVEQ0tYMXlvM2NHNHBNY2E2cGxMWjY3WmtnTXZBPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/thefarmersdog.com/8c153823-b5b0-477c-a455-21880b8307e1.gif",
+      "source": "single-use",
+      "emailMessageId": "1a0d2fa03ea1401d",
+      "emailDate": "2026-09-24T10:33:14.000Z"
     },
     {
       "merchant": "Sling",
