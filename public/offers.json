@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-25T22:26:47.973Z",
-  "sourceCount": 82,
+  "lastUpdated": "2026-09-25T23:17:40.997Z",
+  "sourceCount": 83,
   "parseFailures": 0,
   "offers": [
     {
@@ -102,6 +102,20 @@
       "emailDate": "2026-09-24T12:58:30.000Z"
     },
     {
+      "merchant": "Apple",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-09-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ajI4UEtaVnNWcUJuZ2xpeHlXUWZWOTFvOEExb1d4aHBBaGdIeXFLTlZTYy9mV1Z0dlN0c1pSNVkyMEhpMjZuK1hpVDNaelk2bmNCSmZiL2MxSU83V1pKMDl2MkVUZll0R1JlYnlRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=apple.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "1a0dacd8e9bea30c",
+      "emailDate": "2026-09-25T23:01:38.000Z"
+    },
+    {
       "merchant": "Quest",
       "percentBack": 15,
       "dollarBack": null,
@@ -172,18 +186,18 @@
       "emailDate": "2026-09-24T20:00:55.000Z"
     },
     {
-      "merchant": "Apple",
+      "merchant": "Forkful",
       "percentBack": 10,
       "dollarBack": null,
       "capAmount": null,
-      "wasPercent": null,
+      "wasPercent": 2,
       "lastViewed": null,
-      "expiresAt": "2026-09-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aGNvVytqRXNjd0t1TENSNThvYjR4ZTNyM2NsK2FmWWsxMW92NTlYaWpqclJmTUFINmE0Z1NYTkxjTWlWM2lnV2VDL1czcUsyNmZJNE9SRmdDU3VLKy9LR1hzQWxVN3N2SU1ZVEpnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=apple.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a0d820716d6d103",
-      "emailDate": "2026-09-25T10:33:19.000Z"
+      "expiresAt": "2026-09-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VXJvUlN6MlVOWFpZQ3BMc2dVRGc0RGlkc2IzVnNCZkRha0tJV2VpWHNRWmMzNG5XU0pXdHFmbEFuV21qcFJTSSt6UWNRZU5FcTNuUVhWM3V0a1Qvc1AvWTljMWRXUWRFWEpoaThBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=forkfulmeals.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a0dacd8e9bea30c",
+      "emailDate": "2026-09-25T23:01:38.000Z"
     },
     {
       "merchant": "Blue Apron",
