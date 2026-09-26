@@ -51,7 +51,7 @@ Gmail inbox (a dedicated account)
 
 These are known fixes that must be preserved when editing the frontend:
 
-- **Grid columns:** Use `minmax(0, 1fr)` not `1fr` for offer card grid tracks. Plain `1fr` causes track overflow on mobile — cards bleed outside the viewport.
+- **Grid columns:** Use `minmax(0, 1fr)` not `1fr` for offer card grid tracks (general rule: `../docs/PREFERENCES.md` → CSS). This is a known fix in this file specifically — preserve it when editing the frontend; plain `1fr` caused cards to bleed outside the viewport on mobile.
 - **Logo alignment:** Logo images in offer cards use `align-self: flex-start` to prevent stretching when the adjacent text is taller.
 - **Mobile buttons:** Action buttons (favorite, hide) are 26px minimum touch target on mobile.
 
@@ -69,7 +69,7 @@ cd ~/Automation/capone-shopping && \
   git push origin main
 ```
 
-Do not manually commit or hand-edit `public/offers.json` — the ingestor manages that file via GitHub Actions.
+Let the ingestor manage `public/offers.json` — GitHub Actions commits it automatically on the hourly cron. Change offer data only by changing the ingestor/parser, never by hand.
 
 ---
 
