@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-26T00:17:39.082Z",
-  "sourceCount": 83,
+  "lastUpdated": "2026-09-26T01:17:45.961Z",
+  "sourceCount": 84,
   "parseFailures": 0,
   "offers": [
     {
@@ -100,6 +100,20 @@
       "source": "single-use",
       "emailMessageId": "1a0d37f0346fa9a8",
       "emailDate": "2026-09-24T12:58:30.000Z"
+    },
+    {
+      "merchant": "Serta",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 6,
+      "lastViewed": null,
+      "expiresAt": "2026-09-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VEJIZFlGZUJMcTJ2QWdPdWZRUTBhMkZIdGROS3VmK1kvNGVmT05DL0ZUODM3VXhYK2pIQXNzaURLQ1VhR2tCeXdDbnRjZWNOQ0x0TGFYOWNXazRHVmhWN3laa2VBSHBnRkNIeit3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=serta.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a0db19c14e9a1f5",
+      "emailDate": "2026-09-26T00:24:52.000Z"
     },
     {
       "merchant": "Apple",
