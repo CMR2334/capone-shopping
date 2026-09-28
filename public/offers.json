@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-28T12:17:43.444Z",
-  "sourceCount": 76,
+  "lastUpdated": "2026-09-28T13:17:39.473Z",
+  "sourceCount": 77,
   "parseFailures": 0,
   "offers": [
     {
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-10-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UHZ4ajFjVDZsOGVTd01RYVVQeUJibFN2akxKY1JTaXBORXQ4aTE1ZHg4U3BGS2dZTmRCdktxNytXQUpvTjU5RVluNjdtSTlESEpONkI0dURuZ1kyMzNpTWh5TVgxNkdSazh4N3lBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6cHFDQTdTM3MwS0syNVdDdHFGV0g3TC8vSFBERnZMNlp1RVF6cm1xcFpIV3puM082WGlCQ3JUZWhEUktGcU9lOWI3V1lhK1ZmeFk5LzNaVGw3WVMvSWYzUXNONFBCdFNYNGtsVG9RPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/shutterfly.com/2d49d7ea-264b-4ee4-a537-a2bf7baf439d.gif",
       "source": "single-use",
-      "emailMessageId": "1a0e7a10c30bdcd9",
-      "emailDate": "2026-09-28T10:48:05.000Z"
+      "emailMessageId": "1a0e8221bf8636d9",
+      "emailDate": "2026-09-28T13:09:02.000Z"
     },
     {
       "merchant": "Kendra Scott",
@@ -88,6 +88,34 @@
       "emailDate": "2026-09-25T10:33:19.000Z"
     },
     {
+      "merchant": "Liquid I.V.",
+      "percentBack": 18,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-10-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Y284andreEhzc0RNTXdsZGtkeDR1cEF3VGlmUDFNL3hXZG82NDFyY2FMTUtsbktpWDRpdFhkYTUrcWJJcERMeFJJZnJBSVdDclJvTDF3b0tjcVRIa2dDdndaenMxeVErYzdBaFNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=liquid-iv.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0e8221bf8636d9",
+      "emailDate": "2026-09-28T13:09:02.000Z"
+    },
+    {
+      "merchant": "Instacart",
+      "percentBack": 15.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "September 18",
+      "expiresAt": "2026-10-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SDExam8wTlArM0lHNkcvek5pK0tma3NDbThtVlhxSzlvK3B1bjI5aTlicEVtTnFpSXhWSnlvNFpYdDZJQWZJQU9aVEVvQStPRGhnZG9KR0txT2EvS29NQjhWYjZvTzJtblhZcWRnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a0e8221bf8636d9",
+      "emailDate": "2026-09-28T13:09:02.000Z"
+    },
+    {
       "merchant": "Big Bus Tours",
       "percentBack": 15,
       "dollarBack": null,
@@ -144,6 +172,20 @@
       "emailDate": "2026-09-26T10:35:39.000Z"
     },
     {
+      "merchant": "Orgain",
+      "percentBack": 11,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-10-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6T3JNd2FCRTlveHBEc2tnbUY2bkRKMGV1NFdGdnhvV3lSV2QzbWRDM2tlK1Q1a0tXTk00Ny9VN2ZQZEJiaTJUcUZOSEc0Yi81RlRIV1F3UzhrS3Q2SEZmbEZldWFFNFVCUVdvMDhRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=orgain.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0e8221bf8636d9",
+      "emailDate": "2026-09-28T13:09:02.000Z"
+    },
+    {
       "merchant": "Viator, a Tripadvisor company",
       "percentBack": 10,
       "dollarBack": null,
@@ -184,6 +226,20 @@
       "source": "single-use",
       "emailMessageId": "1a0dd48eeb4120af",
       "emailDate": "2026-09-26T10:35:39.000Z"
+    },
+    {
+      "merchant": "Goldbelly",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-10-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6QzhDaVlYT2lMSkhKbkVGaEJCdjlTbDlNYkk2RVFHL0VvbnNHSzYyUjMzY2x6UTFLQU1BU3U5RVBlL1RiYmRnWmVlV0xCRWlaNldGTEVmTEZOTTAyWFZFZWpaVkcxYjNMK3Yrb0l3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=goldbelly.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0e8221bf8636d9",
+      "emailDate": "2026-09-28T13:09:02.000Z"
     },
     {
       "merchant": "Princess Cruises",
@@ -296,6 +352,34 @@
       "source": "single-use",
       "emailMessageId": "1a0ddcd3f48548a5",
       "emailDate": "2026-09-26T13:00:09.000Z"
+    },
+    {
+      "merchant": "DoorDash",
+      "percentBack": null,
+      "dollarBack": 45,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VXdjWUhVeHpjTDdxNy9YUkRtbXhtVk84bTd5bkpCZXo0MUdOc3hMWVFTa3VuVUhwVXVmZ1JoR1pwZmxMVWl4dXp6WEhvRXJiREltK0RQZTVXVmZtU25BR0h3aVY2MUFBWWM0bTZnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=doordash.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0e8221bf8636d9",
+      "emailDate": "2026-09-28T13:09:02.000Z"
+    },
+    {
+      "merchant": "Uber Eats",
+      "percentBack": null,
+      "dollarBack": 36,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RS9Fenh6dit2MS9MVE5abExuekhrMzg1OHRpM0xIRUlJQnFuTDlHU1F1VjNaNjFDR2JWWHRRbm1YNTBnQXNpVGlLL1I5Ky9MQlhCT0xJYjJJQ28ya3pCYnVOR2dUMzRvWGhKRTZ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ubereats.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0e8221bf8636d9",
+      "emailDate": "2026-09-28T13:09:02.000Z"
     },
     {
       "merchant": "Fubo",
