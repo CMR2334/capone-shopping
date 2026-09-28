@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-09-28T10:18:12.206Z",
-  "sourceCount": 76,
+  "lastUpdated": "2026-09-28T11:17:36.328Z",
+  "sourceCount": 77,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Shutterfly",
+      "percentBack": 35,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UHZ4ajFjVDZsOGVTd01RYVVQeUJibFN2akxKY1JTaXBORXQ4aTE1ZHg4U3BGS2dZTmRCdktxNytXQUpvTjU5RVluNjdtSTlESEpONkI0dURuZ1kyMzNpTWh5TVgxNkdSazh4N3lBPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/shutterfly.com/2d49d7ea-264b-4ee4-a537-a2bf7baf439d.gif",
+      "source": "single-use",
+      "emailMessageId": "1a0e7a10c30bdcd9",
+      "emailDate": "2026-09-28T10:48:05.000Z"
+    },
     {
       "merchant": "Kendra Scott",
       "percentBack": 35,
@@ -74,6 +88,20 @@
       "emailDate": "2026-09-25T10:33:19.000Z"
     },
     {
+      "merchant": "Big Bus Tours",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-10-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VDlPSUY3SjlkRGllM0kzVDV4YkFBN2lpUjZNbnVMWU9LdVNYems2TTgzNjVoVitaQUprRFJpREpWcWQrUlpXVVJ2d2s2dEEvRDRXS3BGTmdpM2x6NkpPU083S1RWNnEwMlg0V0ZnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0e7a10c30bdcd9",
+      "emailDate": "2026-09-28T10:48:05.000Z"
+    },
+    {
       "merchant": "Serta",
       "percentBack": 15,
       "dollarBack": null,
@@ -116,6 +144,20 @@
       "emailDate": "2026-09-26T10:35:39.000Z"
     },
     {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WXZzSnlsQk9BZHhVNmRKSE9wNmV2cGJiY2I4N3hlem9tUXErckk5eTFEMVlRdUE4QWlpcXliRytEVDFNdVpYVEgyeVVUOGN0aWRURWdDOEpXa2pSWjAvc0h4V2QrK1NrTFlJM2JRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a0e7a10c30bdcd9",
+      "emailDate": "2026-09-28T10:48:05.000Z"
+    },
+    {
       "merchant": "Forkful",
       "percentBack": 10,
       "dollarBack": null,
@@ -142,6 +184,34 @@
       "source": "single-use",
       "emailMessageId": "1a0dd48eeb4120af",
       "emailDate": "2026-09-26T10:35:39.000Z"
+    },
+    {
+      "merchant": "Princess Cruises",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6U1VZc0NiVjk4WkFXTWpoTHFRNDc3T3F0RlYxTyszRFYxcFFLZTUyWmFhSE5acG8vVTJOREd5Wi9qSmJibnNxdVBJZUxYWFArU3JqN3BoalJQazVUZmpROS9yNmN3RFR5ZkNNbWx3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=princess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0e7a10c30bdcd9",
+      "emailDate": "2026-09-28T10:48:05.000Z"
+    },
+    {
+      "merchant": "Go City Pass",
+      "percentBack": 5.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6Wll0bWUxTUxWTndWdTMxT0grcHp5TU8xT0ZONzZFQy8zNXp4aEYzYnByQzZUaWthYUNjbXJ6YzhRVFpEY3RERURFSTVMa1AvNTVKZkVyMW9uZ29zNmJzeml1aXI1OTF1b2xLYWZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0e7a10c30bdcd9",
+      "emailDate": "2026-09-28T10:48:05.000Z"
     },
     {
       "merchant": "Walmart",
