@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-28T15:34:50.028Z",
-  "sourceCount": 76,
+  "lastUpdated": "2026-09-28T16:17:45.002Z",
+  "sourceCount": 77,
   "parseFailures": 0,
   "offers": [
     {
@@ -107,13 +107,13 @@
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
-      "lastViewed": "September 18",
+      "lastViewed": null,
       "expiresAt": "2026-10-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6SDExam8wTlArM0lHNkcvek5pK0tma3NDbThtVlhxSzlvK3B1bjI5aTlicEVtTnFpSXhWSnlvNFpYdDZJQWZJQU9aVEVvQStPRGhnZG9KR0txT2EvS29NQjhWYjZvTzJtblhZcWRnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&width=500&fallback=true&type=cropped&opaque=true",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6OEFCNGNzOWw4c3ZabVptL3N4ZGJicGMvaWJGMzNPU3lxcGFlai9iRDk5T2l0RjI1WFJERzBTdGkyYmFkM0g2S05ta3diUWZOd3JzOXFvOHBmK2laSzBzSGNycElJNiszVlNxd3V3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a0e8221bf8636d9",
-      "emailDate": "2026-09-28T13:09:02.000Z"
+      "emailMessageId": "1a0e8b1a9b71bfb8",
+      "emailDate": "2026-09-28T15:45:51.000Z"
     },
     {
       "merchant": "Big Bus Tours",
@@ -184,6 +184,20 @@
       "source": "single-use",
       "emailMessageId": "1a0e8221bf8636d9",
       "emailDate": "2026-09-28T13:09:02.000Z"
+    },
+    {
+      "merchant": "Blue Apron",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 6,
+      "lastViewed": null,
+      "expiresAt": "2026-10-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YmVQNzFsRTdxRFBLdkNsT295T1lFTWFDTHI1U0xkNVEyQ0F5Nkx1dEYrZVdKZHNmYjZrQlRsUXRYTXl4TkRhamVLT3g0amNsb29BUTB1SnVwczdZSk1nYTBFYUVVaUJoUjFYSWFRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=blueapron.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a0e8b1a9b71bfb8",
+      "emailDate": "2026-09-28T15:45:51.000Z"
     },
     {
       "merchant": "Viator, a Tripadvisor company",
@@ -361,11 +375,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-10-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VXdjWUhVeHpjTDdxNy9YUkRtbXhtVk84bTd5bkpCZXo0MUdOc3hMWVFTa3VuVUhwVXVmZ1JoR1pwZmxMVWl4dXp6WEhvRXJiREltK0RQZTVXVmZtU25BR0h3aVY2MUFBWWM0bTZnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6M3pLS0l3ZTZWY2ltamRjemJPSStFRGlkVFM5UG52ejhYM0VBd1VRTkhFc3J2eEZtSVZvMEU3bkFaNU9hWU1FeUtuWkhicmhwS01qMnRhclc3VnI3Y1ZFMjhmVXpqb0h1aVRmZnhBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=doordash.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a0e8221bf8636d9",
-      "emailDate": "2026-09-28T13:09:02.000Z"
+      "emailMessageId": "1a0e8b1a9b71bfb8",
+      "emailDate": "2026-09-28T15:45:51.000Z"
     },
     {
       "merchant": "Uber Eats",
@@ -375,11 +389,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-10-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RS9Fenh6dit2MS9MVE5abExuekhrMzg1OHRpM0xIRUlJQnFuTDlHU1F1VjNaNjFDR2JWWHRRbm1YNTBnQXNpVGlLL1I5Ky9MQlhCT0xJYjJJQ28ya3pCYnVOR2dUMzRvWGhKRTZ3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ubereats.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RUhEaXBnanR2ZGc0MWFpZTA3cjM3ZFBLWWw4SmRLYlhhSElKckJBemp6em5QWWVzQ2RCUC9GdkQwNXRhSDBSQ0d2SURnYWtMS2lkVks3QzZ0aWkwd1F3bW9iMnFCcVFCd1IreGhBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ubereats.com&fallback=true&opaque=true&type=cropped&width=500",
       "source": "single-use",
-      "emailMessageId": "1a0e8221bf8636d9",
-      "emailDate": "2026-09-28T13:09:02.000Z"
+      "emailMessageId": "1a0e8b1a9b71bfb8",
+      "emailDate": "2026-09-28T15:45:51.000Z"
     },
     {
       "merchant": "Fubo",
