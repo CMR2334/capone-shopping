@@ -1,22 +1,8 @@
 {
-  "lastUpdated": "2026-10-01T06:17:43.166Z",
+  "lastUpdated": "2026-10-01T07:17:36.044Z",
   "sourceCount": 72,
   "parseFailures": 0,
   "offers": [
-    {
-      "merchant": "GetYourGuide",
-      "percentBack": 35,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-10-01T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6V0xyQzZ0bjZuOFJiU0Z1WkRETGQyRnlocFBXaWVpbHZsNFlVQkZUR0lSekJpOVB5azRNWEtMbE5YZW1NMlFzNVNMK2Y5WVBBYThhZWpHN0czQ2Y4NmlmOE1zSDUzMHpQQlgrRHdnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=getyourguide.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a0f58082d487747",
-      "emailDate": "2026-10-01T03:27:14.000Z"
-    },
     {
       "merchant": "Shutterfly",
       "percentBack": 35,
