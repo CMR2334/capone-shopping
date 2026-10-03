@@ -1,36 +1,8 @@
 {
-  "lastUpdated": "2026-10-03T06:17:35.337Z",
+  "lastUpdated": "2026-10-03T07:17:39.870Z",
   "sourceCount": 67,
   "parseFailures": 0,
   "offers": [
-    {
-      "merchant": "Tommy John",
-      "percentBack": 70,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-10-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aEgwRGdQd0VHMExSci9wRDNPb0ZWVnRJdngzcUFFMXZyaUlrRnlFQlg2bVcveUg3VFViV0VVL1hGRUtTNHl1MERGWVhLN1AxWmF6NGRwcllwcUNFQ3VLODhPaDhYaExFQWEyYWJRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tommyjohn.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a0fc290015f9e77",
-      "emailDate": "2026-10-02T10:29:00.000Z"
-    },
-    {
-      "merchant": "Maje",
-      "percentBack": 70,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-10-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6RmY0eGZoOVdsNkpHY1NmNFNsTlNBb0N3YjdXZEFFYlJrNHVTbDZmTkVoelRkdVAzQWxQMzNmQU4xTHpQSEZRa3hiZ3NRNDFLTXUwdElZNldGejRzTC8rWHdyOFhpUUVVQzNhdmhBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=maje.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a0fc290015f9e77",
-      "emailDate": "2026-10-02T10:29:00.000Z"
-    },
     {
       "merchant": "Viator, a Tripadvisor company",
       "percentBack": 27,
@@ -60,20 +32,6 @@
       "emailDate": "2026-10-02T10:29:00.000Z"
     },
     {
-      "merchant": "Life Extension",
-      "percentBack": 20,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-10-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6dmFiNVVHcmVLbWtZTTliWFZCK0F4WEYyaWNLaXZkeS82bVlzRVR3KzRMbmM5M01QZi9Yb1pib3dOMXJRQU5uT3RZaGlPTWNHY0dxNmRzQVBIMGNIcklKM2dMY3AzdlFnRytYWERRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lifeextension.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a0efae9b6ee1c69",
-      "emailDate": "2026-09-30T00:19:52.000Z"
-    },
-    {
       "merchant": "Go City Pass",
       "percentBack": 18,
       "dollarBack": null,
@@ -86,34 +44,6 @@
       "source": "single-use",
       "emailMessageId": "1a0fc290015f9e77",
       "emailDate": "2026-10-02T10:29:00.000Z"
-    },
-    {
-      "merchant": "iHerb",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-10-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZnI2a0pnVEZ1c0JCWDRuOHdmWk9HOXVLam0rQm5EMmErRTRUNEVCemJzM2EyNUNlc0xwTnQ3OFhXZzd2RE1jS0xvaHJ4VE9JQVhSSlN0MlRGK2xYT3B3SC9EYjMrSHZ3bm1RL3F3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=iherb.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a0efae9b6ee1c69",
-      "emailDate": "2026-09-30T00:19:52.000Z"
-    },
-    {
-      "merchant": "Further Food",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-10-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TWxnKzFNOUNkWnhFQXFUOWxRMGl2M2RRaW5LVnFRb1I1MVdaemlXd0VzV3VIZzVMSUZrOWNNcXQxNjB4eUtjajVaSjFNK20zZmVaeEFxNzJzMEdrQzNjYkJvWSsrcFZVK3paZTlBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=furtherfood.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a0efae9b6ee1c69",
-      "emailDate": "2026-09-30T00:19:52.000Z"
     },
     {
       "merchant": "Gap",
@@ -172,34 +102,6 @@
       "emailDate": "2026-09-30T11:36:53.000Z"
     },
     {
-      "merchant": "Swanson",
-      "percentBack": 9.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-10-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6aEhxeXJzcE9UaTEzcm1UQTJpWlljZVBFaHFKQ1lNb1RNTFE0aEJ6RGFNdEozZmVNMHYrVW1GMUltSDI3ZzlVQ0t2THp2d0R1ZVpOaU9LZjhuVHFENmxkUTJsNHR4ZThQek9QV3NnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=swansonvitamins.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a0efae9b6ee1c69",
-      "emailDate": "2026-09-30T00:19:52.000Z"
-    },
-    {
-      "merchant": "The Vitamin Shoppe",
-      "percentBack": 9,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-10-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6NXJqSHZyM2V1RWZnZTl3bVNkL2FJWFM4TWZQa3piSFJtM0NwT2JITlZualZLc2QvSHNQMHc1K0NJd3ZmOWdtQ0tYajdha3JEZHVjZ2FQUnhuRXpPVDc2cm91VTZ1a0s4ekxnVit3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vitaminshoppe.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a0efae9b6ee1c69",
-      "emailDate": "2026-09-30T00:19:52.000Z"
-    },
-    {
       "merchant": "Staples",
       "percentBack": 8.5,
       "dollarBack": null,
@@ -226,20 +128,6 @@
       "source": "single-use",
       "emailMessageId": "1a0fc290015f9e77",
       "emailDate": "2026-10-02T10:29:00.000Z"
-    },
-    {
-      "merchant": "Dr. Berg",
-      "percentBack": 8,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-10-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6b3E0TXg4ZFJBdmFWbk96eHoyR1VVdVd1NmVrbnI4VVBRSUxlUnFsV3B6d2NaMFNNdjMyVVMvcGpQdVlVRm5tUmFSMEVFV2szWW1XRlhmcHZISDV1Mm5sR2VRUFB1NzhVWkJpT0VRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=drberg.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a0efae9b6ee1c69",
-      "emailDate": "2026-09-30T00:19:52.000Z"
     },
     {
       "merchant": "Anthropologie",
@@ -366,20 +254,6 @@
       "source": "single-use",
       "emailMessageId": "1a0f58082d487747",
       "emailDate": "2026-10-01T03:27:14.000Z"
-    },
-    {
-      "merchant": "DIRECTV",
-      "percentBack": null,
-      "dollarBack": 200,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-10-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6REx2OUw0RVgyVTlyTmVVVUo5TTZabytHaEI3S1F0VWRVZ21pbHFySmwyRjlEYWJ6Y3pXWW56ZmhONTNHVGxUbWNtdENVR2VGU1lNTnhmd2F6M1VFSDZWRytIT1NaL0pLSEJTRDhBPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/directv.com/9ff93ed1-3aa7-4729-ba45-cd93af38dffa.gif",
-      "source": "single-use",
-      "emailMessageId": "1a0efae9b6ee1c69",
-      "emailDate": "2026-09-30T00:19:52.000Z"
     }
   ],
   "upcomingReveals": []
