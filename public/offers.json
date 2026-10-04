@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-04T00:17:42.718Z",
-  "sourceCount": 65,
+  "lastUpdated": "2026-10-04T00:42:51.057Z",
+  "sourceCount": 66,
   "parseFailures": 0,
   "offers": [
     {
@@ -30,6 +30,20 @@
       "source": "single-use",
       "emailMessageId": "1a0fc290015f9e77",
       "emailDate": "2026-10-02T10:29:00.000Z"
+    },
+    {
+      "merchant": "Brooks Running",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6ZEI3OVFON1d0c0UyOTQvOWczYTh1bmpkUldBM05Kd2d0bisrS2xMNHJpWU9aZ1p4QzBROHRybFYzT003VHNvTzRJZkdHaFk2TXU3UXFqU1FFY3hVTXFVREtWR0t5TmNncEVBVFJ3PT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/brooksrunning.com/655faebe-834d-4ca9-9f66-94e81e350d75.gif",
+      "source": "single-use",
+      "emailMessageId": "1a1045173214b4a4",
+      "emailDate": "2026-10-04T00:30:08.000Z"
     },
     {
       "merchant": "Go City Pass",
@@ -100,6 +114,20 @@
       "source": "single-use",
       "emailMessageId": "1a0f21a70466e6f8",
       "emailDate": "2026-09-30T11:36:53.000Z"
+    },
+    {
+      "merchant": "Belk",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6bHJoTkx6dXRFdXJYTTE0RHpNUFV2Tzg2RWVrTWdUSjM1U1VCL0F0cURzYVNXUlhoVldzZ2E5eTFkQ1M5TE4zYnpHTjhjN3IwTHN3cWJTOHlGME5ic3NhR1QzckhGa25SRHowSUlRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=belk.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a1045173214b4a4",
+      "emailDate": "2026-10-04T00:30:08.000Z"
     },
     {
       "merchant": "Staples",
