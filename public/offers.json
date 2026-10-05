@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-05T12:18:30.814Z",
-  "sourceCount": 64,
+  "lastUpdated": "2026-10-05T13:18:36.921Z",
+  "sourceCount": 65,
   "parseFailures": 0,
   "offers": [
     {
@@ -44,6 +44,20 @@
       "source": "single-use",
       "emailMessageId": "1a0fc290015f9e77",
       "emailDate": "2026-10-02T10:29:00.000Z"
+    },
+    {
+      "merchant": "Expedia",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6MDBXUGF5bzlrUlRESGNWUHpMc2J3dlZQWFEzTmhWQzg3bkZrT2N1RVBxLzVxYWtUWERVOEFYQytwanF3MHdRVlRiTjZDVnZVd290YkJiMCtHZVQwbWtJdm16V3pURGRDRUIrWlV3PT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/expedia.com/41a13cd2-e167-4bff-b111-c9445c4c3b60.gif",
+      "source": "single-use",
+      "emailMessageId": "1a10c1b4f8eee81a",
+      "emailDate": "2026-10-05T12:47:58.000Z"
     },
     {
       "merchant": "Brooks Running",
@@ -212,6 +226,34 @@
       "source": "single-use",
       "emailMessageId": "1a10546b91249973",
       "emailDate": "2026-10-04T04:58:03.000Z"
+    },
+    {
+      "merchant": "Walmart",
+      "percentBack": 1.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6d1pyMHJZL2hKTnI0WGVselhHWm9oTkFCZUphSUVPWW45SnpmMEdpdkU5MDdDR2QwS05FMGV1SFdwem90Vy9MOVJNbDVsNHJiSE85ejZjN1VZQU5hcWRpeXRWRTIwSFZZNFcramdRPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/walmart.com/402ab5c6-bc59-4c2a-a45a-ece6c1c49ace.gif",
+      "source": "single-use",
+      "emailMessageId": "1a10c1b4f8eee81a",
+      "emailDate": "2026-10-05T12:47:58.000Z"
+    },
+    {
+      "merchant": "Bookmap",
+      "percentBack": null,
+      "dollarBack": 125,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "October 1",
+      "expiresAt": "2026-10-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6K05IS1hHMXhCSVdOYkg4WCtPQ3ZRMk1EaHorSTdWT0N1MlBsNUZ4ODEzbmE3WnhIaXBLeDZFRk1XVVQzOTBjZXgvMHBGL04vUmI3ME82V0NzYkk3T3o1RmFjQk9acFplcjR1UDdnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bookmap.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a10c1b4f8eee81a",
+      "emailDate": "2026-10-05T12:47:58.000Z"
     }
   ],
   "upcomingReveals": []
