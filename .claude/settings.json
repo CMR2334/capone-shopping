@@ -1,3 +1,5 @@
 {
-  "bypassPermissions": true
+  "permissions": {
+    "defaultMode": "auto"
+  }
 }
