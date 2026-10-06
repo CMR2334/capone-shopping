@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-10-06T13:18:29.268Z",
-  "sourceCount": 61,
+  "lastUpdated": "2026-10-06T14:18:47.191Z",
+  "sourceCount": 62,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Columbia",
+      "percentBack": 45,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6YTkzSXRzaW1pTDk0WXlpRUlHaTBNbGkyZ1hlTzhuNTZxMVltMGl2dnM2VHJuRS9vb3ZtY1BWRmRndHZieFI3S0ZiaFl5STF1UU4vYW1TcWRiMENsMmJkVEZQU3F4UVRBaWZqWDd3PT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/columbia.com/ec91281b-512f-46e7-b354-eefd09cf5bcd.gif",
+      "source": "single-use",
+      "emailMessageId": "1a1115e112ab7dc1",
+      "emailDate": "2026-10-06T13:18:59.000Z"
+    },
     {
       "merchant": "Temu",
       "percentBack": 27.5,
@@ -44,6 +58,48 @@
       "source": "single-use",
       "emailMessageId": "1a10546b91249973",
       "emailDate": "2026-10-04T04:58:03.000Z"
+    },
+    {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 18,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VkVYVTRyL1FXODZmNkZKT0NIaWJVWGp1NGdJV2RsaVVUbVFvbCt0RmQwSGpKbDFZSmxwTklQUnpLV1Nmak11dU9kZDU4TlQ1eWMzeHMvcExLdVpGaGtJMTVEN2pPWmVBK0RMTlRnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a1115e112ab7dc1",
+      "emailDate": "2026-10-06T13:18:59.000Z"
+    },
+    {
+      "merchant": "Go City Pass",
+      "percentBack": 16,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6VFdQZldIV3dURHVncTczTC9nMWlSd3hPNzJZNXM1Zmw2VFVQMUdWNHVpV3NsUUM0dnNiMVJSOHgvbWk0T0E4RkxrQjFiTVRiT25oa0lDZko3YzdIQkRoNDJ0TTZkYy8vN3BEVlFRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1115e112ab7dc1",
+      "emailDate": "2026-10-06T13:18:59.000Z"
+    },
+    {
+      "merchant": "Big Bus Tours",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-10-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6WHU0cXdQbFh4RmEraTdZUzNKYzRlZmsvQ1lpWnRYSU4wRFRoYTVZd2puTlJqaXdzd3ZaVUJCOWtUbDZkUUdyWlVpdzlJTnVKTFJpeU5rVVozS3Y0b1BaRTB2LzNFdktwVVhjcTJ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1115e112ab7dc1",
+      "emailDate": "2026-10-06T13:18:59.000Z"
     },
     {
       "merchant": "Office Depot",
@@ -100,6 +156,20 @@
       "source": "single-use",
       "emailMessageId": "1a10546b91249973",
       "emailDate": "2026-10-04T04:58:03.000Z"
+    },
+    {
+      "merchant": "Princess Cruises",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6TmxzTVNOUzY0OGw3aEFlUDFMQmhsRkw4RGdOaGZXTUpCc0ZPZy91SWNJTE5UYWNSRUFnUXNnT3l1WnhkMHo5dG1LdVJrT1JxZHBEMDY3eklWbkFRUW1MNldSZ0gwaHVDOERTU1hRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=princess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1115e112ab7dc1",
+      "emailDate": "2026-10-06T13:18:59.000Z"
     },
     {
       "merchant": "Sam's Club",
