@@ -13,6 +13,14 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-10-09 — CI: isolate offer ingestion from a stalled Pages deployment
+**Commit:** see `git log --grep="isolate offer ingestion"`
+**Files:** `.github/workflows/ingest.yml`, `CHANGELOG.md`, `HANDOFF.md`
+**What changed:** Replaced the workflow-wide queue with separate ingest and Pages deployment queues. Gmail ingestion remains serialized to prevent concurrent bot pushes, while a newer Pages publish cancels a stale or stranded Pages publish. This fixes the 2026-10-06 incident where a GitHub Pages deployment remained `waiting` after a successful ingest and blocked every later refresh, leaving `offers.json` stale.
+**Revert:** use the commit shown by the `git log` command above
+
+---
+
 ## 2026-09-10 — Envelope tab icon with the Capital One Shopping logo
 **Commit:** see `git log --grep="Add envelope tab icon"`
 **Files:** `public/favicon.png` (new), `public/index.html`, `README.md`, `CHANGELOG.md`

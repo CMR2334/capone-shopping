@@ -12,12 +12,13 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: ingest-deploy
-  cancel-in-progress: false
-
 jobs:
   ingest:
+    # Keep Gmail reads and bot pushes orderly, but do not let a separate Pages
+    # deployment reserve this queue after ingestion has already completed.
+    concurrency:
+      group: capone-offers-ingest
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -51,6 +52,11 @@ jobs:
 
   deploy:
     needs: ingest
+    # Pages publishes are disposable: a newer feed supersedes an older one. This
+    # also evicts a stranded Pages deployment instead of blocking future ingests.
+    concurrency:
+      group: capone-pages-deploy
+      cancel-in-progress: true
     runs-on: ubuntu-latest
     # The deploy job uses a second GitHub-hosted runner. Treat runner startup
     # failures/cancellations as non-fatal once ingestion has succeeded; Pages can

@@ -169,7 +169,8 @@ git push origin main
   Gmail ingestion completed. The deploy job is non-fatal at the job level so these
   upstream runner/Pages incidents no longer generate failed-workflow emails; true
   ingest/auth/parser failures remain fatal. A later healthy run publishes any
-  temporarily delayed `offers.json`.
+  temporarily delayed `offers.json`. Ingest and Pages now use separate job queues,
+  so a stuck Pages deployment cannot hold up subsequent Gmail refreshes.
 - **Sync token is public by design.** Cross-device sync works via a shared token
   (`SHARED_SYNC_TOKEN` in `index.html`, fixed 2026-06-07 — see CHANGELOG `33da2ac`);
   a static site can't keep it secret, so the KV bucket is protected by obscurity only.
