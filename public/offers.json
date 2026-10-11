@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T06:18:11.383Z",
+  "lastUpdated": "2026-10-11T07:18:14.365Z",
   "sourceCount": 51,
   "parseFailures": 0,
   "offers": [
@@ -60,20 +60,6 @@
       "emailDate": "2026-10-10T13:34:15.000Z"
     },
     {
-      "merchant": "Tripadvisor",
-      "percentBack": 20,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-10-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6akk1QzQwR0pxWHBBQWw3S0dQcHYyZjdUVWxJM1ViVXE3YkpOMnF4QU1tdFdnMW5pRmhsc1hYYUF1VWRFcW9HR0ZTL1hSZXZ1OGova24waUtoODM4U1ZVNFlWTTJ6MERmMGFlOSt3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "1a118e6607b86cda",
-      "emailDate": "2026-10-08T00:25:12.000Z"
-    },
-    {
       "merchant": "Go City Pass",
       "percentBack": 18,
       "dollarBack": null,
@@ -83,6 +69,20 @@
       "expiresAt": "2026-10-14T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Q0wyR1RFRURaZFlZaVRtR0R5dTlHMWZlclFDcTB0ZWRTOXJMNmpnT2tHOFB6UWQ3bWZVR1cyQVFZbm9CQm9OSHhQMVBRVythNGR6T2NGdFlvVHBub3Z1SWg5YXFqajBzTVNFNjR3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a126057c2cec338",
+      "emailDate": "2026-10-10T13:34:15.000Z"
+    },
+    {
+      "merchant": "Tripadvisor",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-10-14T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZHQrZnRMdHJVcWxsazBqSnl0aWVRMmdKRURsTEdGTUhIUEVGTnZoVkU0d1hVMUpKcHVCcmdrdzkrcks5QWtmbmZ6R1FrU1Fvei9ZRXhDaHFZL29Yem80YjdLRm9RL1BrMGd3NUt3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
       "emailMessageId": "1a126057c2cec338",
       "emailDate": "2026-10-10T13:34:15.000Z"
@@ -100,20 +100,6 @@
       "source": "single-use",
       "emailMessageId": "1a11b60ac4defc80",
       "emailDate": "2026-10-08T11:58:02.000Z"
-    },
-    {
-      "merchant": "lululemon",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-10-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azE6UWJGRE5LVzBTWk5nVmRhdVZSZVpNOExWTUpPUW43a0VPVHFMQVZmTDRHb0FzU0FBWE1YM0JvNlV3VlBDSkZGcG85VVBqYXNsSld5T0xSenhnUlhidnJtNmtyWlVjaXh5OWdQTGV3PT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/lululemon.com/e5a6837f-3d15-41ee-9422-4c4a7ada449a.gif",
-      "source": "single-use",
-      "emailMessageId": "1a118e6607b86cda",
-      "emailDate": "2026-10-08T00:25:12.000Z"
     },
     {
       "merchant": "Westgate Resorts",
