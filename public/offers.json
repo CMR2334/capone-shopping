@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-12T00:18:12.634Z",
-  "sourceCount": 50,
+  "lastUpdated": "2026-10-12T01:18:13.807Z",
+  "sourceCount": 51,
   "parseFailures": 0,
   "offers": [
     {
@@ -32,6 +32,20 @@
       "emailDate": "2026-10-10T13:34:15.000Z"
     },
     {
+      "merchant": "Pacifica Beauty",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-10-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6R09OV3BKSlpsbUh3UlUzUk1ueXVFNXFuamQ1SFYxMDIwbXJ2aTV0Q3E5c25Fa3JNR2IwNXJpUUhIcTdLU2VOY3plUTJ0eVFlSllkWXNTZnFrWXpiRGlEUTNKMmNEcXoxeU42S2VnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=pacificabeauty.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a12d869154e7f66",
+      "emailDate": "2026-10-12T00:32:35.000Z"
+    },
+    {
       "merchant": "eBay",
       "percentBack": 28,
       "dollarBack": null,
@@ -60,6 +74,34 @@
       "emailDate": "2026-10-10T13:34:15.000Z"
     },
     {
+      "merchant": "iHerb",
+      "percentBack": 26.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Z1JLU1lmaUdIYWhxNGxHYnM4OEM0NzhBdmRXQytvR242d3VGUWRZRjJyeXczYWhRTTFFSVlpeDNzL3ZTWHowdSswQnpwQzFUUTRQbVVOQ2pSbTcxa0kwTGY1KzNwN2dvYkRhSkN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=iherb.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a12d869154e7f66",
+      "emailDate": "2026-10-12T00:32:35.000Z"
+    },
+    {
+      "merchant": "Bluemercury",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UE1nV3lvbEVLYXBiTjROVUpZcFVSaW13c1R1d2FPeFlhQXYxQ0VXcmkrSVoyTm9zKzhIVXR2dWFzL3AzSE5YbWFJQXRsb0h5NE1jTUhQYno1UHdWNG5GWVpXSFY2OTRlYkVHT1hnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/bluemercury.com/f159ade0-4729-44aa-a46c-64400fc93495.gif",
+      "source": "single-use",
+      "emailMessageId": "1a12d869154e7f66",
+      "emailDate": "2026-10-12T00:32:35.000Z"
+    },
+    {
       "merchant": "Go City Pass",
       "percentBack": 18,
       "dollarBack": null,
@@ -72,6 +114,20 @@
       "source": "single-use",
       "emailMessageId": "1a126057c2cec338",
       "emailDate": "2026-10-10T13:34:15.000Z"
+    },
+    {
+      "merchant": "Jupiter",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Ky9GQ1ZKK254RE44TVlwanVpQnh4ZU1vUG10dDhqc3c3WXdTTFZKbXdxcFZPSU5KbllJZG1oTFJJRHNDYjVCT2VCOVAyTGlTNmhLOFlRcVprYVlYVXUzeldZQThCNmcyN1dMNXJBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hellojupiter.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a12d869154e7f66",
+      "emailDate": "2026-10-12T00:32:35.000Z"
     },
     {
       "merchant": "Tripadvisor",
@@ -100,6 +156,20 @@
       "source": "single-use",
       "emailMessageId": "1a11b60ac4defc80",
       "emailDate": "2026-10-08T11:58:02.000Z"
+    },
+    {
+      "merchant": "Rainbow Light",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-10-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UXhCY20xZzVqYldnZERXOWl3czF0U3RjamU4bm43NGZjT3Z2c0d1bktjN2ZlckcyYkszNVRmamllZ0FUWS84K2lEN1ZqR2F6TVR1YklpK2tMTzhJaXIvMG5Oci9TMk9tWEJVNjVBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=rainbowlight.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a12d869154e7f66",
+      "emailDate": "2026-10-12T00:32:35.000Z"
     },
     {
       "merchant": "Westgate Resorts",
@@ -142,6 +212,34 @@
       "source": "single-use",
       "emailMessageId": "1a126057c2cec338",
       "emailDate": "2026-10-10T13:34:15.000Z"
+    },
+    {
+      "merchant": "The Vitamin Shoppe",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eXdlMEVqUUZubUFMak4reEtOU3diTHlUMWYzaE8wK3lLWXE4WGlMMHpnV2FmSGlDMjMwYlVlZUwrMk5qTkczcGVpbW1NV1VUTW1uYlBGQlMrSVRXUXJ2T0RFT2ppTkhYUUo0dDZ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vitaminshoppe.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a12d869154e7f66",
+      "emailDate": "2026-10-12T00:32:35.000Z"
+    },
+    {
+      "merchant": "Gaia Herbs",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-10-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6a2p2R2N4SS9wWlE5ellRVEFrZDRsdTVxRWhETWN6bDlBbTVlaWthcmtYUU5aTy95RjhDR1pncHlLV1o2SEhBRy9uQTY3bGNKSitDbG1XS21hSkZNZGRzSkc1MXlnSXhTTnEyOFFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gaiaherbs.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a12d869154e7f66",
+      "emailDate": "2026-10-12T00:32:35.000Z"
     },
     {
       "merchant": "Giftcards.com",
@@ -254,6 +352,20 @@
       "source": "single-use",
       "emailMessageId": "1a11b60ac4defc80",
       "emailDate": "2026-10-08T11:58:02.000Z"
+    },
+    {
+      "merchant": "Thrive Market",
+      "percentBack": null,
+      "dollarBack": 40,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RjE4TjJDOFNid3JvcWtlS01NcEpNQ0YxMnVRU2V1aXNZMDlhd0FpT3Z6aEhSL25EOGROWi9pblFqQ2pWNm9GcGZoQjk3M1h3dmNwVTRmQ0RBc0dIbWxPUTVwMlc5M2l1L2d6U0R3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thrivemarket.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a12d869154e7f66",
+      "emailDate": "2026-10-12T00:32:35.000Z"
     },
     {
       "merchant": "Efax",
