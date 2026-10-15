@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-15T15:18:12.107Z",
-  "sourceCount": 48,
+  "lastUpdated": "2026-10-15T16:18:06.872Z",
+  "sourceCount": 49,
   "parseFailures": 0,
   "offers": [
     {
@@ -32,6 +32,20 @@
       "emailDate": "2026-10-13T11:55:39.000Z"
     },
     {
+      "merchant": "Liquid I.V.",
+      "percentBack": 36,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-10-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6N0I5dlc0LzZKYmxLR1diN1pzbXlhY3MvcGNFRXlzbWIzS1ZCREZWdWRrM3VaNnpwQlFvb0ozbytMOElRQmN2d3BpajJSdy9VWFkyT2tuMlVRYkRzbit4bjVSZEtDZHhwS29rMlRnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=liquid-iv.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a140300b890d512",
+      "emailDate": "2026-10-15T15:30:52.000Z"
+    },
+    {
       "merchant": "Tire Agent",
       "percentBack": 35,
       "dollarBack": null,
@@ -39,11 +53,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-10-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UWo0Y0FLUy9nY0w2S3QxWFFINGFNRG81TWtxODRuMlFwRHc5RW83b3V0bXQyckFFWHlHWnhacFJQS3FUZHpWV3ZXb3JMdlplMEdvb3hwN09zRUx2eE1iNFJQTDhIa3BxZlRWWmhBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OVA5QVFRd2ZjcEs5aW9TMXRzKzVZWk9vOUVMa05GVFI1SnFPejZMOEp3Ukc2ZjZUajN6R1ZVdGM0SCtLSVFuaVdJTkwxR28zcXlLT1ZsOXNvVVUvSzBzbjdYZTJ4Rnk5dnF4RUtnPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/tireagent.com/2703acc5-aefd-4fcb-a98f-dd81947fe282.gif",
       "source": "single-use",
-      "emailMessageId": "1a13f80b55cd25f4",
-      "emailDate": "2026-10-15T12:19:21.000Z"
+      "emailMessageId": "1a140300b890d512",
+      "emailDate": "2026-10-15T15:30:52.000Z"
     },
     {
       "merchant": "GetYourGuide",
@@ -72,6 +86,20 @@
       "source": "single-use",
       "emailMessageId": "1a1351e4af950d3e",
       "emailDate": "2026-10-13T11:55:39.000Z"
+    },
+    {
+      "merchant": "Orgain",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-10-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bnBwejFaN1BWOE1hYzE2RCs0aDgwNWtsdEVHK3ZTUkdWeXRoVWRvOFVrcUllUkhBNTEyRlE0cUdnRTlNR09qOEpkWmttWldMQ1F3ODV0R0ViREY0UVlUbmVpN0ZOL2labkkzQjNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=orgain.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a140300b890d512",
+      "emailDate": "2026-10-15T15:30:52.000Z"
     },
     {
       "merchant": "Viator, a Tripadvisor company",
@@ -116,6 +144,20 @@
       "emailDate": "2026-10-14T15:22:08.000Z"
     },
     {
+      "merchant": "Instacart",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "September 18",
+      "expiresAt": "2026-10-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6aXZWdDhDYlI0RWorMXFjeEtrTEM5SFdsMURRTTVldFFnWitRSDV3ZklMTzJxRlZUMDg4Umc4T2tuTk16RzUvNUN4TWN6WEFMT3hUblIxUFpDZ0pYaDZ1eklHOW9OTEVSNGNjbjRBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a140300b890d512",
+      "emailDate": "2026-10-15T15:30:52.000Z"
+    },
+    {
       "merchant": "Big Bus Tours",
       "percentBack": 14,
       "dollarBack": null,
@@ -128,6 +170,20 @@
       "source": "single-use",
       "emailMessageId": "1a13b01b2367570e",
       "emailDate": "2026-10-14T15:22:08.000Z"
+    },
+    {
+      "merchant": "Goldbelly",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-10-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6N0gyZXJIaGd4TFdEOVNiNVJOQlI1ZVRrM0tnVHJwY3J2Zy9LNUNBK0FNakRaRjlqTHRva2oxYzNQOXhCZVJSRlJiNnlmTk5wS0E4LzVDdzNPaUc4MkJjd282SVBwUUZFTDhxb0lRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=goldbelly.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a140300b890d512",
+      "emailDate": "2026-10-15T15:30:52.000Z"
     },
     {
       "merchant": "Walmart",
@@ -240,6 +296,34 @@
       "source": "single-use",
       "emailMessageId": "1a13f80b55cd25f4",
       "emailDate": "2026-10-15T12:19:21.000Z"
+    },
+    {
+      "merchant": "Uber Eats",
+      "percentBack": null,
+      "dollarBack": 48.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bkNIU1BJTEhjZFV5U202bXNmamlEcEFKWEF5NmpRc2dSeHFqWXZsU0RBdmlTM3BGVlgya0FJR0xJMXV3cXJ3dEI5clNYQ1Q2K2d3R0Z6RFpFNXo0ZmdDRW5IVEdPSlF3aUF0Y0R3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ubereats.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a140300b890d512",
+      "emailDate": "2026-10-15T15:30:52.000Z"
+    },
+    {
+      "merchant": "DoorDash",
+      "percentBack": null,
+      "dollarBack": 24,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OFJUZldCTVQ1QzFEVEJTaVM3ZVdqQVBXMmM4Mktld0dNVWFCckk2TWJJblRFWTZsQkJSaWpCRTlNRE1LQkY5SmVpRjI4b0lDWmlvZzA3U1R4WjIzTllpYUJYSVoxVExyMG12WWZBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=doordash.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a140300b890d512",
+      "emailDate": "2026-10-15T15:30:52.000Z"
     }
   ],
   "upcomingReveals": []
