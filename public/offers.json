@@ -1,49 +1,21 @@
 {
-  "lastUpdated": "2026-10-17T06:17:40.777Z",
+  "lastUpdated": "2026-10-17T07:17:38.630Z",
   "sourceCount": 51,
   "parseFailures": 0,
   "offers": [
     {
       "merchant": "NOBULL",
-      "percentBack": 55,
+      "percentBack": 50,
       "dollarBack": null,
       "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-10-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WUNVNWRRWTI2V3gxZktCcDBIazFORTRISmYySEx3MU5KeEJycHZ3LzZzeHpQR0JRSUkzQ3RNMUl3OW91OGl2VnBlUW1oYmM0cUQ1YzI5WHdHSmVVWVNzTDV2bE9pWHFuY05yUmtBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nobullproject.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a146787c1feeeef",
-      "emailDate": "2026-10-16T20:47:43.000Z"
-    },
-    {
-      "merchant": "Omaha Steaks",
-      "percentBack": 45,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-10-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UDlDM0UxQ0hPQjByWjZDNkE1ZEZVRXowdEpMREx5MHNzZEVpdTVXUWVvdi9BaXE4MEJKUGhTbmlRb3BlR2ZrbkpweGxkQkM2Tnl5L3lXRUxvOEdlM3dtZ2xsUHVodnNMeFJZTlVBPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/omahasteaks.com/768919cf-57b1-42c4-9c53-2cbbb71e40fe.gif",
+      "wasPercent": 5,
+      "lastViewed": "October 15",
+      "expiresAt": "2026-10-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6V2J0clNSZThDUW1PRDgzMEJoNGVDT0p4L3I0aGlaVmQxRm5NVUFXeFNzV0hDR28vVVltWWczN2V0Q2VxM2dLOTVQSXRXZjlIWXEvMTRQMnFDY3FpckRkdEw5bmhYQlpWT1JMZEZBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nobullproject.com&fallback=true&opaque=true&type=cropped&width=500",
       "source": "single-use",
-      "emailMessageId": "1a1351e4af950d3e",
-      "emailDate": "2026-10-13T11:55:39.000Z"
-    },
-    {
-      "merchant": "eBay",
-      "percentBack": 39.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-10-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6aGdpZUhEbE9aVVltMUxRV1ZPZXZSVXBrVEc2M1ZOclArUkRVMXg1elQ0MldsZS9vUXBKMWUwalFXWko2aTZZQU1ISTlxN0lkWlZFMm05bStFZmVIN3pWSmdkSDIyZGNqaTBSNCtnPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/ebay.com/a7ccfc4a-1313-4978-b1b9-176e7d624788.gif",
-      "source": "single-use",
-      "emailMessageId": "1a1351e4af950d3e",
-      "emailDate": "2026-10-13T11:55:39.000Z"
+      "emailMessageId": "1a1461401b8d7d28",
+      "emailDate": "2026-10-16T18:57:58.000Z"
     },
     {
       "merchant": "SHIPT",
@@ -100,20 +72,6 @@
       "source": "single-use",
       "emailMessageId": "1a13b01b2367570e",
       "emailDate": "2026-10-14T15:22:08.000Z"
-    },
-    {
-      "merchant": "SHEIN",
-      "percentBack": 30.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-10-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dG0relcvRFJSWnBWcktkM1RPNU5rV3pCRTdiV3JwOEZmY3kzRytENmg5QURpdk53clJ5dE9UWUVFVUlGUGpWa0E5cXRmQ2VpRDMyNTBFNE5idjZmNWM0TDJNelhNaUhGbFNWdjRRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=shein.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1351e4af950d3e",
-      "emailDate": "2026-10-13T11:55:39.000Z"
     },
     {
       "merchant": "Thousand Fell",
@@ -408,6 +366,20 @@
       "source": "single-use",
       "emailMessageId": "1a146787c1feeeef",
       "emailDate": "2026-10-16T20:47:43.000Z"
+    },
+    {
+      "merchant": "eBay",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VnJManIxOTlMNmp4RnkwTm5JczEwL1RZWFVHUW1YZitDQUhFZ3ltUXJiY3FxNzZ4OXZocytFUW4vc1FDbFI5bjl1N3RqTVFCTWxiY3pINGMxd0ZxbVUzVGM0SjJ1YjZSeEdxN1FnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/ebay.com/a7ccfc4a-1313-4978-b1b9-176e7d624788.gif",
+      "source": "single-use",
+      "emailMessageId": "1a1453a27f799f80",
+      "emailDate": "2026-10-16T15:00:00.000Z"
     },
     {
       "merchant": "Municipal",
