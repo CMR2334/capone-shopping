@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-17T14:17:38.184Z",
-  "sourceCount": 50,
+  "lastUpdated": "2026-10-17T15:17:59.570Z",
+  "sourceCount": 51,
   "parseFailures": 0,
   "offers": [
     {
@@ -19,17 +19,17 @@
     },
     {
       "merchant": "Forme",
-      "percentBack": 40,
+      "percentBack": 45,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-10-18T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Mm1MUGN4VkxNbUwydzVRRHNNdUpBbFlrMnZGMjRmRmorQnZuY2I1TlpHN3NBcmFEckRFVmNmRVpGZW8yS0lRMTVHMmYyVnJKNmt4Z1k1L2t4WnFTNFNPbzM3RGtsTnBhbGF4UTh3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=forme.science&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a1495e31d243f13",
-      "emailDate": "2026-10-17T10:17:51.000Z"
+      "expiresAt": "2026-10-21T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZkZ5UnBoeEU0emdXN1hvc3pkWmlkYUY3WkZCdzJDTG5lbS9Jek9BSXJHcjIxWDhmdS9sNkFiMlZIV0o3OXhLUURpWmdFbThwVSs2TUtjeGFPa25CejNrek5jc1FuS0ZPZHU3eFpRPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoforme.science,s7GQZGLPdPTDX1DvGtgggtyOEGf34D_UFBjbMxMJy_Z4/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1792236698449.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a14a51475acedcd",
+      "emailDate": "2026-10-17T14:43:22.000Z"
     },
     {
       "merchant": "SHIPT",
@@ -86,6 +86,20 @@
       "source": "single-use",
       "emailMessageId": "1a13b01b2367570e",
       "emailDate": "2026-10-14T15:22:08.000Z"
+    },
+    {
+      "merchant": "Estée Lauder",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-21T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bksxZHlTK1FXRDR2c2F5N2llUitLTTNoRW12NFVjVGtvU01NRURUc21CS3JtVXJKZUhHbTFKSHczMnFaZm1EbzE0YzBFU2xmYnhMSkNBc0dFRGNuWUE5czllZEJIeHhhSjhiRWlRPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoesteelauder.com,s28DU5KL6yxoCXJQsmfhDXr1Rg9YH4BoU7Lu88OXZmaU/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/e3b83c0e39740468e085aaaf.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a14a51475acedcd",
+      "emailDate": "2026-10-17T14:43:22.000Z"
     },
     {
       "merchant": "Make Up For Ever",
@@ -186,18 +200,18 @@
       "emailDate": "2026-10-14T15:22:08.000Z"
     },
     {
-      "merchant": "Estée Lauder",
+      "merchant": "BaubleBar",
       "percentBack": 25,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-10-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6YTdPcEtIY1RPQ2pzald0eFlMZzVjRmpidlFZdjdpOHZ5cWNoUkNYc0laT3NWVjFjV0pXMzIvcmZpUHlvdGsxbE50b1lXVDM2M3E4L0ovUlE3eFJIcko1R3RPZSsrQk1QTE9JemNnPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoesteelauder.com,s28DU5KL6yxoCXJQsmfhDXr1Rg9YH4BoU7Lu88OXZmaU/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/e3b83c0e39740468e085aaaf.jpeg",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6d2ZnenBkWitub2kvUnNGWDdFdU0wVENWNFc1OVhSWmY4aGxqWHVEY1drWkZPVlpCWE9UTkJ2RWVSUGZLbUh2eUprdm0rbjBuSGVnTy8rK3BscGdvS1hJYmtQc1JyUHJ5cGpyRDNnPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logobaublebar.com,swaUA9kttxFJ-k-XaN0XkyXzvdK7rY12NV1k1E4Woh_Y/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/837a5b5970319d5747d3f634.jpeg",
       "source": "single-use",
-      "emailMessageId": "1a1495e31d243f13",
-      "emailDate": "2026-10-17T10:17:51.000Z"
+      "emailMessageId": "1a14a51475acedcd",
+      "emailDate": "2026-10-17T14:43:22.000Z"
     },
     {
       "merchant": "L'Occitane US",
@@ -312,6 +326,20 @@
       "emailDate": "2026-10-16T20:47:43.000Z"
     },
     {
+      "merchant": "Birthdate Co.",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-10-21T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MDRQNFdlVlMxSmlVVHJYdjh3MzBpR01yYTBqT0dzLzlVR29QZ3haZHVpSkdDc0ZuMmVJendrZ25Kdmd3bmwrMlRRaVhIMEF0dGlJZnR2QkhUdmdKWC9xQmNORENiTjNjUHFmSlF3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=birthdate.co&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a14a51475acedcd",
+      "emailDate": "2026-10-17T14:43:22.000Z"
+    },
+    {
       "merchant": "Even Hotels",
       "percentBack": 11,
       "dollarBack": null,
@@ -338,6 +366,20 @@
       "source": "single-use",
       "emailMessageId": "1a141294f23e873a",
       "emailDate": "2026-10-15T20:03:08.000Z"
+    },
+    {
+      "merchant": "Vera Bradley",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-21T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bU1XWUhYTmJMRWc1eHh3OGFVQWdTUW5odnhkMFRlUlVLVXQ4aUZWZ0ZYcEhOWkN4TmswQ1NmMEtQS215Uis1NDhpWWNtOXZ5QXdyZEs3TnltMGZYRllER2FGd2tvS3F3Y1NheExRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=verabradley.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a14a51475acedcd",
+      "emailDate": "2026-10-17T14:43:22.000Z"
     },
     {
       "merchant": "Walmart",
@@ -394,6 +436,20 @@
       "source": "single-use",
       "emailMessageId": "1a140300b890d512",
       "emailDate": "2026-10-15T15:30:52.000Z"
+    },
+    {
+      "merchant": "brook & york",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-21T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Z252OUkxSnNMMlFzREJhRVBwK09QYkxORFBncjc0cCtUVEJRZU0yY3duZTJkR0U0MzdxMW9uc3I3ZkJpNkVzM2ZnZGhtQmpQekV0MXNrR1dtU2xHbk9iVVpxQnVnK2t2TGlINTd3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=brookandyork.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a14a51475acedcd",
+      "emailDate": "2026-10-17T14:43:22.000Z"
     },
     {
       "merchant": "Anastasia Beverly Hills",
@@ -494,6 +550,20 @@
       "emailDate": "2026-10-16T15:00:00.000Z"
     },
     {
+      "merchant": "Case-Mate",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-10-21T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6aUhKRWdPRjFQTXlKQzRaZ2Z4N2FhSlk3ZXlMaDBRb1JZM3A2S1JOMU82c3lqWnc5aDdxbmpxbGtaTmsxUEV0eHY1cVlDZG83YWQ3eUFKbnlLUE93S3VVM096R29LWEsvUmpxT1hBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=case-mate.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a14a51475acedcd",
+      "emailDate": "2026-10-17T14:43:22.000Z"
+    },
+    {
       "merchant": "Municipal",
       "percentBack": 7,
       "dollarBack": null,
@@ -534,6 +604,20 @@
       "source": "single-use",
       "emailMessageId": "1a14218893b348cf",
       "emailDate": "2026-10-16T00:24:25.000Z"
+    },
+    {
+      "merchant": "Bearaby",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-10-21T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SEJ5cG9jdHRLZkNJN1NOQVJibzA3UXcyem5jcXU2MUNHQ2Q5MlNMUWRGa1JSZGk1Y284VVdReHhaNDM5dFVBQVNoTHRScHU3Uk5HbGtuYmpGQ3E1VEpQRm93RzZOZHY4S2hBM3lBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bearaby.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a14a51475acedcd",
+      "emailDate": "2026-10-17T14:43:22.000Z"
     },
     {
       "merchant": "Princess Cruises",
