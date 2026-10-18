@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T06:18:11.569Z",
+  "lastUpdated": "2026-10-18T07:18:00.321Z",
   "sourceCount": 52,
   "parseFailures": 0,
   "offers": [
@@ -102,20 +102,6 @@
       "emailDate": "2026-10-16T00:24:25.000Z"
     },
     {
-      "merchant": "GetYourGuide",
-      "percentBack": 32,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-10-18T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cndXbFR3K1pJbjJtamhUNDIzdmZUcFFFalFhbk5EV0VieFNKa3BXa0h2dm1CVWtEd3JXNUphNDNYVkNpU1J4L0VxYStaQ0ZlcGUwZzZ0N0h5b2FnZXVYRlk0dnBXWXZjWTJyalJBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=getyourguide.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a13b01b2367570e",
-      "emailDate": "2026-10-14T15:22:08.000Z"
-    },
-    {
       "merchant": "SignNow",
       "percentBack": 30,
       "dollarBack": null,
@@ -214,20 +200,6 @@
       "emailDate": "2026-10-15T15:30:52.000Z"
     },
     {
-      "merchant": "Viator, a Tripadvisor company",
-      "percentBack": 27,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-10-18T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OXdDRll1Y3lYazV4WVhsaGFreUFCcnloVngvUHUxb2dZSE5ZQVN6c29LZGE1c0NWbG84MVRMMkc0S1FkU3pSWEVzSHVTOGMxZjZwenRtME1DTDJPM3BNTm1uY1JITlVQS2FaNGlRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a13b01b2367570e",
-      "emailDate": "2026-10-14T15:22:08.000Z"
-    },
-    {
       "merchant": "BaubleBar",
       "percentBack": 25,
       "dollarBack": null,
@@ -270,34 +242,6 @@
       "emailDate": "2026-10-17T10:17:51.000Z"
     },
     {
-      "merchant": "Tripadvisor",
-      "percentBack": 20,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-10-18T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZHVEeWdCMkkzYTIxRVBLd2tmekNDeEttZCtPQXNmdStEY21BWWZKWmJFUDBWK2E5dkxPQUZRd2VWbjZac1VCTnM1YTQ3dWhFaENwRHhmNkNzbkJXVnBFMmV3dFVBbXRUUTVlNnNBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a13b01b2367570e",
-      "emailDate": "2026-10-14T15:22:08.000Z"
-    },
-    {
-      "merchant": "Go City Pass",
-      "percentBack": 18,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-10-18T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WVlEa1BZRU1IeDdxQWJlWnhmb25ueHRZT2YzRnY2dTExVUJPNDM5NmF2YllONVN4SEplanI0eVB6eVc0eElaVklOQy9LVUZVWVgyWG9ZdVkwZWxCSmNBSUV1dnk5WTQ4ckZHNHd3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a13b01b2367570e",
-      "emailDate": "2026-10-14T15:22:08.000Z"
-    },
-    {
       "merchant": "Instacart",
       "percentBack": 15,
       "dollarBack": null,
@@ -310,20 +254,6 @@
       "source": "single-use",
       "emailMessageId": "1a1453a27f799f80",
       "emailDate": "2026-10-16T15:00:00.000Z"
-    },
-    {
-      "merchant": "Big Bus Tours",
-      "percentBack": 14,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-10-18T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RjhSVzhqWFpmKzNZZEkwVTczSzlZN3REVWExVHhEYnMzTUZxSlZscXo5SE1OUzZZSUxLemd6VHRPZmdCeHRDc2pYZC9RSlp2Um9FTzByV3F5NnJOb1lNUVlKeDE5bkJXajZlRGF3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a13b01b2367570e",
-      "emailDate": "2026-10-14T15:22:08.000Z"
     },
     {
       "merchant": "LG Electronics",
@@ -632,20 +562,6 @@
       "source": "single-use",
       "emailMessageId": "1a14a51475acedcd",
       "emailDate": "2026-10-17T14:43:22.000Z"
-    },
-    {
-      "merchant": "Princess Cruises",
-      "percentBack": 6,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-10-18T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6U24zUm5hWVdQWUI5cURiMzZTWGx5Z1dxTFk3S29maDFxQlNrN3JWWkw0MU03M0wwbjJtRlFBR3JzdFF2NnBGdlVCYU9reWNxTnZ6MnNkNEtGUW1lN0lSZHVaREJwbFdVeWVsRldnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=princess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a13b01b2367570e",
-      "emailDate": "2026-10-14T15:22:08.000Z"
     },
     {
       "merchant": "1-800-GOT-JUNK?",
