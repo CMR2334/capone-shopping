@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-19T19:18:02.456Z",
-  "sourceCount": 52,
+  "lastUpdated": "2026-10-19T20:18:06.666Z",
+  "sourceCount": 53,
   "parseFailures": 0,
   "offers": [
     {
@@ -72,6 +72,20 @@
       "source": "single-use",
       "emailMessageId": "1a14f8af9e44e29e",
       "emailDate": "2026-10-18T15:04:29.000Z"
+    },
+    {
+      "merchant": "First Tactical",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-10-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NytXTzhTaWd0bWlNaWpOaXc0RmdET2gyYlRNN0w3MURGMTR4SkJLamlZdjlSZUtuaUh6VGwvVE16VXhRUlRLR3lBTlBKS28zNGlnZXlzcWdYWlQ4K1FaeGxXMlc4dnhkakpYWStBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=firsttactical.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a155b5b9bbf85c2",
+      "emailDate": "2026-10-19T19:48:54.000Z"
     },
     {
       "merchant": "Origins",
@@ -298,6 +312,20 @@
       "emailDate": "2026-10-18T15:04:29.000Z"
     },
     {
+      "merchant": "LOVEVOOK",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-10-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Y1ZrQjFURDNkREVqRzYvdnpDR3JrZEZXbUtBNTUxWmxWT3F3bzM1NDBwV0FUMjkxWXNoVUpRbWw0MUJQNWxMODJ6T1FydUgrQ0ttOVM0SENhdGE4enl6ckFvcCtya2liVGJKR0t3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lovevook.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a155b5b9bbf85c2",
+      "emailDate": "2026-10-19T19:48:54.000Z"
+    },
+    {
       "merchant": "Mud Pie",
       "percentBack": 15,
       "dollarBack": null,
@@ -424,6 +452,34 @@
       "emailDate": "2026-10-16T20:47:43.000Z"
     },
     {
+      "merchant": "AIRWAAV",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-10-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UXRjZTR4dW52V1BzczhzbkFtNlRYaXVMTXRrcnhVVjJWWkxWeGxVelNxajRyODJYbktlL1kzbGttaTE3ZDZKSWtXTFdmWC80VkwzTGxpcWYzdGhHL0p1OFF4dVZ5NzE1Y0J3TkZnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=airwaav.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a155b5b9bbf85c2",
+      "emailDate": "2026-10-19T19:48:54.000Z"
+    },
+    {
+      "merchant": "Lolë",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dmFyM1gxSDN5WG1kcmpqM2d3cVdrYzdOcTNzekFsM2d2dkZwUHFZbnVQQTUwbzBRVzRxRm5TNUV5UFNzajdwWDRKM0FXT0NFQzd4YlBEWG5hNERocFk2TUNMWVlRKzdRWERSQnBnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lolelife.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a155b5b9bbf85c2",
+      "emailDate": "2026-10-19T19:48:54.000Z"
+    },
+    {
       "merchant": "Go City Pass",
       "percentBack": 12,
       "dollarBack": null,
@@ -452,6 +508,20 @@
       "emailDate": "2026-10-17T14:43:22.000Z"
     },
     {
+      "merchant": "ALPAKA",
+      "percentBack": 11,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6d2w3Q0ZFVXZtR0ZVSlVMT0VKc1l3eENsQ3RZZ0tGejhxcGhFTzZLY0IweDVpREVhNDgyY0hnLzVUL2tETFNNNExuUCt4V0w5VVd0ejZUVGhmZERpMU8weFdPTkRrWFYrbnhXZHBnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=alpakagear.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a155b5b9bbf85c2",
+      "emailDate": "2026-10-19T19:48:54.000Z"
+    },
+    {
       "merchant": "Even Hotels",
       "percentBack": 11,
       "dollarBack": null,
@@ -464,6 +534,20 @@
       "source": "single-use",
       "emailMessageId": "1a14b33a42d840cd",
       "emailDate": "2026-10-17T18:50:37.000Z"
+    },
+    {
+      "merchant": "GORUCK",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6c2FpUVFrNld0TU1UTjVKSWVlcFRpVG05OUhiMk1GUG4wK0FDVFM4MEN3TGYzejk5bUwvVDA5SUN2MkpKR0thQWFtcVFVVHJHZlhGQ3VwRFV6YzFiRHhjRnpDZlpLdDVSOVRwTUx3PT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logogoruck.com,sTPYL9sepEnZJh3cB0dZ5xjiArJwLpf_69Xi4S2r00RA/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/01af1bb066bd8c13383cbfb1.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a155b5b9bbf85c2",
+      "emailDate": "2026-10-19T19:48:54.000Z"
     },
     {
       "merchant": "Hobo Bags",
@@ -506,6 +590,20 @@
       "source": "single-use",
       "emailMessageId": "1a14a51475acedcd",
       "emailDate": "2026-10-17T14:43:22.000Z"
+    },
+    {
+      "merchant": "tasc Performance",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6R2ZoeHg4b0tndkJWektYMVdEV1Q3aHVFNmtKdHlyMHpsSDdCRmhVeGU4bE0zYzNkb1hiYTdPanV0Qk5TN1VKY3R4SzBObGxDWnVuWjE0V0hIWkpjMGo0bXUrVHVwUmZiMUpsOXFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tascperformance.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a155b5b9bbf85c2",
+      "emailDate": "2026-10-19T19:48:54.000Z"
     },
     {
       "merchant": "brook & york",
