@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T00:17:59.339Z",
-  "sourceCount": 53,
+  "lastUpdated": "2026-10-20T01:18:22.016Z",
+  "sourceCount": 54,
   "parseFailures": 0,
   "offers": [
     {
@@ -688,6 +688,20 @@
       "source": "single-use",
       "emailMessageId": "1a1461401b8d7d28",
       "emailDate": "2026-10-16T18:57:58.000Z"
+    },
+    {
+      "merchant": "Trip.com",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UG9vY0NPOW5uSTgvQ05qZnB0ZUJpb0dkbWtKeUUyUEYzZCswb1RPRVdhcHRxL0kyTkg0aVN0QzUySStSQmxkSEFEaVlCZncwSjUrWXJyQ0Jybjc1SHFRNVhCSngyeCtnU1lHNWxBPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/913aec692728fcb47d2aa60c.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a156ba16f0944bd",
+      "emailDate": "2026-10-20T00:33:17.000Z"
     },
     {
       "merchant": "Bed Bath & Beyond",
