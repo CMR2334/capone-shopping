@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-10-21T09:17:47.106Z",
-  "sourceCount": 55,
+  "lastUpdated": "2026-10-21T10:18:20.241Z",
+  "sourceCount": 56,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "1-800-Flowers.com",
+      "percentBack": 39.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 5.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MTE4VTBlcXBDcDZ4Zks2YUQyNCtFazZEZGdKQVIvM29Nc29BQ0Q3ZTUyclh2QjVSOVRtSFZwU2FGOVhodVhxYnF2RjFLaXV3RjNObkxibjMyNk1KZWdJR0JvazJrME5jMkkrQzNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=1800flowers.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a15dcba95995772",
+      "emailDate": "2026-10-21T09:29:49.000Z"
+    },
     {
       "merchant": "eBay",
       "percentBack": 39.5,
@@ -102,6 +116,20 @@
       "emailDate": "2026-10-18T17:28:10.000Z"
     },
     {
+      "merchant": "Omaha Steaks",
+      "percentBack": 27.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-10-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QTM2NTJBYzZZMnhJTjJvSzY1YVB5ejY5VTVSVzZ4VEk3THI3M0ZmVURtSEZmQnVPWCt0U0l1WXJjNUhQZUxjTG80NnNOMDF4S0RWc2xibjFtZysvZ2ZScUNEQ3lORUZMOWNYYlV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=omahasteaks.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a15dcba95995772",
+      "emailDate": "2026-10-21T09:29:49.000Z"
+    },
+    {
       "merchant": "Viator, a Tripadvisor company",
       "percentBack": 27,
       "dollarBack": null,
@@ -114,6 +142,34 @@
       "source": "single-use",
       "emailMessageId": "1a14f8af9e44e29e",
       "emailDate": "2026-10-18T15:04:29.000Z"
+    },
+    {
+      "merchant": "Hollister Co.",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bFdRTk0zSnRLczdPWHJFMEJwSXo4OFR2NmxSSEhRUHVZdGVZbkMxYzlFdjRDT2ZtbE9ZV0VQVU5Xell0UVB0NEtJQVNTN011eDhoREh6bDd2OTJsS2FiMytQQTBNTzN1YXBTaTZnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/hollisterco.com/ba42a752-678f-4f9a-914e-3c007f4a5183.gif",
+      "source": "single-use",
+      "emailMessageId": "1a15dcba95995772",
+      "emailDate": "2026-10-21T09:29:49.000Z"
+    },
+    {
+      "merchant": "Ethel M Chocolates",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-10-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Mk44cXUrNkJqZHZEKzdObG9GaVpwUjhjNXRGK3k4UW84M2VPTnB0aE5WVDEwRmIzcHU4V1M2b3BDQ0VaTDZmcmJ4QlpvR08zNTJmUllmdkdmMGhFb241ZnpHbGxSUzhWUkpoVGVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ethelm.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a15dcba95995772",
+      "emailDate": "2026-10-21T09:29:49.000Z"
     },
     {
       "merchant": "Vrbo",
@@ -170,6 +226,20 @@
       "source": "single-use",
       "emailMessageId": "1a150b9dc41dc26c",
       "emailDate": "2026-10-18T20:35:20.000Z"
+    },
+    {
+      "merchant": "David's Cookies",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-10-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UEFrMk9sbThudTZuTlp4QUtiQVc3OGoyT25uR2dKU01jMGtMY3NudkhEcG9xbk9PdStCSjgwaW5oVE56QjlLdmZLU2V1L0MvaXdkZzZ3MmFNdXRLY2ZLTlQ2bHpBS1BSTWVMTEl3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=davidscookies.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a15dcba95995772",
+      "emailDate": "2026-10-21T09:29:49.000Z"
     },
     {
       "merchant": "NOBULL",
@@ -450,6 +520,34 @@
       "source": "single-use",
       "emailMessageId": "1a14f8af9e44e29e",
       "emailDate": "2026-10-18T15:04:29.000Z"
+    },
+    {
+      "merchant": "Harry & David",
+      "percentBack": 11,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Ri9OZlJsK0orUlNYNUFnZCsweWFLMEs5UFcwRVZiWHZ3MG5PSVhDSWloQ1ZOWHpYNndHR3h3dmc4M3dxMGprVEtTWUhaUCtXdjRSS0tXU3djYTZ1OXhJVzhPaFJRMU5VU0M1YTN3PT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoharryanddavid.com,sv6k-lpMuytmAbNZBiLurIxTlmzR9nHnCX1o7Q5M58bU/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/733069177c9a895c2fb1f6f4.png",
+      "source": "single-use",
+      "emailMessageId": "1a15dcba95995772",
+      "emailDate": "2026-10-21T09:29:49.000Z"
+    },
+    {
+      "merchant": "Baked By Melissa",
+      "percentBack": 11,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-10-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZnhVNHNGRzZSMmYvbzM5cXVQQ1czc29oVnF6K1B6N1B1RWQvSGVRSWRNajRBUjBWbVVqVlJaYVNuMSs5amdpRFlFUXU2WThEeEQ1Y1krSWZ2Ymx2WW5pWEx5ZUJJQ0V0K0p1d3JRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bakedbymelissa.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a15dcba95995772",
+      "emailDate": "2026-10-21T09:29:49.000Z"
     },
     {
       "merchant": "ALPAKA",
