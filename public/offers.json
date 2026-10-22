@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-22T09:18:29.016Z",
-  "sourceCount": 57,
+  "lastUpdated": "2026-10-22T10:18:19.440Z",
+  "sourceCount": 58,
   "parseFailures": 0,
   "offers": [
     {
@@ -30,6 +30,20 @@
       "source": "single-use",
       "emailMessageId": "1a15a6c5ac0bb82d",
       "emailDate": "2026-10-20T17:46:52.000Z"
+    },
+    {
+      "merchant": "Spanx",
+      "percentBack": 35,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eHdJZ1E0SmtOYllYK0dzbTZVc3J6MjE2VEMrNDUwcFR2MERFSDhtYnk5dDZKcE1tM2lDT0p5b01QeDExallyUWpoLzBtZjVsQmRGRFYxK0Z3Um5KSGdwK2c4Q1lkaUlDTUp4TmdRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spanx.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "1a1631b6da7d1ef9",
+      "emailDate": "2026-10-22T10:15:03.000Z"
     },
     {
       "merchant": "Chewy",
@@ -214,6 +228,20 @@
       "emailDate": "2026-10-20T10:14:38.000Z"
     },
     {
+      "merchant": "LG Electronics",
+      "percentBack": 17.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6aGhoaXlTVEZ1OGJPMTF3S0hRZHp1VE4xdjkraTQvOW1kMGF0VEd4VlZvT2wwdjdJenNuenQxcVRnZVdlaFNnbE5XZnVtUi8xWC93LzIwYmczUHBmb0x0NE9YSWpjTkV4STZXZ0VRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lg.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a1631b6da7d1ef9",
+      "emailDate": "2026-10-22T10:15:03.000Z"
+    },
+    {
       "merchant": "Instacart",
       "percentBack": 15,
       "dollarBack": null,
@@ -352,6 +380,20 @@
       "source": "single-use",
       "emailMessageId": "1a15f3a282bccda9",
       "emailDate": "2026-10-21T16:10:08.000Z"
+    },
+    {
+      "merchant": "Office Depot",
+      "percentBack": 11,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-10-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RHRDRTdCUWllUkIxSXJQZDM0UmNEUEx1bnVsODFGSkEwOS9BTHJRTlhQcUxvSlp2ZlBFazZKNkh6ZFliYmRHMUNmaWo3N3J4WHlkZCt2ZUxUR3gvNFN6a0o4UWVCaVpWcTVyYkZBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=officedepot.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1631b6da7d1ef9",
+      "emailDate": "2026-10-22T10:15:03.000Z"
     },
     {
       "merchant": "Harry & David",
@@ -592,6 +634,20 @@
       "emailDate": "2026-10-20T19:16:27.000Z"
     },
     {
+      "merchant": "Lowe's",
+      "percentBack": 2.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RjdWWDBBRWlUbTFaNU9oTGZhcTF4NzU1V0JTeHU5b0pDUDJmUWsxem1GNUZYUytBUDZWY2ZWZ1Nkdm1seVNpelZoSFBqYVZFelFVMncveWVBUHp6bEFHVHlqYVd2Ui8zRE5ibkFRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lowes.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1631b6da7d1ef9",
+      "emailDate": "2026-10-22T10:15:03.000Z"
+    },
+    {
       "merchant": "The Home Depot",
       "percentBack": 2.5,
       "dollarBack": null,
@@ -620,20 +676,6 @@
       "emailDate": "2026-10-19T15:40:34.000Z"
     },
     {
-      "merchant": "Spirit Halloween",
-      "percentBack": 2,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-10-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RHBtRnFYR1FrRWl5clJUMzhzTlZjQjZGU0NFWWh4cVBvT0pBNExYRmY2NjZOWDd3YzBIbW9mZWprQS9tZ1hySmdNTGFIbkJYK1pyUmQyaS8wQ0p0N1BXeFoyL0RkNVBZaG1yamlBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spirithalloween.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a15f7ff4479424c",
-      "emailDate": "2026-10-21T17:26:23.000Z"
-    },
-    {
       "merchant": "Best Buy",
       "percentBack": 2,
       "dollarBack": null,
@@ -654,12 +696,26 @@
       "capAmount": null,
       "wasPercent": 0.5,
       "lastViewed": null,
-      "expiresAt": "2026-10-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SW1vbzAzTmZYMVVQejdJNXJ4djhBMUdxVy9vellSd2k4TEIwYy9NWmF4RERDakJOcVpEMXdwR0gyUXRYclBaZzBtOVBSZUhmYUw0c1k0a0Q1OTVleUJpUkQxK0xkdjFqSEU5cVBBPT0/runV3dl",
+      "expiresAt": "2026-10-26T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TXlvV2U5UzFpUGRpZkd2STNneDNKYnowZEtBK0ErbzNVaSsyQ2lEOVI3SkRNQkZkQjV3ZUh3VFdadEhmRllHY1E2WmpZNnk4M3VzY3JYRzV2cnRtemY2djJuZ1puR21ZcmdoRy9BPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=target.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a15a6c5ac0bb82d",
-      "emailDate": "2026-10-20T17:46:52.000Z"
+      "emailMessageId": "1a1631b6da7d1ef9",
+      "emailDate": "2026-10-22T10:15:03.000Z"
+    },
+    {
+      "merchant": "Spirit Halloween",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RHBtRnFYR1FrRWl5clJUMzhzTlZjQjZGU0NFWWh4cVBvT0pBNExYRmY2NjZOWDd3YzBIbW9mZWprQS9tZ1hySmdNTGFIbkJYK1pyUmQyaS8wQ0p0N1BXeFoyL0RkNVBZaG1yamlBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spirithalloween.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a15f7ff4479424c",
+      "emailDate": "2026-10-21T17:26:23.000Z"
     },
     {
       "merchant": "Sam's Club",
