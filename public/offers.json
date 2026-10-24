@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-24T00:18:13.159Z",
-  "sourceCount": 57,
+  "lastUpdated": "2026-10-24T00:49:29.969Z",
+  "sourceCount": 58,
   "parseFailures": 0,
   "offers": [
     {
@@ -32,6 +32,20 @@
       "emailDate": "2026-10-20T17:46:52.000Z"
     },
     {
+      "merchant": "Serta",
+      "percentBack": 35,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-24T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NmRZUTY2VzkwR3ZUckQwRUxzWVl6dzdxQVVjRkZVTHlZSnl6cSt5ZHpOZjRPc0ZCdHZxUS8yc09JSnlkZlcrcWZxS2lYYkNYY2YzT0tPeFBsNnBIaE1uSk1yNklyd0tqVXpOY0pRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=serta.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "1a16b4a4e3ce9c80",
+      "emailDate": "2026-10-24T00:23:13.000Z"
+    },
+    {
       "merchant": "Chewy",
       "percentBack": 35,
       "dollarBack": null,
@@ -58,6 +72,20 @@
       "source": "single-use",
       "emailMessageId": "1a15abe605092668",
       "emailDate": "2026-10-20T19:16:27.000Z"
+    },
+    {
+      "merchant": "Cafe Britt",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-10-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6T1MzSFNEYjRKQ3V6djV5SlV5OElMOUNEK1NTbEs1ajBRV0F5ZXZhaDREKzBaU2h6Zy9sT2xPcTJsWkRDZyttd3k2VFJYQkRHQXFkT2ZqaFg4VjNFN29JNGprL2lxRGhaaWw2Y3FRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cafebritt.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a16b4a4e3ce9c80",
+      "emailDate": "2026-10-24T00:23:13.000Z"
     },
     {
       "merchant": "Hickory Farms",
@@ -142,6 +170,34 @@
       "source": "single-use",
       "emailMessageId": "1a15dcba95995772",
       "emailDate": "2026-10-21T09:29:49.000Z"
+    },
+    {
+      "merchant": "e.l.f. Cosmetics",
+      "percentBack": 24,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-10-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Yk16RnBkbjJQb1hsekd2MUNDVExXckd1OVVLQkJFMGdYOWxhVjVHZEZnR3dwejJPcEVwbC9HSnlNT0duNitjWWEzU0NHUVN6d1JVTjhXVUZHcHIyWnFMcEg2QUdZTy9XQnUvaGtRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=elfcosmetics.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a16b4a4e3ce9c80",
+      "emailDate": "2026-10-24T00:23:13.000Z"
+    },
+    {
+      "merchant": "iHerb",
+      "percentBack": 22,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6L3NEU1hjMWtiZWRxRmp5ckhiU3hxOFFjdFhRQkp4aEhDUFpsaVBHdklQclZPUHlzbmtaRmJHeWMyeHk3Z3huWVZUQnpWR1N4eVFKMlM1b053dktXNjhFVnc5bDQ0c3hFZ2JpdTJnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=iherb.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a16b4a4e3ce9c80",
+      "emailDate": "2026-10-24T00:23:13.000Z"
     },
     {
       "merchant": "CVS",
@@ -270,6 +326,20 @@
       "emailDate": "2026-10-22T14:48:10.000Z"
     },
     {
+      "merchant": "Puracy",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-10-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6K1hmMzBwVlJWcHM5MG02UzM5UFZXak4rL3NmRjN2bFZqcVhHRzg0T3p2eFdPTFZRZWxoRktsK0tBcGRnbTl4SWFOUzBVcjlSMnNvaE5IRlljMS83Z3dHUm5xWDVOMVEzbjNlRTZ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=puracy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a16b4a4e3ce9c80",
+      "emailDate": "2026-10-24T00:23:13.000Z"
+    },
+    {
       "merchant": "Sears",
       "percentBack": 14,
       "dollarBack": null,
@@ -366,6 +436,20 @@
       "source": "single-use",
       "emailMessageId": "1a15abe605092668",
       "emailDate": "2026-10-20T19:16:27.000Z"
+    },
+    {
+      "merchant": "Pure TheraPro Rx",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6YS9xNWpFKzJ5RWJ2OHpGUFYxWDMwYXFzVmZtU2hvU3RjUGI1UGdlYUp1Uy9mUTFqSzdKYjZJL004RHJWSm1JVVQwbDY0SmpESUMzUDdwRERvYjlQYjFBZExJajI0d3JaL0taY1FnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=purethera.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a16b4a4e3ce9c80",
+      "emailDate": "2026-10-24T00:23:13.000Z"
     },
     {
       "merchant": "lululemon",
@@ -590,6 +674,20 @@
       "source": "single-use",
       "emailMessageId": "1a15f7ff4479424c",
       "emailDate": "2026-10-21T17:26:23.000Z"
+    },
+    {
+      "merchant": "Thrive Market",
+      "percentBack": null,
+      "dollarBack": 40,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6YXFVWENwVDJKQTJzWk5QNFBBQWlCTlNZYk9mWkg1R2NMVVo0YW81dGZwS2tmNC9XT21ZK3Rheml6SWZlVjFOMUVLMjMrMkYra1FuZmRFcHdjeUpGb3BTakFWczhENEJjN1FBYzFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thrivemarket.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a16b4a4e3ce9c80",
+      "emailDate": "2026-10-24T00:23:13.000Z"
     },
     {
       "merchant": "Home Chef",
