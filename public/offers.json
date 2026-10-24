@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-24T16:18:09.634Z",
-  "sourceCount": 56,
+  "lastUpdated": "2026-10-24T17:18:12.308Z",
+  "sourceCount": 57,
   "parseFailures": 0,
   "offers": [
     {
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-10-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UmFiemt4eWd1QlZZQWtkaFZnc3Q2UDZhbWtSYjZaaUU0bkJoNVk5S2FBU1VyelROdGVtVnN4cEZEWGZNbE9uMG9MTHNkdkt4dFk1VHl2cTI1V1k4L3phZU5nUVAxRFplTEptRzJ3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZXlIRXdaR0FtemJxdWZPQWI2MzgrWkJDODUxLzVVTjFDd3lpTVppVlpuOXZDUDJmN1ZjSDJFT2VSWWMrMThnS2ZPMnNKMzgvRUdTSWFBd0hLSHBaOVQ0T0Z5Qmd6NjlDaXNXaDR3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vineyardvines.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a16ddd7ac7de270",
-      "emailDate": "2026-10-24T12:23:13.000Z"
+      "emailMessageId": "1a16ed5a4c125daf",
+      "emailDate": "2026-10-24T16:54:17.000Z"
     },
     {
       "merchant": "1-800-Flowers.com",
@@ -39,11 +39,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-10-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Skd0UXYzVFc0NE9sNnFBS2tVQkhrRjZibThNVlRsVEl3aFV4eXNHb0tVeDlrdElYZC9VaWVKN2lEY0Ura0oyaTc5SjI0QVRQQmo3Y2drT1VSZWg5MkFQK01YaTBQTW1ieGZLN1BRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cWRiMkNQUU4wNS9tM2t4ajcyRVA3akR1TWtEeDRPZHhMMGlKMXlrUXVGVDBUNDc0ZDZCaHVadWMvTnNubE1YQ0xQdm9YdENpRENOdjRpZXVFdHZ0WEI5NUdtR2h5alNxeEYrbXpnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=crocs.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a16ddd7ac7de270",
-      "emailDate": "2026-10-24T12:23:13.000Z"
+      "emailMessageId": "1a16ed5a4c125daf",
+      "emailDate": "2026-10-24T16:54:17.000Z"
     },
     {
       "merchant": "Thousand Fell",
@@ -156,6 +156,20 @@
       "source": "single-use",
       "emailMessageId": "1a16b4a4e3ce9c80",
       "emailDate": "2026-10-24T00:23:13.000Z"
+    },
+    {
+      "merchant": "SIXT Rent A Car",
+      "percentBack": 22,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-10-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Y1crOWh6K0xHQ0xESElFTmJuRm5QVldPaDU4djcvWExIOUpGTjdnbngzM0lEQUgydGZBMTE1dHNLUUljOVZCTzJEeEY3bFptRzZ0R2EzVzF6RVIrQ2dQSjRtQitJUWMyV29QRmZ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sixt.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a16ed5a4c125daf",
+      "emailDate": "2026-10-24T16:54:17.000Z"
     },
     {
       "merchant": "iHerb",
@@ -410,6 +424,20 @@
       "emailDate": "2026-10-22T10:15:03.000Z"
     },
     {
+      "merchant": "United Airlines MileagePlus - Points.com",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6c3VZdURNMC9Sak0vYWMrSW9sQzk3SkRSTzhEcEVabmNYdkdaRTJySFRGZHNGWWdWcUpRTUhiMHBJY2RZeEpudzhORElVMEhaVGNRTCtyMmNucnJubzdNcDk2blFVRGx1eTdZN29BPT0/runV3",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=buymiles.mileageplus.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a16ed5a4c125daf",
+      "emailDate": "2026-10-24T16:54:17.000Z"
+    },
+    {
       "merchant": "lululemon",
       "percentBack": 8,
       "dollarBack": null,
@@ -436,6 +464,20 @@
       "source": "single-use",
       "emailMessageId": "1a16ddd7ac7de270",
       "emailDate": "2026-10-24T12:23:13.000Z"
+    },
+    {
+      "merchant": "Airport Rental Cars",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VWwzMUZhQkV6allGSmo5UEhITUFLWWJPT1UxQmxVbkJ1VmhKMFV1MXZ1WVZTTjF1bG5mRTcxblI2YkIvdmVYYWtIeGVZdWJNZXRFbkxYNDlKcjZScUI0eFR1c2FLT2lsU1pRVW5BPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=airportrentalcars.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a16ed5a4c125daf",
+      "emailDate": "2026-10-24T16:54:17.000Z"
     },
     {
       "merchant": "HOKA",
@@ -506,6 +548,34 @@
       "source": "single-use",
       "emailMessageId": "1a1631b6da7d1ef9",
       "emailDate": "2026-10-22T10:15:03.000Z"
+    },
+    {
+      "merchant": "Hotels.com",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "October 23",
+      "expiresAt": "2026-10-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Y2hYNVZoWEdKZEErelE3K0dNcUF1MWRhUUdJWkd5T3NORkNBcWgrRVhxbnFiYVRLb0J2bllmQ3I2c0NBZ1FmaHJUM2d3ZHF1VElKQ3ZWbFdVRUo3d0RWRnlFMkpOTVhQNHh0aGNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hotels.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a16ed5a4c125daf",
+      "emailDate": "2026-10-24T16:54:17.000Z"
+    },
+    {
+      "merchant": "Alamo Rent A Car",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Zk83bTF2M3dqaXFjRmh2L2RUaWtoSSs3cnB1NkNSMXRmTmoxOVBSSzUwcnFoODRBb1pOSWJMLzVwaXBYZndUalI1ZkZSV0tuVStwVXBZWmVHT2F1WjBLeFhrbnpQd1Q5Tnk5Qk13PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=alamo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a16ed5a4c125daf",
+      "emailDate": "2026-10-24T16:54:17.000Z"
     },
     {
       "merchant": "Target",
