@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-25T14:25:49.216Z",
-  "sourceCount": 56,
+  "lastUpdated": "2026-10-25T15:18:05.569Z",
+  "sourceCount": 57,
   "parseFailures": 0,
   "offers": [
     {
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-10-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MWpTR3d5UEdWTHIxMTdpL0haUHdUblMydDVVSzNRN3lvTTBFalgra1ZZMEV6VGo3RTRGREQzSzZCdFB3OXVhZXBqZkJDYmZ4Qno2eVRDOTJuZGRFMEp5M2dMZERCdkFaUHlOeEZnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OFRqV2cwUmlDdW5sK2JUUGpYNzVMcmc3Z04yazZGUEVaNU84dldGbzl1RkY1eVFNTlptUVd1RGpaLzlxeHdJeVFMcW4rYlgxbVdJVjF3S3dNaWwwRTEwRVp1U0h1dFJQRDNIdEJ3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tripadvisor.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a172f092c84d8fd",
-      "emailDate": "2026-10-25T12:02:10.000Z"
+      "emailMessageId": "1a1738209343029b",
+      "emailDate": "2026-10-25T14:41:03.000Z"
     },
     {
       "merchant": "eBay",
@@ -25,11 +25,39 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-10-29T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QTUxQjJWUG5lUzR4RHZEWXRXMkZEY3h6NFM2M0lRMUNIVEhnUTliaENDT3BaYzJyUjNuQjNXNFhUekMzaTJ2K3hmMzJrM1hMVW5ndHhMLzAweFdjaytZUkFsaDBHMnU2dUFYZ2dRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ebay.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZGptUTNFUXkyaHBZUm9zK09VUjlkUmVQYmNyQTgvYm5LdU5oS2RGQUtrV2NjQTQrRS9Lak94U3BMM3ErWnRkUzJEV3o0SGNCTTdUUUlMTkpsbHRTVHU4NVh5Y3V2ZWU5T3BWVk93PT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoebay.com,sjJ4Af-E6BaPu__bk4Fxsil1B8zWqQpz7-h3oVxtlsYw/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1780694357558.png",
       "source": "single-use",
-      "emailMessageId": "1a172f092c84d8fd",
-      "emailDate": "2026-10-25T12:02:10.000Z"
+      "emailMessageId": "1a1738209343029b",
+      "emailDate": "2026-10-25T14:41:03.000Z"
+    },
+    {
+      "merchant": "QVC",
+      "percentBack": 31.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 5.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WWZGQ0JoNzh4bFV6TVN5YU1RK0dDTE9KWnVDbHlFbjZxTElBVUc5RXpmMUF2cHFwcENoNk5kQUJQVTJ4YUVCN1QrVkJYYm44aElYeG80TjhVcnYxdE84NlZrTG1BWTNxU215enpnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=qvc.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1738209343029b",
+      "emailDate": "2026-10-25T14:41:03.000Z"
+    },
+    {
+      "merchant": "SHEIN",
+      "percentBack": 30.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SW1SRUE3SnFOc1FqZjE4ZTF6aS95V3hTR09QL1NDQm0wRkhyWEhWM1VYRndiTXFTL0t6YU1nRGRNN3ZObUhYNEx6UTFjQVM2UWVqdmU2aU5lRGt1VnV2bU1YMTdVL283YUh3UnR3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=shein.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1738209343029b",
+      "emailDate": "2026-10-25T14:41:03.000Z"
     },
     {
       "merchant": "Thousand Fell",
@@ -214,6 +242,20 @@
       "emailDate": "2026-10-22T10:15:03.000Z"
     },
     {
+      "merchant": "Sears",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-10-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QU9PS25zTVd1cHZyN1hQQWtMUno3NzRBSFFSQURHSUc5eTlsVGRhemJsRlp4dENSRWRvVVZYcFpYeWhhdjBUZEVKbllnSGc0SGJvMXYxTEloOHF4bzFsY0RIRjRZTWg2UUZVY05BPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sears.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1738209343029b",
+      "emailDate": "2026-10-25T14:41:03.000Z"
+    },
+    {
       "merchant": "Municipal",
       "percentBack": 9,
       "dollarBack": null,
@@ -382,6 +424,20 @@
       "emailDate": "2026-10-24T12:23:13.000Z"
     },
     {
+      "merchant": "Best Buy",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-10-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Z3dET3lBR1lrWWFMM1BHOHB5WjdNcTJsTENIZE03N2hQQTcyMHNaQ3QyU2NEUTM2SkozM0wwSEtWMWp4bTBrdS9KdFhvSEx1OEJMUkNtK2VqZWhhd2hNb1B0bzk1UGNkVnE2RWp3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestbuy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1738209343029b",
+      "emailDate": "2026-10-25T14:41:03.000Z"
+    },
+    {
       "merchant": "Lowe's",
       "percentBack": 2.5,
       "dollarBack": null,
@@ -394,6 +450,34 @@
       "source": "single-use",
       "emailMessageId": "1a1631b6da7d1ef9",
       "emailDate": "2026-10-22T10:15:03.000Z"
+    },
+    {
+      "merchant": "DHgate",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6V1RCdXdLTjhXWDBZejZ6dzBacG95UFZKYTRwYTVPRjZ5WVRXV1E2bU1zSzI1ZTZvSlZTWXB5Q3pkaEdBQ3ZXa1JrQUNZUTRUdTdJNDVrK1RpQlFRNjVDVXM3TFdUOGhBalo4cUpBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dhgate.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1738209343029b",
+      "emailDate": "2026-10-25T14:41:03.000Z"
+    },
+    {
+      "merchant": "Sam's Club",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZWw2V0FVL3lGc0RuUnR1dWNIb3QwdkNSdW9ZNmJqS1ZlOE9wUldvdEpvN2poclFDS3RqTmRlMDNROHZ3OTRBMmRPNnZGaFRSUFh3QW5tdElia0xsbkdJWDNLbWRUMU5qeFVHZkRBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=samsclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1738209343029b",
+      "emailDate": "2026-10-25T14:41:03.000Z"
     },
     {
       "merchant": "Target",
@@ -450,20 +534,6 @@
       "source": "single-use",
       "emailMessageId": "1a16ed5a4c125daf",
       "emailDate": "2026-10-24T16:54:17.000Z"
-    },
-    {
-      "merchant": "Best Buy",
-      "percentBack": 1.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": "October 15",
-      "expiresAt": "2026-10-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QyszN3M2MTRZaXE5cVZKVU5BdUdjdFBnOTdCSVl5VEsxYnlYak5iaElaZENWT1VFTkZEY1VDUTk5TlNXcDRIeUJ0WmU4NHJtVHlHWHhUSXMyQnViSzI2VGd6ZGU0Q3V4eGxpNkJ3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestbuy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1631b6da7d1ef9",
-      "emailDate": "2026-10-22T10:15:03.000Z"
     },
     {
       "merchant": "Thrive Market",
