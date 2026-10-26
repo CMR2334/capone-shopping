@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-26T11:18:06.911Z",
-  "sourceCount": 56,
+  "lastUpdated": "2026-10-26T12:18:12.007Z",
+  "sourceCount": 57,
   "parseFailures": 0,
   "offers": [
     {
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-10-27T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SWlGNkViakVROC9uaVZESGxyNXhOaTRTQjZMejFuTkxuRk5qZVJjdHlIZyttVDdYUXplWHZzN082K09rZGRUNHhzMlROc2JjUU9MMWRqTjF1eTNFZlUwczNmVXh3S2hWOGZkOFZnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RkVXcUxjVnBsQlU3UkdSQjRxT2lySmZhY0w3RWxOWGk4TUZpcUZKemhzNERKVm90T2pUZWZSZGpESW5ITWlGc0xmMHdFNW9uLytsM3NEU05YRjhncEJyaHNFTzBobENNemliZ0ZRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=duluthtrading.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a17787339e9d6bc",
-      "emailDate": "2026-10-26T09:25:11.000Z"
+      "emailMessageId": "1a17803e4bb340d5",
+      "emailDate": "2026-10-26T11:41:22.000Z"
     },
     {
       "merchant": "eBay",
@@ -58,6 +58,20 @@
       "source": "single-use",
       "emailMessageId": "1a1738209343029b",
       "emailDate": "2026-10-25T14:41:03.000Z"
+    },
+    {
+      "merchant": "Autodesk",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-10-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TjBLRU53RmFrdFUvdytqOWhqMjVyL2NTZGFFMDQ4THVXbFRTejlTdWwrVlNhZTM5aEI4ZlB3d3VmcTB3NThuOGdTZCtqU0ozWGpqRGV0OEdzbG1qOGdYb05CQVhyMks5NW93eVpBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=autodesk.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a17803e4bb340d5",
+      "emailDate": "2026-10-26T11:41:22.000Z"
     },
     {
       "merchant": "Thousand Fell",
@@ -200,6 +214,20 @@
       "emailDate": "2026-10-25T16:42:51.000Z"
     },
     {
+      "merchant": "MyCorporation",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-10-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cWJTSnFRamE5QzBKcFBXRXJlQkppaE5ZNTQ1V1RMTE9YU0pyTzZaeXYrMUZHdGZHd3VzYThUa1N3c2VXTnhSQjhERENZQmJTU3JRZ3ZCRDNFZkMyODlvTTVNcGFrN2xtNC9RSnZBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=mycorporation.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a17803e4bb340d5",
+      "emailDate": "2026-10-26T11:41:22.000Z"
+    },
+    {
       "merchant": "Office Depot",
       "percentBack": 15,
       "dollarBack": null,
@@ -333,11 +361,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-10-30T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VVhqS2RRMEdHSy9RTEs3T0ZnaUkzOE05N3FnRkRpWmJ6ZEJuZWlZWXBlWk12bmVKZExnQ2ZHcjhQcExsd0xRc1U1M0F5U0RXb1gxZzkybEdnaDRRVTlFV0RjVkw1WFBWM29KQUhBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6clFGWVNyYVFIMWtraTY0ZEQ5cGVwdGxuNW5kOGdYYW9weTFyV3YwRk5LWkhGUlJOWHIvWnA1aXI0MUNEV1F4WEF1QVRlcHBxK0NKRUIvTVhoOXVtODlPcHRrZWRQdG9sTG1VWkpBPT0/runV3dl",
       "logoUrl": "https://i.capitaloneshopping.com/570x236,logouspoloassn.com,sgMNhJT-NBkPEhOeZJ7nSawNXBivKzKkUzI-PLImEk9Q/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/8f597a93371f951db07783ec.jpeg",
       "source": "single-use",
-      "emailMessageId": "1a17787339e9d6bc",
-      "emailDate": "2026-10-26T09:25:11.000Z"
+      "emailMessageId": "1a17803e4bb340d5",
+      "emailDate": "2026-10-26T11:41:22.000Z"
     },
     {
       "merchant": "United Airlines MileagePlus - Points.com",
@@ -592,6 +620,34 @@
       "emailDate": "2026-10-24T16:54:17.000Z"
     },
     {
+      "merchant": "LegalZoom",
+      "percentBack": null,
+      "dollarBack": 150,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6T3BtZEFtRXBIU0FTQUpKeVdCS2UybU1qRjQ3elp5QUlVRzNTTjNDb3FEQnFuNUI4SytUUW5SNTJPMTlJTWhxQ255NkdrT1hua1kzZjR0U25wZENyallPVit0UWp1KzFEMVFvemlnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=legalzoom.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a17803e4bb340d5",
+      "emailDate": "2026-10-26T11:41:22.000Z"
+    },
+    {
+      "merchant": "Intuit QuickBooks",
+      "percentBack": null,
+      "dollarBack": 60,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6R0dFeThLNDNIUGdNMmIrNkFPVzFqM0FJZm96RUVLS1ZWZHRaVEFlSGZXUWIzSllqVGJyUno0YkZCYVd6K01NSzNERk0vTEdnaUcwbXM5QUVSTHpEV095eitLZ1gzcGxLQ1ZEUE53PT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/quickbooks.intuit.com/c27611ce-6bf4-4ae6-9131-11d1dc4c8e64.gif",
+      "source": "single-use",
+      "emailMessageId": "1a17803e4bb340d5",
+      "emailDate": "2026-10-26T11:41:22.000Z"
+    },
+    {
       "merchant": "Thrive Market",
       "percentBack": null,
       "dollarBack": 40,
@@ -604,6 +660,20 @@
       "source": "single-use",
       "emailMessageId": "1a16b4a4e3ce9c80",
       "emailDate": "2026-10-24T00:23:13.000Z"
+    },
+    {
+      "merchant": "QuickBooks Workforce",
+      "percentBack": null,
+      "dollarBack": 20,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VmJpR1lZSjZxcTVwYjZzb1B4d3VpbmgydkRkUTc5TUVPdlZpMmlxbzc2VXZVelk1SnFEVXMxRnkzUGNNcGlaV0g5KzIyUysyZFhnZlFjbHhHcTFLU0FXYXpPN29nNUVnZGJreWx3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=payroll.intuit.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a17803e4bb340d5",
+      "emailDate": "2026-10-26T11:41:22.000Z"
     }
   ],
   "upcomingReveals": []
