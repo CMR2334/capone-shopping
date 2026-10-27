@@ -1,8 +1,36 @@
 {
-  "lastUpdated": "2026-10-27T14:18:10.468Z",
-  "sourceCount": 58,
+  "lastUpdated": "2026-10-27T15:18:17.266Z",
+  "sourceCount": 59,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Zenni Optical",
+      "percentBack": 45,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6b0JPbTVQbmhzbVl6RHRWWWZYRExWcHRXdmN0Z3dJWGpuakJpd0tKbDNiYlpnTEJackJHdWMxOGpEUXI1UzcxaThmanBrQTA2Qi85S1RZTDJVTzlUL3hhUFVzdE1KZ1NGZDlDTkxRPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/zennioptical.com/28b861ec-25dc-4723-8ebf-8b62451c428b.gif",
+      "source": "single-use",
+      "emailMessageId": "1a17dd6b068766a8",
+      "emailDate": "2026-10-27T14:49:44.000Z"
+    },
+    {
+      "merchant": "CVS",
+      "percentBack": 36.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-10-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SnJQRmZPQnlLRk0vWmkvYWQwT2tNL2RIWm9iSjh0ek9FT2Njam5rYnRqSHRkeTg2ZnB1QXBOL1gxN1VhZk5pV3RycWRwMVh4S2IyNnFsMmJ2dDFHNGpkRTZPaUd0MkpPR25wQ2hnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cvs.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a17dd6b068766a8",
+      "emailDate": "2026-10-27T14:49:44.000Z"
+    },
     {
       "merchant": "eBay",
       "percentBack": 33.5,
@@ -128,6 +156,20 @@
       "source": "single-use",
       "emailMessageId": "1a173f18ad1c4f45",
       "emailDate": "2026-10-25T16:42:51.000Z"
+    },
+    {
+      "merchant": "U.S. Polo Assn.",
+      "percentBack": 18.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SDROTWFFTkNwZ3MrZXJtWnBiMWd0RUxvYWw4TVZ4c0JGWGFDNkovbU0yVzVma21JVzZZZjB5bUJkQ05XRGFnR3BPdkQrNzk2RUdyTDhIenhCWk9Sbllpc1cvaG1WVWh1N1A0RWN3PT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logouspoloassn.com,sgMNhJT-NBkPEhOeZJ7nSawNXBivKzKkUzI-PLImEk9Q/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/8f597a93371f951db07783ec.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a17dd6b068766a8",
+      "emailDate": "2026-10-27T14:49:44.000Z"
     },
     {
       "merchant": "LG Electronics",
@@ -282,20 +324,6 @@
       "source": "single-use",
       "emailMessageId": "1a16ddd7ac7de270",
       "emailDate": "2026-10-24T12:23:13.000Z"
-    },
-    {
-      "merchant": "U.S. Polo Assn.",
-      "percentBack": 8.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-10-30T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6clFGWVNyYVFIMWtraTY0ZEQ5cGVwdGxuNW5kOGdYYW9weTFyV3YwRk5LWkhGUlJOWHIvWnA1aXI0MUNEV1F4WEF1QVRlcHBxK0NKRUIvTVhoOXVtODlPcHRrZWRQdG9sTG1VWkpBPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/570x236,logouspoloassn.com,sgMNhJT-NBkPEhOeZJ7nSawNXBivKzKkUzI-PLImEk9Q/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/8f597a93371f951db07783ec.jpeg",
-      "source": "single-use",
-      "emailMessageId": "1a17803e4bb340d5",
-      "emailDate": "2026-10-26T11:41:22.000Z"
     },
     {
       "merchant": "United Airlines MileagePlus - Points.com",
@@ -508,6 +536,20 @@
       "emailDate": "2026-10-26T16:57:51.000Z"
     },
     {
+      "merchant": "Spirit Halloween",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6d2s4Nkh6QmptVTRISk91dDh1dVV3anp2eWd5MDZJOGk3VTFrRkhhcDBUam9LYUdHUEZ3UVJHZWxwYyt0aXd2dFFHb2owdXlEUWhTU0oxMTBML2xXbTFpSHdpTk5HWll5YVRLUjNRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spirithalloween.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a17dd6b068766a8",
+      "emailDate": "2026-10-27T14:49:44.000Z"
+    },
+    {
       "merchant": "Cabela's",
       "percentBack": 2,
       "dollarBack": null,
@@ -632,6 +674,34 @@
       "source": "single-use",
       "emailMessageId": "1a17803e4bb340d5",
       "emailDate": "2026-10-26T11:41:22.000Z"
+    },
+    {
+      "merchant": "Home Chef",
+      "percentBack": null,
+      "dollarBack": 30,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6b0EwSi9zbE9CSCsrQnRpdmFWMmhUNjJFb2VTOS9WTUVvektzeWxFU1VBTGVzdHUrb3QxWXhWMmpHcEg3dWp1L1EwNzZjTWZOY3QxRk1KZjNtZGxaYWFySVlUamp2VjY2TU5VYmNBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=homechef.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a17dd6b068766a8",
+      "emailDate": "2026-10-27T14:49:44.000Z"
+    },
+    {
+      "merchant": "DoorDash",
+      "percentBack": null,
+      "dollarBack": 24,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "October 14",
+      "expiresAt": "2026-10-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZE84NzFhN0g1WDNtOTBaa1NPOHBqRzd3SVhoSVM5VURHcFEwenhoREFXNlN2MXVFMVlWcHNndmtzNnZseHVIT2ZSY1hCSkVtM1E4Z3lVaStnQ1prbmUxVERFZWgzaEpkbkpTVjFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=doordash.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a17dd6b068766a8",
+      "emailDate": "2026-10-27T14:49:44.000Z"
     },
     {
       "merchant": "QuickBooks Workforce",
