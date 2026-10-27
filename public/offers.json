@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-27T16:18:09.541Z",
-  "sourceCount": 59,
+  "lastUpdated": "2026-10-27T17:18:18.239Z",
+  "sourceCount": 60,
   "parseFailures": 0,
   "offers": [
     {
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-10-31T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6b0JPbTVQbmhzbVl6RHRWWWZYRExWcHRXdmN0Z3dJWGpuakJpd0tKbDNiYlpnTEJackJHdWMxOGpEUXI1UzcxaThmanBrQTA2Qi85S1RZTDJVTzlUL3hhUFVzdE1KZ1NGZDlDTkxRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WTd1VURjRnFEdjM4cWxMdzNjMU13eHVTN0JLT3BySmhsbVRVWGtpZWtGYkc2cmdiYUViTVVCbXZ3WmY3ck9Qcnc0bFpUcUZGMW9HOW8zUHZGT2libk80K0NqYnRmTW5PMWhNSFF3PT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/zennioptical.com/28b861ec-25dc-4723-8ebf-8b62451c428b.gif",
       "source": "single-use",
-      "emailMessageId": "1a17dd6b068766a8",
-      "emailDate": "2026-10-27T14:49:44.000Z"
+      "emailMessageId": "1a17e4b9934de1cb",
+      "emailDate": "2026-10-27T16:57:25.000Z"
     },
     {
       "merchant": "CVS",
@@ -25,11 +25,11 @@
       "wasPercent": 3,
       "lastViewed": null,
       "expiresAt": "2026-10-31T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SnJQRmZPQnlLRk0vWmkvYWQwT2tNL2RIWm9iSjh0ek9FT2Njam5rYnRqSHRkeTg2ZnB1QXBOL1gxN1VhZk5pV3RycWRwMVh4S2IyNnFsMmJ2dDFHNGpkRTZPaUd0MkpPR25wQ2hnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dUYwRDNzaldBZEJkT1Z0UWtuR3ZsMWlFZ1g2SWZmblZHTkQyUjlYdFN3VWJBTXlKQXkwSEQ2b282UDNXYmk0MzRHZDRvaFpuOVZ1MHJmOUVSTDdBL1YxQUZUZXdTazZaMDR6ZlRRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cvs.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a17dd6b068766a8",
-      "emailDate": "2026-10-27T14:49:44.000Z"
+      "emailMessageId": "1a17e4b9934de1cb",
+      "emailDate": "2026-10-27T16:57:25.000Z"
     },
     {
       "merchant": "eBay",
@@ -116,6 +116,20 @@
       "emailDate": "2026-10-26T19:10:34.000Z"
     },
     {
+      "merchant": "Lane Bryant",
+      "percentBack": 23.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-10-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Nkg4SzVlbEllaWU3cDBKS0Z1dUt6WHo1dGx2Z0M4Tjlob2dHazNaR2VtZmpNNG1oWFlrQ1JyRUZOWTNPWGY4ckxIRDNMa21vaUVrVTlTN2NLcWxGU1RXMi95QUJBcGluNi83OWhBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lanebryant.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a17e4b9934de1cb",
+      "emailDate": "2026-10-27T16:57:25.000Z"
+    },
+    {
       "merchant": "SIXT Rent A Car",
       "percentBack": 22,
       "dollarBack": null,
@@ -128,6 +142,20 @@
       "source": "single-use",
       "emailMessageId": "1a16ed5a4c125daf",
       "emailDate": "2026-10-24T16:54:17.000Z"
+    },
+    {
+      "merchant": "Under Armour",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-10-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OGFiRVNEYUxJbjI3Q01CU0RTTVhZZkd3VFMrOVMvS2FtbWJ0QzQ5UEM4bHRoUXZ5OVhXK013dWQ5dll6NGxrQzBaMGozZHNQMTN5Y1dldXhRMUhoUmJyeXJBNkZmTkE3TmdoeWtnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=underarmour.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a17e4b9934de1cb",
+      "emailDate": "2026-10-27T16:57:25.000Z"
     },
     {
       "merchant": "NOBULL",
@@ -156,6 +184,20 @@
       "source": "single-use",
       "emailMessageId": "1a173f18ad1c4f45",
       "emailDate": "2026-10-25T16:42:51.000Z"
+    },
+    {
+      "merchant": "HOMAGE",
+      "percentBack": 19,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VXFlcHFkWkZvZ29uN2ZGQWZnVkJMZU8ySzNhTHNYYjRJbnJqMThKWC9GUllkQWVRdWR6VVdjc0Vid0Z3cHNUVlBvdFBYZ3g2cUkrVXdrVHdHWEdSL3RtMUJjeUpNVTg5SVRJQjJnPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logohomage.com,sYe0l1dFCPhCZOX6FUUZtw9T0C6r-wtDM9rQYYAzcElM/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/8c6d370e419c74d3bcd47d9b.png",
+      "source": "single-use",
+      "emailMessageId": "1a17e4b9934de1cb",
+      "emailDate": "2026-10-27T16:57:25.000Z"
     },
     {
       "merchant": "U.S. Polo Assn.",
@@ -257,17 +299,17 @@
     },
     {
       "merchant": "Levi’s®",
-      "percentBack": 11,
+      "percentBack": 13,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
-      "expiresAt": "2026-10-29T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UUo0eEFCSVh5NERkRmhaUnUzVUlBZGlLRGFtNmdROUNjREgwY2VWZXpWSzNjK3NNeVBJY3VRY2NRVHovLyt2bTZxWXhQWmw5NjQ1VTFUZ2V6TU9KTkFoSDdXSDBDR3E2WHgxd1d3PT0/runV3dl",
+      "expiresAt": "2026-10-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bllWc2JnOFptU2ZJWjVYM3k5MWJhekVDUTBMcnFOaUhmME1WeVVxb2ZtZUd4VXp0STM5MjdJRXFLZE1CaUpXQkdSMGZSQjR1Zy91TEtCN1NkVXdZeHdCRkZFQzBOVmsxekgvY1dnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=levi.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a173f18ad1c4f45",
-      "emailDate": "2026-10-25T16:42:51.000Z"
+      "emailMessageId": "1a17e4b9934de1cb",
+      "emailDate": "2026-10-27T16:57:25.000Z"
     },
     {
       "merchant": "Gap Factory",
@@ -536,6 +578,20 @@
       "emailDate": "2026-10-26T16:57:51.000Z"
     },
     {
+      "merchant": "Tractor Supply",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-10-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MzBLd3RSRWpHZDN2R0k3YVlDTisvYkQ2Sm9sVEszZ2hEMmtudW9HeEVqRFQ4NkRuV0FPMXB1YVB5MFdqNTJyMUNmMHJqT3NheXVNUmw4SS9mRXBUTVBVb0w5YjRodDBiL0tXMkZBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tractorsupply.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a17e4b9934de1cb",
+      "emailDate": "2026-10-27T16:57:25.000Z"
+    },
+    {
       "merchant": "Spirit Halloween",
       "percentBack": 2,
       "dollarBack": null,
@@ -601,20 +657,6 @@
       "expiresAt": "2026-10-29T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TjA1M0NneHAzRW5YOFNrWXBSalp5Y2MyWUFBZTFHUVI0UXJ1RDEwUzlrSjVBT0R4TjNVc3FMZ1REeWQ4NU1taTJrSVVLeHQ5dS9rc090d25ldFY5MFAzc0hZS2F1ZURScTFST3dnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=target.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a172f092c84d8fd",
-      "emailDate": "2026-10-25T12:02:10.000Z"
-    },
-    {
-      "merchant": "Tractor Supply",
-      "percentBack": 2,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-10-29T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NkpHcWp1SDV3WDg5cHpsUUlwczBDZGpiTmg0cTljRExRYURPMHRiZFdMendRMEJRRlFLS25JMDZuYWhUUm1LZG5rYnFxRExFQ3hmL0hid2pSNmgwK2djSzVYdXUwdTRRQlFjb2RBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tractorsupply.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
       "emailMessageId": "1a172f092c84d8fd",
       "emailDate": "2026-10-25T12:02:10.000Z"
