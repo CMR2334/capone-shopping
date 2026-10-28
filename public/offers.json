@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-28T16:18:07.727Z",
-  "sourceCount": 61,
+  "lastUpdated": "2026-10-28T17:18:11.844Z",
+  "sourceCount": 62,
   "parseFailures": 0,
   "offers": [
     {
@@ -130,6 +130,20 @@
       "emailDate": "2026-10-27T16:57:25.000Z"
     },
     {
+      "merchant": "Jack Rogers",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OWZTNmVoZXBHdklxZ2dveVJCR0NqaW4xWVBUS05GUnRhUXZUT29vZlZWczBkdC8vcDJXeHp0Y3Npb1c5T1NmZFhhR0VuUTA5MURDS21NY0xVMnhkZ0NpdGlWY0YyMW9BUXFYS2xnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=jackrogersusa.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1837025cb92cce",
+      "emailDate": "2026-10-28T16:55:26.000Z"
+    },
+    {
       "merchant": "Under Armour",
       "percentBack": 20,
       "dollarBack": null,
@@ -198,6 +212,20 @@
       "source": "single-use",
       "emailMessageId": "1a17787339e9d6bc",
       "emailDate": "2026-10-26T09:25:11.000Z"
+    },
+    {
+      "merchant": "J.Jill",
+      "percentBack": 18,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6d2kvT2ovNDVwN01oSGViVWpmbnA0aE9CaFMzcFJIQ3V6dEIxV1B6NFJxWWgyTkZZNDdQMUlYbm16UGVjenBxVGpsUzAzSW5VaU9lc09wNmh3a1BJTmFnYTRjWjRYelNlSEZyY0xRPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logojjill.com,s_6XQfGo4sUqnSaS8JKZPrPKCpQ4tNqSfDuHoJn9Vx1w/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/8ddb683d366aa2b003c7ca6b.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a1837025cb92cce",
+      "emailDate": "2026-10-28T16:55:26.000Z"
     },
     {
       "merchant": "Giftcards.com",
@@ -410,6 +438,20 @@
       "emailDate": "2026-10-28T12:44:17.000Z"
     },
     {
+      "merchant": "LOFT",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Ymtpbk5yZ3FSejBHVThiN21KcmNkZ1J4TVhtSitOK3dqQlBvekhMUVFDR3ArNzlNd0FDOTc4OWRPeTVKVC9UT0FpSFhqVEtBNkJ6NWpHd3pldkdyalJoSnYyM1NBYnlYd3RkK0NnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=loft.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1837025cb92cce",
+      "emailDate": "2026-10-28T16:55:26.000Z"
+    },
+    {
       "merchant": "TOMS",
       "percentBack": 7,
       "dollarBack": null,
@@ -422,6 +464,20 @@
       "source": "single-use",
       "emailMessageId": "1a1828a3591823ef",
       "emailDate": "2026-10-28T12:44:17.000Z"
+    },
+    {
+      "merchant": "Soma",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UVoxUzFwTFBQTDVSQnd4Y2tOMHJETDFweUt0aElnRm04VDF4Zmx5NUROZzRhUjJkRHl1R2hHenZBZW1IQXA3THVlWFhFV1RkeVpKekdmWXluMW8vSE0zb2dnOTN2MExrdGZ0ZjNBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=soma.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1837025cb92cce",
+      "emailDate": "2026-10-28T16:55:26.000Z"
     },
     {
       "merchant": "HOKA",
@@ -492,6 +548,48 @@
       "source": "single-use",
       "emailMessageId": "1a17ebd7acbe053e",
       "emailDate": "2026-10-27T19:01:48.000Z"
+    },
+    {
+      "merchant": "Garnet Hill",
+      "percentBack": 5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZUE4WkNBMXRsQjd0MVZ6ZDJJb2gwTWl5NnQ3NW5Xak1OMVRNQmVmSTRtWW10alpFZG9oT1RBd1JmTThtbXlMT2lwZlFQSlltODUraEIvNjdLTFdtOTJydXNGbG12VGVNREl2cGlBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=garnethill.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1837025cb92cce",
+      "emailDate": "2026-10-28T16:55:26.000Z"
+    },
+    {
+      "merchant": "Wacoal",
+      "percentBack": 5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MUNaQnBET0taa21mU0xTM1BPVkZFZDBYM21VaHcxcE0vSitJU1ZKeVNJb0tla0NZWm9nVnhhMWdrbGVJbVNIUFQ3SlR6aStYSDF0elJtaFJGL3cyL2J0WUo2MHIwRWx6ZjJja3p3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=wacoal-america.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1837025cb92cce",
+      "emailDate": "2026-10-28T16:55:26.000Z"
+    },
+    {
+      "merchant": "Chico's",
+      "percentBack": 5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6b3dQQkRhdGpKbWd0TXRuTkpIRjNqcWI3L04yK2R1RXF6cjh2TFFNVXF4ZFVKYmJOTml3cUFyRGNzQ3FkdEdvRXRNano1SU5La0k3UzBCeG43YTJZVFp3aVd0MTNEMWxjb0RzQWFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=chicos.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1837025cb92cce",
+      "emailDate": "2026-10-28T16:55:26.000Z"
     },
     {
       "merchant": "BRUNT",
