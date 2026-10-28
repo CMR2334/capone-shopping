@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-28T09:18:12.637Z",
-  "sourceCount": 62,
+  "lastUpdated": "2026-10-28T10:18:08.787Z",
+  "sourceCount": 63,
   "parseFailures": 0,
   "offers": [
     {
@@ -184,6 +184,20 @@
       "source": "single-use",
       "emailMessageId": "1a17787339e9d6bc",
       "emailDate": "2026-10-26T09:25:11.000Z"
+    },
+    {
+      "merchant": "Giftcards.com",
+      "percentBack": 17.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TzVFem9pWHp2SVpBaHJJWFA4L2c3UVZIRkR4V0ZyQnE5NGVFcGtDc1phVFpVeHRURU1WamhQUHBOUzQ1UWUvbTdEOWxhaVcxVGNsWXg4ZXNNL0xLZ2ZPdEJCLzNjY0lwb2E4S3ZnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/giftcards.com/80f71063-3476-4a49-b711-8e7957d287a3.gif",
+      "source": "single-use",
+      "emailMessageId": "1a181d10733d8f0f",
+      "emailDate": "2026-10-28T09:22:01.000Z"
     },
     {
       "merchant": "JCPenney",
@@ -562,6 +576,20 @@
       "source": "single-use",
       "emailMessageId": "1a17803e4bb340d5",
       "emailDate": "2026-10-26T11:41:22.000Z"
+    },
+    {
+      "merchant": "Bookmap",
+      "percentBack": null,
+      "dollarBack": 125,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6c0dLaGxnWm5sVnQrcWxsQjVELzJ6LzlmUW1mTll4ckNjVERkTEEzRjFPUVh3ck1hd3N3ZmZzdm5DZzd2NFFicUlnVEpWRlVjLzRmeGp1d21wWUU2YkcvOVZBdlVtak83VVRqdEtnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bookmap.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a181d10733d8f0f",
+      "emailDate": "2026-10-28T09:22:01.000Z"
     },
     {
       "merchant": "Intuit QuickBooks",
