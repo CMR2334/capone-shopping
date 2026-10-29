@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-29T18:18:02.087Z",
-  "sourceCount": 65,
+  "lastUpdated": "2026-10-29T19:17:57.394Z",
+  "sourceCount": 66,
   "parseFailures": 0,
   "offers": [
     {
@@ -72,6 +72,20 @@
       "source": "single-use",
       "emailMessageId": "1a17f242eee5dbef",
       "emailDate": "2026-10-27T20:53:59.000Z"
+    },
+    {
+      "merchant": "Going",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 6,
+      "lastViewed": null,
+      "expiresAt": "2026-11-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dVdrVFA5U3Z6NHJIVUlRV2VRckxjUWtiV2p5VUNIOWQwWXQ3Vks1c2p4VnVoaDJONWJvSVFxZ0x5eVNVbXM4aXBFUUVHV2xDVzdjVnBJWDlvZXFtdUIySUN1NnBPbVE0bkJxL3JRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=going.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1890dcf03e910a",
+      "emailDate": "2026-10-29T19:05:45.000Z"
     },
     {
       "merchant": "Thousand Fell",
@@ -347,11 +361,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MkFWdExkVldCaXlBMENlNDdjUUM0WjcyZ0Z2ZWszZFExZmFNaDJtZ0lSd09kcFQvam9CTFg5OXQ5WGQ4aXBWNi8xdEllU0VmQTFjYlpiQ01RSnF2WEdTbWE5bnNENmpvUXorRDZ3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UTkvM21obGVxY3NtUitSRHphemZ0ZEpKeWl5a0JsbFZHYlBWVm04cTgySjVpNms4RkJhL3ducFAva2JhSUZvU1FudEg1VmxZbVVwMXNHSGpWaE1yZUJ2MWFGZ3U5b3lqb09MeXh3PT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/hotels.com/608cd78b-d0aa-448b-bfc0-605c5f022ad2.gif",
       "source": "single-use",
-      "emailMessageId": "1a187a57bad76bf0",
-      "emailDate": "2026-10-29T12:32:11.000Z"
+      "emailMessageId": "1a1890dcf03e910a",
+      "emailDate": "2026-10-29T19:05:45.000Z"
     },
     {
       "merchant": "Go City Pass",
@@ -438,6 +452,20 @@
       "emailDate": "2026-10-29T12:32:11.000Z"
     },
     {
+      "merchant": "Airport Parking",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-11-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cHdSSVorNGxKNVcwNmpnYXA2cnRwVTRvMW9WdjlpNGxhcnJSMGdYLzhKQ09CZHQ3ZkVyTTdIcmt3VlFpUlRyVzJKY3ZVdldueldMM1dHVXFxVUFlNW5QMkQyS2s1MFBiTXhqeHVRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=airportparking.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1890dcf03e910a",
+      "emailDate": "2026-10-29T19:05:45.000Z"
+    },
+    {
       "merchant": "Ace Hardware",
       "percentBack": 10,
       "dollarBack": null,
@@ -466,6 +494,20 @@
       "emailDate": "2026-10-26T09:25:11.000Z"
     },
     {
+      "merchant": "DSW",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VEtzUE1nWTB4blpwYUlHSDhYbTRRVkIrN1hIVnVDOXBhRVVCYVlGdmkwdXdmQStWczFWTTFkajNScXp4cW1NVmtnc0t2QjFrVHRmZmROand2MXZ4R2o1VTRDZE5zYVZaaE84aFN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dsw.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1890dcf03e910a",
+      "emailDate": "2026-10-29T19:05:45.000Z"
+    },
+    {
       "merchant": "Municipal",
       "percentBack": 8,
       "dollarBack": null,
@@ -478,6 +520,20 @@
       "source": "single-use",
       "emailMessageId": "1a1828a3591823ef",
       "emailDate": "2026-10-28T12:44:17.000Z"
+    },
+    {
+      "merchant": "Trip.com",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Mk1VQ2tHenQyOWJWRW9ZY01JbWJ6RS81TElKbkw4Z0pCMURyelF3aVlyS21aUGNMSm1PRkthekFXc3F4dS9FTWFHczRNcERhOUtMU01EOFZFa2RMNEV4U0k0bklzb3YxNnVpYmZBPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logous.trip.com,s7TnoNqZZAQ1Z87Kora5N0_BzJRNtOtHAfBBhqccgZsE/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1790877443726.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a1890dcf03e910a",
+      "emailDate": "2026-10-29T19:05:45.000Z"
     },
     {
       "merchant": "lululemon",
@@ -676,6 +732,34 @@
       "emailDate": "2026-10-28T12:44:17.000Z"
     },
     {
+      "merchant": "Turkish Airlines",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NXkvZVM4Z1dwcGhQM203TDY1QzVWOTFtSGpYWkpRMDZIdjB6U3pBVDZ1N1hydFczWXdIUmNzL3U2VGIvS1dqT011anFyUnZzcjk4eTQzYVVHVk1iaWtCRTFaVWR5VnRTZGF6eFhnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=turkishairlines.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1890dcf03e910a",
+      "emailDate": "2026-10-29T19:05:45.000Z"
+    },
+    {
+      "merchant": "Turbopass",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NllEMVhaL2NwUVc0blFWbllsK2xQdE1jcXJQaWJ5eUsvdzlMMFlXdCszbCtSNmlNWm41Z1NYQ3RrZlJqNGgvTStWOXR4RXFFaEEyWUYrQXFCeDlHclhvM0VJWW80SUNWRkUyNnJnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=turbopass.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1890dcf03e910a",
+      "emailDate": "2026-10-29T19:05:45.000Z"
+    },
+    {
       "merchant": "Lowe's",
       "percentBack": 2.5,
       "dollarBack": null,
@@ -870,6 +954,20 @@
       "source": "single-use",
       "emailMessageId": "1a17803e4bb340d5",
       "emailDate": "2026-10-26T11:41:22.000Z"
+    },
+    {
+      "merchant": "OneTravel",
+      "percentBack": null,
+      "dollarBack": 16.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MHZZMGFmYUs4REk3Y2JITHJZL0lvR05sUkUzRGlrNFRZSjFtMWFqZ1ZhRXRjbDA0Qlo2a2l2bGJ1Y2RWOXVQU1E5b2xBZFlkQmJ6NlRVSExEbXFNQmdWSzNkZDZVTngzVUt2MFJ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=onetravel.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1890dcf03e910a",
+      "emailDate": "2026-10-29T19:05:45.000Z"
     }
   ],
   "upcomingReveals": []
