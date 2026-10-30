@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-30T09:18:03.095Z",
-  "sourceCount": 67,
+  "lastUpdated": "2026-10-30T10:17:54.465Z",
+  "sourceCount": 68,
   "parseFailures": 0,
   "offers": [
     {
@@ -30,6 +30,20 @@
       "source": "single-use",
       "emailMessageId": "1a186f5e790636bd",
       "emailDate": "2026-10-29T09:20:24.000Z"
+    },
+    {
+      "merchant": "Estée Lauder",
+      "percentBack": 40,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-10-31T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZW4yU3ROblFTT3ZOWUQ2b09LRlBsSis0K3k3a0JNYlB1WFJXTFVNQ2VRbzFGT3lORGgrbSszcXl6eEJVQUF4MW5FRHMyb3JDbVdaVGc4RzJ5WGo2R3ZWM1EvMVhiNnlMUEVNa2tnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=esteelauder.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "1a18c35496dfac67",
+      "emailDate": "2026-10-30T09:47:44.000Z"
     },
     {
       "merchant": "Columbia",
@@ -130,6 +144,20 @@
       "emailDate": "2026-10-27T16:57:25.000Z"
     },
     {
+      "merchant": "eBay",
+      "percentBack": 23,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TXBISmcxbFg1dkEvZERtN1RpUTczdUFWTHE3czduc0dVTzVkcXcyNmppNGhYakdOU2pzS1NCRFRPbitSeDczaHlPTmNHTS85RnpRaEQ1aDNVZWRBUG9NZDhZSW1nY01xTkl5ZmZ3PT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoebay.com,suhtMbEoG6X4NZGsBve384HpDE8_dyVbgWPoLay2ZSmE/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1d5d833e88b272bfad6a7073.png",
+      "source": "single-use",
+      "emailMessageId": "1a18c35496dfac67",
+      "emailDate": "2026-10-30T09:47:44.000Z"
+    },
+    {
       "merchant": "QVC",
       "percentBack": 23,
       "dollarBack": null,
@@ -139,20 +167,6 @@
       "expiresAt": "2026-10-31T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6S1c1WXQ3S0doVjRYbTVZdXRIWXhRYk5nSFlqd3M5a0VTdjJ4RkE3MTc2aG9EY004QlVEd0FlVjN2Q21xYjZQNTcvMnI2WTd0UGZhWUZzMVh2bEQvN2FYZEFMN0VlZHZRL29jcWxnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=qvc.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a17f242eee5dbef",
-      "emailDate": "2026-10-27T20:53:59.000Z"
-    },
-    {
-      "merchant": "eBay",
-      "percentBack": 23,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-10-31T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eEt6ajJyMHdUaVhkNG1SRUNaZFZuSkh4Q0o0WHp6YVhpUmtSNVp0T1ZJT0grRHFRbkRFMVhUa2hJYU9zS1FaY1JTa3BWWFB5cFpsalVXU3lWVWhnSFo5SHNkbzlkRVNwcGxKdXJ3PT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoebay.com,sD9A_RmKoDO3l0Fkwc5rrw_-geebYB1oT9jymUouyYao/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/d0b68899258fce83d81873bc.png",
       "source": "single-use",
       "emailMessageId": "1a17f242eee5dbef",
       "emailDate": "2026-10-27T20:53:59.000Z"
@@ -268,6 +282,20 @@
       "source": "single-use",
       "emailMessageId": "1a1828a3591823ef",
       "emailDate": "2026-10-28T12:44:17.000Z"
+    },
+    {
+      "merchant": "Office Depot",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6M2tIY2tQMnh5bGw1b2VpWXJkcVVsUDRIZDBRdnBPYWQ3bE1UWWZxeVhZL05ncVFBZ1Y3b0Jkc0NoeHRSVnhIby9lSU1mV1hiMld4VEtvTG8xQUpFZUFmajdLbWtxTFdQdEhwQ1NnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=officedepot.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a18c35496dfac67",
+      "emailDate": "2026-10-30T09:47:44.000Z"
     },
     {
       "merchant": "adidas",
@@ -472,12 +500,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-11-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MFlmUkt4RVQyQXh0UmJKaklaMWpBOCtqczYvV3RBWExVVVVUcmhxVm55blhRMVJqVGhteVJ0c3RRUHlnblJiQjJ0Tjd1eWhFVnBlYUFVekxkYy8yem9WeTYzb0JPVjhod3l6d0NnPT0/runV3dl",
+      "expiresAt": "2026-11-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dFNSWkVEQ3FQNmlzTm9NVTFZdkhhNDQ4aVVZbkROTlBOUGpQL3JLM0JjVDNYMm9EaG5UQlVkc3A4ZXJnM3JQcmVGRnNnQXBJYThUcFpiSlloblZtc3BJYzdrQmthZ3lMNGc1ek1nPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lg.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a18960450b2e536",
-      "emailDate": "2026-10-29T20:35:49.000Z"
+      "emailMessageId": "1a18c35496dfac67",
+      "emailDate": "2026-10-30T09:47:44.000Z"
     },
     {
       "merchant": "Academy Sports + Outdoors",
@@ -648,6 +676,20 @@
       "emailDate": "2026-10-28T12:44:17.000Z"
     },
     {
+      "merchant": "Walmart",
+      "percentBack": 6.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OVJNTnhHK1NLS3RwV3d4WE1tTmRLa3lNWmg5YnhOUWk2ellSK0R6Uml6YVZqaXRXNjJObjVvbzl2M2hZSU5MUEpMS0dLTG1SZmJQWVJIOEhKUHltZ1c0S0xRNmQrTXNVV1lLMmZnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walmart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a18c35496dfac67",
+      "emailDate": "2026-10-30T09:47:44.000Z"
+    },
+    {
       "merchant": "L.L.Bean",
       "percentBack": 6,
       "dollarBack": null,
@@ -716,20 +758,6 @@
       "source": "single-use",
       "emailMessageId": "1a18960450b2e536",
       "emailDate": "2026-10-29T20:35:49.000Z"
-    },
-    {
-      "merchant": "Walmart",
-      "percentBack": 5.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-02T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SUZQSmZrcGVTMjliS1padnRFckVZVElKZi9ENFE0L0N5ZTQwUndYM3RlYVIvMExzUm9sdXRRU3hCMnR6ckR2bFUycm5DMTVmRk1kWnVEUk96VUJ2UzdmR2U1VnIxU1ZSQXVKSEVBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walmart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a187a57bad76bf0",
-      "emailDate": "2026-10-29T12:32:11.000Z"
     },
     {
       "merchant": "Expedia",
@@ -878,12 +906,12 @@
       "capAmount": null,
       "wasPercent": 0.5,
       "lastViewed": null,
-      "expiresAt": "2026-10-31T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MEtBWU43OHBhYytPUHRXTDdPdFkxV2NXREtzaFdjS09MUnh3bndOcDJqVHZPUlUzeElPV0s4TDJ3TG42SGNpUnoyUGZEdDhIN3ZLSFdmNW9ya1BuS3BZWlNEVThkWEJWMmNiZWFnPT0/runV3dl",
+      "expiresAt": "2026-11-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZGlXRTdqTm9QdVcwL0FwZm1NOHZTcDIwVUdwS2xrRG5hUHpob3dNTnI5K2NDTUFhZ2N3ZEJpeDExRjViTk9ZVnlWZVdrMXUxMDhQQ2tIZVRvUVNkSDFUcU1vOTl1SDhGZVM4QjVBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lowes.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a17f242eee5dbef",
-      "emailDate": "2026-10-27T20:53:59.000Z"
+      "emailMessageId": "1a18c35496dfac67",
+      "emailDate": "2026-10-30T09:47:44.000Z"
     },
     {
       "merchant": "The Home Depot",
@@ -968,6 +996,20 @@
       "source": "single-use",
       "emailMessageId": "1a17dd6b068766a8",
       "emailDate": "2026-10-27T14:49:44.000Z"
+    },
+    {
+      "merchant": "Best Buy",
+      "percentBack": 1.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": "October 15",
+      "expiresAt": "2026-11-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cldNQnRqamtLK1ZSQTV3Y0s4cmtGcUhiL0kvRVhZa241bG9jL0JBT3hXR1pvMVR5c0JPcEptN0xxZEdhL2FoUnhLazhTVUFaWU5Pc2JUU3hPdmh4M3dGdWVyL3BGdW1rQ1BIZFp3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestbuy.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a18c35496dfac67",
+      "emailDate": "2026-10-30T09:47:44.000Z"
     },
     {
       "merchant": "Bookmap",
