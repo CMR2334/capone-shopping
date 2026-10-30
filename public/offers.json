@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T00:17:56.261Z",
+  "lastUpdated": "2026-10-30T01:18:02.919Z",
   "sourceCount": 67,
   "parseFailures": 0,
   "offers": [
@@ -30,6 +30,20 @@
       "source": "single-use",
       "emailMessageId": "1a186f5e790636bd",
       "emailDate": "2026-10-29T09:20:24.000Z"
+    },
+    {
+      "merchant": "Columbia",
+      "percentBack": 36.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TWJzWUNlWTI5dFhtWHlDVHd4cEFJMEFmQ2lCVVVwMVg3WjIxajFkd0lXZmJldWRJT1dhTnB1b3NXY1J2V0RZWk9sSzBHU2lQQUxwWG80blFEMFdxU2N5ejhydXQyd1NBa3VOWUlBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=columbia.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a18a31cb8015dc5",
+      "emailDate": "2026-10-30T00:24:40.000Z"
     },
     {
       "merchant": "CVS",
@@ -156,6 +170,20 @@
       "source": "single-use",
       "emailMessageId": "1a17e4b9934de1cb",
       "emailDate": "2026-10-27T16:57:25.000Z"
+    },
+    {
+      "merchant": "Merrell",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cVYvNytUZFpkZExacXVqTlp2WWFlRmZYU0Z1NEpnc21kdTVaOEZHckhIc242eWpUNzZPaDZaS0NXZVVrb1ZJL1dSdUVZRVVFNzhFSDRSSmV1NEh5ekJyS3JkSUpLTUlDVmJyKzNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=merrell.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a18a31cb8015dc5",
+      "emailDate": "2026-10-30T00:24:40.000Z"
     },
     {
       "merchant": "Jack Rogers",
@@ -438,6 +466,34 @@
       "emailDate": "2026-10-27T20:53:59.000Z"
     },
     {
+      "merchant": "Lands' End",
+      "percentBack": 13,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6YjBac0pnak4rTU0vK2FDS2R5YmJ6anRLTGRQclNROVdpNjNnNjYydnFTMFNEUEpHT0o5bWlLNUkzZGJmMFRGMDZwQm9ZZSsrcyswZkt3OU1nclpKTWlDWlB1WnJRN2lDcU03ckRBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=landsend.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a18a31cb8015dc5",
+      "emailDate": "2026-10-30T00:24:40.000Z"
+    },
+    {
+      "merchant": "Gap",
+      "percentBack": 13,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6a1N1d0gyQ0EvRWlvaThBSTFxTVAyOTF5Sm9CTG9LY3dMV0VXK050Q2E3SDMrL0FmN0pvMjlYZUk1VXJGQW4wKzhpay9WV0tiRXlLbnAydDRNQkpNWUJ6RUx3cnZ1VDZ4eGVLNHpRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gap.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a18a31cb8015dc5",
+      "emailDate": "2026-10-30T00:24:40.000Z"
+    },
+    {
       "merchant": "Rack Room Shoes",
       "percentBack": 13,
       "dollarBack": null,
@@ -634,6 +690,20 @@
       "emailDate": "2026-10-28T12:44:17.000Z"
     },
     {
+      "merchant": "L.L.Bean",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RHNmTnlnZWE1Rno5QVFreHgwQTM4L0pSQ3g2WGJhV0NZUnBqKytEeUJtSDdZRm5CeW1zcXdjVnFQU3hDUE9uVXlXbi9xSUMxaHY2UDQ3UExHMVhDM0JacW0vMVJ3YlAxMC9EMHhBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=llbean.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a18a31cb8015dc5",
+      "emailDate": "2026-10-30T00:24:40.000Z"
+    },
+    {
       "merchant": "Hobby Lobby",
       "percentBack": 6,
       "dollarBack": null,
@@ -802,6 +872,20 @@
       "emailDate": "2026-10-28T12:44:17.000Z"
     },
     {
+      "merchant": "Backcountry",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QTNOU2ZBZnlNZ3BxRENCZUpmdDZaQ1lGU3RaZnQ4QUxCVUNjNzluT2lJZzByVXFUSlZjOUxDQXRJUTkvMGd5dGNXN0ZZS09EMFh5RG1iYXgrL0pRYVMzVmNRMmpLdjVRa05GalNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=backcountry.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a18a31cb8015dc5",
+      "emailDate": "2026-10-30T00:24:40.000Z"
+    },
+    {
       "merchant": "Turkish Airlines",
       "percentBack": 4,
       "dollarBack": null,
@@ -828,6 +912,20 @@
       "source": "single-use",
       "emailMessageId": "1a1890dcf03e910a",
       "emailDate": "2026-10-29T19:05:45.000Z"
+    },
+    {
+      "merchant": "Old Navy",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QVNXa3lwSWMwSURQMmdNNGt1V1k4WE9DOFNzVXNnTjFPNHA5NzkrNkpsWmFwcW83TnhQNi91YzFzTzlZZE9HQzBvN05OampMQ0d1aUZDV2tITmt1c1dDWWxtaDVhY0NGT3hjYTBBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=oldnavy.gap.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a18a31cb8015dc5",
+      "emailDate": "2026-10-30T00:24:40.000Z"
     },
     {
       "merchant": "Lowe's",
