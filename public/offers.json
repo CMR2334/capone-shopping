@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-31T14:18:14.235Z",
-  "sourceCount": 67,
+  "lastUpdated": "2026-10-31T15:18:14.269Z",
+  "sourceCount": 68,
   "parseFailures": 0,
   "offers": [
     {
@@ -25,11 +25,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eVR5c250VHhZUlpxdkdsVnFkQnIyOHZSM2haVnEvUUEyZkZWVE5zZ3ZSai9rMEc2cXF0NUZLbjFPMGlhMVRTVnlIWG95VHRBNHhTSFVSQXUxbGdwbTNZZ1RleHE4Tk5WN1RQU2xRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6V1hLMVRDNDI3Rno5YnorK2h5dmpMVmZ2Y0NicmtoWHNLcVJmWkptZWRNSFR5ekFva0hsMW5xSmNqclJobFJtRmNsWklWWG1lOFk2c0JvT0xnREhVRzh6b2xqSnIrUlNrVjdNVTh3PT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/skechers.com/ed2d0991-4fa4-4340-ad23-120ed457248f.gif",
       "source": "single-use",
-      "emailMessageId": "1a191f47599b2747",
-      "emailDate": "2026-10-31T12:34:39.000Z"
+      "emailMessageId": "1a1927daad1c764b",
+      "emailDate": "2026-10-31T15:04:31.000Z"
     },
     {
       "merchant": "Tiqets",
@@ -58,6 +58,34 @@
       "source": "single-use",
       "emailMessageId": "1a18a31cb8015dc5",
       "emailDate": "2026-10-30T00:24:40.000Z"
+    },
+    {
+      "merchant": "Magazines.com",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZzNSRGtCTnYwY0FoS1plbzdMSlJ5UFJRcFA3dDlCNWw0WTdkbGMvbXVxMjJuUzN5TSszK0J2ZzRINGtVVlFlcm5PVHpuWDRqeHhXTU0vM0tqU3lsa3ZhNEtGaFg2OG1idDVIR1NRPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logomagazines.com,sGzxeWxNGhw1jxK2BantCwBQu9pYIPNXXjwgg2HN95yQ/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/b5cef20769c00bfac13e7fd3.png",
+      "source": "single-use",
+      "emailMessageId": "1a1927daad1c764b",
+      "emailDate": "2026-10-31T15:04:31.000Z"
+    },
+    {
+      "merchant": "Whatever Works",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6YkpXWmMzdFBJU1FFVTRQdG50MGl4RW5EMEJYU0tnOURnblAxNy9yWTEvNWFwQ2RoRENOK0pDemZHVUVlWXZ6N09CS20yazB0YUZZVjFnRWswK0x5SzVsdTkzVnk3ekpvTXdjUUpBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=whateverworks.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1927daad1c764b",
+      "emailDate": "2026-10-31T15:04:31.000Z"
     },
     {
       "merchant": "SignNow",
@@ -214,6 +242,20 @@
       "emailDate": "2026-10-28T12:44:17.000Z"
     },
     {
+      "merchant": "Car Brain",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 6,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Tklmc0cxVXI2UWJNRHI0VmlkaXA5VHBFUlVvRkMycmY5bTlDRXZzSkpsdUdkRkZFYUYwL0xsV1h3VE1IMEdITk1MYzN5cUxZdTIyeEJQY2Eya1l3UHB1M25ldDNodFZuaUlqWEpnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=carbrain.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1927daad1c764b",
+      "emailDate": "2026-10-31T15:04:31.000Z"
+    },
+    {
       "merchant": "Office Depot",
       "percentBack": 15,
       "dollarBack": null,
@@ -340,6 +382,20 @@
       "emailDate": "2026-10-28T20:56:06.000Z"
     },
     {
+      "merchant": "Gatorade",
+      "percentBack": 13.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QkFnakRRdDRiaE9vQ0Qxa21MZTBwV2FRTHFBd1czTWNJeE5JdEZ6a0NWSXY5SWEvSTdnVzExWXVRZkJlU0hpR2V2cTZ5UWlNcVNTRDZCOW9CL3pGa0dYeUEwNmthSytpMVIrdWpRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gatorade.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1927daad1c764b",
+      "emailDate": "2026-10-31T15:04:31.000Z"
+    },
+    {
       "merchant": "Depop",
       "percentBack": 13.5,
       "dollarBack": null,
@@ -464,6 +520,20 @@
       "source": "single-use",
       "emailMessageId": "1a187a57bad76bf0",
       "emailDate": "2026-10-29T12:32:11.000Z"
+    },
+    {
+      "merchant": "Flo Sports",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6M2JjSHBwaFMweVdoYVFOMHkwaFpWRWZwdWhJdGMzbllRejJQT3lDV2R1V1pEc0hSQ3NjYkMrVUdxOUVBT2lxQnU2d3dLYlBid052SWZYaW94TnBtTUJJNlNTcGVEYW9nemdzVFRBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=flosports.tv&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1927daad1c764b",
+      "emailDate": "2026-10-31T15:04:31.000Z"
     },
     {
       "merchant": "Comfrt",
@@ -912,6 +982,20 @@
       "source": "single-use",
       "emailMessageId": "1a191f47599b2747",
       "emailDate": "2026-10-31T12:34:39.000Z"
+    },
+    {
+      "merchant": "US Legal Forms",
+      "percentBack": null,
+      "dollarBack": 25,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MFZ6UVRYZ3pSTUFycTlITjJEdlNXU2cvNFNDWC8rTUlRcFZFRzRJbnZrL3dmNkQyOHdpMml3Z3ZjZjdKVmE2S2RKTVRTMmVtVERKNXRDU2hNZFdqdTBad1ZsY1k5OE1MZjM3ZEtRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=uslegalforms.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1927daad1c764b",
+      "emailDate": "2026-10-31T15:04:31.000Z"
     },
     {
       "merchant": "DoorDash",
