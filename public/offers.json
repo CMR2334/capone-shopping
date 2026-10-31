@@ -1,8 +1,36 @@
 {
-  "lastUpdated": "2026-10-31T12:18:07.785Z",
-  "sourceCount": 66,
+  "lastUpdated": "2026-10-31T13:18:10.056Z",
+  "sourceCount": 67,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "SHIPT",
+      "percentBack": 71.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eEJ1WVhjSlhPdWJINE5nMWhJVHgyMXJid1M2WWZlVmFDdnZQQmhMZHJiZVBaOUZrS3ptSjBVeW95cHVUZTVkOEZwS1JuMzlOWVZoWVRaQkJRTUdUTDNyQllHSTVOZVFBaXd1bG9nPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=shipt.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a191f47599b2747",
+      "emailDate": "2026-10-31T12:34:39.000Z"
+    },
+    {
+      "merchant": "Skechers",
+      "percentBack": 45,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eVR5c250VHhZUlpxdkdsVnFkQnIyOHZSM2haVnEvUUEyZkZWVE5zZ3ZSai9rMEc2cXF0NUZLbjFPMGlhMVRTVnlIWG95VHRBNHhTSFVSQXUxbGdwbTNZZ1RleHE4Tk5WN1RQU2xRPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/skechers.com/ed2d0991-4fa4-4340-ad23-120ed457248f.gif",
+      "source": "single-use",
+      "emailMessageId": "1a191f47599b2747",
+      "emailDate": "2026-10-31T12:34:39.000Z"
+    },
     {
       "merchant": "Tiqets",
       "percentBack": 41.5,
@@ -30,6 +58,20 @@
       "source": "single-use",
       "emailMessageId": "1a18a31cb8015dc5",
       "emailDate": "2026-10-30T00:24:40.000Z"
+    },
+    {
+      "merchant": "SignNow",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": 500,
+      "wasPercent": 10,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZTdmTG9nbWVSbE5seFlObTN3Q3gzNGFUZDM5Rm1KUnFPZTB3T1MraStHdkgyYU1WTDI4eGM5UnlLZHI2SktYbGRkNTVpRldYR0FXaDhCb0VnYzd0UlVwcG5UZFEraHZwbW9JdkRBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=signnow.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "personalized",
+      "emailMessageId": "1a191f47599b2747",
+      "emailDate": "2026-10-31T12:34:39.000Z"
     },
     {
       "merchant": "Going",
@@ -380,6 +422,20 @@
       "source": "single-use",
       "emailMessageId": "1a187a57bad76bf0",
       "emailDate": "2026-10-29T12:32:11.000Z"
+    },
+    {
+      "merchant": "Blue Apron",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RHFGMXVKR1RZeC84VVc3UTdPSGJnbnBkcEt6dzZlSzBDY1g0b2JRZE9MT1l3RCtYeG1xNnlvalVpTU95dkloNXF6V1dBVm1qd1dnYU5GU1hiVENLamJ0d2dKcFh2QnlBTjYwdW1RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=blueapron.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a191f47599b2747",
+      "emailDate": "2026-10-31T12:34:39.000Z"
     },
     {
       "merchant": "Airport Parking",
@@ -844,6 +900,34 @@
       "emailDate": "2026-10-28T09:22:01.000Z"
     },
     {
+      "merchant": "Uber Eats",
+      "percentBack": null,
+      "dollarBack": 48.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bFRtVjRpL1dpSDR0Yy8yS2hkWjdpS3hvVEtJSDd3OExyWkFRemhOaXRNbFdWU3lZalRjTHhZeVprYmY3cFkyQTE1VHM0NS9FRzllVGRZZDVGL09Zc1V0bXNPNThmbTR6OUVYckVnPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoubereats.com,sL0OB3S16z1W1sRRP7NWMlJooOTE4zGAeroGF4faAADg/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/6d44f44348b62a4d19acc6db.png",
+      "source": "single-use",
+      "emailMessageId": "1a191f47599b2747",
+      "emailDate": "2026-10-31T12:34:39.000Z"
+    },
+    {
+      "merchant": "DoorDash",
+      "percentBack": null,
+      "dollarBack": 24,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SWk3UHJ1UXJkbnkyZm9ncGJ1M3BJTUxBMnRwdzl1ZUo1eVdjTHBCZDZCb05ZNlJMRWZseXh1NExlTGlDdHVVNFhsYXdROHVkakk5YWt3WkhEU2JIT1IvVmlQU3ZMOGZPWUdYZjZBPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logodoordash.com,sb62DUvvz1UPrkb4kkp9kRLs0X1bvj6nf9LdffMyvSMo/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1793293016546.png",
+      "source": "single-use",
+      "emailMessageId": "1a191f47599b2747",
+      "emailDate": "2026-10-31T12:34:39.000Z"
+    },
+    {
       "merchant": "OneTravel",
       "percentBack": null,
       "dollarBack": 16.5,
@@ -856,6 +940,20 @@
       "source": "single-use",
       "emailMessageId": "1a1890dcf03e910a",
       "emailDate": "2026-10-29T19:05:45.000Z"
+    },
+    {
+      "merchant": "Efax",
+      "percentBack": null,
+      "dollarBack": 15,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6aXB4Nkh5OTVqNTdkZmphSSsxeHNqU2wwcS9EUnJjQjJKclhIMlhDdjE5dXEvQTlUcUxGV1pVN3NxZ0ZhNjFXRERwZWpiN1BkQ2g0UkYweTNZNlpVcTEyTGpocis4RjJoTFZuUFVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=efax.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a191f47599b2747",
+      "emailDate": "2026-10-31T12:34:39.000Z"
     }
   ],
   "upcomingReveals": []
