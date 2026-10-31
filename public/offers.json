@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-31T19:18:12.925Z",
-  "sourceCount": 68,
+  "lastUpdated": "2026-10-31T20:18:06.362Z",
+  "sourceCount": 69,
   "parseFailures": 0,
   "offers": [
     {
@@ -19,17 +19,17 @@
     },
     {
       "merchant": "Skechers",
-      "percentBack": 45,
+      "percentBack": 50,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6V1hLMVRDNDI3Rno5YnorK2h5dmpMVmZ2Y0NicmtoWHNLcVJmWkptZWRNSFR5ekFva0hsMW5xSmNqclJobFJtRmNsWklWWG1lOFk2c0JvT0xnREhVRzh6b2xqSnIrUlNrVjdNVTh3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dkl4ekduaXBZRFRoN3NRbzhvNU8yWGt1bm14MlNNejA0azVzaEdZMnFmdTV0RnVkQzdsNEYzZlZVVEkrbEhQL3k3YkczaEhvQmxQQndaTVJkbit3NUpPSEh0YVFlSk40KzJlQVpRPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/skechers.com/ed2d0991-4fa4-4340-ad23-120ed457248f.gif",
       "source": "single-use",
-      "emailMessageId": "1a1927daad1c764b",
-      "emailDate": "2026-10-31T15:04:31.000Z"
+      "emailMessageId": "1a193705d6be9a7f",
+      "emailDate": "2026-10-31T19:29:36.000Z"
     },
     {
       "merchant": "Tiqets",
@@ -240,6 +240,20 @@
       "source": "single-use",
       "emailMessageId": "1a1828a3591823ef",
       "emailDate": "2026-10-28T12:44:17.000Z"
+    },
+    {
+      "merchant": "Instacart",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6b1dCb1prWkIvdVJRVzAxVlR3eHpqWEl0eEdtV3hJZXp3VS9FK2JzOEFHYWhiaThlQTNhTFFFN0JDQVdtVTVUMDZTSUw0NjRYUlE5anVYRG1Tdmh1L0M4d2U2QVprYjNXaXkwM2FnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a193705d6be9a7f",
+      "emailDate": "2026-10-31T19:29:36.000Z"
     },
     {
       "merchant": "Car Brain",
@@ -487,11 +501,11 @@
       "wasPercent": 2,
       "lastViewed": null,
       "expiresAt": "2026-11-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RHFGMXVKR1RZeC84VVc3UTdPSGJnbnBkcEt6dzZlSzBDY1g0b2JRZE9MT1l3RCtYeG1xNnlvalVpTU95dkloNXF6V1dBVm1qd1dnYU5GU1hiVENLamJ0d2dKcFh2QnlBTjYwdW1RPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Umw5WXcvZHpnc3ZQbHVOdi9FRFI3Y2xuTlhUU3d0TTY3T2xKeTQ2MXdQM21YR2VXL2VEZEFsZXd0bnBTWFl4dXJFVnV2RjkvTEFyM1EvMmFGWTNvdWZNSjVSTjYwZXVLTTFwMkhBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=blueapron.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a191f47599b2747",
-      "emailDate": "2026-10-31T12:34:39.000Z"
+      "emailMessageId": "1a193705d6be9a7f",
+      "emailDate": "2026-10-31T19:29:36.000Z"
     },
     {
       "merchant": "Airport Parking",
@@ -977,11 +991,25 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bFRtVjRpL1dpSDR0Yy8yS2hkWjdpS3hvVEtJSDd3OExyWkFRemhOaXRNbFdWU3lZalRjTHhZeVprYmY3cFkyQTE1VHM0NS9FRzllVGRZZDVGL09Zc1V0bXNPNThmbTR6OUVYckVnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dDN5ZmxCSWZLRHdFNm1IZGlZcGdLY05YdDBadlV5TXNKek9ZbEk3RkowVHh4RFhZcWluTUoyeW1TcWFWTno2S0pSVE5GSGNzaVVtOGNCQndQTHR1T2k2dFR3UzlieTREQUhSSmJ3PT0/runV3dl",
       "logoUrl": "https://i.capitaloneshopping.com/570x236,logoubereats.com,sL0OB3S16z1W1sRRP7NWMlJooOTE4zGAeroGF4faAADg/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/6d44f44348b62a4d19acc6db.png",
       "source": "single-use",
-      "emailMessageId": "1a191f47599b2747",
-      "emailDate": "2026-10-31T12:34:39.000Z"
+      "emailMessageId": "1a193705d6be9a7f",
+      "emailDate": "2026-10-31T19:29:36.000Z"
+    },
+    {
+      "merchant": "Home Chef",
+      "percentBack": null,
+      "dollarBack": 30,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bERaSXA1Zm1OTHpBL1RTZDFjdDBBMzAwbmpxU2xOTlpkRmg0RncyODNmYWRtN09YNkMwK3dnVzg4bkpwZnpRYWtLMDdKTnB5T1FmSFEwRDhnL1Zkb2NIZ0hWVmpJcTRnaHFtR0VRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=homechef.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a193705d6be9a7f",
+      "emailDate": "2026-10-31T19:29:36.000Z"
     },
     {
       "merchant": "US Legal Forms",
@@ -1005,11 +1033,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SWk3UHJ1UXJkbnkyZm9ncGJ1M3BJTUxBMnRwdzl1ZUo1eVdjTHBCZDZCb05ZNlJMRWZseXh1NExlTGlDdHVVNFhsYXdROHVkakk5YWt3WkhEU2JIT1IvVmlQU3ZMOGZPWUdYZjZBPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/570x236,logodoordash.com,sb62DUvvz1UPrkb4kkp9kRLs0X1bvj6nf9LdffMyvSMo/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1793293016546.png",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZFN2NXZyRGl6VUxqSWdwejVzMXdGeENDTTBuZGpJMnhzWVUyUnk0REtMZThLSFFPbDJFM0FxWjN4MUthK0RGbW9YVjlONGUwbklIeWFpZ0VnWXRzTWFnUTFReVgrRlZDR3RuU05nPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=doordash.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a191f47599b2747",
-      "emailDate": "2026-10-31T12:34:39.000Z"
+      "emailMessageId": "1a193705d6be9a7f",
+      "emailDate": "2026-10-31T19:29:36.000Z"
     },
     {
       "merchant": "OneTravel",
