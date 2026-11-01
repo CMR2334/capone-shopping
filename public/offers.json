@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-01T02:18:29.916Z",
-  "sourceCount": 69,
-  "parseFailures": 31,
+  "lastUpdated": "2026-11-01T03:18:11.264Z",
+  "sourceCount": 70,
+  "parseFailures": 0,
   "offers": [
     {
       "merchant": "SHIPT",
@@ -214,6 +214,20 @@
       "emailDate": "2026-10-29T20:35:49.000Z"
     },
     {
+      "merchant": "Mytheresa",
+      "percentBack": 19,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6U09TWERzZWVQU25tUHlNS0JzSmYycGc2ZWtBazFzLzFBRmhpajFncGFmVmNleFRtbTAwSGxhWVB3MWRUM2RZQ3VpVFpHY0FRUDBnc1l2Z203cVhiYzJKU0d2NWJheDNKOVVNeTNRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=mytheresa.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19514a7eaae820",
+      "emailDate": "2026-11-01T03:08:40.000Z"
+    },
+    {
       "merchant": "J.Jill",
       "percentBack": 18,
       "dollarBack": null,
@@ -240,6 +254,20 @@
       "source": "single-use",
       "emailMessageId": "1a1828a3591823ef",
       "emailDate": "2026-10-28T12:44:17.000Z"
+    },
+    {
+      "merchant": "NET-A-PORTER",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QlBjdy9yTmladGRmWERhWUFRU0N0TXBONlZrWE1CMGxFOUFWUm9zMlVRRXd3M2N5RHVqL0pzQzVKMHdTeS9tSGEvcVM0Q1JZT0tGaStUa1J4d3A3Q1NPS0dGN1R5KzE5cVhNZU9BPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logonet-a-porter.com,sTXyIK39LmDXX0zejw6vg178E9NvntVa3P99G7McZ_aI/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/7213ac5d509972d2cd7e2310.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a19514a7eaae820",
+      "emailDate": "2026-11-01T03:08:40.000Z"
     },
     {
       "merchant": "Instacart",
@@ -494,6 +522,20 @@
       "emailDate": "2026-10-29T12:32:11.000Z"
     },
     {
+      "merchant": "Bergdorf Goodman",
+      "percentBack": 11,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WTZISHFuS2kzSVJycGRKUWlWREVUbm5HQS9xUmxIb2xWTnIrSzhnYzh1U294Ky91c0ZHTzZxMGNZVDBweEF0WGlhaXF4MEwzcnhFanZyUmtRWUVSb3FXeWM1OE56aWwyM3hld1Z3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bergdorfgoodman.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19514a7eaae820",
+      "emailDate": "2026-11-01T03:08:40.000Z"
+    },
+    {
       "merchant": "Blue Apron",
       "percentBack": 10,
       "dollarBack": null,
@@ -618,6 +660,20 @@
       "source": "single-use",
       "emailMessageId": "1a1828a3591823ef",
       "emailDate": "2026-10-28T12:44:17.000Z"
+    },
+    {
+      "merchant": "24S",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SW9OK2o5bU0vQ3J6RlJsQkhsckJDS2UwT2JFaHhvTGYxc0Ira3RCWExkUGRxZGdsVnlqd2UxS2h4MHFQSzZ4Y3JUZDBkSmdiM0pBbDI2a3hOZitNcHVDNE1BV29TTmp5M1ZMRGRRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=24s.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19514a7eaae820",
+      "emailDate": "2026-11-01T03:08:40.000Z"
     },
     {
       "merchant": "Hibbett",
@@ -870,6 +926,20 @@
       "source": "single-use",
       "emailMessageId": "1a1890dcf03e910a",
       "emailDate": "2026-10-29T19:05:45.000Z"
+    },
+    {
+      "merchant": "Neiman Marcus",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WHNIQUNhTmRNVXd1R0dHckp4TkZmREpoS2g0UEtsV0pmdndFVUJwSFhHTjFOQUhiMFl5N1g5ZEN3RFpXRGE2YmVFMjFtb2I3Y2hSMEZkQVVnTHVUeGdsV0FoYlIrTFlDR1RnMDlBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=neimanmarcus.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19514a7eaae820",
+      "emailDate": "2026-11-01T03:08:40.000Z"
     },
     {
       "merchant": "Staples",
