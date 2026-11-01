@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-01T17:18:14.622Z",
-  "sourceCount": 72,
+  "lastUpdated": "2026-11-01T18:18:15.871Z",
+  "sourceCount": 73,
   "parseFailures": 0,
   "offers": [
     {
@@ -86,6 +86,20 @@
       "source": "todays-top",
       "emailMessageId": "1a197adb4c664aaa",
       "emailDate": "2026-11-01T15:15:05.000Z"
+    },
+    {
+      "merchant": "1-800-Baskets.com",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NjZGQm1nL1I2aUY0UCtOaitQVkhaMDBJR1JkQjBSenUrUENjREtoWjA4YjE0RWhmeHBqSmVzaVpTTUZ5ZTB2WlVicnRJQWQxdnNnaEFseFpoeFdKT1RGK2hseG9CcDQyLzZ1Zkl3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=1800baskets.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a198259a0aa39a0",
+      "emailDate": "2026-11-01T17:26:03.000Z"
     },
     {
       "merchant": "Codecademy",
@@ -240,6 +254,48 @@
       "source": "single-use",
       "emailMessageId": "1a19514a7eaae820",
       "emailDate": "2026-11-01T03:08:40.000Z"
+    },
+    {
+      "merchant": "Personalization Mall",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6d25CeS95Rmo5aHBLNFZmd3lxdkxtTy9zcEFzOW8vS3VRelR2d2R2M2dzZUlZaXZySVg0elFaRVVQMENEVFhRb21CaU5USTJYQnBzTG1lem0rSlR6eldmWFpBL0VOc21Hc0Q2RTdBPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logopersonalizationmall.com,scppv-ISBw-Bii0nvO_zpnmkIlOQyzeifJqFm7kOxlbo/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/9309f1521793f8b2fb391ee4.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a198259a0aa39a0",
+      "emailDate": "2026-11-01T17:26:03.000Z"
+    },
+    {
+      "merchant": "David's Cookies",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dEtXb093QVg2K0RCOHJiWnBZRWpHRzBzUUcrY01xek9jUDRYZnV1Qm5DdVJ1ZlJNY2dqY3BaVmd4Nm1mU2hwNTN4WE9Wbm02UlFXSkI5bjNFRkRVSTVENXE0Z1RiajVrWmVwTHJ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=davidscookies.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a198259a0aa39a0",
+      "emailDate": "2026-11-01T17:26:03.000Z"
+    },
+    {
+      "merchant": "Pura Vida",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TTAxNUVXcUdMaDlZamFYamhGWDh5ZmV2KzUrTWFyVTY4VE9KTENMZTdaRUx0U2NLV3Q0Tnd4UnE4Z2MxektGdjVrQUIwV2N0NCtXY3VoY25kSGQvSHRWekVuckxFcEkxam9oMzVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=puravidabracelets.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a198259a0aa39a0",
+      "emailDate": "2026-11-01T17:26:03.000Z"
     },
     {
       "merchant": "NOBULL",
@@ -676,6 +732,20 @@
       "emailDate": "2026-10-29T19:05:45.000Z"
     },
     {
+      "merchant": "Pictures on Gold",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dlA4UHA2NHpLU2RYUlcwdnM4bWUzZEJDTzJhQ1Fyb3NJaDE3TVhQb1Qrdlh3SjRoL3BveVl6dnhYL2UyM25rcmVGdDcxcHBJZm54UWZYRjlqTTZOOUhyRWNpelRGM29vTXZnWnJRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=picturesongold.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a198259a0aa39a0",
+      "emailDate": "2026-11-01T17:26:03.000Z"
+    },
+    {
       "merchant": "lululemon",
       "percentBack": 7,
       "dollarBack": null,
@@ -744,6 +814,20 @@
       "source": "single-use",
       "emailMessageId": "1a18c35496dfac67",
       "emailDate": "2026-10-30T09:47:44.000Z"
+    },
+    {
+      "merchant": "Snapfish",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MDdBdUxmVld6Q0tPQ1phcWVTdnR4MjVhbE11ZTVGcnRSUGQyQlFaY2R6bnRQcHJzR0N0VnFwRm1YL0pObm9GeWlvOFZtZjNSdlpDamQ0VHBTdjJsSzUyN1hDUFpCVmsrWmt4MUVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=snapfish.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a198259a0aa39a0",
+      "emailDate": "2026-11-01T17:26:03.000Z"
     },
     {
       "merchant": "BRUNT",
@@ -968,6 +1052,20 @@
       "source": "single-use",
       "emailMessageId": "1a18c35496dfac67",
       "emailDate": "2026-10-30T09:47:44.000Z"
+    },
+    {
+      "merchant": "brook & york",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6aGY0eGF0ZTh4S3J6K1daZEVKUXZlMHdxSXg1Z3Z3b09tNHlaVEtXbnRaNFdrU29ENjdLY2tWYnBxcFREVEJjLzh5UUZTWlM3cDNOcWpnTDJ4a3Q2SGUwakNOS1V4RTdZcmtTY1h3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=brookandyork.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a198259a0aa39a0",
+      "emailDate": "2026-11-01T17:26:03.000Z"
     },
     {
       "merchant": "Cabela's",
