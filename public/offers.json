@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-01T03:18:11.264Z",
-  "sourceCount": 70,
+  "lastUpdated": "2026-11-01T04:18:06.485Z",
+  "sourceCount": 71,
   "parseFailures": 0,
   "offers": [
     {
@@ -508,6 +508,20 @@
       "emailDate": "2026-10-30T09:47:44.000Z"
     },
     {
+      "merchant": "Fable Home",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MS9TdVlRcW53U1U2dWdVOHFTSnBOazdzQWt4S3c3NjJ6akhsa0h3M25tTGtaKzVvKzRwR2FNcGgxK0dwRmNjRTcvM1ZSOWdmRXZxYmQ5eWtkOEJDUXErTE9IRlIwWEo4ZEw5c01RPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logofable.com,sSocEvEcExgxoTfFGlZKObgwWhN8HGTK43Y0Z2uPc-Bs/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/c641a467b1b83b64365eab74.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a19537e345db156",
+      "emailDate": "2026-11-01T03:47:10.000Z"
+    },
+    {
       "merchant": "Academy Sports + Outdoors",
       "percentBack": 12,
       "dollarBack": null,
@@ -576,6 +590,20 @@
       "source": "single-use",
       "emailMessageId": "1a187a57bad76bf0",
       "emailDate": "2026-10-29T12:32:11.000Z"
+    },
+    {
+      "merchant": "Baking Steel",
+      "percentBack": 9.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6akFvVFRReVU0QmZMRnB1d0xQNHJNTklkVzhMVjdzbU9odFRXUEFBQTVncXhnMDU3VFpqU3lBbU0wNE1ZVXo1Nmh1U21vYUNBWjdiVTNTeWNIV2lOaFVoUG4yekJIUHhnVk9ReXB3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bakingsteel.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19537e345db156",
+      "emailDate": "2026-11-01T03:47:10.000Z"
     },
     {
       "merchant": "Flo Sports",
@@ -732,6 +760,34 @@
       "emailDate": "2026-10-30T09:47:44.000Z"
     },
     {
+      "merchant": "Our Place",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UTUzV0hPbEtYMHNQWWUyQW56bVgvQ2VPWW1FS3B1aHNPZXBiWnpTUEZBNEFCVEhlMmlJVmRXNXVuVlFDamtlTmlHbXphc0krbU5WL1I1R25VeEpucDhoOW96cU1DMXcxWWZGY2RRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fromourplace.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19537e345db156",
+      "emailDate": "2026-11-01T03:47:10.000Z"
+    },
+    {
+      "merchant": "Fellow",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6V0YvS09kQVA2ZUxKSEg2d01BSE55RVdCQ1g4ejVNNUQvdU1mZkE5R3BVOFdORWYrUHJBU2pZbXowUVF0K1NOR1JVUHZGUjFVeHlHRXQ4d2kweFNSZnJDcnQrTTBLd3NNOFQ5Z0FnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fellowproducts.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19537e345db156",
+      "emailDate": "2026-11-01T03:47:10.000Z"
+    },
+    {
       "merchant": "L.L.Bean",
       "percentBack": 6,
       "dollarBack": null,
@@ -886,6 +942,20 @@
       "emailDate": "2026-10-28T12:44:17.000Z"
     },
     {
+      "merchant": "Sonder LA",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NWE2NXkzUm9XVldVRnpHME9yZGZpUHIyQlRIbzBZNDZxbUJhc0hNVExGdmpOZmVVbjNYM1BvMzZDOWUyRVlxTk93K0hhbzBERFhLSHN5NEt2ajdWRGtHUWNJZlBDU0U5TUpBWmpRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sonderla.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19537e345db156",
+      "emailDate": "2026-11-01T03:47:10.000Z"
+    },
+    {
       "merchant": "Backcountry",
       "percentBack": 4,
       "dollarBack": null,
@@ -926,6 +996,34 @@
       "source": "single-use",
       "emailMessageId": "1a1890dcf03e910a",
       "emailDate": "2026-10-29T19:05:45.000Z"
+    },
+    {
+      "merchant": "360 COOKWARE",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RnFrWVdJRmpDUitPQ2ZVMk1NWWdxNXYxeWNMSG42WmRRSU83K3N4emtyazRLdDk5R2pORTlwMnNGcTdWeDY0WHZPWGdFUXRsMHJNTlZCQzhlbDFWNm1aUW5ONkRoQVVTd1Rmc0hnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=360cookware.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19537e345db156",
+      "emailDate": "2026-11-01T03:47:10.000Z"
+    },
+    {
+      "merchant": "Great Jones",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-04T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VThWcjlDOUZ3cExLVkZxNjIydEZlcDVhdUNiS3FRdFRvVStFYUVzajZ2S1ZsLzNiZ1BwQTd4TnVNVVpIQXVCYmZ1WURMRjA1RXJpQnlGTlg3NENkR1pKZXBVbVA4cFY1bjdGRitnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=greatjonesgoods.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19537e345db156",
+      "emailDate": "2026-11-01T03:47:10.000Z"
     },
     {
       "merchant": "Neiman Marcus",
