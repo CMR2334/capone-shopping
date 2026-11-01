@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-01T11:18:06.226Z",
-  "sourceCount": 70,
+  "lastUpdated": "2026-11-01T12:18:06.235Z",
+  "sourceCount": 71,
   "parseFailures": 0,
   "offers": [
     {
@@ -16,6 +16,20 @@
       "source": "single-use",
       "emailMessageId": "1a191f47599b2747",
       "emailDate": "2026-10-31T12:34:39.000Z"
+    },
+    {
+      "merchant": "Parallels",
+      "percentBack": 60,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZWhGRzFhcHFpeXNYTS9WZVluK0pCMHVPWFZOWUhWZGRIZW94L00rV3JoRmNhN2pubFErNWlzNjZrdDdHVlg1OFpaNWVZa0E2R1V5WHBULzJWYmMydVZnR29yRitacUlNb2Z4dVNRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=parallels.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a197065d3cf4cfd",
+      "emailDate": "2026-11-01T12:12:18.000Z"
     },
     {
       "merchant": "Skechers",
@@ -58,6 +72,34 @@
       "source": "single-use",
       "emailMessageId": "1a18a31cb8015dc5",
       "emailDate": "2026-10-30T00:24:40.000Z"
+    },
+    {
+      "merchant": "GNC",
+      "percentBack": 35,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-02T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RzROalh2b2k0cFUxaVA4NU0yZEhCVnZaQjNjbFBxSExKcWxBd2E5TnlyelpPZEFMS0pzQWtYV1IrRkoxUTJsb1VnajhqODVFYjNsL3FwUlNucStaMlJxNE9WY05GbVZ4MmNhTUZnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gnc.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "1a197065d3cf4cfd",
+      "emailDate": "2026-11-01T12:12:18.000Z"
+    },
+    {
+      "merchant": "Codecademy",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eGowMHhkN1RHSUk4bmlFRFlMV29iTzZra21NbjJiZUc4cHg2U0pvVU1XcmplOE9YTmdhS2NraklHWHhncGwrMmU0b0Jad0tOVE5CSm1YOW5WTXNraStyckZubVoxb2NYek4xa05RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=codecademy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a197065d3cf4cfd",
+      "emailDate": "2026-11-01T12:12:18.000Z"
     },
     {
       "merchant": "Magazines.com",
@@ -114,6 +156,20 @@
       "source": "single-use",
       "emailMessageId": "1a1890dcf03e910a",
       "emailDate": "2026-10-29T19:05:45.000Z"
+    },
+    {
+      "merchant": "PrettyLitter",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6N1ZkMGsva1Z3MUtvRTZMREE5ZWhRT3pKUW1Tcm5iSFNpWFBJaGl5WTM3RmR2b0piSHpsSWZ2OUxBcWwyZlJTcWJoc1NZTTQrV1ZGQmEzWWRaL2poSlpERkV0MDE1d1drMGlwR2Z3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=prettylitter.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a197065d3cf4cfd",
+      "emailDate": "2026-11-01T12:12:18.000Z"
     },
     {
       "merchant": "eBay",
@@ -914,6 +970,34 @@
       "emailDate": "2026-10-31T19:29:36.000Z"
     },
     {
+      "merchant": "Intuit",
+      "percentBack": null,
+      "dollarBack": 20,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WG10ME9NZTlYOUpHTnFhaW1CU0o5cXZPMEw1dmdYL1RFWVVQSXh5d3o3eTAyWnk3VS9zUXNPeXFvWjhtMFZFbmRBb2pPSWhvRUQ3ekpnd09Obm55d01ET09VVkxZblJTRWhSMVh3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=intuit.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a197065d3cf4cfd",
+      "emailDate": "2026-11-01T12:12:18.000Z"
+    },
+    {
+      "merchant": "QuickBooks Workforce",
+      "percentBack": null,
+      "dollarBack": 20,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dUFIOFI4TWRLdVNXZ2x4eGJCZExpWDIzcVYzek9qclQ1aW5VVG1GQ1RHbE05T1VTd3l0dDVjVm9ncWtRUm55NXlSRHZCcVZINXBaYkNYYXRhbWlrdytETVIyUlVzdUE3UGFOMnB3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=payroll.intuit.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a197065d3cf4cfd",
+      "emailDate": "2026-11-01T12:12:18.000Z"
+    },
+    {
       "merchant": "OneTravel",
       "percentBack": null,
       "dollarBack": 16.5,
@@ -926,6 +1010,20 @@
       "source": "single-use",
       "emailMessageId": "1a1890dcf03e910a",
       "emailDate": "2026-10-29T19:05:45.000Z"
+    },
+    {
+      "merchant": "Nutrisystem",
+      "percentBack": null,
+      "dollarBack": 15,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-05T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QnZaME8xM3d0SStZZ2FMM2VnRWMrR2l3YzBDVDd4Mk8vRjdhUHdFZW9iOTZ5M2NCV2N1a09pVUh4K1BRbWkvN212QlVxRkJSTUlrMzdBWDl0Tmp0akUrWDNoaUNsV2ZLQXZkbWN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nutrisystem.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a197065d3cf4cfd",
+      "emailDate": "2026-11-01T12:12:18.000Z"
     },
     {
       "merchant": "Efax",
