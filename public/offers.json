@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-02T12:18:11.596Z",
-  "sourceCount": 73,
+  "lastUpdated": "2026-11-02T13:18:09.153Z",
+  "sourceCount": 74,
   "parseFailures": 0,
   "offers": [
     {
@@ -30,6 +30,20 @@
       "source": "single-use",
       "emailMessageId": "1a197065d3cf4cfd",
       "emailDate": "2026-11-01T12:12:18.000Z"
+    },
+    {
+      "merchant": "NOBULL",
+      "percentBack": 55,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-03T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RC9CdjdicGF2bjVPWlJaNDROYjAvQmp6WndPUzE5aUxTNSs4aHZ6ZDFvalE4eHVzaWo1c3RyRkJxelJGcEg3ZU1zWVQzcU5VQ3FLNFlabkdtUnd4anoyL2ZIREdCa1NQYTlOMm1BPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nobullproject.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "1a19c423d7e9beaa",
+      "emailDate": "2026-11-02T12:35:48.000Z"
     },
     {
       "merchant": "Skechers",
@@ -136,12 +150,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-11-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TXBISmcxbFg1dkEvZERtN1RpUTczdUFWTHE3czduc0dVTzVkcXcyNmppNGhYakdOU2pzS1NCRFRPbitSeDczaHlPTmNHTS85RnpRaEQ1aDNVZWRBUG9NZDhZSW1nY01xTkl5ZmZ3PT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoebay.com,suhtMbEoG6X4NZGsBve384HpDE8_dyVbgWPoLay2ZSmE/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1d5d833e88b272bfad6a7073.png",
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QWNqRThpcE4yRE1kYjNRQXJOR3NjZlR2anlUOXJ4NzhYTGxaZ2hQUGtlZ2dLZWpTdGNFdmMvZVBrNmJmMm03WG1kWG1SOU9kWE1wN3hxN3AxRUs2L0JWYkpvcmpQUGFoclFST1JnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ebay.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a18c35496dfac67",
-      "emailDate": "2026-10-30T09:47:44.000Z"
+      "emailMessageId": "1a19c423d7e9beaa",
+      "emailDate": "2026-11-02T12:35:48.000Z"
     },
     {
       "merchant": "Mytheresa",
@@ -200,20 +214,6 @@
       "emailDate": "2026-11-01T17:26:03.000Z"
     },
     {
-      "merchant": "NOBULL",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": "October 15",
-      "expiresAt": "2026-11-05T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RkVEckNETGduNmtVbnJ5YVNjQVR4KzY5YjcrNnRoYWZuUCsrTWt5K3JudkFFMnhVajVFeVAvVjRSUW83RkxWWExWZXZvOTBhOWtTeVVlcXZrVFI2anpMTC80cjB0SWd3MTNTZ21BPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nobullproject.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "1a197adb4c664aaa",
-      "emailDate": "2026-11-01T15:15:05.000Z"
-    },
-    {
       "merchant": "NET-A-PORTER",
       "percentBack": 15,
       "dollarBack": null,
@@ -268,6 +268,20 @@
       "source": "single-use",
       "emailMessageId": "1a18c35496dfac67",
       "emailDate": "2026-10-30T09:47:44.000Z"
+    },
+    {
+      "merchant": "Sam's Club",
+      "percentBack": 13.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dFA1a2dwdGdJKy9VQ2tEZFc1eWgxbVYybXRIMVdtV2VOV2VLNEt4K3ZnQkNOSVcwMTlqd0Z4QUxvOEpmMTZzZ1NZSHg0ZklZVCtFbVgyWUhNVUV2TkI0SkRhRXVSV0hTNFhJdGR3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=samsclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19c423d7e9beaa",
+      "emailDate": "2026-11-02T12:35:48.000Z"
     },
     {
       "merchant": "Gatorade",
@@ -410,6 +424,20 @@
       "emailDate": "2026-10-31T15:04:31.000Z"
     },
     {
+      "merchant": "Walmart",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "October 31",
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6aTNnK2hLU1VlSHc3YVFzdjI1VmR5cTMzMnRZRm1UUVZkT0dOckUxMG5GUEdCVXo3MmErSzFBM1pyNThYV3M5ZzlnUEEzU1RxaGF3RkFOQjJlVEpmNm03czlWSWtuajF5Wk13UE1nPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walmart.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a19c423d7e9beaa",
+      "emailDate": "2026-11-02T12:35:48.000Z"
+    },
+    {
       "merchant": "Pictures on Gold",
       "percentBack": 7,
       "dollarBack": null,
@@ -464,20 +492,6 @@
       "source": "single-use",
       "emailMessageId": "1a19514a7eaae820",
       "emailDate": "2026-11-01T03:08:40.000Z"
-    },
-    {
-      "merchant": "Walmart",
-      "percentBack": 6.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OVJNTnhHK1NLS3RwV3d4WE1tTmRLa3lNWmg5YnhOUWk2ellSK0R6Uml6YVZqaXRXNjJObjVvbzl2M2hZSU5MUEpMS0dLTG1SZmJQWVJIOEhKUHltZ1c0S0xRNmQrTXNVV1lLMmZnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walmart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a18c35496dfac67",
-      "emailDate": "2026-10-30T09:47:44.000Z"
     },
     {
       "merchant": "Snapfish",
@@ -550,6 +564,20 @@
       "emailDate": "2026-11-01T03:47:10.000Z"
     },
     {
+      "merchant": "Best Buy",
+      "percentBack": 3.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6YzZaQ2R6L0xDTlB4VE92SWlyQVpvYnpPNUFPWWtaZytURGRWb2tjbkJGd0JUNUlvMzY4WEswMEFXTzFDRGZFczRvdnE5cGJKdFlhSEZWdnFEZWpJTmRCMjF6WFZHYWRZZjJ0TkZBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestbuy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19c423d7e9beaa",
+      "emailDate": "2026-11-02T12:35:48.000Z"
+    },
+    {
       "merchant": "360 COOKWARE",
       "percentBack": 3,
       "dollarBack": null,
@@ -606,6 +634,20 @@
       "emailDate": "2026-10-30T09:47:44.000Z"
     },
     {
+      "merchant": "The Home Depot",
+      "percentBack": 2.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NVE4QU5UODNiWUFJUmo1L2wxWFZ5SjNBcXkzYWViM2VpN01uMW4zcm1ENVQrQ0JZdEcyNnN0RC9oWURHM3orQitUUmpQSkIwR084OUJmV1JoNTZmMGk4OWNiVmllYUEyMkdQUEpnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=homedepot.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19c423d7e9beaa",
+      "emailDate": "2026-11-02T12:35:48.000Z"
+    },
+    {
       "merchant": "Lowe's",
       "percentBack": 2.5,
       "dollarBack": null,
@@ -618,6 +660,34 @@
       "source": "single-use",
       "emailMessageId": "1a18c35496dfac67",
       "emailDate": "2026-10-30T09:47:44.000Z"
+    },
+    {
+      "merchant": "Target",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6b0IxWVJNMENYd29oSnU5N2RWSmdRN0xHTmtsRE5hSmxxVnZhTXQvOVRRYjhyUVV3Z2VHNHByN1ZmQUg0Ny9DcXJoRWptQmltcDh2SGd3MW8vS0dhcHJZZ1lZNHJ6NG9SYk44M2p3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=target.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19c423d7e9beaa",
+      "emailDate": "2026-11-02T12:35:48.000Z"
+    },
+    {
+      "merchant": "Kohl's",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ejBoUEpYMzB2VFNsUDNRT1JGSUNHaFpzaWhxbmVHeTRxMDNQNzRTRmFwaS84eHp5V0dRaFl2RDJyNktHMUpkQzlyc2R6Z0pDOFdCazRUeUx1TEdIMHZINHl4a2pqSlZER1NaYmFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=kohls.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19c423d7e9beaa",
+      "emailDate": "2026-11-02T12:35:48.000Z"
     },
     {
       "merchant": "brook & york",
@@ -646,20 +716,6 @@
       "source": "single-use",
       "emailMessageId": "1a19514a7eaae820",
       "emailDate": "2026-11-01T03:08:40.000Z"
-    },
-    {
-      "merchant": "Best Buy",
-      "percentBack": 1.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": "October 15",
-      "expiresAt": "2026-11-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cldNQnRqamtLK1ZSQTV3Y0s4cmtGcUhiL0kvRVhZa241bG9jL0JBT3hXR1pvMVR5c0JPcEptN0xxZEdhL2FoUnhLazhTVUFaWU5Pc2JUU3hPdmh4M3dGdWVyL3BGdW1rQ1BIZFp3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestbuy.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "1a18c35496dfac67",
-      "emailDate": "2026-10-30T09:47:44.000Z"
     },
     {
       "merchant": "Uber Eats",
