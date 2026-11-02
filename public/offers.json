@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-02T18:29:15.240Z",
-  "sourceCount": 75,
+  "lastUpdated": "2026-11-02T19:18:15.534Z",
+  "sourceCount": 76,
   "parseFailures": 0,
   "offers": [
     {
@@ -170,6 +170,20 @@
       "source": "single-use",
       "emailMessageId": "1a19514a7eaae820",
       "emailDate": "2026-11-01T03:08:40.000Z"
+    },
+    {
+      "merchant": "SIXT Rent A Car",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6V0t4ZEo1N0w1MjNyb0pick9tdVNEaTl1Q1JhNzNVYjBRMjNtWEVQV0VVZHpxR2NiRFAxTFdwVGpvZzNjSkVXc0xKVTRzOTlXTlFVOTljTDRLUHlrYkNDY0RQanFSSUh0R2dHaWl3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sixt.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19d91be68180d5",
+      "emailDate": "2026-11-02T18:42:16.000Z"
     },
     {
       "merchant": "Personalization Mall",
@@ -410,6 +424,20 @@
       "emailDate": "2026-11-01T03:47:10.000Z"
     },
     {
+      "merchant": "United Airlines MileagePlus - Points.com",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OEpIT01JTnBGWWVWbEpEVUVFYjEzQlF4YmRLb3RWcERXTlUzQVZ1a2lUOUF0OWo2c3lzc3hEZUJGZXlRSWU1Y3dxbHludlhnOEpvUDQrdEU5VFEreEFER041NVZjWDJZbXI0aERnPT0/runV3",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=buymiles.mileageplus.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19d91be68180d5",
+      "emailDate": "2026-11-02T18:42:16.000Z"
+    },
+    {
       "merchant": "Municipal",
       "percentBack": 8,
       "dollarBack": null,
@@ -464,6 +492,20 @@
       "source": "single-use",
       "emailMessageId": "1a19c423d7e9beaa",
       "emailDate": "2026-11-02T12:35:48.000Z"
+    },
+    {
+      "merchant": "AirportRentalCars",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NThUN08wQU5KNmZvWDdyUTYrcjMyN2lMa1VBQU9IcUJEMW1qcEJwemRFYWNPQWlwdVphckRrOE1sUlVpdGlHTFNaUGdwYndZMmpUZzN2czFHUU5KQzhIclU2Y0JlMitZa1EzTkJBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=airportrentalcars.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19d91be68180d5",
+      "emailDate": "2026-11-02T18:42:16.000Z"
     },
     {
       "merchant": "Pictures on Gold",
@@ -718,6 +760,20 @@
       "emailDate": "2026-10-30T09:47:44.000Z"
     },
     {
+      "merchant": "Alamo Rent A Car",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dXJsSzhyN1dhV0FFMGxnZWdIUUNjeVJNZDlvVlVYTjNCN2tUOFFCTDJHbTdaU25kVHMrMmtTR2NmbnMvVitrYzBFTCs5U3ZPRHZJcnp3d0JWVUF3RXAyZVZpK1F5WGtIQzl3NUNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=alamo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19d91be68180d5",
+      "emailDate": "2026-11-02T18:42:16.000Z"
+    },
+    {
       "merchant": "Target",
       "percentBack": 2,
       "dollarBack": null,
@@ -772,6 +828,20 @@
       "source": "single-use",
       "emailMessageId": "1a19514a7eaae820",
       "emailDate": "2026-11-01T03:08:40.000Z"
+    },
+    {
+      "merchant": "Hotels.com",
+      "percentBack": 1,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "October 23",
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6N3dhRnVOTzFBeHVEbEFPWWZ2a0JqNHEzK1ZFQzUrMnJtbTFrOWVoQ0E2OUhmYnRaSGZ4MkcwU3RMc3JQZHhzdkJaVUxoeHEyMTVubXdNc0RkUnFHTVpmMks2eG10MERnYS9ubDhnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hotels.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a19d91be68180d5",
+      "emailDate": "2026-11-02T18:42:16.000Z"
     },
     {
       "merchant": "Uber Eats",
