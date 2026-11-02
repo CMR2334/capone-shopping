@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-02T15:18:10.495Z",
-  "sourceCount": 74,
+  "lastUpdated": "2026-11-02T16:18:10.586Z",
+  "sourceCount": 75,
   "parseFailures": 0,
   "offers": [
     {
@@ -39,11 +39,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-03T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RC9CdjdicGF2bjVPWlJaNDROYjAvQmp6WndPUzE5aUxTNSs4aHZ6ZDFvalE4eHVzaWo1c3RyRkJxelJGcEg3ZU1zWVQzcU5VQ3FLNFlabkdtUnd4anoyL2ZIREdCa1NQYTlOMm1BPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RzdCaEdJZE5kYi80V1lrTEZHVnhTSkhOZWYzQ3NIWmp3ditHRXJxaFVVTnplTDF6NTBySmdlMVgvSzRadVZwMlJNQ2hhSHdKQ0t1L2RNQjJYTzh6Wmx4NjF3ZnRaTTE4NlVsWmJ3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=nobullproject.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a19c423d7e9beaa",
-      "emailDate": "2026-11-02T12:35:48.000Z"
+      "emailMessageId": "1a19d0a747d70097",
+      "emailDate": "2026-11-02T16:14:29.000Z"
     },
     {
       "merchant": "Skechers",
@@ -268,6 +268,34 @@
       "source": "single-use",
       "emailMessageId": "1a18c35496dfac67",
       "emailDate": "2026-10-30T09:47:44.000Z"
+    },
+    {
+      "merchant": "Vivint",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6L3pWdXNub0VpUE50czZhZGZzeHVUZm9oREVXYTlJakNoaTZkV0xRZ25ydE9CMzdINFh6WWlNcHpaZEdOVVJISE10ekQ5ZW0wdFRPc3VtTjluMkloSUFadWhicTdXdjRrOGZ3R05BPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vivint.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19d0a747d70097",
+      "emailDate": "2026-11-02T16:14:29.000Z"
+    },
+    {
+      "merchant": "Candlewood Suites",
+      "percentBack": 13.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RnRlRW1XTzVCQ2F6QXJXd0k4KzNyYWgzNE91TWlReUc5T3BrYWFENEppUjBuOEpjUFdmbDdxdlBpTCtwQjNZeGN6cFF6VkN0ZTdTR1FBN1Z0WEhBQnB1UG9halBMT2xtbk1yVDNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=candlewoodsuites.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19d0a747d70097",
+      "emailDate": "2026-11-02T16:14:29.000Z"
     },
     {
       "merchant": "Sam's Club",
@@ -578,6 +606,34 @@
       "emailDate": "2026-11-02T12:35:48.000Z"
     },
     {
+      "merchant": "Giftcards.com",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": "October 31",
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6L2NTWStydGM5Uk90RkV5S3FaY3lvS241Z1JEMVhjUFNnbEJudDlxbmhVa2w1dEVFMTNsbUhpNGora016RVozWmlNVzkzWGs0WEtUS2lEMnZSS2taMERZelpmR2VuQk1veWJpNEZ3PT0/runV3",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=giftcards.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a19d0a747d70097",
+      "emailDate": "2026-11-02T16:14:29.000Z"
+    },
+    {
+      "merchant": "Cheddar's Scratch Kitchen",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6M0ZrU1R6K3I5SUQ4ZUM2Snh4b2p3U1ZLRzBwR25iSzBUVjlmZ3dsVENVVUZCTS9sSjNMenV4R3hZWFp2dkdoblF3Rk9HNGVMaFJzTzB4RHFubFg2YmQ1ZloxRzliblNNZTB5WmhRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cheddars.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19d0a747d70097",
+      "emailDate": "2026-11-02T16:14:29.000Z"
+    },
+    {
       "merchant": "360 COOKWARE",
       "percentBack": 3,
       "dollarBack": null,
@@ -802,6 +858,20 @@
       "emailDate": "2026-11-01T12:12:18.000Z"
     },
     {
+      "merchant": "Efax",
+      "percentBack": null,
+      "dollarBack": 15,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-06T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cXJiVHYrYzEwY2N5VkZHRE54dzhUYW9UWGkza3Z3R0Q1R09ZYmU1RUQ0VHVnT01NK0tWV3k5LzlGYXRYcDBTMVBQUmIwQkJIVDNzRXJ6UmlzQ1ZRN0o5bVJNR0tuU01JeXFQd1JnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=efax.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a19d0a747d70097",
+      "emailDate": "2026-11-02T16:14:29.000Z"
+    },
+    {
       "merchant": "Nutrisystem",
       "percentBack": null,
       "dollarBack": 15,
@@ -814,20 +884,6 @@
       "source": "single-use",
       "emailMessageId": "1a197065d3cf4cfd",
       "emailDate": "2026-11-01T12:12:18.000Z"
-    },
-    {
-      "merchant": "Efax",
-      "percentBack": null,
-      "dollarBack": 15,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-04T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6aXB4Nkh5OTVqNTdkZmphSSsxeHNqU2wwcS9EUnJjQjJKclhIMlhDdjE5dXEvQTlUcUxGV1pVN3NxZ0ZhNjFXRERwZWpiN1BkQ2g0UkYweTNZNlpVcTEyTGpocis4RjJoTFZuUFVnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=efax.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a191f47599b2747",
-      "emailDate": "2026-10-31T12:34:39.000Z"
     }
   ],
   "upcomingReveals": []
