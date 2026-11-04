@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-04T00:17:58.108Z",
-  "sourceCount": 76,
+  "lastUpdated": "2026-11-04T01:17:54.692Z",
+  "sourceCount": 77,
   "parseFailures": 0,
   "offers": [
     {
@@ -44,6 +44,20 @@
       "source": "single-use",
       "emailMessageId": "1a193705d6be9a7f",
       "emailDate": "2026-10-31T19:29:36.000Z"
+    },
+    {
+      "merchant": "Further Food",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Tkt2VVM3dHFUNmh4V3FWc1dBTUhUbXJ1b2g0alZ0VmREa0ZaSXRuM1NxYUVHYWlDVmJSNEJVeW1ndnFFMk5NaE5ucm9sWStldkt3VFcrZ0V0ZWVVQVBwb1RPVGIzcHl3d290OEtnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=furtherfood.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1a3fb3d0047a53",
+      "emailDate": "2026-11-04T00:35:13.000Z"
     },
     {
       "merchant": "1-800-Baskets.com",
@@ -116,20 +130,6 @@
       "emailDate": "2026-10-31T12:34:39.000Z"
     },
     {
-      "merchant": "Viator, a Tripadvisor company",
-      "percentBack": 25,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-11-07T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OFBoYXNKLzhKYkhlMGJ3OHdtOGlLRlE2OCtXdmJleENHdnl2Zk5IV1R3Mk56Qkx4QmJrTGM2OEhOdjhCOTM0YVNVTStLejlFR3kzRXoyVHZsUlBlQ3g2Z3dFbERJVUNCUHN4V1l3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a1a2b50f3127b35",
-      "emailDate": "2026-11-03T18:38:56.000Z"
-    },
-    {
       "merchant": "Bonobos",
       "percentBack": 25,
       "dollarBack": null,
@@ -139,6 +139,20 @@
       "expiresAt": "2026-11-07T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6aW96SlMwODNlMTByOXl6aXRQYXB6S1J3dXoybU5uL2RjOXRIYU1XTkZNeXgrWEhnZjdGLzdyQ1F4NzZNWWY3ajNDbEZKMmduRTVnZ0JoRGxxZTZLdElTK0QvVkVhVlh6Q05CQkFnPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/bonobos.com/d0f8ec2d-cc4a-4a68-962b-5eb52162d6e4.gif",
+      "source": "single-use",
+      "emailMessageId": "1a1a2b50f3127b35",
+      "emailDate": "2026-11-03T18:38:56.000Z"
+    },
+    {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OFBoYXNKLzhKYkhlMGJ3OHdtOGlLRlE2OCtXdmJleENHdnl2Zk5IV1R3Mk56Qkx4QmJrTGM2OEhOdjhCOTM0YVNVTStLejlFR3kzRXoyVHZsUlBlQ3g2Z3dFbERJVUNCUHN4V1l3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&type=cropped&width=500",
       "source": "single-use",
       "emailMessageId": "1a1a2b50f3127b35",
       "emailDate": "2026-11-03T18:38:56.000Z"
@@ -172,6 +186,20 @@
       "emailDate": "2026-11-02T12:35:48.000Z"
     },
     {
+      "merchant": "Dr. Jart+",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZVdlWEo5QmJNMUJMTm0yVldLQlgwbEJRK1phR0F2dTc2ZVFhZllPZk1IREhZRzAxYjljL2IzMUEwdnRWdlZtNDZBOEFwV1VTbTYvRE0veFFPUFdFQVJhL2lPYkpxMGM4Y3gyZ293PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=drjart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1a3fb3d0047a53",
+      "emailDate": "2026-11-04T00:35:13.000Z"
+    },
+    {
       "merchant": "Big Bus Tours",
       "percentBack": 20,
       "dollarBack": null,
@@ -198,6 +226,20 @@
       "source": "single-use",
       "emailMessageId": "1a19514a7eaae820",
       "emailDate": "2026-11-01T03:08:40.000Z"
+    },
+    {
+      "merchant": "iHerb",
+      "percentBack": 18,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6elpJZStENmtxWmtsWUV3dnJOQVdlOW9menJPdkQybHNkR1loYUNKNkVsdk5NOHZIZnFjNkJjK09FeUNFVFltcmkvcmVzemRaU0RIU2doS0FERUlXaEpCdStKYklyRVNzRWJOeFF3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=iherb.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a1a3fb3d0047a53",
+      "emailDate": "2026-11-04T00:35:13.000Z"
     },
     {
       "merchant": "Staples",
@@ -382,6 +424,34 @@
       "emailDate": "2026-10-31T15:04:31.000Z"
     },
     {
+      "merchant": "Ancient Nutrition",
+      "percentBack": 13,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bFhYL3F0TDFPbnRoVDd2MGlYMTE2UEczbURXQWZqNlBCTGpmNGpCczBSbXlDMHVsa1A4R01jb1RsTHN6dy8rSFljL2hLSVhGQXErZzNIajBJcDVybWJHWmlpbUZxTzBRMWwzVmJBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ancientnutrition.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1a3fb3d0047a53",
+      "emailDate": "2026-11-04T00:35:13.000Z"
+    },
+    {
+      "merchant": "The Vitamin Shoppe",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZUJ2ZGxpWktRQ1ZwTms0TkFGbVpScVJsRHFvWUQ4VGFvT0FGM0haenRTTHdMRENzMkpLa3kzcTRYNnB0TDFPNVdxb29jNjNzYUFEREVSaXprZHI2ZHYyU2R3dlBscE85MzBBK3VnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vitaminshoppe.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1a3fb3d0047a53",
+      "emailDate": "2026-11-04T00:35:13.000Z"
+    },
+    {
       "merchant": "Thousand Fell",
       "percentBack": 12,
       "dollarBack": null,
@@ -480,6 +550,20 @@
       "emailDate": "2026-11-03T18:38:56.000Z"
     },
     {
+      "merchant": "Pure TheraPro Rx",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6aStmdzdxVXg0S3FVN3gwMXh3ZzRNVFJremRDZ3lwYUsrNi8wdTRlc3J0allJTzVFWmFKVmhVT1c4ekJhR1IrOE9tZ09lNHVLQ055U1huWnBleEMzb1h6Y2lCNGpBeU50TDdNUDZ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=purethera.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1a3fb3d0047a53",
+      "emailDate": "2026-11-04T00:35:13.000Z"
+    },
+    {
       "merchant": "United Airlines MileagePlus - Points.com",
       "percentBack": 8,
       "dollarBack": null,
@@ -534,6 +618,20 @@
       "source": "single-use",
       "emailMessageId": "1a1927daad1c764b",
       "emailDate": "2026-10-31T15:04:31.000Z"
+    },
+    {
+      "merchant": "Puracy",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-07T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cThKM01vQ3JNaUF0ZTBKQ2pPQk5CdG02bmRZaHFKTncveVVoVzFLWmNnL1FaU1VWYTdvQ2duOXlkVzFpT1ZHSzRxdm5SQURIRWVxbnh3eExlTG44VS9NUjhScjFENUgxNlNUZmhRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=puracy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1a3fb3d0047a53",
+      "emailDate": "2026-11-04T00:35:13.000Z"
     },
     {
       "merchant": "Office Depot",
