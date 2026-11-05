@@ -1,8 +1,36 @@
 {
-  "lastUpdated": "2026-11-05T09:17:54.751Z",
-  "sourceCount": 75,
+  "lastUpdated": "2026-11-05T10:17:49.370Z",
+  "sourceCount": 76,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "SHEIN",
+      "percentBack": 40.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NC9ORm9lQnhjRWdQV2h3TFBBWWpOZGdZYVA3SlpocE1YclRYUldubC9wVzB6cGVjMkNnK1BaL2JNZXVvZkZGVi9GQXJMWis5Mi92dlRldDVydDd4aTcrRFhmMy8vS3g0b1dobGZBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=shein.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1ab071fcaa46e4",
+      "emailDate": "2026-11-05T09:25:32.000Z"
+    },
+    {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 34,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bEVWd3FOUEpxTkQ5czZ5MjdtY0tuc2dGTVZzZ3BsMHpRR3QwTzRJNE1EbnhSVHB4dzlmb0RycTR2YXMwNkREcEtYeklwcmZVUTJEd1BjYy9YSTBBZTFpNGpFelM0cmVIMWZEbVVnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/viator.com/21b0b993-944b-45e9-8755-90818d364da5.gif",
+      "source": "single-use",
+      "emailMessageId": "1a1ab071fcaa46e4",
+      "emailDate": "2026-11-05T09:25:32.000Z"
+    },
     {
       "merchant": "Further Food",
       "percentBack": 30,
@@ -27,20 +55,6 @@
       "expiresAt": "2026-11-07T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6aW96SlMwODNlMTByOXl6aXRQYXB6S1J3dXoybU5uL2RjOXRIYU1XTkZNeXgrWEhnZjdGLzdyQ1F4NzZNWWY3ajNDbEZKMmduRTVnZ0JoRGxxZTZLdElTK0QvVkVhVlh6Q05CQkFnPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/bonobos.com/d0f8ec2d-cc4a-4a68-962b-5eb52162d6e4.gif",
-      "source": "single-use",
-      "emailMessageId": "1a1a2b50f3127b35",
-      "emailDate": "2026-11-03T18:38:56.000Z"
-    },
-    {
-      "merchant": "Viator, a Tripadvisor company",
-      "percentBack": 25,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-11-07T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OFBoYXNKLzhKYkhlMGJ3OHdtOGlLRlE2OCtXdmJleENHdnl2Zk5IV1R3Mk56Qkx4QmJrTGM2OEhOdjhCOTM0YVNVTStLejlFR3kzRXoyVHZsUlBlQ3g2Z3dFbERJVUNCUHN4V1l3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&type=cropped&width=500",
       "source": "single-use",
       "emailMessageId": "1a1a2b50f3127b35",
       "emailDate": "2026-11-03T18:38:56.000Z"
@@ -144,6 +158,20 @@
       "emailDate": "2026-11-02T16:14:29.000Z"
     },
     {
+      "merchant": "Sam's Club",
+      "percentBack": 13.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OThMR2U4Uk5zSEcza3V5bDVRTDFpeS9qQTl0U2ZnSVF5MU5UcDdPUFRwQXhxZDlNQnVMNG9Kd0RaLzV2MERrVkpjb2I5K0VaM1RrbkxGckVndnBKdGt3eS9sdU4vakRMUkgvZVFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=samsclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1ab071fcaa46e4",
+      "emailDate": "2026-11-05T09:25:32.000Z"
+    },
+    {
       "merchant": "Candlewood Suites",
       "percentBack": 13.5,
       "dollarBack": null,
@@ -156,20 +184,6 @@
       "source": "single-use",
       "emailMessageId": "1a19d0a747d70097",
       "emailDate": "2026-11-02T16:14:29.000Z"
-    },
-    {
-      "merchant": "Sam's Club",
-      "percentBack": 13.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-06T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dFA1a2dwdGdJKy9VQ2tEZFc1eWgxbVYybXRIMVdtV2VOV2VLNEt4K3ZnQkNOSVcwMTlqd0Z4QUxvOEpmMTZzZ1NZSHg0ZklZVCtFbVgyWUhNVUV2TkI0SkRhRXVSV0hTNFhJdGR3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=samsclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a19c423d7e9beaa",
-      "emailDate": "2026-11-02T12:35:48.000Z"
     },
     {
       "merchant": "Ancient Nutrition",
@@ -212,6 +226,20 @@
       "source": "single-use",
       "emailMessageId": "1a1a1759e290b1b6",
       "emailDate": "2026-11-03T12:50:02.000Z"
+    },
+    {
+      "merchant": "Best Buy",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Q0VFd2lxeHBnbGQ0Y3RZVmN0aWhtOUgwdDBQNWtSVjZwYjRjVUEyU3ZGZ1dLWGNRZWdRczN0dkZhMlRENDYxR0lPV3dMRTZqRXd3WC9iV3pydU1FU0I5enREVjhIUTY1WHBqYVpRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestbuy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1ab071fcaa46e4",
+      "emailDate": "2026-11-05T09:25:32.000Z"
     },
     {
       "merchant": "Go City Pass",
@@ -279,20 +307,6 @@
       "expiresAt": "2026-11-07T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MDM5Q2plUWFkWWlFM0kyYlRJSnZleE0yazlkYXdmSFMydnVMS2g5OURqcTlvZENkZDZtRG5laU5tTUVHRU9OR0tyemphc1RYalVYbG9uMzNxVHFldmdHNEFpc3h0MC9qb1JxWXhnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=officedepot.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1a1759e290b1b6",
-      "emailDate": "2026-11-03T12:50:02.000Z"
-    },
-    {
-      "merchant": "Best Buy",
-      "percentBack": 7,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": "October 31",
-      "expiresAt": "2026-11-07T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bG1oWU93czg5bk00Y01HcGFleHJJanlNeGErbU1adWdNTENxTVRpbkxoUi9icWpGVjN0N0xyS1JGTkFualVQcU5iMURlUDZvNzh6NDdsQnVoTU1MZkVGZ0VTUjJTR1RiODZJQm1RPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestbuy.com&width=500&fallback=true&type=cropped&opaque=true",
       "source": "single-use",
       "emailMessageId": "1a1a1759e290b1b6",
       "emailDate": "2026-11-03T12:50:02.000Z"
@@ -374,12 +388,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-11-06T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NVE4QU5UODNiWUFJUmo1L2wxWFZ5SjNBcXkzYWViM2VpN01uMW4zcm1ENVQrQ0JZdEcyNnN0RC9oWURHM3orQitUUmpQSkIwR084OUJmV1JoNTZmMGk4OWNiVmllYUEyMkdQUEpnPT0/runV3dl",
+      "expiresAt": "2026-11-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VUJORWdUSno4VXVLVlVTWi8vaW9Rb1RlYWdwb0hueDdYbXhEbDMvREQvKzdOdTJ5RlVOakZvaGJrM21CUGsxRTB0WDhDNjc3MWtpdnAxL00zWk5FWTBHUEgwWFNuR3Axdm9pYk9BPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=homedepot.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a19c423d7e9beaa",
-      "emailDate": "2026-11-02T12:35:48.000Z"
+      "emailMessageId": "1a1ab071fcaa46e4",
+      "emailDate": "2026-11-05T09:25:32.000Z"
     },
     {
       "merchant": "Target",
@@ -388,12 +402,12 @@
       "capAmount": null,
       "wasPercent": 0.5,
       "lastViewed": null,
-      "expiresAt": "2026-11-07T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SUhTazZDMmREdk9QZU8yQ3ZsSEJMd0JieDZ6T05CUDE3SlA1dHNkRWFIUE5HdTQ2dGs3cDk0bjBBR2QyV09QVmFIa05MY0p5RTBkWlNlVSs1TEZUZ3BLS0RrNXozdjJVdTZNMkJnPT0/runV3dl",
+      "expiresAt": "2026-11-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6d2E0MktKZXh5dGk3TjdKaXpzOTlJdDcraGNnNmttek96eURvd1RkZlpPN0VRdFpoemEvUHhmNXYxaFBSSFZXODZwckdKS3kyRnRBeUpHRnFwWlVQenlFYnNNUmQ5cUJNaWd1MWhBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=target.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a1a1759e290b1b6",
-      "emailDate": "2026-11-03T12:50:02.000Z"
+      "emailMessageId": "1a1ab071fcaa46e4",
+      "emailDate": "2026-11-05T09:25:32.000Z"
     },
     {
       "merchant": "Alamo Rent A Car",
