@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-05T12:17:51.756Z",
-  "sourceCount": 76,
+  "lastUpdated": "2026-11-05T13:17:48.250Z",
+  "sourceCount": 77,
   "parseFailures": 0,
   "offers": [
     {
@@ -25,11 +25,25 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bEVWd3FOUEpxTkQ5czZ5MjdtY0tuc2dGTVZzZ3BsMHpRR3QwTzRJNE1EbnhSVHB4dzlmb0RycTR2YXMwNkREcEtYeklwcmZVUTJEd1BjYy9YSTBBZTFpNGpFelM0cmVIMWZEbVVnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Q2xYMndRbmEzV256U3M4K1dZenUzZ01KNUQ1OWxtVjlHak15Vys3d0RnQ2ErUWZqZmswTEtKbE1LZXNhcjMxSkpLRnkvQVhDQythTWxXVjRhdTNBbUNZVDNyY2NtUHFyTk1CdU9nPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/viator.com/21b0b993-944b-45e9-8755-90818d364da5.gif",
       "source": "single-use",
-      "emailMessageId": "1a1ab071fcaa46e4",
-      "emailDate": "2026-11-05T09:25:32.000Z"
+      "emailMessageId": "1a1abb4ce6b2c41d",
+      "emailDate": "2026-11-05T12:35:15.000Z"
+    },
+    {
+      "merchant": "Thousand Fell",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cFYyNWcyeFcxUmwzZVRZa2ZOb2FWSjNpWlBwUHhrWDU0L3dacU1vcHpMUWsvZEc5ZWVmZ3lDT01lbjhHNS9OTGtnMXZCdWlBZTdZUEFEbnI1TU8rRExjQWNaRHlpdVhSVE5RaGF3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thousandfell.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1abb4ce6b2c41d",
+      "emailDate": "2026-11-05T12:35:15.000Z"
     },
     {
       "merchant": "Further Food",
@@ -186,6 +200,20 @@
       "emailDate": "2026-11-02T16:14:29.000Z"
     },
     {
+      "merchant": "Municipal",
+      "percentBack": 13,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RW9aTVZYWEllNmFtb3paaTh0UllNcVU2MVAxcFVsVzhObXlsK2R4Tjh0SHZidmVKRzA1elZWeXhFNnMxYkZEWmY4d0ZqN3A5UHNNeWRQS1puUG5yc25nUHV3TTBhV21kUEl6VHBnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=municipal.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1abb4ce6b2c41d",
+      "emailDate": "2026-11-05T12:35:15.000Z"
+    },
+    {
       "merchant": "Ancient Nutrition",
       "percentBack": 13,
       "dollarBack": null,
@@ -198,6 +226,20 @@
       "source": "single-use",
       "emailMessageId": "1a1a3fb3d0047a53",
       "emailDate": "2026-11-04T00:35:13.000Z"
+    },
+    {
+      "merchant": "NOBULL",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dG1md3YrVXBLRXcveEdkSjhUaTU0ck5DSUxtR014dnhLNmVsVlA2SFVST2hSamQyYTRKQXRleTJVT0gxcU9KM0dRdlhpNk9FZnp1L0kyMmRKQzRrN0g1RVhOaUhtdDlpd05nbHhnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/8089755f828e93bb853752ee.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a1abb4ce6b2c41d",
+      "emailDate": "2026-11-05T12:35:15.000Z"
     },
     {
       "merchant": "The Vitamin Shoppe",
@@ -228,6 +270,20 @@
       "emailDate": "2026-11-03T12:50:02.000Z"
     },
     {
+      "merchant": "HOKA",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6am05bnBTU05JL1lrdGNtOEVxOTVWUW4rSW9WZ2psUnhlaXVKQ3E3cUVBc05lMzI1VWJXazRvUy9lVFgyaVdTbzdjWUU0eVZPYXNva0RVbVcvQVVIdW1uOU9vN3NVK0NXaUo4OUVRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hoka.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1abb4ce6b2c41d",
+      "emailDate": "2026-11-05T12:35:15.000Z"
+    },
+    {
       "merchant": "Best Buy",
       "percentBack": 9,
       "dollarBack": null,
@@ -254,6 +310,20 @@
       "source": "single-use",
       "emailMessageId": "1a1a2b50f3127b35",
       "emailDate": "2026-11-03T18:38:56.000Z"
+    },
+    {
+      "merchant": "lululemon",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZThxa3FjNHRkZ3ZzcUs2UGlBb0pzVjRIUlhYUU9nSWh6MFZBSjJ2TFFqSFdDdmlkcndWQlp6cnRoOEdsemw1Uk50MGtjdFpydzM2ZGJsUWNQVEFJOFZxcVk3dXJJQnh3ZUNjemtBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lululemon.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1abb4ce6b2c41d",
+      "emailDate": "2026-11-05T12:35:15.000Z"
     },
     {
       "merchant": "Pure TheraPro Rx",
@@ -338,6 +408,20 @@
       "source": "single-use",
       "emailMessageId": "1a1a2b50f3127b35",
       "emailDate": "2026-11-03T18:38:56.000Z"
+    },
+    {
+      "merchant": "BRUNT",
+      "percentBack": 3.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6N0hEU1haQy9LZS8rUkw4SUMxR1NkZ24yREhCK1VSTWNkRS9RRE5obTIza3NkbHlIcTFTc1MxU00wZ0IrMVQ3K2hpNHJaRzd1TUg3RU9ld0hKSnhvUlY4R1prY2IzeHRKZzIyaVBBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bruntworkwear.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1abb4ce6b2c41d",
+      "emailDate": "2026-11-05T12:35:15.000Z"
     },
     {
       "merchant": "Lowe's",
