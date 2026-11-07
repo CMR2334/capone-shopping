@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-07T16:17:44.581Z",
-  "sourceCount": 79,
+  "lastUpdated": "2026-11-07T17:17:42.482Z",
+  "sourceCount": 80,
   "parseFailures": 0,
   "offers": [
     {
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WnJNbk1MYmh4ODViTWpKeldyRWlPWlZDZWVVSWx4VDJneEFXT0pZNVJwRk1rZWhRV3RQU1pMaldodHl0Zzc1SEdxM1QzcUU5ejZxMmdzNitpZGc2Nk1vY29TRTMrcFNsa3FzcGFnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UE55SkIvSUVLbitpZFBWNGxRNVhVeUNVaDFDcXhLa21zbGxNZDArLzRESUd2WHVJOXNtRDVpRzR3TndsREFWVmRwRUtWc1NUZXFkK0NCelo2Zk9LRmF5ZlI0d2JheGRnUU5KU0x3PT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/serta.com/e3e056c4-c0de-4876-a135-176a2c752b97.gif",
       "source": "single-use",
-      "emailMessageId": "1a1b68e1d86eab93",
-      "emailDate": "2026-11-07T15:08:48.000Z"
+      "emailMessageId": "1a1b6ec609b3ce44",
+      "emailDate": "2026-11-07T16:51:46.000Z"
     },
     {
       "merchant": "SHEIN",
@@ -361,11 +361,25 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TXB5a0JXdTN0b2RWOUJUbi91cXJCQU5MZnFtMHBhMVlhNC8yeTFId0dST2dlMjhJOTVLQzRwWjZSOURLcEN5YTh2cWU1eFFUK3hSSWpvZ2RpMmwwTUR6MkZ4QW9YRlByWkt2TVBRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SE56NXNQZ2VhVmhBMFN2dTFPRUJxR0xUNk1wT3Vadm5TNklwSXlUMTlXL3pRdk0rdTE4VG45QTBlcUJXWmd4T2EvR3VIeGIvYXBmdUVGS0IrZnRJMityOFJzOTF0bXlUZGk2YW93PT0/runV3dl",
       "logoUrl": "https://i.capitaloneshopping.com/570x236,logowalmart.com,ssSifoL74AniwrdSsREI6x2c18DoS9BIiRACAcjXRrk8/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1792431893737.png",
       "source": "single-use",
-      "emailMessageId": "1a1b68e1d86eab93",
-      "emailDate": "2026-11-07T15:08:48.000Z"
+      "emailMessageId": "1a1b6ec609b3ce44",
+      "emailDate": "2026-11-07T16:51:46.000Z"
+    },
+    {
+      "merchant": "Hobby Lobby",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TlhKYjc5NVlRcSszYTMxVmVpVzY2aE1jc2crbnBYa2M2YnFHTnRkMTJqeWswM3FuVDRvMGEwZ2RjbTUxOW5RSzZHQWpsME5jVDhucWkvNWZUT0lPNWU2MzBPdHlHRjY0WTNuUjRnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hobbylobby.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1b6ec609b3ce44",
+      "emailDate": "2026-11-07T16:51:46.000Z"
     },
     {
       "merchant": "Keurig",
@@ -424,6 +438,20 @@
       "emailDate": "2026-11-07T15:08:48.000Z"
     },
     {
+      "merchant": "Bed Bath & Beyond",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UGJMUUxya1VVdGhmdndYTTNEU254cnV0YmZNaDA5ZnlBSHFYZEtVcThCdzlReWhHaVd5VVFZaTRwQ29kU3c5Wnh5SGsxRTJVbGxKTUdJYW9QUHdsT0V6ZHhMQmdUWElDL3FoeFVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bedbathandbeyond.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1b6ec609b3ce44",
+      "emailDate": "2026-11-07T16:51:46.000Z"
+    },
+    {
       "merchant": "Candlewood Suites",
       "percentBack": 6.5,
       "dollarBack": null,
@@ -459,11 +487,11 @@
       "wasPercent": 0.5,
       "lastViewed": null,
       "expiresAt": "2026-11-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QStTWmc5a3RHcVRlWHdRMHpsd2pjYnlCWDRqREI2aE13RUxQMjZDWWtCMlc5aHF1M0ZIR2Q0bGVKNGhxbURRWGFxenowSFpiT1FMWnlBL0hrQk8zZmFPcEFnbzE4aFRLUXJ3dS9RPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bW8vcklZSnZQcjVIendBcnhtanpvNmR5TW11eTRwNlFETUZZa0xTNno0QVRKOC9jRHpBTWlpdmNmdldQSVY5UGk1M0NPZWNGc3RmcUR3Z3VtY21jTDFEVFFMYjJ6dVhDbmtLRmR3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lowes.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a1b68e1d86eab93",
-      "emailDate": "2026-11-07T15:08:48.000Z"
+      "emailMessageId": "1a1b6ec609b3ce44",
+      "emailDate": "2026-11-07T16:51:46.000Z"
     },
     {
       "merchant": "BRUNT",
@@ -508,6 +536,20 @@
       "emailDate": "2026-11-05T09:25:32.000Z"
     },
     {
+      "merchant": "Kohl's",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NXh0WWh3a1QwdnhSUFpiVXRpSWxBNW1IUkxSay92Q09pdzIxWkpKYjArQ2Y3a0xUMHFzeDZLY1VtU3JRcWJ3akU3VHB3dDQydTNyZk85ZGFkcC90SWd5NnU4bFlLVXhibXliNFhRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=kohls.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1b6ec609b3ce44",
+      "emailDate": "2026-11-07T16:51:46.000Z"
+    },
+    {
       "merchant": "Target",
       "percentBack": 2,
       "dollarBack": null,
@@ -536,18 +578,18 @@
       "emailDate": "2026-11-06T17:04:04.000Z"
     },
     {
-      "merchant": "Kohl's",
-      "percentBack": 2,
+      "merchant": "Bass Pro Shops",
+      "percentBack": 1,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": 0.5,
       "lastViewed": null,
-      "expiresAt": "2026-11-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ck9OWHBRQzUxNllpakZwMy9vZjFEaitrR3JkUzBTbjhsMExrZFZyWGhtZVpZUkNwTnNLSEdUUEhTa0pZbk8zN3ltcFVFVDJZTmQzNFU3TkI5MzVEY0VSVzB2UmxEUnd3ZWZ5dDB3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=kohls.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dm1ZTzdGMjZteVAxYm5vejRuMVJqVWxrQmZqaE1IcXBtUG12OGlrNDh2aFpYWFRaSjh5UkZNbnpsUExsMGcybUhhV0NDdUYzZmV4dVJHRzhwV1RaaFFlZXBoaDhBb1VkSm1aWWpnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=basspro.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a1b154e93bbd36b",
-      "emailDate": "2026-11-06T14:48:14.000Z"
+      "emailMessageId": "1a1b6ec609b3ce44",
+      "emailDate": "2026-11-07T16:51:46.000Z"
     },
     {
       "merchant": "Uber Eats",
