@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-07T14:17:45.691Z",
-  "sourceCount": 78,
+  "lastUpdated": "2026-11-07T15:17:40.845Z",
+  "sourceCount": 79,
   "parseFailures": 0,
   "offers": [
     {
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6L25yK1N5NEhqNVBlYmduZU5IYlZSeFcwVm9scDE0L2k0NjRqdi9scktBcnJGMjhjNnI2MGEvOFNDb1lPSFJUZG0ySFpDa1ptMFIxSlZ1Q1N0QWpsUFRSRy9lM1Y2T3NtaUhWbHdBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WnJNbk1MYmh4ODViTWpKeldyRWlPWlZDZWVVSWx4VDJneEFXT0pZNVJwRk1rZWhRV3RQU1pMaldodHl0Zzc1SEdxM1QzcUU5ejZxMmdzNitpZGc2Nk1vY29TRTMrcFNsa3FzcGFnPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/serta.com/e3e056c4-c0de-4876-a135-176a2c752b97.gif",
       "source": "single-use",
-      "emailMessageId": "1a1b5e3b55a5cbb7",
-      "emailDate": "2026-11-07T12:02:40.000Z"
+      "emailMessageId": "1a1b68e1d86eab93",
+      "emailDate": "2026-11-07T15:08:48.000Z"
     },
     {
       "merchant": "SHEIN",
@@ -186,6 +186,20 @@
       "emailDate": "2026-11-07T07:44:18.000Z"
     },
     {
+      "merchant": "Staples",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dmRiaW9QbUlTK0hodGJmUnYxd3dRbVJkSkR2ZEo5cGFoVXVENld0WTArQ3Z1TThvWlpxazRkY0pESTZLa09DWS9INi9QMVh3TEdCQWZzSEFFaCtXQWZmbkhSd3VZVkphSy8rWmpRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=staples.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1b68e1d86eab93",
+      "emailDate": "2026-11-07T15:08:48.000Z"
+    },
+    {
       "merchant": "Logitech",
       "percentBack": 15,
       "dollarBack": null,
@@ -345,13 +359,13 @@
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
-      "lastViewed": "October 31",
-      "expiresAt": "2026-11-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OXhza2ZQVUtEbXp0cUlGTWVndkJDM2lMN2JIOUl0RVJ1UGtGZHgvdDNkand5aVZQRm0wSkUzTUQ2TTZET0FkMms2NVg2VEZPVTUwT0oxWXlpa0VYbnV3K3ZzYlFYcW5HdWZZaSt3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walmart.com&fallback=true&opaque=true&type=cropped&width=500",
+      "lastViewed": null,
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TXB5a0JXdTN0b2RWOUJUbi91cXJCQU5MZnFtMHBhMVlhNC8yeTFId0dST2dlMjhJOTVLQzRwWjZSOURLcEN5YTh2cWU1eFFUK3hSSWpvZ2RpMmwwTUR6MkZ4QW9YRlByWkt2TVBRPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logowalmart.com,ssSifoL74AniwrdSsREI6x2c18DoS9BIiRACAcjXRrk8/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1792431893737.png",
       "source": "single-use",
-      "emailMessageId": "1a1b154e93bbd36b",
-      "emailDate": "2026-11-06T14:48:14.000Z"
+      "emailMessageId": "1a1b68e1d86eab93",
+      "emailDate": "2026-11-07T15:08:48.000Z"
     },
     {
       "merchant": "Keurig",
@@ -396,6 +410,20 @@
       "emailDate": "2026-11-05T12:35:15.000Z"
     },
     {
+      "merchant": "Office Depot",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dnArWEdIYlRaUS9hM3FaT0RLbGFmWGh3QlA3UGFsb205ZUluRGEranhud2phMDBESkoxNlU0ckFGMjZYcjhiV053Sm4ra1h0THFpcnlkYTFKbzcvanUzTzRaNjhRU293SEYvUENnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=officedepot.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1b68e1d86eab93",
+      "emailDate": "2026-11-07T15:08:48.000Z"
+    },
+    {
       "merchant": "Candlewood Suites",
       "percentBack": 6.5,
       "dollarBack": null,
@@ -430,12 +458,12 @@
       "capAmount": null,
       "wasPercent": 0.5,
       "lastViewed": null,
-      "expiresAt": "2026-11-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RmJnWU05alhCOWxUbzRBODhpc01DdW04TUtGUTIrK0hsaWthQ2JFNCsrcVpqT3VXb2RPQ3YrNC9VTVhhSG5YYmtoVHdZc2l2Z2NtYXlZL09wNi9vZVZ5Z3JlZFBPOEx5UVZaZjV3PT0/runV3dl",
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QStTWmc5a3RHcVRlWHdRMHpsd2pjYnlCWDRqREI2aE13RUxQMjZDWWtCMlc5aHF1M0ZIR2Q0bGVKNGhxbURRWGFxenowSFpiT1FMWnlBL0hrQk8zZmFPcEFnbzE4aFRLUXJ3dS9RPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lowes.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a1b154e93bbd36b",
-      "emailDate": "2026-11-06T14:48:14.000Z"
+      "emailMessageId": "1a1b68e1d86eab93",
+      "emailDate": "2026-11-07T15:08:48.000Z"
     },
     {
       "merchant": "BRUNT",
@@ -480,6 +508,20 @@
       "emailDate": "2026-11-05T09:25:32.000Z"
     },
     {
+      "merchant": "Target",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cVpvQm5OcERSb09iU2Jib3VXTjNWVUcrblpBTkwybUtmWDVGUGFTNUtnQzVabTl0U0dzT3pCRkhBNjVsQlVSYVdMNm81OFhuUGNQL1B5S0JzdDJtR2ZWV1BFZkx4amlIUURUclh3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=target.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1b68e1d86eab93",
+      "emailDate": "2026-11-07T15:08:48.000Z"
+    },
+    {
       "merchant": "Giftcards.com",
       "percentBack": 2,
       "dollarBack": null,
@@ -492,20 +534,6 @@
       "source": "single-use",
       "emailMessageId": "1a1b1d14873963fa",
       "emailDate": "2026-11-06T17:04:04.000Z"
-    },
-    {
-      "merchant": "Target",
-      "percentBack": 2,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-11-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Y0pkS0JkQ1V6UDg3Q1FjNkkzYnhacllPNjF0Z1ZSSUszSFh2WElnL1ZveXhUcXA0ZStlR1AxYmp0Znp1UGZFRXFQVUpSOVJwYk9QWmZ6K09TcHhYV1F2Q2RwbXhkNkNSaDdLQ2VBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=target.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1b154e93bbd36b",
-      "emailDate": "2026-11-06T14:48:14.000Z"
     },
     {
       "merchant": "Kohl's",
