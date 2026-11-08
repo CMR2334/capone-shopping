@@ -67,6 +67,8 @@ Gmail (a dedicated account)
   writes `public/offers.json`. Email rates are snapshots and Capital One may replace
   them before the stated expiry, so the app labels them as rates to verify. Gmail
   quota/service limits use bounded exponential retry instead of dropping messages.
+  The parser also supports Capital One's gift-card top-card layout, where the
+  merchant ("Redeem $X [merchant] gift card") is separate from the percentage.
 - **Sync worker:** Cloudflare Worker + KV (`OFFERS_KV`, id `84ae9a9ba9c944b0848d4c976152ded5`).
   REST: `GET/PUT /state` (Bearer token), `GET /action` (email links), `GET /health`.
 

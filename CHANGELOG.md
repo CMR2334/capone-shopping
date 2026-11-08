@@ -13,6 +13,14 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-11-08 — Fix: parse gift-card top offers with split merchant and rate
+**Commit:** see `git log --grep="parse gift-card top offers"`
+**Files:** `ingestor/parser.js`, `test/parser.test.js`, `CHANGELOG.md`, `HANDOFF.md`
+**What changed:** Capital One's gift-card top-offer layout puts the merchant in “Redeem $X [merchant] gift card” and the percentage separately in “+ Earn N% back.” The prior grammar required both in one phrase, so the November 8 Chewy 25% offer was not shown at all. The parser now joins those fields, applies the top-offer expiry, and chooses the “No thanks, only earn N% back” link instead of the gift-card redemption button. It also identifies the newer “Earn N% back at Merchant” version of a card marked “Today’s Top Offer,” so Serta-like daily deals use their individual overnight expiry rather than the email-wide expiry.
+**Revert:** use the commit shown by the `git log` command above
+
+---
+
 ## 2026-11-08 — Fix: prefer the newest email rate for each merchant
 **Commit:** see `git log --grep="prefer newest email rate"`
 **Files:** `ingestor/ingest.js`, `test/ingest.test.js`, `public/index.html`, `package.json`, `CHANGELOG.md`, `HANDOFF.md`

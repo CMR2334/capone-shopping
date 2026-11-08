@@ -19,13 +19,28 @@ function parseCaponeEmail(html, meta = {}) {
 
   const offers = [];
   const seenIndex = new Map(); // merchantKey -> index into offers[]
+  let inTodaysTopOffer = false;
 
   $('*').each((_, el) => {
     const $el = $(el);
     const text = $el.text().replace(/\s+/g, ' ').trim();
     if (!text || text.length > 160) return;
 
-    const match = matchOfferText(text);
+    // The email is traversed in document order. Keep the daily deal section
+    // narrow: it begins at its heading and ends before the preview strip for
+    // future daily offers. This avoids attributing the heading to every later
+    // ordinary offer in the email.
+    if (/^Today\s*'?\s*s\s+Top\s+Offer$/i.test(text)) {
+      inTodaysTopOffer = true;
+      return;
+    }
+    if (/^Top\s+offers\s+revealed\s+daily:?$/i.test(text)) {
+      inTodaysTopOffer = false;
+      return;
+    }
+
+    const cardCtx = contextText($el, 4);
+    const match = matchOfferText(text) || matchGiftCardTopOffer(text, cardCtx);
     if (!match) return;
 
     let descendantMatches = false;
@@ -40,7 +55,10 @@ function parseCaponeEmail(html, meta = {}) {
 
     const { merchant, percentBack, dollarBack, isEarn, capAmount } = match;
     const merchantKey = merchant.toLowerCase().trim();
-    const isTodaysTop = !isEarn;
+    // Newer emails use "Earn N% back at Merchant" even for the explicitly
+    // labeled Today's Top card. Its section carries an overnight expiry that
+    // must win over the email-wide "Expiring [date]" header.
+    const isTodaysTop = match.isTodaysTop || !isEarn || inTodaysTopOffer;
 
     // Emails often carry a hidden preheader/preview copy of the top offer, phrased as
     // "Earn N% back at Merchant", ahead of the real "Today's Top Offer" card in the DOM.
@@ -52,12 +70,12 @@ function parseCaponeEmail(html, meta = {}) {
       return;
     }
 
-    const cardCtx = contextText($el, 4);
-
     const wasMatch = cardCtx.match(/Was\s+(\d+(?:\.\d+)?)%\s*back/i);
     const lastViewedMatch = cardCtx.match(/You last viewed (\w+\s+\d{1,2})/);
 
-    const activationUrl = nearestActivationLink($el);
+    const activationUrl = match.isGiftCardTopOffer
+      ? giftCardOfferActivationLink($, $el, percentBack)
+      : nearestActivationLink($el);
     const logoUrl = nearestLogoUrl($el);
 
     const expiry = isTodaysTop && todaysTopExpiry ? todaysTopExpiry : defaultExpiry;
@@ -114,6 +132,27 @@ function matchOfferText(text) {
   return null;
 }
 
+function matchGiftCardTopOffer(text, cardCtx) {
+  // A current "Today's Top Offer" layout separates the merchant from the reward:
+  // "Redeem $25 Chewy gift card" appears above "+ Earn 25% back". It is not
+  // captured by the regular "Earn N% back at Merchant" grammar.
+  const reward = text.match(/^\+?\s*Earn\s+(\d+(?:\.\d+)?)%\s*back$/i);
+  if (!reward) return null;
+
+  const merchant = cardCtx.match(/Redeem\s+(?:up\s+to\s+)?\$[\d,.]+\s+(.+?)\s+gift\s+card\b/i)?.[1]?.trim();
+  if (!merchant) return null;
+
+  return {
+    isEarn: true,
+    isTodaysTop: true,
+    isGiftCardTopOffer: true,
+    percentBack: parseFloat(reward[1]),
+    dollarBack: null,
+    capAmount: null,
+    merchant,
+  };
+}
+
 function contextText($el, maxHops) {
   let cur = $el;
   for (let i = 0; i < maxHops; i++) {
@@ -134,6 +173,18 @@ function nearestActivationLink($el) {
     cur = cur.parent();
   }
   return null;
+}
+
+function giftCardOfferActivationLink($, $el, percentBack) {
+  const earnPattern = new RegExp(`(?:no thanks,?\\s*)?(?:only\\s*)?earn\\s+${percentBack}%\\s+back`, 'i');
+  let cur = $el;
+  for (let i = 0; i < 8; i++) {
+    if (!cur.length) break;
+    const link = cur.find('a[href]').filter((_, anchor) => earnPattern.test($(anchor).text().replace(/\s+/g, ' ').trim())).first();
+    if (link.length) return link.attr('href');
+    cur = cur.parent();
+  }
+  return nearestActivationLink($el);
 }
 
 function nearestLogoUrl($el) {
