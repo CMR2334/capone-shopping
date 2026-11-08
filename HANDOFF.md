@@ -65,7 +65,7 @@ Gmail (a dedicated account)
 - **Ingestor:** Node, runs in CI. Reads 30 days of mail, parses, drops expired offers,
   then merges by merchant using the newest active email (ties use later expiry), and
   writes `public/offers.json`. Email rates are snapshots and Capital One may replace
-  them before the stated expiry, so the app labels them as rates to verify. Gmail
+  them before the stated expiry; the ingestor prefers the newest active email. Gmail
   quota/service limits use bounded exponential retry instead of dropping messages.
   The parser also supports Capital One's gift-card top-card layout, where the
   merchant ("Redeem $X [merchant] gift card") is separate from the percentage.

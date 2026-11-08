@@ -13,6 +13,12 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 
 ---
 
+## 2026-11-08 — UI: remove the email-rate advisory from offer cards
+**Files:** `public/index.html`, `package.json`, `CHANGELOG.md`, `HANDOFF.md`
+**What changed:** Removed “Email rate — verify current rate” and its unused styling from every offer card. The card layout and the newest-email selection logic are unchanged.
+
+---
+
 ## 2026-11-08 — Fix: parse gift-card top offers with split merchant and rate
 **Commit:** see `git log --grep="parse gift-card top offers"`
 **Files:** `ingestor/parser.js`, `test/parser.test.js`, `CHANGELOG.md`, `HANDOFF.md`
