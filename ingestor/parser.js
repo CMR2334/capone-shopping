@@ -40,7 +40,11 @@ function parseCaponeEmail(html, meta = {}) {
     }
 
     const cardCtx = contextText($el, 4);
-    const match = matchOfferText(text) || matchGiftCardTopOffer(text, cardCtx);
+    // The merchant name and the rate in gift-card cards often live in
+    // different, deeply nested table cells. Search their nearest shared card
+    // container rather than assuming the four-hop display context reaches it.
+    const giftCardMerchant = nearestGiftCardMerchant($, $el);
+    const match = matchOfferText(text) || matchGiftCardTopOffer(text, giftCardMerchant);
     if (!match) return;
 
     let descendantMatches = false;
@@ -132,14 +136,13 @@ function matchOfferText(text) {
   return null;
 }
 
-function matchGiftCardTopOffer(text, cardCtx) {
+function matchGiftCardTopOffer(text, merchant) {
   // A current "Today's Top Offer" layout separates the merchant from the reward:
   // "Redeem $25 Chewy gift card" appears above "+ Earn 25% back". It is not
   // captured by the regular "Earn N% back at Merchant" grammar.
   const reward = text.match(/^\+?\s*Earn\s+(\d+(?:\.\d+)?)%\s*back$/i);
   if (!reward) return null;
 
-  const merchant = cardCtx.match(/Redeem\s+(?:up\s+to\s+)?\$[\d,.]+\s+(.+?)\s+gift\s+card\b/i)?.[1]?.trim();
   if (!merchant) return null;
 
   return {
@@ -151,6 +154,21 @@ function matchGiftCardTopOffer(text, cardCtx) {
     capAmount: null,
     merchant,
   };
+}
+
+function nearestGiftCardMerchant($, $el) {
+  let cur = $el;
+  // Capital One's email markup uses several nested tables between the rate
+  // and its "Redeem $… Merchant gift card" title. Do not climb to body/html:
+  // that could accidentally associate a different card elsewhere in the email.
+  for (let i = 0; i < 12; i++) {
+    if (!cur.length || cur.is('body, html')) break;
+    const text = cur.text().replace(/\s+/g, ' ').trim();
+    const merchant = text.match(/Redeem\s+(?:up\s+to\s+)?\$[\d,.]+\s+(.+?)\s+gift\s+card\b/i)?.[1]?.trim();
+    if (merchant) return merchant;
+    cur = cur.parent();
+  }
+  return null;
 }
 
 function contextText($el, maxHops) {
@@ -178,8 +196,8 @@ function nearestActivationLink($el) {
 function giftCardOfferActivationLink($, $el, percentBack) {
   const earnPattern = new RegExp(`(?:no thanks,?\\s*)?(?:only\\s*)?earn\\s+${percentBack}%\\s+back`, 'i');
   let cur = $el;
-  for (let i = 0; i < 8; i++) {
-    if (!cur.length) break;
+  for (let i = 0; i < 12; i++) {
+    if (!cur.length || cur.is('body, html')) break;
     const link = cur.find('a[href]').filter((_, anchor) => earnPattern.test($(anchor).text().replace(/\s+/g, ' ').trim())).first();
     if (link.length) return link.attr('href');
     cur = cur.parent();

@@ -59,6 +59,33 @@ test("parses a gift-card Today's Top Offer whose merchant is separate from its r
   assert.equal(chewy.activationUrl, 'https://example.com/earn-rate');
 });
 
+test("parses a deeply nested gift-card Today's Top Offer", () => {
+  const html = `
+    <html><body>
+      <div>Expiring Nov 11 or as noted</div>
+      <div class="hero">
+        <p>Today's Top Offer</p>
+        <p>Redeem <span>$25 Chewy gift card</span></p>
+        <div><div><div><div><div>
+          <p>+ Earn 25% back</p>
+          <a href="https://example.com/earn-rate">No thanks, only earn 25% back</a>
+        </div></div></div></div></div>
+        <p>Rewards offer ends on Nov 8 at 11:59 PM PST.</p>
+      </div>
+    </body></html>
+  `;
+
+  const { offers } = parseCaponeEmail(html, {
+    messageId: 'deep-chewy123',
+    date: '2026-11-08T09:36:56.000Z',
+  });
+
+  const chewy = offers.find(o => o.merchant === 'Chewy');
+  assert.ok(chewy, 'expected the deeply nested Chewy offer to be parsed');
+  assert.equal(chewy.percentBack, 25);
+  assert.equal(chewy.activationUrl, 'https://example.com/earn-rate');
+});
+
 test("uses the overnight expiry for an Earn-prefixed Today's Top Offer", () => {
   const html = `
     <html><body>
