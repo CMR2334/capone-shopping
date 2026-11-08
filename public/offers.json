@@ -1,22 +1,8 @@
 {
-  "lastUpdated": "2026-11-08T15:18:20.157Z",
+  "lastUpdated": "2026-11-08T15:18:49.060Z",
   "sourceCount": 82,
-  "parseFailures": 0,
+  "parseFailures": 55,
   "offers": [
-    {
-      "merchant": "Serta",
-      "percentBack": 70,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UE55SkIvSUVLbitpZFBWNGxRNVhVeUNVaDFDcXhLa21zbGxNZDArLzRESUd2WHVJOXNtRDVpRzR3TndsREFWVmRwRUtWc1NUZXFkK0NCelo2Zk9LRmF5ZlI0d2JheGRnUU5KU0x3PT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/serta.com/e3e056c4-c0de-4876-a135-176a2c752b97.gif",
-      "source": "single-use",
-      "emailMessageId": "1a1b6ec609b3ce44",
-      "emailDate": "2026-11-07T16:51:46.000Z"
-    },
     {
       "merchant": "SHEIN",
       "percentBack": 40.5,
@@ -30,6 +16,20 @@
       "source": "single-use",
       "emailMessageId": "1a1ab071fcaa46e4",
       "emailDate": "2026-11-05T09:25:32.000Z"
+    },
+    {
+      "merchant": "Serta",
+      "percentBack": 35,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6R014aEpURkJxS0tIRmlyQnhDaG1rRktMSXJCajlIeCtBb1VXVjM3QUZBNEVGOFVJOXBRSUdtdDRpMXN4RmlTb3AxV1ExUFAzeW1lU3cwUy9qUjVwcXFiWGRGNXkrS3o2U3FBYktnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/serta.com/e3e056c4-c0de-4876-a135-176a2c752b97.gif",
+      "source": "single-use",
+      "emailMessageId": "1a1b897102125c12",
+      "emailDate": "2026-11-08T00:37:49.000Z"
     },
     {
       "merchant": "Viator, a Tripadvisor company",
@@ -298,46 +298,18 @@
       "emailDate": "2026-11-05T15:36:09.000Z"
     },
     {
-      "merchant": "Petco",
-      "percentBack": 14,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-11-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WDZjQ1M4cVZzVDlTWUNUSVI5OTFlTE5uYzdzYWJsaW5VaXQvRGZsTmFydnV0Q2ZkSStSQVhSNUFnVjE1RWtiZXlabUhmdW1kTkcvVXBTZzBtWFZlMFhtTDFGMFBkYlFDVmdQQUxRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petco.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1b881c79b53b78",
-      "emailDate": "2026-11-08T00:14:34.000Z"
-    },
-    {
       "merchant": "Walgreens",
-      "percentBack": 14,
+      "percentBack": 13,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
-      "expiresAt": "2026-11-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QitsNE15cUdyNU1mOG1ROUhSMHQ0ajJsMUJKRlhrSnlHK0pRSFpLUGdTcVBLbjV0dVdyM0ZlRUlVai9aY3d4VFY0VHE3ZDdRSDEraFk3REJRQkk2b3llMERqYXhWZUdWOGw5RjBRPT0/runV3dl",
+      "expiresAt": "2026-11-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MURNQ0IzODkvQ2FnLzgyMEM5VXhITTJzamlCZjBZeEtGR3dqd2RIS0F2V1FoVGs5eW4raXczMEFmcXpEVG1HR0kyMG9jVlNUcFlGUHZCNnM4VTY0WlU0c0luMG5oZnQxQXkvczVBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walgreens.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a1b881c79b53b78",
-      "emailDate": "2026-11-08T00:14:34.000Z"
-    },
-    {
-      "merchant": "Sam's Club",
-      "percentBack": 13.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OThMR2U4Uk5zSEcza3V5bDVRTDFpeS9qQTl0U2ZnSVF5MU5UcDdPUFRwQXhxZDlNQnVMNG9Kd0RaLzV2MERrVkpjb2I5K0VaM1RrbkxGckVndnBKdGt3eS9sdU4vakRMUkgvZVFBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=samsclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1ab071fcaa46e4",
-      "emailDate": "2026-11-05T09:25:32.000Z"
+      "emailMessageId": "1a1ba84a529cd48a",
+      "emailDate": "2026-11-08T09:36:56.000Z"
     },
     {
       "merchant": "Municipal",
@@ -352,6 +324,20 @@
       "source": "single-use",
       "emailMessageId": "1a1abb4ce6b2c41d",
       "emailDate": "2026-11-05T12:35:15.000Z"
+    },
+    {
+      "merchant": "Petco",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZmIwd1pmeW9ZbFNlRW95d0hKZ2tVNXJ6NTFtS0JoSFVJS2tVRG02NlYwWEZlQzBtYklaVC93b3ZaaHM5TE5weDgrNVdDeG5BYmRNU3RsTHMxVFBUbzAyamczL2llRUZ1NmZhZ1dRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petco.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1ba84a529cd48a",
+      "emailDate": "2026-11-08T09:36:56.000Z"
     },
     {
       "merchant": "The North Face",
@@ -629,6 +615,20 @@
       "expiresAt": "2026-11-11T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bW8vcklZSnZQcjVIendBcnhtanpvNmR5TW11eTRwNlFETUZZa0xTNno0QVRKOC9jRHpBTWlpdmNmdldQSVY5UGk1M0NPZWNGc3RmcUR3Z3VtY21jTDFEVFFMYjJ6dVhDbmtLRmR3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lowes.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1b6ec609b3ce44",
+      "emailDate": "2026-11-07T16:51:46.000Z"
+    },
+    {
+      "merchant": "Sam's Club",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WUhHK25TN09rTkNLcUl0bzd5VmpkbnFNQnZrN0VaK214OGtRQzVTZTRLdlNuemc4ZUpwajN0ckZ3cFNSa3g3cmg2aUsvQ2dhTkU1dFNadTd4RncwcUVvVFpRb0hjK1hSTjhsY1p3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=samsclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
       "emailMessageId": "1a1b6ec609b3ce44",
       "emailDate": "2026-11-07T16:51:46.000Z"
