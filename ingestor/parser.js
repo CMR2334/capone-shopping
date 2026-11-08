@@ -164,7 +164,11 @@ function nearestGiftCardMerchant($, $el) {
   for (let i = 0; i < 12; i++) {
     if (!cur.length || cur.is('body, html')) break;
     const text = cur.text().replace(/\s+/g, ' ').trim();
-    const merchant = text.match(/Redeem\s+(?:up\s+to\s+)?\$[\d,.]+\s+(.+?)\s+gift\s+card\b/i)?.[1]?.trim();
+    // Cheerio concatenates adjacent email-table cells without inserting a
+    // space, yielding e.g. "Chewy gift cardPURINA". The title already has a
+    // highly specific "Redeem $amount … gift card" shape, so do not require
+    // a word boundary after "card" here.
+    const merchant = text.match(/Redeem\s+(?:up\s+to\s+)?\$[\d,.]+\s+(.+?)\s+gift\s+card/i)?.[1]?.trim();
     if (merchant) return merchant;
     cur = cur.parent();
   }

@@ -66,10 +66,11 @@ test("parses a deeply nested gift-card Today's Top Offer", () => {
       <div class="hero">
         <p>Today's Top Offer</p>
         <p>Redeem <span>$25 Chewy gift card</span></p>
-        <div><div><div><div><div>
+        <table><tbody><tr><td><div><div><div><div>
+          <p>PURINA PRO PLAN Adult Sensitive Skin</p>
           <p>+ Earn 25% back</p>
           <a href="https://example.com/earn-rate">No thanks, only earn 25% back</a>
-        </div></div></div></div></div>
+        </div></div></div></div></td></tr></tbody></table>
         <p>Rewards offer ends on Nov 8 at 11:59 PM PST.</p>
       </div>
     </body></html>
