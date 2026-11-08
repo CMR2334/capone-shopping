@@ -12,6 +12,7 @@ const RAW_DIR = path.join(ROOT, 'ingestor', 'raw');
 const SENDER = 'hello@capitaloneshopping.com';
 const LOOKBACK_DAYS = 30;
 const SAVE_RAW = process.env.SAVE_RAW === '1';
+const GMAIL_RETRY_DELAYS_MS = [2000, 4000, 8000, 16000, 32000];
 
 function getOAuthClient() {
   let client_id, client_secret, refresh_token;
@@ -54,7 +55,7 @@ async function main() {
     // the whole run — catch per-message, count it, and keep going.
     let html = null;
     try {
-      const msgRes = await gmail.users.messages.get({ userId: 'me', id: msg.id, format: 'full' });
+      const msgRes = await getMessageWithRetry(gmail, msg.id);
       const internalDate = parseInt(msgRes.data.internalDate, 10);
       const subject = headerValue(msgRes.data.payload.headers, 'Subject');
       html = extractHtml(msgRes.data.payload);
@@ -123,6 +124,29 @@ function headerValue(headers, name) {
   return headers?.find(h => h.name.toLowerCase() === name.toLowerCase())?.value;
 }
 
+function isRetryableGmailError(err) {
+  const status = err?.code || err?.response?.status;
+  const reason = [
+    err?.message,
+    err?.response?.data?.error?.message,
+    ...(err?.response?.data?.error?.errors || []).map(item => item.reason),
+  ].filter(Boolean).join(' ');
+  return status === 429 || status >= 500 || /quota exceeded|rate.?limit/i.test(reason);
+}
+
+async function getMessageWithRetry(gmail, id) {
+  for (let attempt = 0; ; attempt++) {
+    try {
+      return await gmail.users.messages.get({ userId: 'me', id, format: 'full' });
+    } catch (err) {
+      const delay = GMAIL_RETRY_DELAYS_MS[attempt];
+      if (!delay || !isRetryableGmailError(err)) throw err;
+      console.warn(`  Gmail quota/service limit for ${id.slice(0, 8)} — retrying in ${delay / 1000}s`);
+      await new Promise(resolve => setTimeout(resolve, delay));
+    }
+  }
+}
+
 function mergeOffers(offers, now) {
   const timestamp = value => {
     const parsed = Date.parse(value || '');
@@ -163,4 +187,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { mergeOffers };
+module.exports = { mergeOffers, isRetryableGmailError };

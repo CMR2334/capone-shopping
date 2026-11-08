@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { mergeOffers } = require('../ingestor/ingest');
+const { mergeOffers, isRetryableGmailError } = require('../ingestor/ingest');
 
 function offer(percentBack, expiresAt, emailDate, overrides = {}) {
   return {
@@ -44,4 +44,10 @@ test('keeps the newest active flat-dollar offer', () => {
   const lower = offer(null, '2026-07-26T07:00:00.000Z', '2026-07-22T05:14:52.000Z', { dollarBack: 10 });
 
   assert.deepEqual(mergeOffers([high, lower], now), [lower]);
+});
+
+test('retries Gmail quota and transient service errors, but not authentication errors', () => {
+  assert.equal(isRetryableGmailError({ code: 429, message: 'Quota exceeded' }), true);
+  assert.equal(isRetryableGmailError({ response: { status: 503 } }), true);
+  assert.equal(isRetryableGmailError({ code: 401, message: 'Invalid Credentials' }), false);
 });

@@ -16,7 +16,7 @@ Note: `ingest: refresh offers …` commits are automated — they only update `p
 ## 2026-11-08 — Fix: prefer the newest email rate for each merchant
 **Commit:** see `git log --grep="prefer newest email rate"`
 **Files:** `ingestor/ingest.js`, `test/ingest.test.js`, `public/index.html`, `package.json`, `CHANGELOG.md`, `HANDOFF.md`
-**What changed:** Capital One can replace an emailed offer before its advertised expiry. The ingestor previously retained the highest rate across the prior 30 days, which could keep a superseded 70% rate even after newer emails quoted a lower current rate. It now selects the newest active email for each merchant, with expiry only breaking same-email-time ties. Cards now identify every displayed rate as email-sourced and tell the user to verify the live rate before checkout. This reduces stale cards but cannot discover a rate Capital One changes without sending an email.
+**What changed:** Capital One can replace an emailed offer before its advertised expiry. The ingestor previously retained the highest rate across the prior 30 days, which could keep a superseded 70% rate even after newer emails quoted a lower current rate. It now selects the newest active email for each merchant, with expiry only breaking same-email-time ties. Cards now identify every displayed rate as email-sourced and tell the user to verify the live rate before checkout. This reduces stale cards but cannot discover a rate Capital One changes without sending an email. Gmail quota and transient service errors now wait with bounded exponential backoff instead of dropping the remaining source messages and publishing a partial feed.
 **Revert:** use the commit shown by the `git log` command above
 
 ---
