@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-07T23:42:35.996Z",
-  "sourceCount": 79,
+  "lastUpdated": "2026-11-08T00:17:48.155Z",
+  "sourceCount": 80,
   "parseFailures": 0,
   "offers": [
     {
@@ -44,6 +44,20 @@
       "source": "single-use",
       "emailMessageId": "1a1ac5a6cf19820c",
       "emailDate": "2026-11-05T15:36:09.000Z"
+    },
+    {
+      "merchant": "Tuft + Paw",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6YStXVjVwWkxYdm03NXlpaWxtdmlaR05sZG5qQUFHZ3hnUUc4dFZ5OCtKdkZCL0Z6S0pta1ZYS0doTU9iaEJuWnE4dnhPNHBXeWN3NnFmK3hHeXZqZllQejl0L2tuMERMMGIxZVRRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tuftandpaw.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1b881c79b53b78",
+      "emailDate": "2026-11-08T00:14:34.000Z"
     },
     {
       "merchant": "Thousand Fell",
@@ -256,6 +270,34 @@
       "emailDate": "2026-11-05T15:36:09.000Z"
     },
     {
+      "merchant": "Petco",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WDZjQ1M4cVZzVDlTWUNUSVI5OTFlTE5uYzdzYWJsaW5VaXQvRGZsTmFydnV0Q2ZkSStSQVhSNUFnVjE1RWtiZXlabUhmdW1kTkcvVXBTZzBtWFZlMFhtTDFGMFBkYlFDVmdQQUxRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petco.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1b881c79b53b78",
+      "emailDate": "2026-11-08T00:14:34.000Z"
+    },
+    {
+      "merchant": "Walgreens",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QitsNE15cUdyNU1mOG1ROUhSMHQ0ajJsMUJKRlhrSnlHK0pRSFpLUGdTcVBLbjV0dVdyM0ZlRUlVai9aY3d4VFY0VHE3ZDdRSDEraFk3REJRQkk2b3llMERqYXhWZUdWOGw5RjBRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walgreens.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1b881c79b53b78",
+      "emailDate": "2026-11-08T00:14:34.000Z"
+    },
+    {
       "merchant": "Sam's Club",
       "percentBack": 13.5,
       "dollarBack": null,
@@ -361,11 +403,25 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SE56NXNQZ2VhVmhBMFN2dTFPRUJxR0xUNk1wT3Vadm5TNklwSXlUMTlXL3pRdk0rdTE4VG45QTBlcUJXWmd4T2EvR3VIeGIvYXBmdUVGS0IrZnRJMityOFJzOTF0bXlUZGk2YW93PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QU9ieDV3bCtYbXl2VVdzQkxRbVp3M2c3c0tibmlaZVArdXAxZ2FRL1FPdi9GVnhVcVFtMW84cGNSVklvckRoekRqaURDQkl1bFVnSW1DcTRmUXFzV1dtWXpsMTlKck5zUHdwQ3JBPT0/runV3dl",
       "logoUrl": "https://i.capitaloneshopping.com/570x236,logowalmart.com,ssSifoL74AniwrdSsREI6x2c18DoS9BIiRACAcjXRrk8/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1792431893737.png",
       "source": "single-use",
-      "emailMessageId": "1a1b6ec609b3ce44",
-      "emailDate": "2026-11-07T16:51:46.000Z"
+      "emailMessageId": "1a1b881c79b53b78",
+      "emailDate": "2026-11-08T00:14:34.000Z"
+    },
+    {
+      "merchant": "Zesty Paws",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6M3ZGSFNOTlRjMTBPVkJSZGVobDN3YTBkWktpd0FCbSsxaWdrZG5SdkZsaStMakY0Yy9SMStLNlJKY3BTQXZHNWtrV2gybytEa2xVb1kzRkJCVU5KN2REL3g0eVZZUkdWclB3a3NRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=zestypaws.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1b881c79b53b78",
+      "emailDate": "2026-11-08T00:14:34.000Z"
     },
     {
       "merchant": "Hobby Lobby",
@@ -534,6 +590,20 @@
       "source": "single-use",
       "emailMessageId": "1a1ab071fcaa46e4",
       "emailDate": "2026-11-05T09:25:32.000Z"
+    },
+    {
+      "merchant": "PetSmart",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-11T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6U3VSRFVDR2JoOWo3OXB0cWEvOUVodWt0ay85WnBPMnhkWG0xQjJZTFFJNS9URXlUeFpYRFN4NE93b0VQdk9kWWI3RktsQkE3YWFIZ0JSM1FFUGFpTFM3R01iRGNwTEtDN0dNdVFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petsmart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1b881c79b53b78",
+      "emailDate": "2026-11-08T00:14:34.000Z"
     },
     {
       "merchant": "Kohl's",
