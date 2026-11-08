@@ -124,31 +124,24 @@ function headerValue(headers, name) {
 }
 
 function mergeOffers(offers, now) {
-  const rewardValue = o => o.percentBack != null ? o.percentBack : (o.dollarBack ?? 0);
   const timestamp = value => {
     const parsed = Date.parse(value || '');
     return Number.isNaN(parsed) ? 0 : parsed;
   };
   const shouldReplace = (existing, candidate) => {
-    const sameRewardType = (existing.percentBack != null) === (candidate.percentBack != null);
-    const existingValue = rewardValue(existing);
-    const candidateValue = rewardValue(candidate);
-
-    // Percentage and flat-dollar rewards are only directly comparable with offers
-    // of the same type. Preserve the old expiry-first behavior for mixed types.
-    if (sameRewardType && candidateValue !== existingValue) {
-      return candidateValue > existingValue;
-    }
+    // Email offers are snapshots, not a promise that Capital One will keep the
+    // quoted rate live. A later email is therefore the best available evidence
+    // for a merchant; keeping a higher rate from an older email produced stale
+    // cards when Capital One lowered or replaced an offer.
+    const existingEmail = timestamp(existing.emailDate);
+    const candidateEmail = timestamp(candidate.emailDate);
+    if (candidateEmail !== existingEmail) return candidateEmail > existingEmail;
 
     const existingExpiry = timestamp(existing.expiresAt);
     const candidateExpiry = timestamp(candidate.expiresAt);
     if (candidateExpiry !== existingExpiry) return candidateExpiry > existingExpiry;
 
-    if (!sameRewardType && candidateValue !== existingValue) {
-      return candidateValue > existingValue;
-    }
-
-    return timestamp(candidate.emailDate) > timestamp(existing.emailDate);
+    return false;
   };
 
   const byMerchant = new Map();

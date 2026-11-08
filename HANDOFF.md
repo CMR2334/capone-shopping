@@ -63,8 +63,9 @@ Gmail (a dedicated account)
 
 - **Frontend:** `public/index.html` — all HTML/CSS/JS in one file. Vanilla, no bundler.
 - **Ingestor:** Node, runs in CI. Reads 30 days of mail, parses, drops expired offers,
-  then merges by merchant (highest active same-type reward wins; ties use later expiry,
-  then newer email), and writes `public/offers.json`.
+  then merges by merchant using the newest active email (ties use later expiry), and
+  writes `public/offers.json`. Email rates are snapshots and Capital One may replace
+  them before the stated expiry, so the app labels them as rates to verify.
 - **Sync worker:** Cloudflare Worker + KV (`OFFERS_KV`, id `84ae9a9ba9c944b0848d4c976152ded5`).
   REST: `GET/PUT /state` (Bearer token), `GET /action` (email links), `GET /health`.
 

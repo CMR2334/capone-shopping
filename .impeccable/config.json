@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "dark-glow",
+        "value": "*",
+        "files": [
+          "public/index.html"
+        ],
+        "createdAt": "2026-11-08T15:14:10.269Z",
+        "reason": "Agent: the compact green sync-dot halo is a functional active-connection indicator, not decorative elevation."
+      }
+    ]
+  }
+}

@@ -16,7 +16,7 @@
     --card: #ffffff;
     --ink: #0f1d33;
     --ink-soft: #2c3a51;
-    --muted: #74757b;
+    --muted: #66686e;
     --rule: rgba(15, 29, 51, 0.10);
     --rule-soft: rgba(15, 29, 51, 0.06);
     --navy: #003a6c;
@@ -263,6 +263,12 @@
     white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
     transition: color 0.15s ease;
   }
+  .email-rate-note {
+    margin-top: 2px;
+    color: var(--ink-soft);
+    font-size: 11px;
+    line-height: 1.2;
+  }
   .expiry-block {
     position: absolute;
     right: 14px;
@@ -433,7 +439,7 @@
 
 <script>
 (() => {
-  const APP_VERSION = 'v0.2.3'; // bump with package.json on each meaningful release
+  const APP_VERSION = 'v0.2.4'; // bump with package.json on each meaningful release
   const grid = document.getElementById('grid');
   const empty = document.getElementById('empty');
   const emptyTitle = document.getElementById('emptyTitle');
@@ -712,6 +718,7 @@
           <div class="info">
             <div class="percent">${rewardHtml}</div>
             <div class="merchant">${escapeHtml(o.merchant)}</div>
+            <div class="email-rate-note">Email rate — verify current rate</div>
           </div>
           <div class="expiry-block">${expiryContent}</div>
           <div class="actions">${actionsHtml}</div>
