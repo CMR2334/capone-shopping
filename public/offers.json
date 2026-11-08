@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T15:41:57.791Z",
+  "lastUpdated": "2026-11-08T15:47:05.203Z",
   "sourceCount": 82,
   "parseFailures": 0,
   "offers": [
@@ -86,6 +86,20 @@
       "source": "single-use",
       "emailMessageId": "1a1b5e3b55a5cbb7",
       "emailDate": "2026-11-07T12:02:40.000Z"
+    },
+    {
+      "merchant": "Chewy gift cardPURINA PRO PLAN Adult Sensit…+ Earn 25% backRewards offer ends on Nov 8 at 11:59 PM PST.Redeem",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cDZML1FmN29tZ1RmSmZMRTEvUG00bzZPQ21rWklFSlVqT1RDTGlkQjBYZEhvYVhGUmNQcFhTWlBXKytJNlhxeEZpRFVybVpMMzVxTHFaaWF2ZnRHTHlzRFVSTXREWjRwOG5PSkRnPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sUJPN-OvjHI8OlacTYP19KJaeS86C0FMbeUisBBb59Dg/https://image.chewy.com/catalog/general/images/moe/0671ffce-cb9e-7b85-8000-c4f526193d1c._AC_SX500_SY400_QL75_V1_.jpg",
+      "source": "todays-top",
+      "emailMessageId": "1a1ba84a529cd48a",
+      "emailDate": "2026-11-08T09:36:56.000Z"
     },
     {
       "merchant": "Disney Store",
