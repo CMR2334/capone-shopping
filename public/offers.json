@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T15:23:17.711Z",
+  "lastUpdated": "2026-11-08T15:41:57.791Z",
   "sourceCount": 82,
   "parseFailures": 0,
   "offers": [
@@ -16,34 +16,6 @@
       "source": "single-use",
       "emailMessageId": "1a1ab071fcaa46e4",
       "emailDate": "2026-11-05T09:25:32.000Z"
-    },
-    {
-      "merchant": "Serta",
-      "percentBack": 35,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6R014aEpURkJxS0tIRmlyQnhDaG1rRktMSXJCajlIeCtBb1VXVjM3QUZBNEVGOFVJOXBRSUdtdDRpMXN4RmlTb3AxV1ExUFAzeW1lU3cwUy9qUjVwcXFiWGRGNXkrS3o2U3FBYktnPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/serta.com/e3e056c4-c0de-4876-a135-176a2c752b97.gif",
-      "source": "single-use",
-      "emailMessageId": "1a1b897102125c12",
-      "emailDate": "2026-11-08T00:37:49.000Z"
-    },
-    {
-      "merchant": "Viator, a Tripadvisor company",
-      "percentBack": 34,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UFRKQVliWU1TbS9QMVRYeHV5T0g5T1BmUzVFQ2JQTFp4Mll2Z0RVNGVlOXFKTkNUcUROMmRzcjNodEV5UTNEWDd6TGVieDhjbm5pWTljd01oY2JnVFJtVFZsK3Qxd1pOdkxDa0x3PT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/viator.com/21b0b993-944b-45e9-8755-90818d364da5.gif",
-      "source": "single-use",
-      "emailMessageId": "1a1ac5a6cf19820c",
-      "emailDate": "2026-11-05T15:36:09.000Z"
     },
     {
       "merchant": "Tuft + Paw",
@@ -268,20 +240,6 @@
       "source": "single-use",
       "emailMessageId": "1a1b5e3b55a5cbb7",
       "emailDate": "2026-11-07T12:02:40.000Z"
-    },
-    {
-      "merchant": "Best Buy",
-      "percentBack": 15,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-10T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UmUvekxwM3dkSkdTdUhTa0g0UERKY3ZGcjZDNVN5bXpybzlGNitYbkNVRUFaZ3dRcTBZZDlBVkdPOS84aWFwYUF0VmNYNnN6VW9KcGRBMUcvYzgvd2VxR09qY1Jkb3YwQU4yUTlnPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/bestbuy.com/25cd0703-8f5f-4e73-b18b-a57e0f1f09b5.gif",
-      "source": "single-use",
-      "emailMessageId": "1a1b1d14873963fa",
-      "emailDate": "2026-11-06T17:04:04.000Z"
     },
     {
       "merchant": "HalloweenCostumes.com",
@@ -520,6 +478,20 @@
       "source": "single-use",
       "emailMessageId": "1a1b5e3b55a5cbb7",
       "emailDate": "2026-11-07T12:02:40.000Z"
+    },
+    {
+      "merchant": "Best Buy",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Q0VFd2lxeHBnbGQ0Y3RZVmN0aWhtOUgwdDBQNWtSVjZwYjRjVUEyU3ZGZ1dLWGNRZWdRczN0dkZhMlRENDYxR0lPV3dMRTZqRXd3WC9iV3pydU1FU0I5enREVjhIUTY1WHBqYVpRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestbuy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1ab071fcaa46e4",
+      "emailDate": "2026-11-05T09:25:32.000Z"
     },
     {
       "merchant": "Samsung",
