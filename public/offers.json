@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-08T16:00:28.083Z",
-  "sourceCount": 83,
+  "lastUpdated": "2026-11-08T16:18:27.877Z",
+  "sourceCount": 84,
   "parseFailures": 0,
   "offers": [
     {
@@ -28,20 +28,6 @@
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6d3V3c3l6Zit4OEpwMG5adWNnTDh6cU9NM1pQTGpTN3RUV01OZGl0N0c2M21kbDBmVnV2OXIzVDN5UUJnSjRxREJXQUNRd3dzTkhOZWtKWG9tVUtKajB6eGFwVHFSTHBkandpWWtBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=beautyrest.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a1bbdc06d0dd8c1",
-      "emailDate": "2026-11-08T15:52:00.000Z"
-    },
-    {
-      "merchant": "Chewy",
-      "percentBack": 30,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6b2EyYUpJK3RTbit4RGFLRTFwKzhEaGZ1VjZEZWJiWVIrWlAxR0MxZzgvaXFBYW5QTktWTmVqc1BJOWlFNnFBcUdTSWNNWjNQdzNRbXVGZFpWa1YwcEw0ZmMvemVHcjRha1l0anV3PT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/chewy.com/bc1e7bbb-2591-4f73-8fd8-02aaee59b2d5.gif",
-      "source": "todays-top",
       "emailMessageId": "1a1bbdc06d0dd8c1",
       "emailDate": "2026-11-08T15:52:00.000Z"
     },
@@ -122,12 +108,26 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-11-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QWQwb1AxckxLU3dTQWg5NFVCSEUweWhOOGx3VXdlZTl1ZGQ0STlnKy9HMDFmeS9YcDB3cnNnUWN6TnUxK2tyWE5Da2d3aytIalZaamlIRWJ3aXpabVdxLy9vVTcyUFh2ZS9wZlNRPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/570x236,logodisneystore.com,sL8t1oNK90ZPxAsclPgkxHpfhQz2bTIEUxVV0g-ISnG4/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1792444917161.png",
+      "expiresAt": "2026-11-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VkFSN01tK01HU0dxSG0zU0p1c05SdHVoekFqWHRCTEZlanVtb1VKdVJZeVc4b2ZGdmJUVld0V1JJMFJUM1l6bzlkWjM1SFQ0OWpidlJQbytWR0sxVm02TFJpVkZQYkp5eWE2T0pBPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logodisneystore.com,sB9pwiVhDrn67N9t82cca6NLdtszkeHzUccH3SvfNQtg/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/6c60050d8cb8b3a9c7009c36.jpeg",
       "source": "single-use",
-      "emailMessageId": "1a1b4f7260cd080f",
-      "emailDate": "2026-11-07T07:44:18.000Z"
+      "emailMessageId": "1a1bbe565b4bebe9",
+      "emailDate": "2026-11-08T16:02:14.000Z"
+    },
+    {
+      "merchant": "Chewy",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-09T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cW9Hd0cwOWhmdEZ5QWEvcTJSSGh3RHFlVlVSSHgrL2RoOWNuRi84R3lINEpQcjh2eXVtK2c5ZnVsU1NPQXNwczdQVm12MVZWSktURFpUTUlLWmdpczRqdHBWamNqV2ZqZytrejJ3PT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/chewy.com/bc1e7bbb-2591-4f73-8fd8-02aaee59b2d5.gif",
+      "source": "todays-top",
+      "emailMessageId": "1a1bbe565b4bebe9",
+      "emailDate": "2026-11-08T16:02:14.000Z"
     },
     {
       "merchant": "Vivint",
@@ -156,6 +156,34 @@
       "source": "single-use",
       "emailMessageId": "1a1b154e93bbd36b",
       "emailDate": "2026-11-06T14:48:14.000Z"
+    },
+    {
+      "merchant": "Spirit Jersey",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VlFRWEZhcVpnRmwraEhZWEpEV3VqaTB6ZUpHcEQ3N0ZKTWlUdWFCRFA0MUZCYi9uUXpOcWpzMlNiUU1OeDZ2SUNEVDdXV21LU1hoTVRWNU5TMzBSM1pSYVd0L2lyQjhQUnhJckRRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spiritjersey.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1bbe565b4bebe9",
+      "emailDate": "2026-11-08T16:02:14.000Z"
+    },
+    {
+      "merchant": "Kidrobot",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6a0ZZUUhHa1ZnZlZPcDhpK3ZKbjhlbEdjeTNzM0pPZitET3BRUFEvQ09KbVdhSXhPK0dxZHJhcysrWFdTOVJmbGZ2OWNWeWJVVXBwaDI5OXNOcUpUNHJrZlF6OXRwZ1JRem1nR1hnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=kidrobot.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1bbe565b4bebe9",
+      "emailDate": "2026-11-08T16:02:14.000Z"
     },
     {
       "merchant": "Puffy Mattress",
@@ -214,32 +242,32 @@
       "emailDate": "2026-11-07T07:44:18.000Z"
     },
     {
-      "merchant": "Kidrobot",
-      "percentBack": 20,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-11-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NDFNRGRNOEIwb0VNNWdOTzZnaUwzUUJrK3ZMZlFTVUxORVVpMW14S0pxb0NSaVZTQWY4NjUzaHFWYjMyMzJvaTFhd2JPWnNZelVHek4vUEhFdE1LbUoyWHZPYll2KzdsRjZSTlRRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=kidrobot.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1b4f7260cd080f",
-      "emailDate": "2026-11-07T07:44:18.000Z"
-    },
-    {
       "merchant": "Funko",
-      "percentBack": 19.5,
+      "percentBack": 18.5,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": 2,
       "lastViewed": null,
-      "expiresAt": "2026-11-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cjlZc3JnckhHOHVhd2IxNUlDTXREMkZKaGhKWGRZTXlPQ2FaUzE1NXBzb2FIOXpESmdmNHZVRWhXTmxrNDhYTFY0UTRlUmFPRnV4UDVvTk5rOHVqZzdTL1p2TnZkZm1VK2Z0dTRBPT0/runV3dl",
+      "expiresAt": "2026-11-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Nkh5cytobWMzQ05pa2ttTjgxY1lRRERINjk1azRuYllETFdKdE5HWUoyUExPNFI4SkFvYWk4VWplbE1aRVlCdnlkV3dNZTJVbEE2cUd1Q1VwTmU4enRXNEFNVTJpNGVmNHJXeW1BPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=funko.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a1b4f7260cd080f",
-      "emailDate": "2026-11-07T07:44:18.000Z"
+      "emailMessageId": "1a1bbe565b4bebe9",
+      "emailDate": "2026-11-08T16:02:14.000Z"
+    },
+    {
+      "merchant": "Lenovo",
+      "percentBack": 16.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6c3k2L2VkcE1tMzhTa0MwRVFKOVRrS1ZzQmhHMGJSMXJwb3Z2TGpxV2I4Z25ZZlpJemN2SnBjVlNlYVBRVjI2WG5aNGxCTU1xb2diN1ROUGlEMG1USnZmczNaeUM2U0xkM3FESHhnPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logolenovo.com,sOUxNFlXCkb2ztsKiWU3fsTGrjYH6KYG73qMnlE1l8As/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/c8037a18af76e2bab32e42c5.png",
+      "source": "single-use",
+      "emailMessageId": "1a1bbe565b4bebe9",
+      "emailDate": "2026-11-08T16:02:14.000Z"
     },
     {
       "merchant": "Serta",
@@ -564,20 +592,6 @@
       "emailDate": "2026-11-07T12:02:40.000Z"
     },
     {
-      "merchant": "Best Buy",
-      "percentBack": 9,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-11-09T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Q0VFd2lxeHBnbGQ0Y3RZVmN0aWhtOUgwdDBQNWtSVjZwYjRjVUEyU3ZGZ1dLWGNRZWdRczN0dkZhMlRENDYxR0lPV3dMRTZqRXd3WC9iV3pydU1FU0I5enREVjhIUTY1WHBqYVpRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestbuy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1ab071fcaa46e4",
-      "emailDate": "2026-11-05T09:25:32.000Z"
-    },
-    {
       "merchant": "Samsung",
       "percentBack": 8,
       "dollarBack": null,
@@ -654,12 +668,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-11-11T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dHROWHU1TEk5NzVjdGVaQVRRdDhnMktISG1OcFMyMElQNGtNbkZYWWNyT2NialB0aXVUYUhKa0dqR1duWXdkSXRGaWl4eEIybTVZbm54VDZRbHdab2JsNEQvZmRzejF6YkJtbW93PT0/runV3dl",
+      "expiresAt": "2026-11-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OVRaak1CTFJWa0NEN0dWTExGL09kbStuZ05zMVk0Skowcmg1UEptNzIwWVo4YlI2angyM0tTVjd1QVA5YUNPNnRra1d2UXdMQk9tdjBQRFNMZTZ3SFhhQ3Q5bHM2VmlqbVRSczZ3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lego.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a1b4f7260cd080f",
-      "emailDate": "2026-11-07T07:44:18.000Z"
+      "emailMessageId": "1a1bbe565b4bebe9",
+      "emailDate": "2026-11-08T16:02:14.000Z"
     },
     {
       "merchant": "Lowe's",
@@ -758,6 +772,20 @@
       "source": "single-use",
       "emailMessageId": "1a1ab071fcaa46e4",
       "emailDate": "2026-11-05T09:25:32.000Z"
+    },
+    {
+      "merchant": "Best Buy",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-12T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6M1B4bmwycWF5NGRQTU1YdFZLOFg0TWJMRXNXR2FUc0RTeXdOaGkrOU12UkRkOWpDS1JyVHVxc0hhL1VGY0VJOHdlN3EyOHgzdzg1dldBUlRBd1NTL3MxWTIyNjdPdDJRSEc5WDNRPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logobestbuy.com,swHxEfPiJJbpjdPR3hXFKVwHLabPLANeQqW6zBYhaBaw/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1793195502844.png",
+      "source": "single-use",
+      "emailMessageId": "1a1bbe565b4bebe9",
+      "emailDate": "2026-11-08T16:02:14.000Z"
     },
     {
       "merchant": "PetSmart",
