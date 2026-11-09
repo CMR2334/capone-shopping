@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-09T09:18:27.522Z",
-  "sourceCount": 86,
+  "lastUpdated": "2026-11-09T10:18:31.083Z",
+  "sourceCount": 87,
   "parseFailures": 0,
   "offers": [
     {
@@ -198,6 +198,20 @@
       "source": "single-use",
       "emailMessageId": "1a1b4f7260cd080f",
       "emailDate": "2026-11-07T07:44:18.000Z"
+    },
+    {
+      "merchant": "Instacart",
+      "percentBack": 19.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6a3F1OWtBajJsQXJ6alRHK3kwMmZvcHhqa2VVRDJNRHEzRWRUTjlMT2tXTDdoUFc3OHg3cDV1NytERUNsdHRWNC9XaFRLKzdtU1JnYkRONkY2cXhlanoxMkcrdVZiekFob2Rjc0NBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1bfa508e0962ad",
+      "emailDate": "2026-11-09T09:30:26.000Z"
     },
     {
       "merchant": "Funko",
@@ -424,6 +438,20 @@
       "emailDate": "2026-11-07T07:44:18.000Z"
     },
     {
+      "merchant": "Blue Apron",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6KzhIZUdnOXIxSmxIVG12RXVVYXA2WWdQRnVDN1ExK1ExeVJ1dlMxYkpvMXlJUWViNjVlSjA0aUZZRWNyejNaa1J2ZXBDMXd6Q0w2Tm10SCtEOTZmTWUyRnlKY3NIbHNnNlBLNFlBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=blueapron.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1bfa508e0962ad",
+      "emailDate": "2026-11-09T09:30:26.000Z"
+    },
+    {
       "merchant": "Zesty Paws",
       "percentBack": 10,
       "dollarBack": null,
@@ -464,6 +492,34 @@
       "source": "single-use",
       "emailMessageId": "1a1bdd8d1e192507",
       "emailDate": "2026-11-09T01:07:45.000Z"
+    },
+    {
+      "merchant": "Chewy",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bGhDQnhVVzdHY2FBVVlnSzE1ZGFpTmlVVTVJYW1mTGUrS2tvbU0ra0JoUGo5M3h6Rk9IMzFKamFlUVNqNGRWWWJJUmZTNFhQMnhNRUJmQW54SWdlNm8yZVRlRWxCcWxZTS9MNHBnPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sIDERi1drQzeImastj-F6TX9C_RFbyiKKUTPvhYyXMK0/https://image.chewy.com/catalog/general/images/moe/0671ffb1-82ed-7423-8000-cbf12d135f07._AC_SX500_SY400_QL75_V1_.jpg",
+      "source": "single-use",
+      "emailMessageId": "1a1bfa508e0962ad",
+      "emailDate": "2026-11-09T09:30:26.000Z"
+    },
+    {
+      "merchant": "Macy's",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-10T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UDRJS1VWV3NhTEJZOFpkK09iM2pHZ2ZSUlRHTUZTbmVWRXR2WGpHL0VlOGVzdmRZcmFjdXlYMnhPN1p2emZIc1Y4SHNBdzFuSmJLQmY3SFdHdlZwRzBxalV3MnNBZ1ErRmE0UE5BPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=macys.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "1a1bfa508e0962ad",
+      "emailDate": "2026-11-09T09:30:26.000Z"
     },
     {
       "merchant": "Hobby Lobby",
@@ -772,6 +828,20 @@
       "source": "single-use",
       "emailMessageId": "1a1bdd8d1e192507",
       "emailDate": "2026-11-09T01:07:45.000Z"
+    },
+    {
+      "merchant": "Uber Eats",
+      "percentBack": null,
+      "dollarBack": 48.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "November 7",
+      "expiresAt": "2026-11-13T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Y3dDRkxSeEh2aldXbUQrREQybWN0L3N2ZFIrbkRhNVZXRzNzNCt2UGEyNjlhYmxQZzlKOXpEWTUzbisxKzNqaDZqVFhjVXVjWGFKV0piWmE0eFBHM2wzbGdTNVR3SFhIcVAvNSt3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ubereats.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a1bfa508e0962ad",
+      "emailDate": "2026-11-09T09:30:26.000Z"
     },
     {
       "merchant": "Efax",
