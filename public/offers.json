@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-11T18:18:05.465Z",
-  "sourceCount": 93,
+  "lastUpdated": "2026-11-11T19:17:54.034Z",
+  "sourceCount": 94,
   "parseFailures": 0,
   "offers": [
     {
@@ -151,11 +151,25 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-12T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6U0ZDWm9qMFJNNEx0NE1aNXZqblhTczNxdHRqengrOUppVGhQdjhvV2JBNkRWR0NjdUJUSDNZM3BKRGpNMEorWjh1K1FiN0V2ZXVmNVNiOTEzZHM2MVQyMEF6N2pLQ1BYYUZOQjlnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VzhRQzdPc1EwUVppcFhid3J2VCswcE5ZRU5WTDdJdUE3L0dDNVlWOXJKMkpZZVVoc2hLYzAwUDVpa0tlNWRDK0tGaElmVjFiRDZneVFSaVRZYjg4MHhoWVdxMyt4b0tQV3o3dmd3PT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/us.trip.com/ed1456d9-3cc5-488a-8670-d870e6f51b6f.gif",
       "source": "todays-top",
-      "emailMessageId": "1a1cb94d7c53fd90",
-      "emailDate": "2026-11-11T17:08:11.000Z"
+      "emailMessageId": "1a1cc05c56aca37f",
+      "emailDate": "2026-11-11T19:11:31.000Z"
+    },
+    {
+      "merchant": "GE Appliances",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6STQvZ0htN01PSjY3b0xvc0UyWFlNM2wyNzRQTTNNaXBqSURuVDdsTlJMazA4UjhKYXBmbU9BYjM2b21qN1l2MjUrcG45dGU5UFVHWWtJbWk4My9NcmRDZWd4YmZGaStwOEg3NUdBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=geappliances.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1cc05c56aca37f",
+      "emailDate": "2026-11-11T19:11:31.000Z"
     },
     {
       "merchant": "PetCareRx",
@@ -282,6 +296,20 @@
       "source": "single-use",
       "emailMessageId": "1a1bdd8d1e192507",
       "emailDate": "2026-11-09T01:07:45.000Z"
+    },
+    {
+      "merchant": "Logitech",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QWhCSVFjTTI4N1FPZGV0UUp3NzU4cjhYQXNJOSt6NkdueHVJY3BON1dHZndkVkJzRms5bWFZRTF4WGRGWmtmOXZvcUdRTTRvQk1kbGw1TlN5RWlYLzRBLzgzTDd0Q1UyK0V3ZTN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=logitech.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1cc05c56aca37f",
+      "emailDate": "2026-11-11T19:11:31.000Z"
     },
     {
       "merchant": "PetMeds",
@@ -424,6 +452,34 @@
       "emailDate": "2026-11-10T19:07:58.000Z"
     },
     {
+      "merchant": "Whirlpool",
+      "percentBack": 13,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bTZCOWZKUTZkRUtENS9oOFFRM3Y1N0V5bDNSdmZrM2tZckhpMFkwTUFjb3R1eXlGV0RVdkJZMVBJZm9ndzZuTDJETGYzSncxazdPK1VObm1SNXlEMVRpRnhjTU0wVHZ4dU5hUHh3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=whirlpool.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1cc05c56aca37f",
+      "emailDate": "2026-11-11T19:11:31.000Z"
+    },
+    {
+      "merchant": "Abt.com",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6aW03ZlRKL1pNQ2hMVFl5c2p4NFpSNEl4Qmk2VHA0MDBiMGJuYlo1WFFzbm1LeW1IbWhHYk1CL1ljbTNLcC9RNFErM2g2d0VCMXNhNzZsbGdIcjJ0dDNIK2pEaCtSUUtRYUJIZm9nPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoabt.com,sSv48y1dXIg7kRZZ6HnH8sHNwuOEBAf8ih7OU7jz3aTY/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/6a7d4e995cf4579f7773bb34.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a1cc05c56aca37f",
+      "emailDate": "2026-11-11T19:11:31.000Z"
+    },
+    {
       "merchant": "Premium Bandai",
       "percentBack": 12,
       "dollarBack": null,
@@ -450,20 +506,6 @@
       "source": "single-use",
       "emailMessageId": "1a1c670e6ce2d963",
       "emailDate": "2026-11-10T17:10:47.000Z"
-    },
-    {
-      "merchant": "Abt.com",
-      "percentBack": 12,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-14T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Y1h3ZkZyRllCUDJpQUtGMnN0K3JKREgzcWFQVjlvY21Lc1lqakFnNGZvbStDUE01bHJ5QWxreStnVkRFSFdUNWN2VmJaNC80blRHZTFodm1YUDI0eDNlYUtYOHhrcDBRenlrMmJRPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoabt.com,slgMMIYitMCOL0D1DUCDoMXZ8XCa6ewm1SEYfSP26G2Y/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/ed8154488d0f3d65efb7362d.jpeg",
-      "source": "single-use",
-      "emailMessageId": "1a1c564e492383e8",
-      "emailDate": "2026-11-10T12:18:05.000Z"
     },
     {
       "merchant": "Titan",
@@ -592,6 +634,20 @@
       "emailDate": "2026-11-10T17:10:47.000Z"
     },
     {
+      "merchant": "Mount It!",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Zk5sWHhwTmZSTUJFM3g3S3BpYTZHVXFwOWdWTHQ0NU9IYm1IZE9EaWc0N1QwOUsyUUtCY0RSRGh4SU55c3V4MFE5dkNsVjZjRmRGcjdaZkJ1M1RDcjRIc1RYM1o1VkNDK25sZDBBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=mount-it.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1cc05c56aca37f",
+      "emailDate": "2026-11-11T19:11:31.000Z"
+    },
+    {
       "merchant": "Go City Pass",
       "percentBack": 7.5,
       "dollarBack": null,
@@ -632,6 +688,20 @@
       "source": "single-use",
       "emailMessageId": "1a1bdd8d1e192507",
       "emailDate": "2026-11-09T01:07:45.000Z"
+    },
+    {
+      "merchant": "Samsung",
+      "percentBack": 6.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-15T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6aTgxRmVuNlB5bE5TWGRRc2Q3Z2ZBVEljWm85bXlCb1F2UEoveVVPbytIMTBmdmE5d2EzM0FWT0hMalVUQ1ZoUGV2NFBEK0tUcFB0UkpUV295Y3RmUFRFSUtqN3J4YlRaeWMrVTBnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=samsung.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1cc05c56aca37f",
+      "emailDate": "2026-11-11T19:11:31.000Z"
     },
     {
       "merchant": "Princess Cruises",
