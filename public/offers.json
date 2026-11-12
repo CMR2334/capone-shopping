@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-12T15:18:02.775Z",
-  "sourceCount": 95,
+  "lastUpdated": "2026-11-12T16:17:53.075Z",
+  "sourceCount": 96,
   "parseFailures": 0,
   "offers": [
     {
@@ -25,11 +25,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Q2JMSHp3dFIxdExrQlBLNVJJNjVtTmJLSHVCV2VZUEorZmd0WlEzRTg0QTA1UitETXlkTGJJTjAzM0Zyek4valkzeTRiWWcrZW1hZFlTMWcrT01uRnZjdTB5b1NEay9IeFAxSDFRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QTN1RjFEMTFFNlVZeHZmcTVaRnZkb1dHYmwralo5a0FZYkFzRGVOSmxpMUkyd0gybmdTUDI2SEgyNWRTZWN3d25lMEd1SWlKRUJEc0k3Nlp0aWg1Y0pYcjA5RWlxSDNHQ0syZkRRPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/baublebar.com/35ee753d-0965-4a79-bebe-d8e89e861698.gif",
       "source": "todays-top",
-      "emailMessageId": "1a1cf2e57f282683",
-      "emailDate": "2026-11-12T09:54:42.000Z"
+      "emailMessageId": "1a1d04e4c1bec74f",
+      "emailDate": "2026-11-12T15:09:14.000Z"
     },
     {
       "merchant": "Walkee Paws",
@@ -102,6 +102,48 @@
       "emailDate": "2026-11-09T11:54:07.000Z"
     },
     {
+      "merchant": "eBay",
+      "percentBack": 29,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SUhCSG10WjZPSGpVTktSTXBCeFhWTzVFU01QN0VmY2o3ckF4dWp6SXBIUFhTMC9LZ2xJMWhLL1BkYmdZcmpoT0w5bkdHTFZTTnl1VFc4SG9IdXNyZHc1aDlFL1hrUzZxSXFKdTR3PT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoebay.com,s-mZ8SfBKA5MDdaLq99V27yNojrerL1x0UnLQwS65rCs/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/ea74d31fcdd5bf814a819332.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a1d04e4c1bec74f",
+      "emailDate": "2026-11-12T15:09:14.000Z"
+    },
+    {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": "November 7",
+      "expiresAt": "2026-11-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dEJ1MlVQemJnOENBYjRGc3VzNFlDQ2FlMVF4N3pDWnd5S3ZtY2VkOXpUamhWaVZ6S3AzODltNlBMdS93YTRWWkttZWUrT25QU2p3ZkV6V1JSVUJHbWFPa0dpNDB0UUFVWkpweTBBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a1d04e4c1bec74f",
+      "emailDate": "2026-11-12T15:09:14.000Z"
+    },
+    {
+      "merchant": "Big Bus Tours",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6L3FjZDJmaVRCY09ER1VBaHBoeGQxVGVMMWh4VURPZmdEd1YrRkxFYjNuN1BwUDBiZG8zR1Q1STJ4b1FZODdONlhCNkxBVkE2VzZiUFlpcTNsWjkrdmVIZWUwU0FLZk5JZFkyNGxBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1d04e4c1bec74f",
+      "emailDate": "2026-11-12T15:09:14.000Z"
+    },
+    {
       "merchant": "Ekster",
       "percentBack": 25,
       "dollarBack": null,
@@ -114,20 +156,6 @@
       "source": "single-use",
       "emailMessageId": "1a1c564e492383e8",
       "emailDate": "2026-11-10T12:18:05.000Z"
-    },
-    {
-      "merchant": "eBay",
-      "percentBack": 25,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WmFVMzZKN0JYQW0vNVdQWTlGMzh2eWU3d05SZWtIVDlLY1hRenRpZm90RkR5a0JCRFg2QnhxOWdYMU5JUkhCcUczTmgxbEJMYXkwY0VCc21OdGFzVldsUnN4K0NTL1Zmd2dYcnJnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ebay.com&width=500&fallback=true&type=cropped&opaque=true",
-      "source": "single-use",
-      "emailMessageId": "1a1c1ba324780677",
-      "emailDate": "2026-11-09T19:12:47.000Z"
     },
     {
       "merchant": "GE Appliances",
@@ -564,6 +592,20 @@
       "emailDate": "2026-11-11T19:11:31.000Z"
     },
     {
+      "merchant": "Go City Pass",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OU0rbXk0WjlHUSt6R1QwZUV6ZUUwbXFaRFNhZ01xVkw0dUFoQkhGL1NtN2dJNWYvSGt1TjhWSTZBUm1HS2N1SmxVRGE4OWtBenlVUjUrNG43TkpRNFZ5Y3ZJSFRQNXZsQld4OG9BPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1d04e4c1bec74f",
+      "emailDate": "2026-11-12T15:09:14.000Z"
+    },
+    {
       "merchant": "Disney Store",
       "percentBack": 7,
       "dollarBack": null,
@@ -590,6 +632,20 @@
       "source": "single-use",
       "emailMessageId": "1a1cc05c56aca37f",
       "emailDate": "2026-11-11T19:11:31.000Z"
+    },
+    {
+      "merchant": "Princess Cruises",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OW1vYWRuQVlpSTA0K0htZkNPM0Y1U2ppZnMrWE9Nakd5aUduMWo1aHY5TDlUTERRWDRLOEl0ZHNFdlRpVGMvZWdzamc4WldQQnFyelhVVXRTQ0dVVDRKKzRkL0FMRlVTdC8zdG9RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=princess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1d04e4c1bec74f",
+      "emailDate": "2026-11-12T15:09:14.000Z"
     },
     {
       "merchant": "Chewy",
