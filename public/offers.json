@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-12T17:18:05.774Z",
-  "sourceCount": 96,
+  "lastUpdated": "2026-11-12T18:17:52.591Z",
+  "sourceCount": 97,
   "parseFailures": 0,
   "offers": [
     {
@@ -25,11 +25,39 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-13T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QTN1RjFEMTFFNlVZeHZmcTVaRnZkb1dHYmwralo5a0FZYkFzRGVOSmxpMUkyd0gybmdTUDI2SEgyNWRTZWN3d25lMEd1SWlKRUJEc0k3Nlp0aWg1Y0pYcjA5RWlxSDNHQ0syZkRRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dG5iYjQxYlhiRnUrMFF2ajdoUGlLSGd4bFlkS2lTMXVkbTFINGtUNnRNaC9ueXpqSlN4VnVIOEpRN2lNdDJDU0RWTVJITHBDSy9hOGRsMllWanpFOVJ3TU9pbFkyMWRGbnUxMjlnPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/baublebar.com/35ee753d-0965-4a79-bebe-d8e89e861698.gif",
       "source": "todays-top",
-      "emailMessageId": "1a1d04e4c1bec74f",
-      "emailDate": "2026-11-12T15:09:14.000Z"
+      "emailMessageId": "1a1d0d74851dbd2a",
+      "emailDate": "2026-11-12T17:38:51.000Z"
+    },
+    {
+      "merchant": "Serta",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 6,
+      "lastViewed": "November 7",
+      "expiresAt": "2026-11-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Nm5rSFVHYzBWU0hSaDkzQkJXOUoxTkp3MStKOXhiTklqa0NOS3YrMnZYV3JVQ2l0SkVSQU82aCtTdG1Ea2VhZHJXSTg0dmxBZDlhZ1o4UW1uVDNrT0J3YzRZVVYyc0lzbTMwVDhBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=serta.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a1d0d74851dbd2a",
+      "emailDate": "2026-11-12T17:38:51.000Z"
+    },
+    {
+      "merchant": "Beautyrest",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TzNob0RpdjBBb0VscXdYc1BoeDRNMk91UytzeDZpelVRME1taTM2TGRua2R0djZPUkh6YzhVYk1uRFlmR1FwaWt3Qk1mYXpEQkgyREZCSTBPdmR4RU5yNkV3UDBTd1krUFlRMlNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=beautyrest.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1d0d74851dbd2a",
+      "emailDate": "2026-11-12T17:38:51.000Z"
     },
     {
       "merchant": "Walkee Paws",
@@ -158,6 +186,20 @@
       "emailDate": "2026-11-10T12:18:05.000Z"
     },
     {
+      "merchant": "Puffy Mattress",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Y0ZRa2FuMEJ5aFNDbzBRUmQrN01kMFNVaVd3S2F6WlExVjF2OGRCTDVjYnBpMkw3RFRjaUpwWG45Y1AxbHRSWkJKL1J6emdYNE05QzJOWkFtb2UzQW84Q2hTelhjOU1WU2tPMnp3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=puffy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1d0d74851dbd2a",
+      "emailDate": "2026-11-12T17:38:51.000Z"
+    },
+    {
       "merchant": "GE Appliances",
       "percentBack": 20,
       "dollarBack": null,
@@ -240,6 +282,20 @@
       "source": "single-use",
       "emailMessageId": "1a1bfa508e0962ad",
       "emailDate": "2026-11-09T09:30:26.000Z"
+    },
+    {
+      "merchant": "Tuft & Needle",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 6,
+      "lastViewed": null,
+      "expiresAt": "2026-11-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TS8rZ0FMSWNzbzZLWTE5Vkg4NHhRdytsMWttdW0yL0NFelNsNXhUZDNiODF3bEprVkVTQTVOY1dKc3pYa1M3R2tHRGZUc3ZsWHk4MENtU2FuSkd2RDY5THBBQnZOUmJ5UEIxT1RnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tuftandneedle.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1d0d74851dbd2a",
+      "emailDate": "2026-11-12T17:38:51.000Z"
     },
     {
       "merchant": "Zappos",
@@ -508,6 +564,20 @@
       "emailDate": "2026-11-12T09:54:42.000Z"
     },
     {
+      "merchant": "Titan",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VGVVdVc5bjVkL1dueGE4QmVVZHdocFpTN3VlTzhEdkVVMkVpMkt3U1pLTnZxQWpyU25PeDQrTjVuSUUxRDM0TzBYeHc1cTBjMUdSL3VpOGE3Y2J0d211Qno1a09mWklYQ0Q4aU5RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=titanmattress.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1d0d74851dbd2a",
+      "emailDate": "2026-11-12T17:38:51.000Z"
+    },
+    {
       "merchant": "Zesty Paws",
       "percentBack": 9,
       "dollarBack": null,
@@ -772,6 +842,34 @@
       "source": "single-use",
       "emailMessageId": "1a1c028966a7fb2e",
       "emailDate": "2026-11-09T11:54:07.000Z"
+    },
+    {
+      "merchant": "Stearns and Foster",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RWFPSStQdFFHcllTd1o1VWpvMXZJSmtPZjA1WkpqQUprNis4MWZQQVZiNXV1SURoUWFOa0p1M2VzczRHcXR5TURRQiszaTQxQUJZbzd1NG1IMTRhYXZ0VkFvV2hXemhGNlk5L2xnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=stearnsandfoster.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1d0d74851dbd2a",
+      "emailDate": "2026-11-12T17:38:51.000Z"
+    },
+    {
+      "merchant": "Sealy",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-16T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NFcxczBWS0ZBSmE3VjVHdnFqY1FlOVBXNklDaGNaUldKZ3BMMkc3UFdSRXc2emdZcllpQXhjYzR4Q2d1MDVRREFlZDZDZ1kvZ2Q3RlY4UjJvSE0wSCtzSm5JQlM0ZkJlYmJpVlhnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sealy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1d0d74851dbd2a",
+      "emailDate": "2026-11-12T17:38:51.000Z"
     },
     {
       "merchant": "The Home Depot",
