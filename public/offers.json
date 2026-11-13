@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-13T08:17:54.666Z",
-  "sourceCount": 97,
+  "lastUpdated": "2026-11-13T09:17:57.884Z",
+  "sourceCount": 98,
   "parseFailures": 0,
   "offers": [
     {
@@ -452,6 +452,20 @@
       "emailDate": "2026-11-12T09:54:42.000Z"
     },
     {
+      "merchant": "Chewy",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-17T07:00:00.000Z",
+      "activationUrl": null,
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "1a1d42059517a852",
+      "emailDate": "2026-11-13T08:57:31.000Z"
+    },
+    {
       "merchant": "HOKA",
       "percentBack": 10,
       "dollarBack": null,
@@ -632,20 +646,6 @@
       "source": "single-use",
       "emailMessageId": "1a1d04e4c1bec74f",
       "emailDate": "2026-11-12T15:09:14.000Z"
-    },
-    {
-      "merchant": "Chewy",
-      "percentBack": 5.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-11-15T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MVpTOVB5emtOQkpmTGdMalhRY0ZMdmp1Y1dUZ0gxaEZVaVJyYzJFamEzSDg3cXkwbytiU1Q4elNtOExGUDdITjhJVkpKUDFINVgxU2J4ekUvdGIzanB1VDlGUnNyMnV5WUtxY1pBPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sIDERi1drQzeImastj-F6TX9C_RFbyiKKUTPvhYyXMK0/https://image.chewy.com/catalog/general/images/moe/0671ffb1-82ed-7423-8000-cbf12d135f07._AC_SX500_SY400_QL75_V1_.jpg",
-      "source": "single-use",
-      "emailMessageId": "1a1cd1c8f4f190e1",
-      "emailDate": "2026-11-12T00:16:02.000Z"
     },
     {
       "merchant": "Best Buy",
