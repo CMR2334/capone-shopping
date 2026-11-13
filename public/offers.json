@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-11-13T09:17:57.884Z",
-  "sourceCount": 98,
+  "lastUpdated": "2026-11-13T09:39:55.707Z",
+  "sourceCount": 99,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Omaha Steaks",
+      "percentBack": 45,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-14T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Vkl0MWVyNm91VzhSekw0L2lnNmhKamd6NXY3bGgyNEs0WFcwcnZydFJTaEhpeWFXcHQvOC9NbGNJUHhSUjY0Y0xQdjUzNjVuNXRMWUg2Uzk3Wm5SSnROc0hvb1hWN1IzNlJiSmFRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=omahasteaks.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "1a1d43b3a2e71f99",
+      "emailDate": "2026-11-13T09:26:53.000Z"
+    },
     {
       "merchant": "Serta",
       "percentBack": 30,
@@ -142,6 +156,20 @@
       "source": "single-use",
       "emailMessageId": "1a1c564e492383e8",
       "emailDate": "2026-11-10T12:18:05.000Z"
+    },
+    {
+      "merchant": "Instacart",
+      "percentBack": 23.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NnRyTUVZRE5uTzI1UEE5SnhDL3RucEdSL1hEQlJjcnFpdGNIME9HSVdzMnp4SGtJQzVyVUxjUnhsZ0hwTSs0aDlCb2lHY0NsQ3NsVEkrWUd3VURtMHpzazk1dzA1ejc5bEdCTUh3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=instacart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1d43b3a2e71f99",
+      "emailDate": "2026-11-13T09:26:53.000Z"
     },
     {
       "merchant": "Puffy Mattress",
@@ -456,14 +484,28 @@
       "percentBack": 10,
       "dollarBack": null,
       "capAmount": null,
-      "wasPercent": null,
+      "wasPercent": 1.5,
       "lastViewed": null,
       "expiresAt": "2026-11-17T07:00:00.000Z",
-      "activationUrl": null,
-      "logoUrl": null,
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6V3RhejJ5a1pMZU9scmNOdEdlbkM4cjVZM3o4T25FM1V5VEJkTzFzelYrb21hcHBndHhOdHNkbGN5SXVZMms2ZnAxSW9YUExSbWtkRzVwdmlaT1VlMVNTQXFZWnpvdEVqcWxJMXZBPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sIDERi1drQzeImastj-F6TX9C_RFbyiKKUTPvhYyXMK0/https://image.chewy.com/catalog/general/images/moe/0671ffb1-82ed-7423-8000-cbf12d135f07._AC_SX500_SY400_QL75_V1_.jpg",
       "source": "single-use",
-      "emailMessageId": "1a1d42059517a852",
-      "emailDate": "2026-11-13T08:57:31.000Z"
+      "emailMessageId": "1a1d43b3a2e71f99",
+      "emailDate": "2026-11-13T09:26:53.000Z"
+    },
+    {
+      "merchant": "Blue Apron",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6b3d2M2lJQjRNTDJZSnh1YjBjWUorRktGOFI4RHRrK3BrUkwrOGZUa0hSanc0alpvUU45bFBld3ZhdmpWbTM2L1RxU1BqdWxYcmwvQTNDRk1DVkorTWlLTmJpRktLRGtwRVpRZ2pBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=blueapron.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1d43b3a2e71f99",
+      "emailDate": "2026-11-13T09:26:53.000Z"
     },
     {
       "merchant": "HOKA",
@@ -828,6 +870,20 @@
       "source": "single-use",
       "emailMessageId": "1a1cd1c8f4f190e1",
       "emailDate": "2026-11-12T00:16:02.000Z"
+    },
+    {
+      "merchant": "Uber Eats",
+      "percentBack": null,
+      "dollarBack": 48.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "November 7",
+      "expiresAt": "2026-11-17T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VHVlcnd3cHoydm1QWFF2bFZZWmNuYTVoVHUzOFYxVUJndnNrazBEVnJxUXorTGd1THh1V1JHcDdjWHNxNlE3cXZJWG9VSHRaZ0FXVGFpakJERmpDaGl0aUdFcCsxZi9seTQvdFFBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ubereats.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a1d43b3a2e71f99",
+      "emailDate": "2026-11-13T09:26:53.000Z"
     }
   ],
   "upcomingReveals": []
