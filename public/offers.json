@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-14T23:17:54.494Z",
-  "sourceCount": 99,
+  "lastUpdated": "2026-11-15T00:18:08.783Z",
+  "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
     {
@@ -466,6 +466,20 @@
       "emailDate": "2026-11-11T17:08:11.000Z"
     },
     {
+      "merchant": "PetSmart",
+      "percentBack": 8.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-18T07:00:00.000Z",
+      "activationUrl": null,
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "1a1dc73ae9db49cf",
+      "emailDate": "2026-11-14T23:45:30.000Z"
+    },
+    {
       "merchant": "Best Buy",
       "percentBack": 8.5,
       "dollarBack": null,
@@ -478,20 +492,6 @@
       "source": "single-use",
       "emailMessageId": "1a1d64b385677ae4",
       "emailDate": "2026-11-13T19:03:35.000Z"
-    },
-    {
-      "merchant": "PetSmart",
-      "percentBack": 8.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-15T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dVdSWHlzNmlXOGQxYnN6QUZmYmVzU3ZxRWhjTkRlMU9rVUdSN3JOQUFoTVZ6RzAweUlvUTkyRVd6d29UZkVHRnkzajhzcFVvVTA3VEZSR3Q2SFFDVUhtVUgxdEZGSTliTW5WL1VnPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/570x236,logopetsmart.com,sYgiWZDfLRSoQFcjrF3d5-I5NLtO82ZifPR_8AoidMxA/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/d280f015480fdc92af5466a7.jpeg",
-      "source": "single-use",
-      "emailMessageId": "1a1cb94d7c53fd90",
-      "emailDate": "2026-11-11T17:08:11.000Z"
     },
     {
       "merchant": "NOMAD Goods",
