@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-16T19:17:55.491Z",
-  "sourceCount": 99,
+  "lastUpdated": "2026-11-16T20:18:01.379Z",
+  "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
     {
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZnlkYTkxbHVXMkVVWk9NektFbjNrZkJTak9yZWo2Z21OS2lrODQwd3NIQ1hYZXFjeExyQ3BoS1I4dVhnakpkczc3NWtBMmdXVnJSN09nSGJZWGlSWWlDV2I3a24reXBPTGZmVU9BPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MjNiUEh1NWhRUzhuNDFscm1HcngyNjhTR2JjUGxqMC85OU9hMkJGdHB0cU1Qb3hSdlZGTUJzVnNvenljazk5VlhEK0VUWEFFRXBMRXlaYzEzM2N2ekhmdklwdzFiZ3ppdm5ONUV3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=katespadeoutlet.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a1e5b2c330399ca",
-      "emailDate": "2026-11-16T18:50:59.000Z"
+      "emailMessageId": "1a1e601c0ee090ff",
+      "emailDate": "2026-11-16T20:17:16.000Z"
     },
     {
       "merchant": "GetYourGuide",
@@ -228,6 +228,20 @@
       "emailDate": "2026-11-16T18:50:59.000Z"
     },
     {
+      "merchant": "Zappos",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6djhMZ2xrN3ZoVjAzVitaR0FmRHVVa1BUOS8rNmV5MXZjTkRNU05GVWZwSHBtcURXd05EOEkyaUd3azM1bHJNazdZU3E5NTcvNUFmUTk0WjZEOFVWNWlnWiszckdvMFhvcnFVc0VnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=zappos.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e601c0ee090ff",
+      "emailDate": "2026-11-16T20:17:16.000Z"
+    },
+    {
       "merchant": "Avis",
       "percentBack": 15,
       "dollarBack": null,
@@ -291,11 +305,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6R2tMSnlldzZkaFNjWGg1VUUrZjA1cFhrYVB0RWxRQkgxdXdpTHBMSEMvK2pYMlc0dVhrS0lJUm9LRE1yYkJlZ3I3RlRnbmI1emwzVzlXRm9lYmp1YzNiTkI1YVlITWVkVXZjeFVBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UGlMeWJhVWszRUJSZC82Vjg4T2JtV083cjV0a3diYmdKT1AzZ2srSjQzUGZieitSaXRvUDdVYTJ0V2Fzbm9Kci9oWEh3bDVUZkErUFpFclRsSVk3dVBtRWpoNWhtUituWi8xalpnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=duluthtrading.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a1e5b2c330399ca",
-      "emailDate": "2026-11-16T18:50:59.000Z"
+      "emailMessageId": "1a1e601c0ee090ff",
+      "emailDate": "2026-11-16T20:17:16.000Z"
     },
     {
       "merchant": "Lee Jeans",
@@ -368,6 +382,20 @@
       "emailDate": "2026-11-13T16:51:07.000Z"
     },
     {
+      "merchant": "Ace Hardware",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SnhUWEp5RENFZXI4MVEwRjRwZm1Xc2E0di96QTEwZFFkZGRWYkx4czA3WlZFcmpRZ3BYM1JSYVhwRUJkTUhQUzBtVVZGVGxQc056dGRoam5mTjlEa3ZRcUQxQm5UbFVMVHhCaXNBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=acehardware.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e601c0ee090ff",
+      "emailDate": "2026-11-16T20:17:16.000Z"
+    },
+    {
       "merchant": "Staples",
       "percentBack": 10,
       "dollarBack": null,
@@ -394,6 +422,20 @@
       "source": "single-use",
       "emailMessageId": "1a1d43b3a2e71f99",
       "emailDate": "2026-11-13T09:26:53.000Z"
+    },
+    {
+      "merchant": "Columbia",
+      "percentBack": 9.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OGk4cS9sWmhtVlNjU3I1QlhEZmVmRUk2OWlyZDlTRnlJa243QjdBemNYMGVrQTdPQmtoK2t4QndhVEdNd0NVSDZwTWNFZFlJQTY4em5jdENJUHIyc2FjUVFtbTByS3lhTkdRaDFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=columbia.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e601c0ee090ff",
+      "emailDate": "2026-11-16T20:17:16.000Z"
     },
     {
       "merchant": "Polynesian Cultural Center",
@@ -450,6 +492,20 @@
       "source": "single-use",
       "emailMessageId": "1a1dc73ae9db49cf",
       "emailDate": "2026-11-14T23:45:30.000Z"
+    },
+    {
+      "merchant": "L.L.Bean",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dlN5YkVtZkhpamlWdThVVnNCbFFsUHZ1c3g3MWRPdzFWQ0hZSXNSNlV5eVNiZTNIUmh1RE9rbzZ2TVNKcnlVa0ZYMU9rYk1Bc2R5V0prSUJtSTg4S3BrZjBrUDVRNjRJVDZLUm9RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=llbean.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e601c0ee090ff",
+      "emailDate": "2026-11-16T20:17:16.000Z"
     },
     {
       "merchant": "Crazy Neon",
@@ -718,6 +774,20 @@
       "emailDate": "2026-11-16T00:20:27.000Z"
     },
     {
+      "merchant": "Lowe's",
+      "percentBack": 4,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VUh3ME5Lb2NNTFhsOVhnbFg5aWx6NnRqNHU2Z2JKWlM3VmJYcjBDSjMrNDZZRTYzMmhldmdsRm1XTjBEQWZPU3RPMC9jeXBzNVEzZExOV3N3c0V0cWJkd2t2dUFtZE40Sjl0NlV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lowes.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e601c0ee090ff",
+      "emailDate": "2026-11-16T20:17:16.000Z"
+    },
+    {
       "merchant": "Sam's Club",
       "percentBack": 4,
       "dollarBack": null,
@@ -744,20 +814,6 @@
       "source": "single-use",
       "emailMessageId": "1a1d9dfd7c084492",
       "emailDate": "2026-11-14T11:44:47.000Z"
-    },
-    {
-      "merchant": "Lowe's",
-      "percentBack": 4,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-11-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ejAvU0kxZzBudGlDQkJIVjhFa1FMWW1HSzF3MmM5RnRrYWlET21XVkJrV0pwU2ZqM2V2UkNsckF5UXJiMXgvdzNEL3drMytwdUd1Q1VvejVZaE1SWC82dHhjWVZqTzlsQnlCWkJ3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lowes.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1d64b385677ae4",
-      "emailDate": "2026-11-13T19:03:35.000Z"
     },
     {
       "merchant": "Macy's",
@@ -814,6 +870,20 @@
       "source": "single-use",
       "emailMessageId": "1a1d64b385677ae4",
       "emailDate": "2026-11-13T19:03:35.000Z"
+    },
+    {
+      "merchant": "DICK'S Sporting Goods",
+      "percentBack": null,
+      "dollarBack": 69.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dmIyelBBM3Nyc0QwUTBObEN4NGlHVWxjSHkreEhqb1dUcWNaUTdWN3c4QjlzWDJnbkxXNXZKNitVaG96N0ltS3hkNUI2OG91WFdmWE85bVl3dU9abGVwdGNvSWIxMU5TR1dzYmlBPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logodickssportinggoods.com,stc5JFz3YgrGPX65dD16DSEQf0h-eRKlYdV-N53CxcPw/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/804953be879fb452f82f8def.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a1e601c0ee090ff",
+      "emailDate": "2026-11-16T20:17:16.000Z"
     },
     {
       "merchant": "Uber Eats",
