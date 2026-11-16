@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-11-16T18:17:59.269Z",
+  "lastUpdated": "2026-11-16T19:17:55.491Z",
   "sourceCount": 99,
   "parseFailures": 0,
   "offers": [
     {
       "merchant": "Kate Spade Outlet",
-      "percentBack": 70,
+      "percentBack": 35,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6R2l1YzdDU1J6Q244N0x6WWR0K2R0QnlzeDFzditJS29iK3JCZkQ1SUdOcGVZNWJOYVZxU1NnNUt3aTNXTVdZaTMwYTlxcUZURW1mdGR6TW9idVptWW5ESWdTVWVtbkM1WmRydlFnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZnlkYTkxbHVXMkVVWk9NektFbjNrZkJTak9yZWo2Z21OS2lrODQwd3NIQ1hYZXFjeExyQ3BoS1I4dVhnakpkczc3NWtBMmdXVnJSN09nSGJZWGlSWWlDV2I3a24reXBPTGZmVU9BPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=katespadeoutlet.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a1e55437dd9eda1",
-      "emailDate": "2026-11-16T17:07:43.000Z"
+      "emailMessageId": "1a1e5b2c330399ca",
+      "emailDate": "2026-11-16T18:50:59.000Z"
     },
     {
       "merchant": "GetYourGuide",
@@ -30,6 +30,20 @@
       "source": "single-use",
       "emailMessageId": "1a1e42f28abc2a7f",
       "emailDate": "2026-11-16T11:47:38.000Z"
+    },
+    {
+      "merchant": "DoorDash",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6L3hYU1c5WFRTNjlUZWVlKzdZdWhVaU10NGFKcU9rNlcwZmIvb0s2SXFyZkNYNmpoMVBySW1Fd2ZYTVlJNTRsUlVXU2lTV2VCVUxwVjlnVVZZenNwbXdDRTBwQVh1dlE3QjdDTnpBPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logodoordash.com,sRZPcPajjj37PW1gsKK26PdkYQeo1vdO7bYKUe-5JPsw/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1783359568208.png",
+      "source": "single-use",
+      "emailMessageId": "1a1e5b2c330399ca",
+      "emailDate": "2026-11-16T18:50:59.000Z"
     },
     {
       "merchant": "Maidenform",
@@ -200,6 +214,20 @@
       "emailDate": "2026-11-14T09:07:58.000Z"
     },
     {
+      "merchant": "CVS",
+      "percentBack": 18,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6R0cwaVZha2tLS2cxSG1zNGJ0bVc5TUdtZm55emx3R0lUT1VqTmdpUmZiaVN1RDhmdWpZMVlac082RTl5SXBUeDV1bG5XUGwyY01JUDFSZVBKd1VZNlVRZ1hab3R5aW1lVldnQTVBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cvs.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e5b2c330399ca",
+      "emailDate": "2026-11-16T18:50:59.000Z"
+    },
+    {
       "merchant": "Avis",
       "percentBack": 15,
       "dollarBack": null,
@@ -263,11 +291,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dnQ3RGZwRW40bEJSdmZZMU9NcHNtZ3V5VVBwVERXbHZ5MFJrYzBldjNnanRQOTd3QnBCSnZHN3p4N2NhWHlUenJuZjkxZnMvc1hpZkFkVUZuK1Y3Q1B2d1EzVHNvK3VjaWp1UUFBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6R2tMSnlldzZkaFNjWGg1VUUrZjA1cFhrYVB0RWxRQkgxdXdpTHBMSEMvK2pYMlc0dVhrS0lJUm9LRE1yYkJlZ3I3RlRnbmI1emwzVzlXRm9lYmp1YzNiTkI1YVlITWVkVXZjeFVBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=duluthtrading.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a1e55437dd9eda1",
-      "emailDate": "2026-11-16T17:07:43.000Z"
+      "emailMessageId": "1a1e5b2c330399ca",
+      "emailDate": "2026-11-16T18:50:59.000Z"
     },
     {
       "merchant": "Lee Jeans",
@@ -424,6 +452,20 @@
       "emailDate": "2026-11-14T23:45:30.000Z"
     },
     {
+      "merchant": "Crazy Neon",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6YlJxc2ZhbGtJSW41eGN2MERkcklZRVhhOE5tOVpjNTY2Z3pYb2d5bkgvQWlyc2lST1J2WENNNjgwNGtyUHRCRzF1UktwSG1JZmtjSGtRNjdDOGwwQll6NTFqUFB5aU5saGVvV1B3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=crazyneon.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e5b2c330399ca",
+      "emailDate": "2026-11-16T18:50:59.000Z"
+    },
+    {
       "merchant": "Klook",
       "percentBack": 8,
       "dollarBack": null,
@@ -464,6 +506,20 @@
       "source": "single-use",
       "emailMessageId": "1a1d950474dec119",
       "emailDate": "2026-11-14T09:07:58.000Z"
+    },
+    {
+      "merchant": "1-800-GOT-JUNK?",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Mit2aGFMTm9Ra1FIQ3d0Z0NpVHBTYkE4dXRPbEhSak44Z3Y0aWk0Zlg3OEdaMzJ1TFJraWp6T1dibXZhMHpJcjJlRVVoVHlZRHM3NUd5M0JXcEtTaUFBZlRSbDlYazlBVEpKSElRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=1800gotjunk.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e5b2c330399ca",
+      "emailDate": "2026-11-16T18:50:59.000Z"
     },
     {
       "merchant": "Go City Pass",
@@ -534,6 +590,20 @@
       "source": "single-use",
       "emailMessageId": "1a1d5d1ef26e69eb",
       "emailDate": "2026-11-13T16:51:07.000Z"
+    },
+    {
+      "merchant": "Hotel Indigo",
+      "percentBack": 6.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SC9RVE94VFl5RDJCS1JhdUhIeVpaT2cvU2NkKytCbGZETmZXQndyOERlNFRvRFUzRTZPU1dTSHVjdW5McllZZUsvUE5LMmNZVnRSQ1BwM0RhcUZaVjVBNXRieTZRT3Qrb1FjTmVnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=hotelindigo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e5b2c330399ca",
+      "emailDate": "2026-11-16T18:50:59.000Z"
     },
     {
       "merchant": "Chewy",
