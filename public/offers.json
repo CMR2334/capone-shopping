@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-11-16T00:18:46.969Z",
-  "sourceCount": 99,
+  "lastUpdated": "2026-11-16T01:17:58.081Z",
+  "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Maidenform",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MFBQdUhFSk1XZXY5bDdFdWpobm5VQmZEOGhXSnZkRFd4bXV6eWIyS3JoTUlKN3BReWlvMEh5ZXJveHB3anQwZVNHSEl5TWdVaEM1KzR0Ti8xVFh0cWY1aWJCZG5UN0FnMDI4TVBBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=maidenform.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e1ba0820c2bd4",
+      "emailDate": "2026-11-16T00:20:27.000Z"
+    },
     {
       "merchant": "Embark",
       "percentBack": 30,
@@ -60,6 +74,20 @@
       "emailDate": "2026-11-12T17:38:51.000Z"
     },
     {
+      "merchant": "Belk",
+      "percentBack": 27,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eGVQaWJNK242cHpyUUxRbUc2OTdRZHI4YkNZWFFOYVpPZXVOR3hGb3NYMzFjdHJKSU45ckZiSk5XNUFPN2c0eStoNkJsMGxrcEhZRHZKOWxma25uaXFidXUrb1BBREdrMDdhVkxRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=belk.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a1e1ba0820c2bd4",
+      "emailDate": "2026-11-16T00:20:27.000Z"
+    },
+    {
       "merchant": "Journeys",
       "percentBack": 25,
       "dollarBack": null,
@@ -67,11 +95,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-16T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bVhzZDU5dmVqblFHdWZkUWd5MGhIRmhjZHpybHJOelZQeFluQTZ5SE5DRTBYN0dTOU1HQjAxTkd1M3Nhdm9MVVdyMElTaG4zdGEzMGJoRGZkYmY2Q0VFYjNRQVpYOU9raHJ2Y3F3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZDVUNWRaWFBxYTNYMXdYdWZXa1F6TFE2SEdGVVhFWFR5TytOWkVGMVJvT2M3cGVuZHYyeGVTYjFNZ1NjRmozVnkrWldkYkorMnNkMEk5WFFtVmpLV0lzaTdHbFhESG15YXZxRlFRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=journeys.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a1e168020fbb1a5",
-      "emailDate": "2026-11-15T22:50:51.000Z"
+      "emailMessageId": "1a1e1ba0820c2bd4",
+      "emailDate": "2026-11-16T00:20:27.000Z"
     },
     {
       "merchant": "Big Bus Tours",
@@ -123,11 +151,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-16T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OWJ3YVJSdXErT0g3ckEvMG5kQ1ZpaURPR05aOGdnbjhLQVczZ2RuVHllWE1jQmZCWmgwTEZVK3hoMHY0ZUJpMG5PTTJKU3dKSmdxcmloME1UWTFyL2RyNU5pWDhIMVJFUTRUZWtnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=klook.com&fallback=true&opaque=true&type=cropped&width=500",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6enRLU1kzbjFpTnpyUjFKaDMvMVVwek9aUGtrUjd0UkFNVnhJRXhtcTFaOWtTaHVnY3Rpdkpha29oU3l1WkkvNHk5OUQ1YWQ4TDZoMWpFOTArSnVYa1A5YUlyalNBd2p1YWt4SHFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=klook.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a1e168020fbb1a5",
-      "emailDate": "2026-11-15T22:50:51.000Z"
+      "emailMessageId": "1a1e1ba0820c2bd4",
+      "emailDate": "2026-11-16T00:20:27.000Z"
     },
     {
       "merchant": "Instacart",
@@ -296,6 +324,34 @@
       "source": "single-use",
       "emailMessageId": "1a1e023ab2f6f1ba",
       "emailDate": "2026-11-15T16:56:36.000Z"
+    },
+    {
+      "merchant": "Lee Jeans",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UHRuaEd1VzhCakNVdjNiYUZQUXNuQk1HOTh2Y0puakpPbHhvWTBYQXd4ZzNDcHNZZVNoUGRxODdrL2VrNTh6K1ZUYWxPNTFTejdyVTE5dnBaRkRSaGY1MjYyWHE1TTEyRzBDWU1RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lee.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e1ba0820c2bd4",
+      "emailDate": "2026-11-16T00:20:27.000Z"
+    },
+    {
+      "merchant": "Levi’s®",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TldHQnNDUlI2Z2E0SWR0MFRweGlrZjRkYWZiM3hFdG83Uzg1SElleG9sN041K2ZOWlJqRGlyL0FwY090bU5HZnJCNHdNUDMzalhVcENLUjJ4dlR6S0VhWUpFSGhLOGVnRE9iWUR3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=levi.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e1ba0820c2bd4",
+      "emailDate": "2026-11-16T00:20:27.000Z"
     },
     {
       "merchant": "baxterboo.com",
@@ -543,11 +599,11 @@
       "wasPercent": 1.5,
       "lastViewed": null,
       "expiresAt": "2026-11-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TExDa0hwb25IM0RMa2RwUDJ3MWpRODZ2Tm9mUlVZWnlSSVFwdjQ5WXZMWElFMWRPSy9iUkRWZk4rUGdTSTM1OEZEdkR1T0dCVnJCc0tBUlpDKzFhaU40RTh3b3dpMHdmR0srVmx3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WUxZOVVvR0JMMFdzRitBZ0lDSzNTSGNkQzJlVEhCM2pMZ05GSEFPUUVYOTluUDE5Q3NwYXVKcVl1dEt0NHByQWliS0IxaTFUOWpmL0Y2SndZd2hrWmZWamt0Q0F3V0JxYlBSQ3VRPT0/runV3dl",
       "logoUrl": "https://i.capitaloneshopping.com/148x148,logochewy.com,sIDERi1drQzeImastj-F6TX9C_RFbyiKKUTPvhYyXMK0/https://image.chewy.com/catalog/general/images/moe/0671ffb1-82ed-7423-8000-cbf12d135f07._AC_SX500_SY400_QL75_V1_.jpg",
       "source": "single-use",
-      "emailMessageId": "1a1deebd001e9fc2",
-      "emailDate": "2026-11-15T11:15:58.000Z"
+      "emailMessageId": "1a1e1ba0820c2bd4",
+      "emailDate": "2026-11-16T00:20:27.000Z"
     },
     {
       "merchant": "Princess Cruises",
@@ -634,6 +690,20 @@
       "emailDate": "2026-11-13T19:03:35.000Z"
     },
     {
+      "merchant": "Academy Sports + Outdoors",
+      "percentBack": 4.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TitIL2o1c09VQ2haV3M4UGtxOGxMTVpxVVhONFcwbTVhZEJlNGtIRXBCRzQ3ckM0WGR2S0p4UU5GOEQzSG5LRkNJckpBWjEvUzNpVStQaDJ4MDhJVW5lRStaeEVPU3V5REI4VFFnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=academy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e1ba0820c2bd4",
+      "emailDate": "2026-11-16T00:20:27.000Z"
+    },
+    {
       "merchant": "Sam's Club",
       "percentBack": 4,
       "dollarBack": null,
@@ -674,6 +744,20 @@
       "source": "single-use",
       "emailMessageId": "1a1d64b385677ae4",
       "emailDate": "2026-11-13T19:03:35.000Z"
+    },
+    {
+      "merchant": "Macy's",
+      "percentBack": 3.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6YjVnVHhRUVRXOFFjbDFpL2Joa2M0T0pzZklqZmhPU3FPWWN2clVEN3hTdGN2RWI2VFlnS2RwN25PbWF6OWl6aUlIV3k0OTZlTW96dHN3bDV0KzNFQml0MFp1ODJHY3l2eTcxclNRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=macys.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e1ba0820c2bd4",
+      "emailDate": "2026-11-16T00:20:27.000Z"
     },
     {
       "merchant": "Stearns and Foster",
