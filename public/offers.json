@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-11-16T16:17:59.795Z",
+  "lastUpdated": "2026-11-16T17:18:08.783Z",
   "sourceCount": 99,
   "parseFailures": 0,
   "offers": [
     {
       "merchant": "Kate Spade Outlet",
-      "percentBack": 35,
+      "percentBack": 70,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WTVHY0JOKzlyZGRidldXbU9tNm1tYUdMTWdqRVBzU1g1ZnF5QWtIeXdwNTJ4Q0svSXg2dDBpQTdVQnFrV1N3bHVZTm15Sk1pVHAxcGE2ZjIxSHpKa1JobW1LM0VuQ0RmcVZEUFFBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6R2l1YzdDU1J6Q244N0x6WWR0K2R0QnlzeDFzditJS29iK3JCZkQ1SUdOcGVZNWJOYVZxU1NnNUt3aTNXTVdZaTMwYTlxcUZURW1mdGR6TW9idVptWW5ESWdTVWVtbkM1WmRydlFnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=katespadeoutlet.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a1e42f28abc2a7f",
-      "emailDate": "2026-11-16T11:47:38.000Z"
+      "emailMessageId": "1a1e55437dd9eda1",
+      "emailDate": "2026-11-16T17:07:43.000Z"
     },
     {
       "merchant": "GetYourGuide",
@@ -88,6 +88,20 @@
       "emailDate": "2026-11-16T00:20:27.000Z"
     },
     {
+      "merchant": "Big Bus Tours",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UU1MV3VxT0xLTFFIbmFoUUhzWldSK0FuSWZ5emVaV1IxcnBSUkdZUWpISVFlQmJSbmlJdGd0Zk11R3Q2M0QyZ3dzVVN2SWFPaHZLS09UaU1qRC9ZdVBjVmtMZmJ3THlnRkZwZnBnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e55437dd9eda1",
+      "emailDate": "2026-11-16T17:07:43.000Z"
+    },
+    {
       "merchant": "Viator, a Tripadvisor company",
       "percentBack": 25,
       "dollarBack": null,
@@ -97,20 +111,6 @@
       "expiresAt": "2026-11-20T07:00:00.000Z",
       "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TXRoV3RUS0EvdmJOZVAwbEl1clVzd3BJTVFJK1p6YWFlNDhabmw2QnNPRWdmaW15bTF6ck5vZ0s2cWRLcDFMQldJRmdVK2o0UGI0Q1N0cEVOV2JibjkwVWdVL1MzZlhJbDdIM2ZRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a1e42f28abc2a7f",
-      "emailDate": "2026-11-16T11:47:38.000Z"
-    },
-    {
-      "merchant": "Big Bus Tours",
-      "percentBack": 25,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-11-20T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SXJkRnlYbGFheWNFVUN6bUVyM0k4dUt3c0tsTnF0YnEyT1I0Mk1iYnVIeWVJbnQ1WlArL1RYY05KR09zK0xpU0x5WmtKWE5WWG9JeTJVZWUyRHBUR1ZRVUpFZVN6SWFNWEU5S2x3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bigbustours.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
       "emailMessageId": "1a1e42f28abc2a7f",
       "emailDate": "2026-11-16T11:47:38.000Z"
@@ -150,12 +150,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-11-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bHdIMmVaaytkVlBrMUJmbVBKUnNvWUZSQmtHcUR4cjhJUlladXFxRXJZYmNKUzJSLzBqQ3ZIZ2U0djdHWElCVUNLdzRsK3A1dUhCNUI4emFTclBnclpwcnZjb0F2Nlg4RGM3OWVBPT0/runV3dl",
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SDBER2c0Y1dnbjhkdjVQd1owZGtNS1BuQm9mMHprd1RMUktYR05jKzNXaERla3J4clJ2cUIzR0djang0emdWbHYzVndnVXpaZXB6YU1Oc2FUTVZBRGpFeFh5eDh3Y0VUS1JTMVJBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=airalo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a1e168020fbb1a5",
-      "emailDate": "2026-11-15T22:50:51.000Z"
+      "emailMessageId": "1a1e55437dd9eda1",
+      "emailDate": "2026-11-16T17:07:43.000Z"
     },
     {
       "merchant": "Best Western Hotels & Resorts",
@@ -263,11 +263,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cGMyNDBjQ1VBaXpodTZ3L2FSeWsvL2JxWVZwQUVOWW1RRFIram9IMGhjbk5oQllJOVNiSzRrTXBPSTZjRmplUVBjRng0Zjg3b25JclNRaGdBZTI3LzR4bURZN0NxSUdaK2UyWFNRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dnQ3RGZwRW40bEJSdmZZMU9NcHNtZ3V5VVBwVERXbHZ5MFJrYzBldjNnanRQOTd3QnBCSnZHN3p4N2NhWHlUenJuZjkxZnMvc1hpZkFkVUZuK1Y3Q1B2d1EzVHNvK3VjaWp1UUFBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=duluthtrading.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a1e42f28abc2a7f",
-      "emailDate": "2026-11-16T11:47:38.000Z"
+      "emailMessageId": "1a1e55437dd9eda1",
+      "emailDate": "2026-11-16T17:07:43.000Z"
     },
     {
       "merchant": "Lee Jeans",
@@ -340,20 +340,6 @@
       "emailDate": "2026-11-13T16:51:07.000Z"
     },
     {
-      "merchant": "Polynesian Cultural Center",
-      "percentBack": 10,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-11-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZnloZG9ybFh0SER4MXZUZEQxejZWY0FQMjdxajVlMXc3MXhmYkRhWnJXZDhYazIxU0U2YTQ0Z3gxZW5hWGRLL1BUVWVJeG9PWHdOK0MyMmFUaVUxZVFkVWZzUU5JU0FDb0ZqZFF3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=polynesia.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1e168020fbb1a5",
-      "emailDate": "2026-11-15T22:50:51.000Z"
-    },
-    {
       "merchant": "Staples",
       "percentBack": 10,
       "dollarBack": null,
@@ -380,6 +366,20 @@
       "source": "single-use",
       "emailMessageId": "1a1d43b3a2e71f99",
       "emailDate": "2026-11-13T09:26:53.000Z"
+    },
+    {
+      "merchant": "Polynesian Cultural Center",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6R1Y1NklBYzJxd3BKK3plWkk4RUo1czFDUUl6Z2swRnYxVFN1MVVPL05BaDQ0SGtxVUJ6c0pLSmdvNklYY1J3SWx5YSsvUVlnWTZkYlJGaStrWjFTNnMyUEgxakNoQW5YWVBoK2ZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=polynesia.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e55437dd9eda1",
+      "emailDate": "2026-11-16T17:07:43.000Z"
     },
     {
       "merchant": "motel6.com",
@@ -424,18 +424,18 @@
       "emailDate": "2026-11-14T23:45:30.000Z"
     },
     {
-      "merchant": "Go City Pass",
+      "merchant": "Klook",
       "percentBack": 8,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-20T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NDhVRGxERXNyVWlLNkd4NW11aExzVVJtL002cXJoV3lsUkZsVWtTeGxmYjczcHUwV2RUMmtpWlpJTC9GdTNBa2FrWDMwdFVZNnZNYlZWa05ZallqbU5rUHFvRmxENTBadTJZSWpnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Z0l1YVpyWldkMEZxYmd4YTlwaHdHdUU4bHpBYWFRYk9zWllxKzBjYlhkQXVRRU16QnlsUHdSbTNpQlpNODB4Mkw1djBoZkpURVZ2MnlqenhsTzFyWVY4TXNORkIydzVkcWZOT1pnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=klook.com&fallback=true&opaque=true&type=cropped&width=500",
       "source": "single-use",
-      "emailMessageId": "1a1e42f28abc2a7f",
-      "emailDate": "2026-11-16T11:47:38.000Z"
+      "emailMessageId": "1a1e55437dd9eda1",
+      "emailDate": "2026-11-16T17:07:43.000Z"
     },
     {
       "merchant": "Marriott",
@@ -464,6 +464,20 @@
       "source": "single-use",
       "emailMessageId": "1a1d950474dec119",
       "emailDate": "2026-11-14T09:07:58.000Z"
+    },
+    {
+      "merchant": "Go City Pass",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZkpXUkEvclZvaTIwOFFLRWJRV1VicUV6ZzZEck9pSFBtdFAwUFB3endaZFg4dmZma1VvYjRZTHhFZlhXa3NtUE9xd1pHazQ1SitkL21vQXpRbE1GRGxNNmhPclIvVmoxMGR0N1FnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e55437dd9eda1",
+      "emailDate": "2026-11-16T17:07:43.000Z"
     },
     {
       "merchant": "The Honest Kitchen",
@@ -550,20 +564,6 @@
       "emailDate": "2026-11-16T11:47:38.000Z"
     },
     {
-      "merchant": "CityPASS",
-      "percentBack": 5.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MVdpVEZzUGtoalBPa3VHMWhJSWhQWnFEd2tsMU0zWE5GdlVBbFM1LzQ0WlpTU2xzeGs5V040YjhSQ25QOGxWVU1WS0xmdTFudTBuRUlWazlaMGhwS0drNWV3eU0yTlluMTVHcXVRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=citypass.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1e168020fbb1a5",
-      "emailDate": "2026-11-15T22:50:51.000Z"
-    },
-    {
       "merchant": "Holiday Inn",
       "percentBack": 5.5,
       "dollarBack": null,
@@ -618,6 +618,20 @@
       "source": "single-use",
       "emailMessageId": "1a1d64b385677ae4",
       "emailDate": "2026-11-13T19:03:35.000Z"
+    },
+    {
+      "merchant": "CityPASS",
+      "percentBack": 4.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MnFUMDhCb0dSeko4MElhU1ZzVVVtM0E0S2lEUitqMnJGYVF0dU5kN0VTdUxVUHIxOHRmTG9rTXJXQ3J5NXhTVm94ZmdremQ2Qi9yaTZvb0w1SlIyY2p0L3JTWkFqQkt2VCsxcFhBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=citypass.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e55437dd9eda1",
+      "emailDate": "2026-11-16T17:07:43.000Z"
     },
     {
       "merchant": "Academy Sports + Outdoors",
