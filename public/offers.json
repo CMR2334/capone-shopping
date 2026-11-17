@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T04:35:32.870Z",
+  "lastUpdated": "2026-11-17T05:17:56.910Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -464,6 +464,20 @@
       "source": "single-use",
       "emailMessageId": "1a1d43b3a2e71f99",
       "emailDate": "2026-11-13T09:26:53.000Z"
+    },
+    {
+      "merchant": "Petco",
+      "percentBack": 9.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": null,
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "1a1e7dda9455cb9d",
+      "emailDate": "2026-11-17T04:57:05.000Z"
     },
     {
       "merchant": "Columbia",
