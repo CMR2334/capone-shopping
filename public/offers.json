@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T01:17:57.560Z",
+  "lastUpdated": "2026-11-17T02:18:06.574Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RnFLMmNIZWJXcWJnZEhYVXNrSVN3eGpXQThLYTJEeVJNWHN5NE5yUHp1R1VMS3doSlB2REw2eHVab3FaVmlEYWZDQnZvQitaWW9EbDg3WU9VV1drWHRzSkhBV05JenRUSllIUXR3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6djlFNUpGOERKTGNyLzJRQW5BNlNPOTFtZHIvVUFMUTAxeUxaNDdtZ0duWFJGaXkvak1MSUJFWnFuL3FLVjlXQnFLNDV4LythbnF5TkNncUdUY3lQTC9xSDM3QzNDNWtDdFRjK0dRPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=katespadeoutlet.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a1e70deb1b9a19c",
-      "emailDate": "2026-11-17T01:10:11.000Z"
+      "emailMessageId": "1a1e72d7b46cfc20",
+      "emailDate": "2026-11-17T01:44:39.000Z"
     },
     {
       "merchant": "GetYourGuide",
@@ -30,6 +30,20 @@
       "source": "single-use",
       "emailMessageId": "1a1e42f28abc2a7f",
       "emailDate": "2026-11-16T11:47:38.000Z"
+    },
+    {
+      "merchant": "Belk",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6L1doTnI0L2x3MTlTUndpa2ZheGRjdU02ZmM4MUMyUVVQSGxwTkpjSkg4ZVk3ZlpBVlQxMVI1eHhQcXA2Y1RFTUhjblVKVkNDRXkzRW5EWk9rbE9qdUlSbVB4Z2V0SVpCYlZIbFlBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=belk.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e72d7b46cfc20",
+      "emailDate": "2026-11-17T01:44:39.000Z"
     },
     {
       "merchant": "DoorDash",
@@ -86,20 +100,6 @@
       "source": "single-use",
       "emailMessageId": "1a1d9dfd7c084492",
       "emailDate": "2026-11-14T11:44:47.000Z"
-    },
-    {
-      "merchant": "Belk",
-      "percentBack": 27,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eGVQaWJNK242cHpyUUxRbUc2OTdRZHI4YkNZWFFOYVpPZXVOR3hGb3NYMzFjdHJKSU45ckZiSk5XNUFPN2c0eStoNkJsMGxrcEhZRHZKOWxma25uaXFidXUrb1BBREdrMDdhVkxRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=belk.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a1e1ba0820c2bd4",
-      "emailDate": "2026-11-16T00:20:27.000Z"
     },
     {
       "merchant": "Big Bus Tours",
@@ -186,6 +186,20 @@
       "emailDate": "2026-11-17T01:10:11.000Z"
     },
     {
+      "merchant": "Old Navy",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VEpwb3BpYnVXYUZaVnZWUG5OQnpVWW4xdnBHaWRBbjdPSTlTbEUrWm96VEpOaTRFZVlXa1phaEtuaURLNkU2MFNtclR5UzBJMHNhMThpTThXblFCRWRLRGVCdHlOYVE5YXdxWFhnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=oldnavy.gap.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e72d7b46cfc20",
+      "emailDate": "2026-11-17T01:44:39.000Z"
+    },
+    {
       "merchant": "Best Western Hotels & Resorts",
       "percentBack": 20,
       "dollarBack": null,
@@ -249,11 +263,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-17T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MjdDVllIQmVZTW54RWJkaEI1dC9scXNXeFBhVnpycEE5dkQycDUzVzJyWjFQUzM4MWRaNjVTcGg2OEJzNTJTRUgwajlJbkFkdGN1bGhwTmM1cTVyMVhoZ2pGSW9yY0lHTVZKQ1l3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZnNsYTRCVWllVldDL0VxaHpPc2l5UmU2SUM5WUV3azNMV0dBU3ZMVHpTZkdzNW9GQ2djMWFCTkFmZGMrcjZwallQdDF0RlJ0a2REQW1JQktnMDVrb3ZwTnljR21rZTBDUCtEYkVnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=duluthtrading.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a1e70deb1b9a19c",
-      "emailDate": "2026-11-17T01:10:11.000Z"
+      "emailMessageId": "1a1e72d7b46cfc20",
+      "emailDate": "2026-11-17T01:44:39.000Z"
     },
     {
       "merchant": "Zappos",
@@ -466,6 +480,20 @@
       "emailDate": "2026-11-16T20:17:16.000Z"
     },
     {
+      "merchant": "Academy Sports + Outdoors",
+      "percentBack": 9,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ekovL3I5NS91Y0hQYTJvS3BoSFpueng2czlEbEYwVDVzMDl5d0pnU3A5OHVrUVhFcW9KNUd0QUE4VW45KzZvc1d2N3BDNUVWWXFsMk44M3BQVm1pOXY1bWtVbE0wZGt6MU5pS2FBPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoacademy.com,s-6KRHmD1AILrNNS6BnIl8NzNamtaotOI8LJzTxbj_8k/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1793204188420.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a1e72d7b46cfc20",
+      "emailDate": "2026-11-17T01:44:39.000Z"
+    },
+    {
       "merchant": "Polynesian Cultural Center",
       "percentBack": 9,
       "dollarBack": null,
@@ -500,12 +528,12 @@
       "capAmount": null,
       "wasPercent": 1,
       "lastViewed": null,
-      "expiresAt": "2026-11-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NmJtMnhNOFNXZENhbWE4c25USm55Z1lMTnB6bjB1NVBVWkpDKzZra1ZCZnp2Ykw2eW1yNDNLRGNkUTN5Mlp0SEsrUGV0VkZvMi9mMHBYNHdYRjlPSmIwQ1NtTm9HRlRxdDBXYlBRPT0/runV3dl",
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6STNJL2NaRDJzTzdSdWJkd21VNi81VXNneHg3OVd6WHRJSHYzT2pwd0ZIZU94SXJ5OHpRMmlmdENFelV1bWxrelJYWUFyTUdOU2I1UGJJNGdGQTJFTjZsRWZ0YldnYnNPdXN5RWdnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestbuy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a1deebd001e9fc2",
-      "emailDate": "2026-11-15T11:15:58.000Z"
+      "emailMessageId": "1a1e72d7b46cfc20",
+      "emailDate": "2026-11-17T01:44:39.000Z"
     },
     {
       "merchant": "PetSmart",
@@ -788,20 +816,6 @@
       "emailDate": "2026-11-16T17:07:43.000Z"
     },
     {
-      "merchant": "Academy Sports + Outdoors",
-      "percentBack": 4.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TitIL2o1c09VQ2haV3M4UGtxOGxMTVpxVVhONFcwbTVhZEJlNGtIRXBCRzQ3ckM0WGR2S0p4UU5GOEQzSG5LRkNJckpBWjEvUzNpVStQaDJ4MDhJVW5lRStaeEVPU3V5REI4VFFnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=academy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1e1ba0820c2bd4",
-      "emailDate": "2026-11-16T00:20:27.000Z"
-    },
-    {
       "merchant": "Macy's",
       "percentBack": 4,
       "dollarBack": null,
@@ -828,20 +842,6 @@
       "source": "single-use",
       "emailMessageId": "1a1e601c0ee090ff",
       "emailDate": "2026-11-16T20:17:16.000Z"
-    },
-    {
-      "merchant": "Sam's Club",
-      "percentBack": 4,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-11-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eVJuVExFcUVZUTd0VHdaTlNRWDVlckVKRmM3N0hqVTY3MGEwbWpaTWxLby9Mci9ObUdzdUJ4dE5QQ0VjKzJOcmdOMC9UWGo4TlcrZThlYVV6M2twMmY1MG9lamYyaUNsQ3BDZ0h3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=samsclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1deebd001e9fc2",
-      "emailDate": "2026-11-15T11:15:58.000Z"
     },
     {
       "merchant": "Tractor Supply",
@@ -872,6 +872,20 @@
       "emailDate": "2026-11-15T11:15:58.000Z"
     },
     {
+      "merchant": "Sam's Club",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NXRpM2M2TEx0RE1QMGgvMnNyeWdHc090aTFMZlVYSWhoRGxLUU0zcGlPVnBENVNKRFduMXlJcHBSZzFPdnZ5QTVxczJqeDA0TERvcCttcFVoNStab0F4dHloWDJ6Qk94dXUyKzJ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=samsclub.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e72d7b46cfc20",
+      "emailDate": "2026-11-17T01:44:39.000Z"
+    },
+    {
       "merchant": "Target",
       "percentBack": 2,
       "dollarBack": null,
@@ -884,6 +898,20 @@
       "source": "single-use",
       "emailMessageId": "1a1deebd001e9fc2",
       "emailDate": "2026-11-15T11:15:58.000Z"
+    },
+    {
+      "merchant": "Bass Pro Shops",
+      "percentBack": 1,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RHJNcmtxRnBaL3JSNlFNMXpjQXpjRGJCZXNYYlRURStEREVEUW1LN2lyeHhXMXRXL21OakwwUmFIOWlTbmx1Zy9Nd2VrM0ZEMmE4bG12THEwbTFtdjY1Q2NZMDlkZWpWMDNVcVRnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=basspro.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1e72d7b46cfc20",
+      "emailDate": "2026-11-17T01:44:39.000Z"
     },
     {
       "merchant": "T-Mobile Home Internet",
