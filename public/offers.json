@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T16:18:01.832Z",
+  "lastUpdated": "2026-11-18T17:17:52.167Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -60,6 +60,34 @@
       "emailDate": "2026-11-18T10:25:00.000Z"
     },
     {
+      "merchant": "Vivint",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-11-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UXBxRU9JbUhHdjc4T1l3UDhqYmJYSDY0amNTSGlReTVER01qSkpUWHV4emlnZktIOFVFZ1hka1M3WFpwL0hOUFg5S256bUdaMnJ1cU8rcTJjSmpBOURUejdyUXdrZ1BpQWFvUjhBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=vivint.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1ef883a1e7b9b2",
+      "emailDate": "2026-11-18T16:40:44.000Z"
+    },
+    {
+      "merchant": "eBay",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "November 5",
+      "expiresAt": "2026-11-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6clNHd0NRdnRjTTY0VzBPcGU2MzFBazdwM01GdUtVWnZQS25LY2NWb3YvRXBlVjFiazN4bHN1VTIvNi9BVldiQysxV2hza3pTQ1IyTVhJNWN1SjBjT2syY3pSc1VlemVpbjkvL1l3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ebay.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1ef883a1e7b9b2",
+      "emailDate": "2026-11-18T16:40:44.000Z"
+    },
+    {
       "merchant": "Big Bus Tours",
       "percentBack": 25,
       "dollarBack": null,
@@ -86,20 +114,6 @@
       "source": "single-use",
       "emailMessageId": "1a1e55437dd9eda1",
       "emailDate": "2026-11-16T17:07:43.000Z"
-    },
-    {
-      "merchant": "eBay",
-      "percentBack": 21.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-20T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cVZ0d0lxY2NTdzR3bFRhZnNsc0lYVzYrMlpPMCs1d3ZuR284S1Y2WkhvaS9jZnQvRDBrTDhGM09NSjdhaStPUHozRExUZ1Qrem4vaUI5UXFWb0FTTkRZN3dDNCs5Vmlyc2RBNVBnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ebay.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1e70deb1b9a19c",
-      "emailDate": "2026-11-17T01:10:11.000Z"
     },
     {
       "merchant": "Viator, a Tripadvisor company",
@@ -326,20 +340,6 @@
       "emailDate": "2026-11-16T20:17:16.000Z"
     },
     {
-      "merchant": "Giftcards.com",
-      "percentBack": 9,
-      "dollarBack": null,
-      "capAmount": 500,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-19T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6emxBR20zd3NRL1BLRUZzR2FMWHRsa0NkVm55aDQ3MWlrNUFCREZla0lRVllnaXI5QnpialZ2M2JvczlLcm83UExodGpVT3NMUEVCM1A4M29pelFMc1BIWDlhb0ZjbHMrdmlHNjhBPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/giftcards.com/bb054209-7d8c-493b-ae6c-05503f2a693f.gif",
-      "source": "todays-top",
-      "emailMessageId": "1a1ee303c686b800",
-      "emailDate": "2026-11-18T10:25:00.000Z"
-    },
-    {
       "merchant": "LG Electronics",
       "percentBack": 9,
       "dollarBack": null,
@@ -508,6 +508,20 @@
       "emailDate": "2026-11-16T18:50:59.000Z"
     },
     {
+      "merchant": "Giftcards.com",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": 500,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-19T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eFBIQVYzRC9UWjQzSE1SaHVXSWZhZDBZazVRMHpzRHBUSTc5bW5LeFc1WVZ0cHBxYnJwVVBjMWpTSWViSFlwc3JJQ2J6UXZmeTlxZ3dDMnc4SGNTZHRYWjNrQ2d1a1ZIcTNpYnNRPT0/runV3",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=giftcards.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "todays-top",
+      "emailMessageId": "1a1ef883a1e7b9b2",
+      "emailDate": "2026-11-18T16:40:44.000Z"
+    },
+    {
       "merchant": "Go City Pass",
       "percentBack": 7,
       "dollarBack": null,
@@ -620,6 +634,20 @@
       "emailDate": "2026-11-17T11:20:42.000Z"
     },
     {
+      "merchant": "Cheddar's Scratch Kitchen",
+      "percentBack": 3,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6S1J4WUhVRG5Bek9oZmxIazJUZ1pJQ0tCeGhLU29jOHpGV2xFcUJnT0lqUndITDU2SlA5S2VkTHRmWEtia1pLanNmY2V5ekEvTC9acUkyMVpZRkk0QnlPRXBhMUlSSzZVM1NLMDd3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=cheddars.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1ef883a1e7b9b2",
+      "emailDate": "2026-11-18T16:40:44.000Z"
+    },
+    {
       "merchant": "The Home Depot",
       "percentBack": 2.5,
       "dollarBack": null,
@@ -674,6 +702,20 @@
       "source": "single-use",
       "emailMessageId": "1a1e72d7b46cfc20",
       "emailDate": "2026-11-17T01:44:39.000Z"
+    },
+    {
+      "merchant": "eFax",
+      "percentBack": null,
+      "dollarBack": 7.5,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-22T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eXVPQjM2R3hLUkF3Wk4xYkxnczFIbytCbjBwVkx6d0JaVmYxZUNubHhCdEw1cHNkaUNLSzlLc2twUWlsMkVBdnd1SjUyclIrQzFqdGFhOEZzcTRHR3hNcXp0T29ISWRFNUcySUdRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=efax.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1ef883a1e7b9b2",
+      "emailDate": "2026-11-18T16:40:44.000Z"
     }
   ],
   "upcomingReveals": []
