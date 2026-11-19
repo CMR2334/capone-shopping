@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T20:18:01.777Z",
+  "lastUpdated": "2026-11-19T21:17:57.787Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -11,11 +11,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-20T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ck50aFYvL3p3VTc1emhDOHlqUWpFdXY3TysxRmlsbXljd1Avd29BSjBjb0QzRWs4K1E1WC9kZkhJLzcrYUtkYzczb2wyejVqSHhRbXVEbmU5MTNlT1NYcllhTytJNXc1aXlsZCtnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QXJNdk5SazNSVDJXRmhkTk9xZTdjV2I5V3U2QUJCSERjVVJWMWExbHRSWXI5djRaY3JxV253ZmJ3enRtWGFLMHBXZ1hFd254N0xTak4vRGJGdXlBYWZvZjVoMm1DbGxtTUxOMEt3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tireagent.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a1f512243b17f2a",
-      "emailDate": "2026-11-19T18:29:28.000Z"
+      "emailMessageId": "1a1f578ba0643d84",
+      "emailDate": "2026-11-19T20:21:32.000Z"
     },
     {
       "merchant": "Belk",
@@ -58,6 +58,20 @@
       "source": "single-use",
       "emailMessageId": "1a1ee303c686b800",
       "emailDate": "2026-11-18T10:25:00.000Z"
+    },
+    {
+      "merchant": "NARS Cosmetics",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eWhMMWZtUHFOOHZBdVgxUENreVZHMU5qNkhLT2dGUUJCeUJvdjhVOWQ4QnZRb3pLeCtBRjI4TVd4dEdVcUVkZ1RCRmJRRHcyRFo3N01kcU1mOXlnOHg4SDFaS1c0Z0NhNUhqK0FRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=narscosmetics.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1f578ba0643d84",
+      "emailDate": "2026-11-19T20:21:32.000Z"
     },
     {
       "merchant": "eBay",
@@ -128,6 +142,34 @@
       "source": "single-use",
       "emailMessageId": "1a1ee303c686b800",
       "emailDate": "2026-11-18T10:25:00.000Z"
+    },
+    {
+      "merchant": "Italist",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZHR6YXFTVnpFYjA0dC9wa09pb2tyRzdDbWczYjNXUnI0dzJWcmJJVDR1T0xBcUpqMS9pdUpjYk5qR1FKNW9wMHFmbFZvWFNFeG1UQWtpSWRlMkJ5dlJFSU1KbVB3U2c0OUIxYkR3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=italist.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1f578ba0643d84",
+      "emailDate": "2026-11-19T20:21:32.000Z"
+    },
+    {
+      "merchant": "Furla",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UDY4MGFYV3RoQzBDSFhFeUphejV1WHRSdUVXQ1VHOHRLSDRQM29jaDY2VjRabC9CMXEydGhBSXE0OWNrRWJwejVQcUFEMHZ5ZUMvamI0aysrdXJVZXo3eGJTRGtDMFY3NS9sdXRnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=furla.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1f578ba0643d84",
+      "emailDate": "2026-11-19T20:21:32.000Z"
     },
     {
       "merchant": "Old Navy",
@@ -242,18 +284,18 @@
       "emailDate": "2026-11-19T17:04:58.000Z"
     },
     {
-      "merchant": "Castlery",
-      "percentBack": 11.5,
+      "merchant": "Harrods",
+      "percentBack": 11,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-11-20T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WnJleEhJZVpEYXBjcERIRnM5WGljWnN0YWZ3RUFBWm52ZTF3amxMd3ZtTzNPQjR1MkxGRjJxaVdycCtlYkZFUjR4Z1RKaWx0RUZhL2hidzdNOVZoUXdoTE4vM05OOU5wOXoyT29BPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=castlery.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a1f512243b17f2a",
-      "emailDate": "2026-11-19T18:29:28.000Z"
+      "expiresAt": "2026-11-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UTRXUzFCUW50VE82azU2TjNCYTRXb3UrRzhOM0xIdzk3OWhGcS9BVGtZeEVXZU1QKy9MTzlKL2FaT3h2S2hISW9HUy82bU96dndhVlAyWmJpYTJQZFllOWplZS9Xa204d3kzei9nPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoharrods.com,s-mFl0Ll54KMDJrYm4LwqZGbFUIsIT8_-Ie-Gw9yKam4/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1794851722194.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a1f578ba0643d84",
+      "emailDate": "2026-11-19T20:21:32.000Z"
     },
     {
       "merchant": "SHEIN",
@@ -296,6 +338,20 @@
       "source": "single-use",
       "emailMessageId": "1a1e70deb1b9a19c",
       "emailDate": "2026-11-17T01:10:11.000Z"
+    },
+    {
+      "merchant": "Yves Saint Laurent Beauty",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Q3NxNDczL0tKQjBza0VjVnlVcWhJYTJuVkp0MlJuS2NuWmZtSEFHRjhhY1ZjS3FkYUhBcmpZWFFCMUVvWlFyWEtzMEgweXowcmhxRGNBeWxibnp6RUhaei9mRnduUUw0Wmo1WklnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=yslbeautyus.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1f578ba0643d84",
+      "emailDate": "2026-11-19T20:21:32.000Z"
     },
     {
       "merchant": "Ace Hardware",
@@ -438,6 +494,20 @@
       "emailDate": "2026-11-16T18:50:59.000Z"
     },
     {
+      "merchant": "SSENSE",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eDJnbHhGUVVYVEdnVVVRcHFMK0F2a0JUYTdrNWZjWGZPV3pTR1NHeWZBVVNzZE9VcnhVYmNXMVRCSzBlcXJPdW1IUG56MEJIcjFLMXVYa3JrV0FybU1kcDRIOHJMYnF3TEpuV1JRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ssense.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1f578ba0643d84",
+      "emailDate": "2026-11-19T20:21:32.000Z"
+    },
+    {
       "merchant": "Go City Pass",
       "percentBack": 7,
       "dollarBack": null,
@@ -450,6 +520,20 @@
       "source": "single-use",
       "emailMessageId": "1a1ee303c686b800",
       "emailDate": "2026-11-18T10:25:00.000Z"
+    },
+    {
+      "merchant": "Castlery",
+      "percentBack": 6.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bFpmUmN1cTBudXlSVUtLbnFPd1F2S0YzNHptUi9ZY0QzUGhqbXZ5UzQrQmErRkk2dmFsZllzY2wveU42MGRjNHdlclU2d2FmVEs5T09QSldOampKTnJtTlcxZkJCcUkvUm1NQzhBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=castlery.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "1a1f578ba0643d84",
+      "emailDate": "2026-11-19T20:21:32.000Z"
     },
     {
       "merchant": "Chewy",
@@ -478,6 +562,20 @@
       "source": "single-use",
       "emailMessageId": "1a1e5b2c330399ca",
       "emailDate": "2026-11-16T18:50:59.000Z"
+    },
+    {
+      "merchant": "MR PORTER",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6YVUwZGN4MThJRjlIdU40NWUyS1JvTllVd0I1MU1nY0xoREhpY1pZME43MDNNWGRWay9JN3J4SU1pL0kzZ3FtT0FtVFprZjVaK28xQkdKQkF1blNNeVBJdnpyeDhzQVBhdjhqb0JBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=mrporter.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a1f578ba0643d84",
+      "emailDate": "2026-11-19T20:21:32.000Z"
     },
     {
       "merchant": "Champs Sports",
