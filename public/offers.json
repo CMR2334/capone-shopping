@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-11-20T00:17:58.532Z",
+  "lastUpdated": "2026-11-20T01:17:55.748Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
     {
       "merchant": "Tire Agent",
-      "percentBack": 35,
+      "percentBack": 40,
       "dollarBack": null,
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-20T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QXJNdk5SazNSVDJXRmhkTk9xZTdjV2I5V3U2QUJCSERjVVJWMWExbHRSWXI5djRaY3JxV253ZmJ3enRtWGFLMHBXZ1hFd254N0xTak4vRGJGdXlBYWZvZjVoMm1DbGxtTUxOMEt3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TjZmR1hwUU5tRllUckwrLzFIMWZCU0V6Ui96REQxeXQrdGtSWnRNQWwzSlFmTG5oQWZ2Tkw3TGZkOGpXSmdXQzhUMVl0OVRweHkySlNvYlAwaERkZUVZa2ZIdDJETVliWE5sZjBBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tireagent.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a1f578ba0643d84",
-      "emailDate": "2026-11-19T20:21:32.000Z"
+      "emailMessageId": "1a1f65b02dcbca90",
+      "emailDate": "2026-11-20T00:28:41.000Z"
     },
     {
       "merchant": "Belk",
@@ -186,6 +186,20 @@
       "emailDate": "2026-11-17T01:44:39.000Z"
     },
     {
+      "merchant": "Castlery",
+      "percentBack": 18,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-20T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dXhMUWt3WWN0UjB6RHZ3WVFXaGlwUGYvVEVrR3hHMjkzU0lsWUFkTWV6UE9CSVVZdnVMeXRwNnE4T3krelkyS2k0aVFnVm1lNUZRRy9ETmxQaEUwd0NDVGY2SnFxcUJQWkNhaXZ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=castlery.com&width=300",
+      "source": "todays-top",
+      "emailMessageId": "1a1f65b02dcbca90",
+      "emailDate": "2026-11-20T00:28:41.000Z"
+    },
+    {
       "merchant": "CVS",
       "percentBack": 18,
       "dollarBack": null,
@@ -198,6 +212,20 @@
       "source": "single-use",
       "emailMessageId": "1a1e5b2c330399ca",
       "emailDate": "2026-11-16T18:50:59.000Z"
+    },
+    {
+      "merchant": "Costa Del Mar",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-11-23T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6R0hPTklobExRT0hPTUcvVDRqaW1LVE0xT3VoYnExSmhKZHd6ZjRUbW9aYTc0TnBXMHdsWS9QUGpuNXhvTnd1WEh1eWgwZVVaRjBCTyt5NzlFb2J6eGJGR1J5WXZna0h3aVdZYnJBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=costadelmar.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a1f65b02dcbca90",
+      "emailDate": "2026-11-20T00:28:41.000Z"
     },
     {
       "merchant": "PetMeds",
@@ -520,20 +548,6 @@
       "source": "single-use",
       "emailMessageId": "1a1ee303c686b800",
       "emailDate": "2026-11-18T10:25:00.000Z"
-    },
-    {
-      "merchant": "Castlery",
-      "percentBack": 6.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-20T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bFpmUmN1cTBudXlSVUtLbnFPd1F2S0YzNHptUi9ZY0QzUGhqbXZ5UzQrQmErRkk2dmFsZllzY2wveU42MGRjNHdlclU2d2FmVEs5T09QSldOampKTnJtTlcxZkJCcUkvUm1NQzhBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=castlery.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a1f578ba0643d84",
-      "emailDate": "2026-11-19T20:21:32.000Z"
     },
     {
       "merchant": "Chewy",
