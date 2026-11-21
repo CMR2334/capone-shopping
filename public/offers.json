@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T06:18:04.123Z",
+  "lastUpdated": "2026-11-21T07:18:15.761Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -16,20 +16,6 @@
       "source": "single-use",
       "emailMessageId": "1a1f82748b634626",
       "emailDate": "2026-11-20T08:51:26.000Z"
-    },
-    {
-      "merchant": "Kendra Scott",
-      "percentBack": 25,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MkljVFFDd200TmIzRDhNdDR2bFp6UTFycFdYWUVpN082a3IvMkV0UWwra3V2eGJ3dzh1THBHbGk4cGFoK3duUEhKd0l2aVdKbjRTVnoweFFkTDRrRjlUYzJDWWgzUE0zWTVtQk1BPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/kendrascott.com/cc021043-af82-4bd7-9aa5-0722464f1c2e.gif",
-      "source": "todays-top",
-      "emailMessageId": "1a1fa9a0fa90cefd",
-      "emailDate": "2026-11-20T20:16:02.000Z"
     },
     {
       "merchant": "Outdoor Voices",
@@ -256,20 +242,6 @@
       "emailDate": "2026-11-19T17:04:58.000Z"
     },
     {
-      "merchant": "Staples",
-      "percentBack": 13,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-11-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ektZRlJpdk5CdXBNbi9TYnlUZXY2QWJ5eGgzZVlBN01LMXgydlNzUUxONVg5OCtyVTlEUjB0VVBIMnQvdkVPTzJqOTlZM3RJRkFCOCtqNWFDaDY1c1dVOU9RWjFRTnB1a3pIOXpRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=staples.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1e93ce0fc63077",
-      "emailDate": "2026-11-17T11:20:42.000Z"
-    },
-    {
       "merchant": "Columbia",
       "percentBack": 12.5,
       "dollarBack": null,
@@ -382,20 +354,6 @@
       "emailDate": "2026-11-19T18:29:28.000Z"
     },
     {
-      "merchant": "LG Electronics",
-      "percentBack": 9,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6emN6S1poSkhZblc1d2dDL0lxOC9xaXNTaWlaQ2ZZVE13Y0dwWmtIVXFLR3hFR2g2eHdRdFE4TG1QYXU0SzY2MlpncjVqVVAvQ0hlOXcwN1JzelhlSE9rNzAzS0tOUWg1QVdHU21BPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lg.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1e93ce0fc63077",
-      "emailDate": "2026-11-17T11:20:42.000Z"
-    },
-    {
       "merchant": "Klook",
       "percentBack": 8.5,
       "dollarBack": null,
@@ -450,20 +408,6 @@
       "source": "single-use",
       "emailMessageId": "1a1f82748b634626",
       "emailDate": "2026-11-20T08:51:26.000Z"
-    },
-    {
-      "merchant": "Office Depot",
-      "percentBack": 7.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 1,
-      "lastViewed": null,
-      "expiresAt": "2026-11-21T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Zm5OTWMzK0FXWHduR2xZaE5Fd0o3bmFGeUZsQU1zYUxtb1pWNkhLRGdRbElEcGRqbHh1Rlh1WFkzeEh5eitBUnFnOURCNG4xR2dkckJURjVKSE43YlFSTDh0L3BQSEpDNXJQaUVBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=officedepot.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a1e93ce0fc63077",
-      "emailDate": "2026-11-17T11:20:42.000Z"
     },
     {
       "merchant": "UGG",
