@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-11-23T18:18:39.973Z",
+  "lastUpdated": "2026-11-23T19:18:44.518Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "PetSmart",
+      "percentBack": 32,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NW5hY24wTmpMRGp2V0QycHhJdURpbVhWMFFJZHBIdWhBU1hhcDFFMnhEQWZnbkwwNTY3MXdpc0pORHBuQkJuVWd5MHRkUUpsenkrUlhCb3YxTWRlOU5wU2tOYmJBTXRMY3F0d05nPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/8d4e212700312b50a70ef722.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a209b7c4d8667ab",
+      "emailDate": "2026-11-23T18:42:47.000Z"
+    },
     {
       "merchant": "GetYourGuide",
       "percentBack": 32,
@@ -72,6 +86,20 @@
       "source": "single-use",
       "emailMessageId": "1a1ff5da715f7053",
       "emailDate": "2026-11-21T18:28:09.000Z"
+    },
+    {
+      "merchant": "PetCareRx",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TEw3VVJxWHY5ZHA4U3VJTERFU3J1WEZCYnBEZDV0aW51Y0FvOGd1MFlwY3dIS1daeXp5Q2xTaTY3eHI1SXhLaUt3dGp6QmJSaldCZGUzblVsS3JOTVA4blFmQkxWRFd1Mzd2YmJ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petcarerx.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a209b7c4d8667ab",
+      "emailDate": "2026-11-23T18:42:47.000Z"
     },
     {
       "merchant": "Viator, a Tripadvisor company",
@@ -165,11 +193,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6U1RjL2gyM052UExneTV0NVlZcTFGNDFLTkI2d0pEL3JQY2d0NS9Cempvc3dtQ0o3YmtXVW9uOWZQaGdHekg2RHFzcHRhWDFJQVorNXA2Yy9WcGxSTVQxSEFwMmljM2FUYUI1aEFBPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6K2NWWXpSY3N4SmpBSy9icHg4a080SHJYcHU0TjdsbDZWMVdOOFEveG56aVVoL084Y3psZjc2TnA2M1R1RGswTTJ3OU1ia1E2VHdIZWZyMDZXNUdqb1k1STBqWHdCK3QxV3lpdmJ3PT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/sharkninja.com/df032f59-dd5d-4dee-8e86-5ee53f58b427.gif",
       "source": "todays-top",
-      "emailMessageId": "1a209468bf9cd8cd",
-      "emailDate": "2026-11-23T16:39:07.000Z"
+      "emailMessageId": "1a209b7c4d8667ab",
+      "emailDate": "2026-11-23T18:42:47.000Z"
     },
     {
       "merchant": "Carhartt",
@@ -198,6 +226,20 @@
       "source": "single-use",
       "emailMessageId": "1a1ffc319fe2ef19",
       "emailDate": "2026-11-21T20:18:58.000Z"
+    },
+    {
+      "merchant": "PetMeds",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cXpBTEVGY2x2ZmJ3OUQrdnJkSGNnbDNpcm9JT2lXcWVRSnZjTnE3OWFyWmlDKzJHbTRwL1pmRGF5Q1AwN09pUmpMZC9aMGhoL0xPNGNRRTVMY1cybHJPR3JNeE9td2FOTHRtblZBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=1800petmeds.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a209b7c4d8667ab",
+      "emailDate": "2026-11-23T18:42:47.000Z"
     },
     {
       "merchant": "Tuft & Needle",
@@ -282,6 +324,20 @@
       "source": "single-use",
       "emailMessageId": "1a1fa9a0fa90cefd",
       "emailDate": "2026-11-20T20:16:02.000Z"
+    },
+    {
+      "merchant": "Zesty Paws",
+      "percentBack": 13,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6M1V6UEpSQUFYMXhJZkdMRjc2KzBXdzRIK2tINlhGYWtYeXhRNW1DNTBRaWh4M0xNeEZjaWlIQStkY3owUExKcmFnSFNTS3VhN3BXSGZYa0wxKzMwdVFRNS94eG1WblB3RGk5REpnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=zestypaws.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a209b7c4d8667ab",
+      "emailDate": "2026-11-23T18:42:47.000Z"
     },
     {
       "merchant": "Staples",
@@ -466,6 +522,20 @@
       "emailDate": "2026-11-20T08:51:26.000Z"
     },
     {
+      "merchant": "Klook",
+      "percentBack": 7,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6aEIrMGdERkFScFlJRGZaL2Yzbis1dElQQTJ5UjB6aTZScVIzUDcrbkxnUGQ2cXVoMkZ4Q2s1VVNhTk1GNXZtcnlReFEyMjAwNEl4YlBha2I1ejZOUWE5VUFrc0I5M2VhdWtPcVVnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/c637844261e256dc50376560.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a209b7c4d8667ab",
+      "emailDate": "2026-11-23T18:42:47.000Z"
+    },
+    {
       "merchant": "Barnes & Noble",
       "percentBack": 7,
       "dollarBack": null,
@@ -478,20 +548,6 @@
       "source": "single-use",
       "emailMessageId": "1a1ffc319fe2ef19",
       "emailDate": "2026-11-21T20:18:58.000Z"
-    },
-    {
-      "merchant": "Klook",
-      "percentBack": 7,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": "November 15",
-      "expiresAt": "2026-11-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QlQzVG9COEZCOTQ3cHU1TVQ1ZEZ1U0NpMytXQmpVSkZNK05HRTZ0VlBSaFdvSDc0cnFPdWhzeUJ2d2Y5K1Y5RCtwQUZLR080VzJWMDV2czhZeldWdXFqcXZaaThwUktFNElnalBRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=klook.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a1ff5da715f7053",
-      "emailDate": "2026-11-21T18:28:09.000Z"
     },
     {
       "merchant": "NOMAD Goods",
@@ -646,6 +702,20 @@
       "source": "single-use",
       "emailMessageId": "1a1fa371666b8b46",
       "emailDate": "2026-11-20T18:27:56.000Z"
+    },
+    {
+      "merchant": "Pet Supermarket",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RDJvc2QxUURtKzFPSDhCRFNNakIzNW5BRFIyOHJseDVDNE9pMVdVRlVhMWZ5Y1J0UHcwbTZrZ1Z3KzJ1T0RBbjJzcXh6YXhjMXBSdm05SE42V0hXd2pFeklXaExQbVpweWdURTR3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petsupermarket.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a209b7c4d8667ab",
+      "emailDate": "2026-11-23T18:42:47.000Z"
     },
     {
       "merchant": "Target",
