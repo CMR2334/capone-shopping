@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T07:18:40.707Z",
+  "lastUpdated": "2026-11-23T08:18:41.467Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -296,6 +296,20 @@
       "source": "single-use",
       "emailMessageId": "1a1feea94b5fa85b",
       "emailDate": "2026-11-21T16:22:28.000Z"
+    },
+    {
+      "merchant": "Chewy",
+      "percentBack": 8.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-27T07:00:00.000Z",
+      "activationUrl": null,
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "1a2074e5db67eb7a",
+      "emailDate": "2026-11-23T07:28:24.000Z"
     },
     {
       "merchant": "Walmart",
