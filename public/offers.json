@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T16:18:45.914Z",
+  "lastUpdated": "2026-11-23T17:18:45.441Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -25,11 +25,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-27T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6U2IzbmZmQURYQWtPMk9hS3BpU1loUTY2bm1MZVp5NFUxb3VCVmNVY3hhaCt4Nmt0SUY3am1ncTFSOHlUdFVINlp2dldacDRpL1pZR1RPcVR0eHdaRGZyZnNEK1k1ays5OU9jY2h3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6c2xKa1J3WldSYllKOHBBSHR5SlRhaThCMU9VTC84aldtZUE2WCtDL3V4SmhsVHEwTkFZWm1TWFNERlFxT3cwelUyS3h1TndKRFVQNGNydUtydWdQV2gvSjA3WVY1OWo3V2lzUy9BPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/743b5767b144557b85e7ea58.png",
       "source": "single-use",
-      "emailMessageId": "1a208dda16dfcb13",
-      "emailDate": "2026-11-23T14:44:31.000Z"
+      "emailMessageId": "1a209468bf9cd8cd",
+      "emailDate": "2026-11-23T16:39:07.000Z"
     },
     {
       "merchant": "Beautyrest",
@@ -136,12 +136,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-11-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6STQybGRhN2FXSndpaGJPZ2x0NTAzL25rNGM2YXczbDFGQ2ttbCt5S3VUNGl4M1pPeWM5N0M3YXNsRjAzdzRPR1VldnB3WGxxWEtzNDdOc1Vyc3FwTWd1eVNMUnVjZ1AyTGtHWTVRPT0/runV3dl",
-      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoebay.com,sr2GDn89lLhufXf1j5X71GbKR1jP-8pkz_drUBmxd1wI/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/a9b76862cc308fa8f8588f55.png",
+      "expiresAt": "2026-11-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RDFDekUyWElIajlUc0QrVGtQS29IN2w5TFZxS2NRT1NiSUtMcjVFZGkwWkdwejB2RHhFVUY0R1FTZVNGd0xaanBWSTArOGZra0pJcmNyc0ZIenprL1Rjd2lCN2d0VXlFQnN5MVlnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/ebay.com/eec6db10-d4ad-4527-bacb-9774d4105a80.gif",
       "source": "single-use",
-      "emailMessageId": "1a1fa371666b8b46",
-      "emailDate": "2026-11-20T18:27:56.000Z"
+      "emailMessageId": "1a209468bf9cd8cd",
+      "emailDate": "2026-11-23T16:39:07.000Z"
     },
     {
       "merchant": "Tiqets",
@@ -165,11 +165,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-24T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VnU3QnJhOFJHakxJZTZFd2VjM1VVN3E1VlB2clM4ajZyQm5Lc3Z5RThCeVY4SUd5Um9tbm14Q1JzcTdTb0UzZzA0VkFiZlgxbWUwT1FRc3hSblgzM29YbWJPWU9kQ3ZCUHpObndnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6U1RjL2gyM052UExneTV0NVlZcTFGNDFLTkI2d0pEL3JQY2d0NS9Cempvc3dtQ0o3YmtXVW9uOWZQaGdHekg2RHFzcHRhWDFJQVorNXA2Yy9WcGxSTVQxSEFwMmljM2FUYUI1aEFBPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/sharkninja.com/df032f59-dd5d-4dee-8e86-5ee53f58b427.gif",
       "source": "todays-top",
-      "emailMessageId": "1a208dda16dfcb13",
-      "emailDate": "2026-11-23T14:44:31.000Z"
+      "emailMessageId": "1a209468bf9cd8cd",
+      "emailDate": "2026-11-23T16:39:07.000Z"
     },
     {
       "merchant": "Carhartt",
@@ -324,6 +324,20 @@
       "source": "single-use",
       "emailMessageId": "1a1ffc319fe2ef19",
       "emailDate": "2026-11-21T20:18:58.000Z"
+    },
+    {
+      "merchant": "Blue Apron",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6R0p1WkJxWnpITFdUdjFKcDRZM1ZxSkpBb0E2S0lmc0g4Q0w1bXdxUVk4N2hqU05pcDRpOGJBc1VlTXQvVHVsWjdxRXNZd2l6cEE5OHE5cmpzN0xSRVNjU3dyWDZvc0NaRHJjT2ZBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=blueapron.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a209468bf9cd8cd",
+      "emailDate": "2026-11-23T16:39:07.000Z"
     },
     {
       "merchant": "Sears",
@@ -660,6 +674,20 @@
       "source": "single-use",
       "emailMessageId": "1a1fa371666b8b46",
       "emailDate": "2026-11-20T18:27:56.000Z"
+    },
+    {
+      "merchant": "Uber Eats",
+      "percentBack": null,
+      "dollarBack": 50,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": "November 7",
+      "expiresAt": "2026-11-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dmczR2M5U3JnZ01XclMzVVZ3RURzN2ZiM2NUTnRaQmlYSGRkTVp2WnZWVGRtYU1MeGdXZWNkR1MxN2hoOHBxa2R6QURtR2VDR3NzbVVpd1BiUGV1QzlraEhDeWdoazNrbW5LejZ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ubereats.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a209468bf9cd8cd",
+      "emailDate": "2026-11-23T16:39:07.000Z"
     },
     {
       "merchant": "audiobooks.com",
