@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T20:18:13.492Z",
+  "lastUpdated": "2026-11-24T21:18:21.399Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -130,6 +130,34 @@
       "emailDate": "2026-11-21T18:28:09.000Z"
     },
     {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": "November 16",
+      "expiresAt": "2026-11-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZEZOWUZqUnhaNm9ldjEwMVhDcG9nQjkrVUxyNzNaYjQyL3pjL3RHbHZiRVRzQ0dHODFWR2RUOFVQUnhXbDRXdW5JOUxqM3pUb3F5K25XMHJZL2hNT3RLVXg3MzFKUklXWWM4YnVBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a20f44a104a339e",
+      "emailDate": "2026-11-24T20:34:45.000Z"
+    },
+    {
+      "merchant": "SIXT Rent A Car",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-11-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bkczbnJmTW1raDBJMC93Qy9GR29HcTM1TFd5bEtHV1NDaHMrK0pPU3BjOFl2OVoyNDR1cVY3WHNIUzU2WWdJZkVOT1U0WEFSbzU3eWtmcU1wdkswTnF2SS9vRE9NcThEYU1kR2NnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=sixt.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a20f44a104a339e",
+      "emailDate": "2026-11-24T20:34:45.000Z"
+    },
+    {
       "merchant": "Embark",
       "percentBack": 25,
       "dollarBack": null,
@@ -156,20 +184,6 @@
       "source": "single-use",
       "emailMessageId": "1a209b7c4d8667ab",
       "emailDate": "2026-11-23T18:42:47.000Z"
-    },
-    {
-      "merchant": "Viator, a Tripadvisor company",
-      "percentBack": 25,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": "November 16",
-      "expiresAt": "2026-11-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TjkvelNiQVRQbGNwUVZYL2Z3OGxmTTZISmZYdzBmYW9USXRjbytWYmJKbTIxaUNxTDdYdXhBSTVnWTh4UFpXdG9lTkNxdTZZS1dIakFiZ09NM0N0c3pyTEJrRDgrRDdJQXAzQlB3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&type=cropped&width=500",
-      "source": "single-use",
-      "emailMessageId": "1a2028125da47639",
-      "emailDate": "2026-11-22T09:05:46.000Z"
     },
     {
       "merchant": "Big Bus Tours",
@@ -270,20 +284,6 @@
       "emailDate": "2026-11-21T20:18:58.000Z"
     },
     {
-      "merchant": "Dermstore",
-      "percentBack": 17.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eWc5b3lZaXB6MXArb0ozZHc0d21BTlhPUDdHR3lSaU43OS83VlM5OUdmM0ZBSTBGcmtuU0d3OE05bEx6V3ByeFgrdkFqVkU4MVN5dUxmOXZoeGhTWXpEUWpLdG5KajZmRWdJVElnPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/dermstore.com/5c56b21f-8f93-4d49-9ff5-0a947e6fd838.gif",
-      "source": "todays-top",
-      "emailMessageId": "1a20e771ae6c8f3d",
-      "emailDate": "2026-11-24T16:50:15.000Z"
-    },
-    {
       "merchant": "Petco",
       "percentBack": 16,
       "dollarBack": null,
@@ -296,6 +296,34 @@
       "source": "single-use",
       "emailMessageId": "1a20f2d85c5803a3",
       "emailDate": "2026-11-24T20:09:30.000Z"
+    },
+    {
+      "merchant": "Dermstore",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZVRpODVmaG9KZERMUnJtMWNSKzFVOW43dHl6S2h6S3V1VzhzS1dYb1RKZVRUZVppNEhKQzl0U1AzNUVjS3A5ZDVIU2NmdEdGTjJCd3Y1bzdJODNxT2tkK25uMVBnQTFwbVpxU2RRPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/dermstore.com/5c56b21f-8f93-4d49-9ff5-0a947e6fd838.gif",
+      "source": "todays-top",
+      "emailMessageId": "1a20f44a104a339e",
+      "emailDate": "2026-11-24T20:34:45.000Z"
+    },
+    {
+      "merchant": "AirportRentalCars",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6U0hESytxcUVSRCtGMEZvQTNrTVhqSnJQMWZ1RE01SW5SZnd6MGF5OGFtOGtWQTZ4MkVoNUVlWExXWWlYVGhVajNQZWhhYnpYWTFMUysraHc5blBhckNEckZCK2ZmanBMY3FONmJBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=airportrentalcars.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a20f44a104a339e",
+      "emailDate": "2026-11-24T20:34:45.000Z"
     },
     {
       "merchant": "Avis",
@@ -408,6 +436,20 @@
       "source": "single-use",
       "emailMessageId": "1a1fd5b412db4a8e",
       "emailDate": "2026-11-21T09:06:18.000Z"
+    },
+    {
+      "merchant": "United Airlines MileagePlus - Points.com",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6d3UxQlVFZis5WlBLeFJoNDI4QkQ4eDNEMFlvU2V3K2RydWlWSklhcXBHTGNXNkZ5Q1ByK21ZRVUzNy96cXpSbEZ6aEFhemRhWnRBbEZ4aW9TRHI1ancvRjU5cno1bkFxclRNbTZBPT0/runV3",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=buymiles.mileageplus.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a20f44a104a339e",
+      "emailDate": "2026-11-24T20:34:45.000Z"
     },
     {
       "merchant": "Fable Pets",
@@ -786,6 +828,34 @@
       "source": "single-use",
       "emailMessageId": "1a208dda16dfcb13",
       "emailDate": "2026-11-23T14:44:31.000Z"
+    },
+    {
+      "merchant": "Hotels.com",
+      "percentBack": 2.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eG5yR3ZtdWxRdjJCV1VtaHovdHZ3OHpkNjcrU05LWHYvVU5XV1JzRXlBcjJxTmlxQXlPeVZwNC9wT21CRmFnSi9CSndJazA3d1Y2aEF1VVdXcW1OZDdNU2x2Um5QSE55cjhGNThnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/4e6548091981e0ae6af413ac.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a20f44a104a339e",
+      "emailDate": "2026-11-24T20:34:45.000Z"
+    },
+    {
+      "merchant": "Alamo Rent A Car",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6U3JOM2c4QVpKa3BTZy8rTnRvcW0rYTRsdTEzd0k1dFg0L0VOWHU0MlVkNkRadjU0VXl5V2dFekVhbTJSOE1Ydk52NEI1SjNld1NiYUlsZGxlOGd0ME1KcHpwL2FFUmhyYlR0U2t3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=alamo.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a20f44a104a339e",
+      "emailDate": "2026-11-24T20:34:45.000Z"
     },
     {
       "merchant": "Sam's Club",
