@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-11-24T14:18:20.533Z",
+  "lastUpdated": "2026-11-24T15:18:21.177Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
     {
-      "merchant": "Dermstore",
-      "percentBack": 50,
+      "merchant": "The Honest Kitchen",
+      "percentBack": 43.5,
       "dollarBack": null,
       "capAmount": null,
-      "wasPercent": null,
+      "wasPercent": 3,
       "lastViewed": null,
-      "expiresAt": "2026-11-25T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SGI2eXpmREdhWnA4RVphOGhjSGpMZlJNZXdjblFWSUF1OWo0RWFwTENIYkIzRkN6QU5CK3RlZTJvR1hYdVJuRWRqYmVhd24yYXh4cDZXWEkxTzl5cDMwQXIwTy9KQ2lFdWhXUkZnPT0/runV3dl",
-      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/dermstore.com/5c56b21f-8f93-4d49-9ff5-0a947e6fd838.gif",
-      "source": "todays-top",
-      "emailMessageId": "1a20d6d60c04fc88",
-      "emailDate": "2026-11-24T12:00:01.000Z"
+      "expiresAt": "2026-11-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QjBINTBOWVZZU25VSHNMZElCdkQ4d1pMeExPUERQZ1lKS3VrZnRXMUlrdkM2aXZFTTVrZ0FxdHN5UW1ERE1LUmszRVJFY2dFUzdlVGU0eXhzTjYzK2hJUitIMlFYbWxrdVlDVjZRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=thehonestkitchen.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a20e10ec3e9a3b1",
+      "emailDate": "2026-11-24T14:58:39.000Z"
     },
     {
       "merchant": "Klook",
@@ -58,6 +58,20 @@
       "source": "single-use",
       "emailMessageId": "1a2028125da47639",
       "emailDate": "2026-11-22T09:05:46.000Z"
+    },
+    {
+      "merchant": "Tuft + Paw",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": "November 7",
+      "expiresAt": "2026-11-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RG5aOTVUV1JIWDBBazUrNDFzeUtjQmRscWZxc2lHbVkvU0RpdlkrMFh2NDNJSUZFSkhjMmZBOU1sY2l6c2lEdEZuOU1mNVAyeXFCOWswWXNhN2o3VE1uNjAwU1VtUE9UUCtkVk9RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=tuftandpaw.com&width=500&fallback=true&type=cropped&opaque=true",
+      "source": "single-use",
+      "emailMessageId": "1a20e10ec3e9a3b1",
+      "emailDate": "2026-11-24T14:58:39.000Z"
     },
     {
       "merchant": "Serta",
@@ -116,6 +130,20 @@
       "emailDate": "2026-11-21T18:28:09.000Z"
     },
     {
+      "merchant": "Embark",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZWdReTg4WVdHMnZyeXRBczVqS3dYakJ5endWQVVsMkVnYm1SR0dmaDhSOVZBVVpPNUE2bnRrSzlIWFZpQkFWSGpaMzB5RGhqNDJmeU5adGhia3plSStOV0ZCUkZPSEhwQWRQalJnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=embarkvet.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a20e10ec3e9a3b1",
+      "emailDate": "2026-11-24T14:58:39.000Z"
+    },
+    {
       "merchant": "PetCareRx",
       "percentBack": 25,
       "dollarBack": null,
@@ -170,6 +198,20 @@
       "source": "single-use",
       "emailMessageId": "1a1feea94b5fa85b",
       "emailDate": "2026-11-21T16:22:28.000Z"
+    },
+    {
+      "merchant": "Dermstore",
+      "percentBack": 22.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-25T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bUszOXo1TDlHZFRDQTBxMzdicjhacHVUOFd4YkhkR1JVVjA0SnNWdTZjU3hySEMxYzg0Y2lqRW9PYjVHK1VOZmtDMnU3Q0JzakxwMkVKZnNwVmFNc1MwMVJZWVorcyt6eFpvazdnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/dermstore.com/5c56b21f-8f93-4d49-9ff5-0a947e6fd838.gif",
+      "source": "todays-top",
+      "emailMessageId": "1a20e10ec3e9a3b1",
+      "emailDate": "2026-11-24T14:58:39.000Z"
     },
     {
       "merchant": "eBay",
@@ -310,6 +352,20 @@
       "source": "single-use",
       "emailMessageId": "1a1fd5b412db4a8e",
       "emailDate": "2026-11-21T09:06:18.000Z"
+    },
+    {
+      "merchant": "Fable Pets",
+      "percentBack": 12,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZXAvZEExYWUrbmxoMHdCR011Yy9EKzlIYmN4dHpqWVVLdTR6YVlTSndpQSthNlcyeFQ1U0xyRlJ2QXBxcS8ra2gvcnAxRlVIdFFiNG5SdnEwSmtzNWdpL0pzZ0NYaENKL2s5KzlnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=fablepets.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a20e10ec3e9a3b1",
+      "emailDate": "2026-11-24T14:58:39.000Z"
     },
     {
       "merchant": "The North Face",
@@ -464,6 +520,20 @@
       "source": "single-use",
       "emailMessageId": "1a1ff5da715f7053",
       "emailDate": "2026-11-21T18:28:09.000Z"
+    },
+    {
+      "merchant": "Spot & Tango",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-28T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6anNZMENiMkU3L0xtMTI2VDkvbFAwUXhIQmNoYTZUQmdIS1EvV0V1STdSRVhldzRXRVNYUkhORDhsdWEvYngxYitSWkF3dTQ2SkJUMnpWcTBDdCtVOUg2OThQcmRDR3JpNHZMUXRBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=spotandtango.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a20e10ec3e9a3b1",
+      "emailDate": "2026-11-24T14:58:39.000Z"
     },
     {
       "merchant": "adidas",
