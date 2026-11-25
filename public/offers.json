@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T14:18:36.041Z",
+  "lastUpdated": "2026-11-25T15:18:31.718Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -122,12 +122,12 @@
       "capAmount": null,
       "wasPercent": 4,
       "lastViewed": "November 16",
-      "expiresAt": "2026-11-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZEZOWUZqUnhaNm9ldjEwMVhDcG9nQjkrVUxyNzNaYjQyL3pjL3RHbHZiRVRzQ0dHODFWR2RUOFVQUnhXbDRXdW5JOUxqM3pUb3F5K25XMHJZL2hNT3RLVXg3MzFKUklXWWM4YnVBPT0/runV3dl",
+      "expiresAt": "2026-11-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eHNyVVNYMzQxS2RPaEZZUnlYR3BZTlBNRFZWaXhZT1lEUWl3OHVNMXN4enA0RW8yMWlxWHlobXdmUENFK3U1ZjJzSjZTb3lMdk00bHcvQTJIR3ZvT3U5Z09yb0Jsa09yZ0hFbmx3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a20f44a104a339e",
-      "emailDate": "2026-11-24T20:34:45.000Z"
+      "emailMessageId": "1a21327ebe455b1d",
+      "emailDate": "2026-11-25T14:41:52.000Z"
     },
     {
       "merchant": "SIXT Rent A Car",
@@ -235,11 +235,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TU9ZWCtueUMyTGRsRGZQRVZNTU9CVGFrTUtodVJsM251TUxyZVdFWmVLV2lQSDJDRzVNK1hRS2x2bU0vVUJZbzExcmo3TWhvQ2M3d3dPMVNqQ2k2R2oyRDZxZUo3RFlrR3RTeURRPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RGFxenJWYzZ1WExxdWhaalRDSEcwejEzQ3gvUG5oQndBbGhubjI2bnR2Skk3bG1ob3V4RlkzRSt4cTFlYmFVVDQ2Rlo4eEwwR01TTTJlcjhlL1NYMkU5a0IweUpWd0R0VDZPZCtnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dickssportinggoods.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a21213266b4e126",
-      "emailDate": "2026-11-25T09:39:34.000Z"
+      "emailMessageId": "1a21327ebe455b1d",
+      "emailDate": "2026-11-25T14:41:52.000Z"
     },
     {
       "merchant": "Petco",
@@ -424,18 +424,18 @@
       "emailDate": "2026-11-24T00:21:13.000Z"
     },
     {
-      "merchant": "Best Buy",
-      "percentBack": 10.5,
+      "merchant": "LG Electronics",
+      "percentBack": 10,
       "dollarBack": null,
       "capAmount": null,
-      "wasPercent": 1,
+      "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-11-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OUFrbWV1YmpnZk04MC9hbWhFN1FXdWFqa1ZLZ3pBaEloUDFLc3luQUtsdUEvZm8yeU9sbElILzAyQ0tqYjMrU0V0T1kyM1I3Ykg0ZVQzQWowZG1sR2JyRTBlRnAyR2VaOW5PdUxBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bestbuy.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "expiresAt": "2026-11-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bFR1dXpLMWhZMno3ektzNDgrU09IZTU0dVJYbWEyaUtLc1FiaUh0bTNScndpb1ZMZnRVblhrOFE3Wk82dEdhdTNJZWNPNStRek9RUlV3WnRGWFByV0Z0dENJNVJoSkhsMCtTcVV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lg.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a20d6d60c04fc88",
-      "emailDate": "2026-11-24T12:00:01.000Z"
+      "emailMessageId": "1a21327ebe455b1d",
+      "emailDate": "2026-11-25T14:41:52.000Z"
     },
     {
       "merchant": "Polynesian Cultural Center",
@@ -522,6 +522,20 @@
       "emailDate": "2026-11-24T12:00:01.000Z"
     },
     {
+      "merchant": "Best Buy",
+      "percentBack": 8,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Y0lPajFsMzFBMW9Hclp4TVJhTStiNlRraGVUTkNoK3MzZ0VDOTZsZFVyNERsamVhVmlaVzNPVXNHTXQ5UjJkRHBmVVZueXdvc2dhWW56V2Z2eEV2dWJYMTZIeEpNcHY3aHhsUHJ3PT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/06ba969a8a0ac85dec5bb858.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a21327ebe455b1d",
+      "emailDate": "2026-11-25T14:41:52.000Z"
+    },
+    {
       "merchant": "Marriott",
       "percentBack": 8,
       "dollarBack": null,
@@ -534,6 +548,20 @@
       "source": "single-use",
       "emailMessageId": "1a20e771ae6c8f3d",
       "emailDate": "2026-11-24T16:50:15.000Z"
+    },
+    {
+      "merchant": "Office Depot",
+      "percentBack": 7.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-11-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cm56MWR1ekZRVkYxR3BReGVjOE85N1BubDBFTlVDYWE2REx0aXJkdUY0eXA5VjI0WHkydFh4dVBINmYwejZTenhQY2NFMFhpNmJBWGVkRTAzNFVYQjRxWnMyb3VadEpBVGRzNVJnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=officedepot.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a21327ebe455b1d",
+      "emailDate": "2026-11-25T14:41:52.000Z"
     },
     {
       "merchant": "Spot & Tango",
@@ -618,6 +646,20 @@
       "source": "single-use",
       "emailMessageId": "1a2028125da47639",
       "emailDate": "2026-11-22T09:05:46.000Z"
+    },
+    {
+      "merchant": "Lowe's",
+      "percentBack": 3.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cnl6NXJkbVVmOTBiM0REb0JRVHlhTnJUVExvaWlJMExoMC95dkdiZ0p0Q3N0VjlwVUt0WWx5N1N0QjBFNEdyZVhwSmprZmNTM2IxUVVMOEZZbFNDN05EQXNUcUdvK3BZanE5UXNnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lowes.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a21327ebe455b1d",
+      "emailDate": "2026-11-25T14:41:52.000Z"
     },
     {
       "merchant": "Stearns and Foster",
