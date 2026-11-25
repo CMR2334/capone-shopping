@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-11-25T19:18:39.776Z",
+  "lastUpdated": "2026-11-25T20:18:35.918Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
+    {
+      "merchant": "Life Extension",
+      "percentBack": 50,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": null,
+      "expiresAt": "2026-11-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MWFqeFl6ZHd6a2FqTTcraDNmeVhzUGphc284WWNCQ0FMcUUxWnJXQk5KckxFaFpWWXpNQUlJVVVIVGlnZE1XSnJWMFNtSDE2Ri94bG1iRWtVblB2Mi9KckN2dEpjN2Y2aFJINy93PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=lifeextension.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a214354ab037e7b",
+      "emailDate": "2026-11-25T19:36:06.000Z"
+    },
     {
       "merchant": "The Honest Kitchen",
       "percentBack": 43.5,
@@ -44,6 +58,34 @@
       "source": "single-use",
       "emailMessageId": "1a2028125da47639",
       "emailDate": "2026-11-22T09:05:46.000Z"
+    },
+    {
+      "merchant": "Further Food",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6cDRDcXpTTWtDSWorY2JKL0xxWkt0MDVsVWFzNUlzTFhyMHNXdjNsaTFVc0d2Zlo1WVhqWHcwdWFKSGM2ZGI2eVFWMHM5VmZJZmhvUEtjR2Z6MEZOZ2l5QkU4YUJ1UVlUbVJOc2dBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=furtherfood.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a214354ab037e7b",
+      "emailDate": "2026-11-25T19:36:06.000Z"
+    },
+    {
+      "merchant": "Pacifica Beauty",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Z0ZBUnhEYmMrdURBUkpjTUZCMEhDc0JZMWxSd2xEbjZNV3o5WGhTWU8wc3FnSTVwSk9OUFR1N3c2aDdMOGc5djRDQWVTRk1qNytNcThIdHdPcWNzT3Mxb2VWYUxZbmxHMDRiYTN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=pacificabeauty.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a214354ab037e7b",
+      "emailDate": "2026-11-25T19:36:06.000Z"
     },
     {
       "merchant": "Big Bus Tours",
@@ -200,6 +242,20 @@
       "emailDate": "2026-11-24T00:21:13.000Z"
     },
     {
+      "merchant": "Dr. Jart+",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-11-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bE1BcWYvS3FBVWptUGNBWHBBUTg2d3RaSnFWUFFYbjAwMUxQSTZHdStGalJlbjM3UTlOdkg3OHZvMmkxSWRYT0d4ZkRwT2M3UDE3YmlOQVBLZmNzaUZXSTk5eDdZVGhhOTRtdENnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=drjart.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a214354ab037e7b",
+      "emailDate": "2026-11-25T19:36:06.000Z"
+    },
+    {
       "merchant": "Best Western Hotels & Resorts",
       "percentBack": 20,
       "dollarBack": null,
@@ -235,11 +291,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RGFxenJWYzZ1WExxdWhaalRDSEcwejEzQ3gvUG5oQndBbGhubjI2bnR2Skk3bG1ob3V4RlkzRSt4cTFlYmFVVDQ2Rlo4eEwwR01TTTJlcjhlL1NYMkU5a0IweUpWd0R0VDZPZCtnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6N3RMZHM2TDZZa2puUU1OeURGRHFIQXJ1ckl0dzZMYzhKYjhaenJGdkg5eU9jaTVtVFJZSTk1c3pIQUV6czI2L0xMbXdzK3hlT0xqRnRsTmtyQm9QeVJocHgybE1COTRSOWthbmVnPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dickssportinggoods.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a21327ebe455b1d",
-      "emailDate": "2026-11-25T14:41:52.000Z"
+      "emailMessageId": "1a214354ab037e7b",
+      "emailDate": "2026-11-25T19:36:06.000Z"
     },
     {
       "merchant": "Petco",
@@ -268,6 +324,20 @@
       "source": "single-use",
       "emailMessageId": "1a2130f7e4bd6c51",
       "emailDate": "2026-11-25T14:15:11.000Z"
+    },
+    {
+      "merchant": "Dr. Berg",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dTQzWFZES05MYmI4cjdpMXZ1KytOdEZhaEdKYU92R0Y3UWpGbldJd1ZwS0ZrcUxRRGJGUjh4cjB2dndFdDN2WmVQYncrc05aVTFXaTRhSnJQalNjcGZTcE9JOGJqS0xPZHlIc0lBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=drberg.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a214354ab037e7b",
+      "emailDate": "2026-11-25T19:36:06.000Z"
     },
     {
       "merchant": "AirportRentalCars",
@@ -354,6 +424,20 @@
       "emailDate": "2026-11-23T14:44:31.000Z"
     },
     {
+      "merchant": "Rainbow Light",
+      "percentBack": 14,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bUcvWnI4dS9EWjRId2ExM0VDYnlWNGphek1Ld004TmlmRFVEVnhXWUxBTGtQclE1SGI0TCtaNzVhdzJHZ1FTR1JWVFFOSnhkVGJhVlZlcng3NGs1RTlkbHdtR2xRNlpWUXpHQkNRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=rainbowlight.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a214354ab037e7b",
+      "emailDate": "2026-11-25T19:36:06.000Z"
+    },
+    {
       "merchant": "Go City Pass",
       "percentBack": 13,
       "dollarBack": null,
@@ -422,6 +506,20 @@
       "source": "single-use",
       "emailMessageId": "1a20aed9ce22c79e",
       "emailDate": "2026-11-24T00:21:13.000Z"
+    },
+    {
+      "merchant": "iHerb",
+      "percentBack": 11.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-29T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bXBEOGQydVhDcUIxTmJILzFuN01COVJRaERZb1B6VkZCand2cnVQRXJQVVlRRUg0L3NtNTdGb3V5bUtyQlFhSjgxUnpTYkhVSW1saVVrSWNGdHluQndzMWpibTRtZlVhOEFkM29nPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=iherb.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a214354ab037e7b",
+      "emailDate": "2026-11-25T19:36:06.000Z"
     },
     {
       "merchant": "LG Electronics",
