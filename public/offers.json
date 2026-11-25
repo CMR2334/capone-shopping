@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T13:18:31.974Z",
+  "lastUpdated": "2026-11-25T14:18:36.041Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -256,6 +256,20 @@
       "emailDate": "2026-11-24T20:09:30.000Z"
     },
     {
+      "merchant": "Chewy",
+      "percentBack": 15.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-29T07:00:00.000Z",
+      "activationUrl": null,
+      "logoUrl": null,
+      "source": "single-use",
+      "emailMessageId": "1a2130f7e4bd6c51",
+      "emailDate": "2026-11-25T14:15:11.000Z"
+    },
+    {
       "merchant": "AirportRentalCars",
       "percentBack": 15,
       "dollarBack": null,
@@ -506,20 +520,6 @@
       "source": "single-use",
       "emailMessageId": "1a20d6d60c04fc88",
       "emailDate": "2026-11-24T12:00:01.000Z"
-    },
-    {
-      "merchant": "Chewy",
-      "percentBack": 8.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-27T07:00:00.000Z",
-      "activationUrl": null,
-      "logoUrl": null,
-      "source": "single-use",
-      "emailMessageId": "1a2074e5db67eb7a",
-      "emailDate": "2026-11-23T07:28:24.000Z"
     },
     {
       "merchant": "Marriott",
