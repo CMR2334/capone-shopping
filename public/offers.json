@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T06:17:38.835Z",
+  "lastUpdated": "2026-11-26T07:17:38.115Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -44,20 +44,6 @@
       "source": "single-use",
       "emailMessageId": "1a209b7c4d8667ab",
       "emailDate": "2026-11-23T18:42:47.000Z"
-    },
-    {
-      "merchant": "GetYourGuide",
-      "percentBack": 32,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 3,
-      "lastViewed": null,
-      "expiresAt": "2026-11-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6SVRwS2JmdytiYUJMcmxVL2VBclZLeXdWcytrbEtxeGNNSzIxUlZ0SkZuRW9IQUx5eEl1bmtiUWxWWjVjdFFPRXZVSnVKd1dnVXpOTGtEUEJZcitMTVNicmhrK2hMMENtVnF3MU9BPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=getyourguide.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a2028125da47639",
-      "emailDate": "2026-11-22T09:05:46.000Z"
     },
     {
       "merchant": "Ekster",
@@ -296,20 +282,6 @@
       "source": "single-use",
       "emailMessageId": "1a20d6d60c04fc88",
       "emailDate": "2026-11-24T12:00:01.000Z"
-    },
-    {
-      "merchant": "DICK'S Sporting Goods",
-      "percentBack": 19.5,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": null,
-      "lastViewed": null,
-      "expiresAt": "2026-11-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RU12eVN0N3JjOWQ4TVgzMmQvRzkybEFYTWYvTkR5bnRONDhxNDB1bTlJd2doVHZHNEpDYmJHa21kaWNZR3RWYUdDSVpOQlIva0pSdDZiL3ZuRmt0YVJvME9JMkVpZnhDbzl3VHRRPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dickssportinggoods.com&width=300",
-      "source": "todays-top",
-      "emailMessageId": "1a2146c43fb5acdf",
-      "emailDate": "2026-11-25T20:36:08.000Z"
     },
     {
       "merchant": "Petco",
@@ -578,6 +550,20 @@
       "emailDate": "2026-11-25T19:36:06.000Z"
     },
     {
+      "merchant": "DICK'S Sporting Goods",
+      "percentBack": 11.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eDM2YlVSSUp4TU1MRXlqc1JhNGNpMEo0S1hvY3lvd0xSL25kK3pGN2ZRV09GTUs1YjB3bmhWZW9SSjNiK1VGOVorMDlHRlBmRm15Qk44cVJxR1BJVXFZTEkxWVB2dFR0MlFybHdRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dickssportinggoods.com&fallback=true&opaque=true&type=cropped&width=500",
+      "source": "single-use",
+      "emailMessageId": "1a20aed9ce22c79e",
+      "emailDate": "2026-11-24T00:21:13.000Z"
+    },
+    {
       "merchant": "Twelve South",
       "percentBack": 11,
       "dollarBack": null,
@@ -828,20 +814,6 @@
       "source": "single-use",
       "emailMessageId": "1a20aed9ce22c79e",
       "emailDate": "2026-11-24T00:21:13.000Z"
-    },
-    {
-      "merchant": "Princess Cruises",
-      "percentBack": 6,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 0.5,
-      "lastViewed": null,
-      "expiresAt": "2026-11-26T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6a0xydnYzRlJxcUtkOVQyM09JNlZKT2Rnbld4c281aThQWWpuTHdUcWcyZXNPNlZJNlBoKzZDcjBMbG9STjlybjdpbitWbUhudklTKy9CYnpaMkU2YythaCsrdHdQOTU4NmlpdmNBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=princess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a2028125da47639",
-      "emailDate": "2026-11-22T09:05:46.000Z"
     },
     {
       "merchant": "Lowe's",
