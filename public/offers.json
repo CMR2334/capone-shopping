@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T15:17:38.472Z",
+  "lastUpdated": "2026-11-26T16:17:49.316Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -158,20 +158,6 @@
       "emailDate": "2026-11-23T14:44:31.000Z"
     },
     {
-      "merchant": "Viator, a Tripadvisor company",
-      "percentBack": 25,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 4,
-      "lastViewed": "November 16",
-      "expiresAt": "2026-11-29T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eHNyVVNYMzQxS2RPaEZZUnlYR3BZTlBNRFZWaXhZT1lEUWl3OHVNMXN4enA0RW8yMWlxWHlobXdmUENFK3U1ZjJzSjZTb3lMdk00bHcvQTJIR3ZvT3U5Z09yb0Jsa09yZ0hFbmx3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a21327ebe455b1d",
-      "emailDate": "2026-11-25T14:41:52.000Z"
-    },
-    {
       "merchant": "SIXT Rent A Car",
       "percentBack": 25,
       "dollarBack": null,
@@ -220,12 +206,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-11-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6aW9rMzB5TENBWHpRNkljeGxOMGY2MndlTk1TS041ZEJ5RkNnajh1WmJSWHk3NDNwNXNIdUs3OVdCcnhJQVpVM21QYU9kTENYc3dXdWp5emZ2VUlmQUhicE1yZllVZ1NJN3hic2NnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ebay.com&width=500&fallback=true&type=cropped&opaque=true",
+      "expiresAt": "2026-11-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OG1UQ01YRnpRaDBPdTVobnNyTitDcGtPaXZNVHAwenM0a3BBaS9ldGN5T1JKTXZxWHpQNzVRcUV6MlpUbXZ6Y2NiNmF2RHNCSkVjc0hvVjh6NXh4VUp3cmczd2tQRDJJWE0yajlnPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoebay.com,skQ6yPmWcFHGuimD0UztqwxQ35_Sb7p5LDXyzJD3SrYI/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/32f96f4627372bf252f61588.jpeg",
       "source": "single-use",
-      "emailMessageId": "1a20d6d60c04fc88",
-      "emailDate": "2026-11-24T12:00:01.000Z"
+      "emailMessageId": "1a218928dcfdd38e",
+      "emailDate": "2026-11-26T15:56:26.000Z"
     },
     {
       "merchant": "L.L.Bean",
@@ -310,6 +296,34 @@
       "source": "single-use",
       "emailMessageId": "1a2130f7e4bd6c51",
       "emailDate": "2026-11-25T14:15:11.000Z"
+    },
+    {
+      "merchant": "Viator, a Tripadvisor company",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 4,
+      "lastViewed": "November 16",
+      "expiresAt": "2026-11-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6emc4YWg2a01rOUxneUMxVWdhbEtGbmtRTzJOU0szb1kzQUMyVDlBZVZoVXByYzFzU2pScndpWm51MFRTZTlaeFd5R1RiOVNLd21RSlI0elpRS0VrSEhmbkNkb2FIMnpmZVVEbHN3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a218928dcfdd38e",
+      "emailDate": "2026-11-26T15:56:26.000Z"
+    },
+    {
+      "merchant": "Saks Fifth Avenue",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-11-27T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dkhqZ0N5TUJ6SFRobGJ2RTBaaEpTNEVxY1RoVlAyTGxhY0FmcHFubkx0WEFlWnpGd1c4MVlna0I0VG1nbnVVZTNuMHBBdjk1cVdjZFZmQTVQSjAwKzNGbFdtQ3pLdGNjenZPM3d3PT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/saksfifthavenue.com/9756459c-9536-4a58-a2c1-339c9e70533c.gif",
+      "source": "todays-top",
+      "emailMessageId": "1a218928dcfdd38e",
+      "emailDate": "2026-11-26T15:56:26.000Z"
     },
     {
       "merchant": "Bellroy",
@@ -578,6 +592,20 @@
       "emailDate": "2026-11-25T20:36:08.000Z"
     },
     {
+      "merchant": "Blue Apron",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-11-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OW5kOCtMbWRYNzRzLytxYWNmT0hscUFhTEJZVUVhVnBLVjY2TGRpZDdRc2dKdURERkt5VXJ4SE1SMTEwUHd4bzlaS2lNWVVhSDU2dERVYzNrMVdCZUJ6ZEh2bW5vQW1tczlqVFZ3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=blueapron.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a218928dcfdd38e",
+      "emailDate": "2026-11-26T15:56:26.000Z"
+    },
+    {
       "merchant": "NOMAD Goods",
       "percentBack": 10,
       "dollarBack": null,
@@ -618,20 +646,6 @@
       "source": "single-use",
       "emailMessageId": "1a21213266b4e126",
       "emailDate": "2026-11-25T09:39:34.000Z"
-    },
-    {
-      "merchant": "Blue Apron",
-      "percentBack": 10,
-      "dollarBack": null,
-      "capAmount": null,
-      "wasPercent": 2,
-      "lastViewed": null,
-      "expiresAt": "2026-11-27T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6R0p1WkJxWnpITFdUdjFKcDRZM1ZxSkpBb0E2S0lmc0g4Q0w1bXdxUVk4N2hqU05pcDRpOGJBc1VlTXQvVHVsWjdxRXNZd2l6cEE5OHE5cmpzN0xSRVNjU3dyWDZvc0NaRHJjT2ZBPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=blueapron.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
-      "source": "single-use",
-      "emailMessageId": "1a209468bf9cd8cd",
-      "emailDate": "2026-11-23T16:39:07.000Z"
     },
     {
       "merchant": "Walmart",
@@ -961,13 +975,13 @@
       "dollarBack": 50,
       "capAmount": null,
       "wasPercent": null,
-      "lastViewed": "November 7",
-      "expiresAt": "2026-11-27T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dmczR2M5U3JnZ01XclMzVVZ3RURzN2ZiM2NUTnRaQmlYSGRkTVp2WnZWVGRtYU1MeGdXZWNkR1MxN2hoOHBxa2R6QURtR2VDR3NzbVVpd1BiUGV1QzlraEhDeWdoazNrbW5LejZ3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=ubereats.com&width=500&fallback=true&type=cropped&opaque=true",
+      "lastViewed": null,
+      "expiresAt": "2026-11-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6a3o0NDVvN0VyTkpvOTRwRTVxQ2FGVG5WbUNmeWNiQ0MydWdKZ0xWNGVPUWsyUEl0MVpXWXcxaUtqOHg4cWw5RW1LeXpMaUM3cTNpSWN2SjdhQkN4NmxFeXNaL0RHb1lCR004bG93PT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/MTQ4eDE0OCxsb2dvdWJlcmVhdHMuY29tLHNMaURBNEViY0VkUVdFcjc5U0cxMEVhSlQ5V05kcWpMbUxzTVNERUpSM2trL2h0dHBzOi8vdGItc3RhdGljLnViZXIuY29tL3Byb2Qvd2ViLWVhdHMtdjIvb3Blbi1ncmFwaC91YmVyLWVhdHMuanBn",
       "source": "single-use",
-      "emailMessageId": "1a209468bf9cd8cd",
-      "emailDate": "2026-11-23T16:39:07.000Z"
+      "emailMessageId": "1a218928dcfdd38e",
+      "emailDate": "2026-11-26T15:56:26.000Z"
     }
   ],
   "upcomingReveals": []
