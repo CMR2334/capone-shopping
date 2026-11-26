@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T16:17:49.316Z",
+  "lastUpdated": "2026-11-26T17:17:46.425Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -207,11 +207,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-30T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6OG1UQ01YRnpRaDBPdTVobnNyTitDcGtPaXZNVHAwenM0a3BBaS9ldGN5T1JKTXZxWHpQNzVRcUV6MlpUbXZ6Y2NiNmF2RHNCSkVjc0hvVjh6NXh4VUp3cmczd2tQRDJJWE0yajlnPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6RU4xMnpEakxEQldhS2s3aWovTXFaQ1VoMk9uRWpnbFZESHRJWDhlcm9oUWtzZjdnRFZaWmdDNXhrSlo2c2h0UXVIR1hrR25HY2FDY3hBT2FwaDg4TVlKY0VtSzJwZmhlZ0s2QWdnPT0/runV3dl",
       "logoUrl": "https://i.capitaloneshopping.com/570x236,logoebay.com,skQ6yPmWcFHGuimD0UztqwxQ35_Sb7p5LDXyzJD3SrYI/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/32f96f4627372bf252f61588.jpeg",
       "source": "single-use",
-      "emailMessageId": "1a218928dcfdd38e",
-      "emailDate": "2026-11-26T15:56:26.000Z"
+      "emailMessageId": "1a218bf8bc7f92a9",
+      "emailDate": "2026-11-26T16:45:35.000Z"
     },
     {
       "merchant": "L.L.Bean",
@@ -302,14 +302,14 @@
       "percentBack": 15,
       "dollarBack": null,
       "capAmount": null,
-      "wasPercent": 4,
-      "lastViewed": "November 16",
+      "wasPercent": null,
+      "lastViewed": null,
       "expiresAt": "2026-11-30T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6emc4YWg2a01rOUxneUMxVWdhbEtGbmtRTzJOU0szb1kzQUMyVDlBZVZoVXByYzFzU2pScndpWm51MFRTZTlaeFd5R1RiOVNLd21RSlI0elpRS0VrSEhmbkNkb2FIMnpmZVVEbHN3PT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dTdqalNTc3YycUIvclhmWGRXYUdJQmJIMWFMY01JcDVjUjVmS25JZG9jYjFrb01BWFpRRVBqMUJBOWRrUnVybEpZdStXRDR0K2hVbVhkQUsvSlJTZzEyaEVtcnNXWmV3RURyeG1RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=viator.com&width=500&fallback=true&type=cropped&opaque=true",
       "source": "single-use",
-      "emailMessageId": "1a218928dcfdd38e",
-      "emailDate": "2026-11-26T15:56:26.000Z"
+      "emailMessageId": "1a218bf8bc7f92a9",
+      "emailDate": "2026-11-26T16:45:35.000Z"
     },
     {
       "merchant": "Saks Fifth Avenue",
@@ -319,11 +319,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-27T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dkhqZ0N5TUJ6SFRobGJ2RTBaaEpTNEVxY1RoVlAyTGxhY0FmcHFubkx0WEFlWnpGd1c4MVlna0I0VG1nbnVVZTNuMHBBdjk1cVdjZFZmQTVQSjAwKzNGbFdtQ3pLdGNjenZPM3d3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6NDFzakgzc24yenVPT1krUUdKUFpPK0NibVFjRk1iYkpLakNGWngrTVFOWm13MWxhZXFSKytTSUQ4OHhVNVV5M2sySHk3eXdkb2NYc0Z2Mnc2VG40aUlTekpJUUlTN3BXYS9qK21BPT0/runV3dl",
       "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/dynamic-assets/saksfifthavenue.com/9756459c-9536-4a58-a2c1-339c9e70533c.gif",
       "source": "todays-top",
-      "emailMessageId": "1a218928dcfdd38e",
-      "emailDate": "2026-11-26T15:56:26.000Z"
+      "emailMessageId": "1a218bf8bc7f92a9",
+      "emailDate": "2026-11-26T16:45:35.000Z"
     },
     {
       "merchant": "Bellroy",
@@ -472,12 +472,12 @@
       "capAmount": null,
       "wasPercent": null,
       "lastViewed": null,
-      "expiresAt": "2026-11-29T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Ykczd2lhWHlIOEhPaGVQUzNrWnBwNko2eVpmcDJTTlRqVWxlOVdnaWI1aTh6eE9Hc0FEMzdxZTNoRHJ6aHJTQTdHZXQyR2hBYVJJbFJTUTNDQ0ZkS0t1djFMRmh0bDR5WStsbVpRPT0/runV3dl",
+      "expiresAt": "2026-11-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6c2xpdFdIWWxQZkhsN1JXbXpwbWpkdUF0alUrYzRlWTMzVi9jd1piTlNOMVdlUW5WdE0rUUlnazhlWncwQ29zaEFwa0NWc295VFBzT2pmQll5VHVDV2xaamlMWXlSMVhDVFR0c2xBPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=gocity.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
       "source": "single-use",
-      "emailMessageId": "1a21213266b4e126",
-      "emailDate": "2026-11-25T09:39:34.000Z"
+      "emailMessageId": "1a218bf8bc7f92a9",
+      "emailDate": "2026-11-26T16:45:35.000Z"
     },
     {
       "merchant": "Zesty Paws",
@@ -828,6 +828,20 @@
       "source": "single-use",
       "emailMessageId": "1a20aed9ce22c79e",
       "emailDate": "2026-11-24T00:21:13.000Z"
+    },
+    {
+      "merchant": "Princess Cruises",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 0.5,
+      "lastViewed": null,
+      "expiresAt": "2026-11-30T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6a1dYcmZIYmZTZVVFM2lNMU1WZHlsb3ZWVUZBekJFOUZkbnZEL1djMVBMZkorN254a2pGVjg5aUhOUDdQVVc3U1dsckFKY1dGa1g1NXY2Q25MZHZuUUpjTnpmeENCZllrSFVNU1lBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=princess.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a218bf8bc7f92a9",
+      "emailDate": "2026-11-26T16:45:35.000Z"
     },
     {
       "merchant": "Lowe's",
