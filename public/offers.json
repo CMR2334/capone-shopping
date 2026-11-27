@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T16:18:03.356Z",
+  "lastUpdated": "2026-11-27T17:17:56.847Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -151,11 +151,25 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6QUdKMnp0UUQ3Zkh6YXZuYTA1dytOcFpsdDhiT2h4TnY0OUNTUEtxY2EvcElNbTdISlJSamZ0R2k1RHJ5NE5DUlNnSndQZXUwMkNtYlpGQzVZeExOSFU5WHp5WFpSNnh2c1NxM3JnPT0/runV3dl",
-      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walmart.com&width=500&fallback=true&type=cropped&opaque=true",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6L3hIdksyZ3BkOWhMZUYxeVdwSVd5R1YwTE9pdXZmVFpWcWhId3FVRy9DdHd6ZHNYS3pQMzBFVnFDczFFUUoyd2tIU201MG52RU5mWTU5YWxsN3pJZkE2a2FCSFkvWWU3N1pEOCtRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walmart.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a21cea6fdba47a4",
-      "emailDate": "2026-11-27T12:10:54.000Z"
+      "emailMessageId": "1a21ded0769e259e",
+      "emailDate": "2026-11-27T16:53:22.000Z"
+    },
+    {
+      "merchant": "PetCareRx",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-12-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6Uml3eWtQRkxjVXU3bzFlbisyUHZ6T0xYRERwYlVSTGFjZ0k0M0N0NldFT0pLb3MybzRJdmFwRVAxTXJsSmc2ckVkMXhVYVFkZFFRK0ZPMWFPeWRFVFlSeVpORWVGYlQwQUgzb3ZnPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petcarerx.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a21ded0769e259e",
+      "emailDate": "2026-11-27T16:53:22.000Z"
     },
     {
       "merchant": "Dr. Jart+",
@@ -214,6 +228,20 @@
       "emailDate": "2026-11-24T20:09:30.000Z"
     },
     {
+      "merchant": "PetSmart",
+      "percentBack": 15.5,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-12-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eWc3SWVKNUpxbGNtb3ptcElJcTNFcngwRnBLRWptcVBWb0I4ZHFlTWE3S0tqWFpkOGNXWWFzT1pnK3VMWTNWU0hFeGo0YXZ0VWc5RDNpQ091MkJyYWQyZXdVZkxQSmV6UEY0LzR3PT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/35535e6cebcde031604ebbc0.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a21ded0769e259e",
+      "emailDate": "2026-11-27T16:53:22.000Z"
+    },
+    {
       "merchant": "Chewy",
       "percentBack": 15.5,
       "dollarBack": null,
@@ -226,6 +254,34 @@
       "source": "single-use",
       "emailMessageId": "1a2130f7e4bd6c51",
       "emailDate": "2026-11-25T14:15:11.000Z"
+    },
+    {
+      "merchant": "PetMeds",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 5,
+      "lastViewed": null,
+      "expiresAt": "2026-12-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6WGtJS0JDM1pjbWtoMytTRGNTSWVoYWc2V0lUS2c3WG8wUVRDMTcxblRTWGVDbXZPaFo0aktyUERoSE04ZkJ1NmhJRmh1RXk3SWduUXZUa2t0ck1HNmdJaHdmbGxoQVZrSHJ6QjdRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=1800petmeds.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a21ded0769e259e",
+      "emailDate": "2026-11-27T16:53:22.000Z"
+    },
+    {
+      "merchant": "Zesty Paws",
+      "percentBack": 15,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-12-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6eWFRQVdEamtmZVJ2V2lwMEphdndXM1o4d0p5WUxaallWS1pXcmRzZFprbHBSbUtkU3lzWTJhMkErSXJpRFdWdVkyMzV2VXRDRmRqOUkwZ3RZUXN5WHFkTnBvd0lyMVRyZ0pDcXhBPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=zestypaws.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a21ded0769e259e",
+      "emailDate": "2026-11-27T16:53:22.000Z"
     },
     {
       "merchant": "Viator, a Tripadvisor company",
@@ -660,6 +716,20 @@
       "source": "single-use",
       "emailMessageId": "1a20f44a104a339e",
       "emailDate": "2026-11-24T20:34:45.000Z"
+    },
+    {
+      "merchant": "Pet Supermarket",
+      "percentBack": 2,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-12-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bDJ2ZzNENkVmV1dNaGJTWGNtdy9SYzFEbFFvTi84Z2lRdlpZSG1tZERPbUtHcnB5WllmTU1Ja0cvd2ZUME5VNFdEUzVRaHlGN29yUjk5bTBFb3VNdURyU1RxR2tRdVJpN0QyTWFRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=petsupermarket.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a21ded0769e259e",
+      "emailDate": "2026-11-27T16:53:22.000Z"
     },
     {
       "merchant": "Target",
