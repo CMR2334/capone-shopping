@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-28T01:18:41.471Z",
+  "lastUpdated": "2026-11-28T02:18:44.683Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -44,6 +44,20 @@
       "source": "single-use",
       "emailMessageId": "1a20e10ec3e9a3b1",
       "emailDate": "2026-11-24T14:58:39.000Z"
+    },
+    {
+      "merchant": "GNC",
+      "percentBack": 32,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-12-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6MktPSlB1NVZSSjRkZVFaUzUvMWxwTFBaN05KK0R6QzFMUGIzNjBkMDJoek5QMzU4cUV4a20vNzI5ZkhLMGY0NVRPOHgwdkJNemlXcDhZcmNaVHNwSEI5c3AwV3F6VFd3enFKUTFnPT0/runV3dl",
+      "logoUrl": "https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1794581297740.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a21fcdf40ac5d62",
+      "emailDate": "2026-11-28T01:38:40.000Z"
     },
     {
       "merchant": "Dyson",
@@ -249,11 +263,11 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZG50VlRaWGZDbVdmaFNrSkx5NXJqT0VyY094ZHZ6dUNiTHp4aUJMRERZbUFmWjJ5WnJwMHhJZGVDYVpqVm5Sa081ODVQb1RyN09mcm1OeEJhSyt3aUVEOEwrK3dRZC9nT1AzOE9RPT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UHZxaU8ydmE0V2FXcmRBL0hRbS9uaElIeDRMaXgrdkZSQkhHWWJ0eGVOZWRZdzZvT1c0eU1hZkxIVHBpMjlBcDNzREFpeVJYNWRLdHBlUFlJbUdUdFdzYzVOWW9iay95enhhRFJ3PT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walmart.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a21f7f36ab12218",
-      "emailDate": "2026-11-28T00:12:40.000Z"
+      "emailMessageId": "1a21fcdf40ac5d62",
+      "emailDate": "2026-11-28T01:38:40.000Z"
     },
     {
       "merchant": "Bloomingdale's",
