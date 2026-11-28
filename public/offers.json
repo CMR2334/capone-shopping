@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T23:18:43.115Z",
+  "lastUpdated": "2026-11-28T00:18:38.991Z",
   "sourceCount": 100,
   "parseFailures": 0,
   "offers": [
@@ -58,6 +58,20 @@
       "source": "single-use",
       "emailMessageId": "1a21ea7e71d3c9f6",
       "emailDate": "2026-11-27T20:17:29.000Z"
+    },
+    {
+      "merchant": "Dermaflash",
+      "percentBack": 30,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-12-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UEZBbXJ4VTZUMHpkZ3hCdzJmYzFncmJYbHJVU2dRRGwxSVRNUmhXYXNjT2NOTmsyc0FremptOFR0QUZSWFlXWXdIRFFwUVlCUllaV21jc0Z1MWtoQ0R4aDBRSGw5bC9aZlpEVEV3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=dermaflash.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a21f7f36ab12218",
+      "emailDate": "2026-11-28T00:12:40.000Z"
     },
     {
       "merchant": "Serta",
@@ -172,6 +186,20 @@
       "emailDate": "2026-11-24T14:58:39.000Z"
     },
     {
+      "merchant": "NARS Cosmetics",
+      "percentBack": 25,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-12-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6bDhCclBpYTVLN1dQemFiMnViKzFIblVaaWh5K1J2SHJCRWhXTFJIR0M0ZmtaMTFNRC9rR2hycUY3MmgzVVVDL2JxalF1cTJoRTYrbWRyUTl4SGZTdVd4UmtEN013ZGZsLzF5TTRRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=narscosmetics.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a21f7f36ab12218",
+      "emailDate": "2026-11-28T00:12:40.000Z"
+    },
+    {
       "merchant": "SIXT Rent A Car",
       "percentBack": 25,
       "dollarBack": null,
@@ -221,11 +249,39 @@
       "wasPercent": null,
       "lastViewed": null,
       "expiresAt": "2026-11-28T07:00:00.000Z",
-      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6dlQrUDZyTHBGTktlNTBPTGY0bDJkK05OYUhtTEtJNXBFalkzRHNxc3dyTGpVRnpvb0dpNGt1VFYyRFh4UUFSMmNsV2ZFWFdBSDlITlRyZ2F3Yk43T1lkckZQam9tamVnUUZzU0h3PT0/runV3dl",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6ZG50VlRaWGZDbVdmaFNrSkx5NXJqT0VyY094ZHZ6dUNiTHp4aUJMRERZbUFmWjJ5WnJwMHhJZGVDYVpqVm5Sa081ODVQb1RyN09mcm1OeEJhSyt3aUVEOEwrK3dRZC9nT1AzOE9RPT0/runV3dl",
       "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=walmart.com&width=300",
       "source": "todays-top",
-      "emailMessageId": "1a21ea7e71d3c9f6",
-      "emailDate": "2026-11-27T20:17:29.000Z"
+      "emailMessageId": "1a21f7f36ab12218",
+      "emailDate": "2026-11-28T00:12:40.000Z"
+    },
+    {
+      "merchant": "Bloomingdale's",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 2,
+      "lastViewed": null,
+      "expiresAt": "2026-12-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TG9tbldPWHJQYUtzbks0TFpwd05iWFZTZFVhM0xIT1BZSHJRYmhZc0RyMTJDd0picloxaEdzd0xMTFgvSnVISVUvbWpvbUhRUHY5WWoySzFjeER3OTJsbmFMa1lEZWRyeDFnUU1RPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=bloomingdales.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a21f7f36ab12218",
+      "emailDate": "2026-11-28T00:12:40.000Z"
+    },
+    {
+      "merchant": "Furla",
+      "percentBack": 20,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-12-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6VHY2djl5UWVETmI4NFA1aHdCb0VqZzlOWnA5bFRlQzVsTjVkbHIyUjFpSmJIZjdrdDNyQSs4bkxDcXM0UDVXdVpvMFhtMmdHRGwzWVVmRURnajFmUVJOYmQzSFNQU21XU291UkdRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=furla.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a21f7f36ab12218",
+      "emailDate": "2026-11-28T00:12:40.000Z"
     },
     {
       "merchant": "PetCareRx",
@@ -606,6 +662,20 @@
       "emailDate": "2026-11-25T19:36:06.000Z"
     },
     {
+      "merchant": "Harrods",
+      "percentBack": 11,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": null,
+      "lastViewed": null,
+      "expiresAt": "2026-12-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6UzFySTVHMnlyZGx4ci9qSlJBa3VBTWVCUWg2NDhKdWwrMzFhdlk1ZlJ1V2NrbWF0eVV1UDJFbTgrNEx5ekkxVVF5MEF4WXVpakRvZzVDYW5Fd2I0SnNKUHZULzBuaURVZkNLd0tBPT0/runV3dl",
+      "logoUrl": "https://i.capitaloneshopping.com/570x236,logoharrods.com,sp7Cg16lfIyjqnbkLn9_Bgg0e-XDKQh-ZbEL07roe8Dk/https://cdn.capitaloneshopping.com/wikibuy-assets/images/upload_content/1794855550110.jpeg",
+      "source": "single-use",
+      "emailMessageId": "1a21f7f36ab12218",
+      "emailDate": "2026-11-28T00:12:40.000Z"
+    },
+    {
       "merchant": "Twelve South",
       "percentBack": 11,
       "dollarBack": null,
@@ -618,6 +688,20 @@
       "source": "single-use",
       "emailMessageId": "1a2146c43fb5acdf",
       "emailDate": "2026-11-25T20:36:08.000Z"
+    },
+    {
+      "merchant": "Selfridges & Co.",
+      "percentBack": 10,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 3,
+      "lastViewed": null,
+      "expiresAt": "2026-12-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6emJjSmx2MW04REJXcjNEWEhJZEJTeHplVVJRNUlubE9LekJ6NFlSbDhFaGYybjFCVk10aGRJR3lGV09wd3pKN1A3T1ovbHlEVG5vRkdoTW8xSzZxZDg3czhwUnVDSHFYU1hDazd3PT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=selfridges.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a21f7f36ab12218",
+      "emailDate": "2026-11-28T00:12:40.000Z"
     },
     {
       "merchant": "Blue Apron",
@@ -828,6 +912,20 @@
       "source": "single-use",
       "emailMessageId": "1a20e771ae6c8f3d",
       "emailDate": "2026-11-24T16:50:15.000Z"
+    },
+    {
+      "merchant": "Yves Saint Laurent Beauty",
+      "percentBack": 6,
+      "dollarBack": null,
+      "capAmount": null,
+      "wasPercent": 1,
+      "lastViewed": null,
+      "expiresAt": "2026-12-01T07:00:00.000Z",
+      "activationUrl": "https://capitaloneshopping.com/api/v1/wrapped-link/azI6TlBCNVBoeDdZVDNYQzA5Njc5SmltWkQ0ZFk2YWppV3d5TzA4d2ZEa29ERXJ0bE5wZzN4ZlMzUEtjV3dMUG9NRVhPRGo3dVY2UENqaW1CaTdESlhONFBiOHVwNktIZ0RKYURJR0JRPT0/runV3dl",
+      "logoUrl": "https://images.capitaloneshopping.com/api/v1/logos?domain=yslbeautyus.com&fallback=true&opaque=true&height=180&type=cropped&width=180",
+      "source": "single-use",
+      "emailMessageId": "1a21f7f36ab12218",
+      "emailDate": "2026-11-28T00:12:40.000Z"
     },
     {
       "merchant": "Princess Cruises",
